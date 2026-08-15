@@ -15,7 +15,7 @@
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | QQ 宠物形态桌面宠物：DSH Web 右下角悬浮，可拖拽/投喂/玩耍。 | ✅ 活跃 |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex 风格 @file 提及：在 DSH 输入框中搜索工作区文件并附加内容到提示词。 | ✅ 活跃 |
 
-## 完整列表（138）
+## 完整列表（140）
 
 
 **浏览器控制**
@@ -55,6 +55,7 @@
 | [dsh-remote](https://github.com/flymysql/dsh-remote) | ⭐4 | 远程工作区：SSH 连接远程主机，用 rw_pick_workspace/rw_read_file/rw_exec 等工具远程操作。 | ✅ 活跃 |
 | [weshop-dsh-plugin](https://github.com/weshopai/weshop-dsh-plugin) | ⭐4 | Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills. | ✅ 活跃 |
 | [dsh-calculator](https://github.com/bobcat848/dsh-calculator) | ⭐3 | Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness. | ✅ 活跃 |
+| [dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) | ⭐3 | 统一 LLM 请求/响应检查器：调 reasoning effort、外部思考(think)导出、流量与包分析。 | ✅ 活跃 |
 | [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) | ⭐3 | DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) | ✅ 活跃 |
 | [dsh-plugins-raincode](https://github.com/rainforest888/dsh-plugins-raincode) | ⭐3 | dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览 | ✅ 活跃 |
 | [dsh-usage-plugin](https://github.com/Yihong89/dsh-usage-plugin) | ⭐3 | DeepSeek Harness (DSH) plugins. First: dsh-usage-report — per-session token usage & estimated cost (/usage + usage_report), priced from the DeepSeek pricing table. | ✅ 活跃 |
@@ -153,6 +154,12 @@
 | [URL Manager](https://github.com/Piccolo123/url-manager) | ⭐2 | Agent 优先的 URL 与知识收集系统：自动分类、标签、全文检索与共享收藏。 | ✅ 活跃 |
 | [dsh-web-search-exa](https://github.com/TonyDua/dsh-web-search-exa) | ⭐1 | 零配置 Exa 网页搜索：免密钥匿名 MCP 回退 + API Key REST 搜索。 | ✅ 活跃 |
 | [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin) | – | RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。 | ✅ 活跃 |
+
+**安全**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-guardian](https://github.com/cdxiaodong/dsh-guardian) | ⭐4 | Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。 | ✅ 活跃 |
 
 **界面与体验**
 

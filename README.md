@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | Desktop pet plugin (QQ-pet style) floating at the bottom-right of the DSH Web GUI: draggable, feedable and playable. | ✅ active |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
 
-#### Complete list (138)
+#### Complete list (140)
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,777 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐1,697 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -257,6 +257,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) ⭐5 — Community plugin bundle integrating the Nowledge Mem memory service with DeepSeek Harness. (✅ active)
 - [dsh-cost-plugin](https://github.com/RoxsLee/dsh-cost-plugin) ⭐4 — DSH 费用/余额读数插件：在输入框统计行旁实时显示「本次 ≈¥x · 会话 ≈¥x · 余额 ¥x」，内置 DeepSeek 官方价目表，支持 2026-08-17 起生效的峰谷定价（按节点时间戳自动选档），余额经官方 /user/balance 实时查询，失败静默降级。 (✅ active)
 - [dsh-cue-plugin](https://github.com/unnnnoooo/dsh-cue-plugin) ⭐4 — DeepSeek Harness 的跨会话引用(cue)插件 (✅ active)
+- [dsh-guardian](https://github.com/cdxiaodong/dsh-guardian) ⭐4 — Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. (✅ active)
 - [dsh-input-history](https://github.com/lhh010/dsh-input-history) ⭐4 — Terminal-style input history: Ctrl+Up/Ctrl+Down to recall and switch sent messages. (✅ active)
 - [dsh-pet](https://github.com/PC2005-cloud/dsh-pet) ⭐4 — DeepSeek Harness 桌面宠物插件 + 完整素材生成链：AI 提示词 → 绿幕视频 → 透明动画 → 可安装插件，从零到宠物全流程可复现 (✅ active)
 - [dsh-plugin-anti-ads](https://github.com/HuanLinOTO/dsh-plugin-anti-ads) ⭐4 — DSH Web 广告拦截器，四层独立防御拦截 dsh-ads 插件的所有广告位 | DSH Web ad blocker with four independent defense layers targeting the dsh-ads plugin (✅ active)
@@ -269,6 +270,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [context-vista](https://github.com/GooodWei/context-vista) ⭐3 — Live context/token monitor: floating panel + /context command with donut charts of token usage, allocation and estimated cost. (✅ active)
 - [dsh-builtin-toggles](https://github.com/Starfie1d1272/dsh-builtin-toggles) ⭐3 — Human-readable catalog of official DSH Web built-ins with safe GUI toggles. (✅ active)
 - [dsh-calculator](https://github.com/bobcat848/dsh-calculator) ⭐3 — Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness. (✅ active)
+- [dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) ⭐3 — Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis. (✅ active)
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐3 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) (✅ active)
 - [dsh-plugins-raincode](https://github.com/rainforest888/dsh-plugins-raincode) ⭐3 — dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览 (✅ active)
 - [dsh-token-panel](https://github.com/juhe291/dsh-token-panel) ⭐3 — A corner HUD for DeepSeek Harness that shows your session's token pressure, per-model cost, and daily/monthly usage at a glance — with an editable budget & balance that tracks spending for you. 右下角常驻的 Token 仪表盘：实时查看会话压力、按模型估算花费，预算和余额点一下就能改，每天每月用了多少都有记录。 (✅ active)
@@ -777,7 +779,7 @@ awesome-deepseek-harness/
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | Desktop pet plugin (QQ-pet style) floating at the bottom-right of the DSH Web GUI: draggable, feedable and playable. | ✅ active |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
 
-#### Complete list (138)
+#### Complete list (140)
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,777 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐1,697 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -864,6 +866,7 @@ awesome-deepseek-harness/
 - [nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) ⭐5 — Community plugin bundle integrating the Nowledge Mem memory service with DeepSeek Harness. (✅ active)
 - [dsh-cost-plugin](https://github.com/RoxsLee/dsh-cost-plugin) ⭐4 — DSH 费用/余额读数插件：在输入框统计行旁实时显示「本次 ≈¥x · 会话 ≈¥x · 余额 ¥x」，内置 DeepSeek 官方价目表，支持 2026-08-17 起生效的峰谷定价（按节点时间戳自动选档），余额经官方 /user/balance 实时查询，失败静默降级。 (✅ active)
 - [dsh-cue-plugin](https://github.com/unnnnoooo/dsh-cue-plugin) ⭐4 — DeepSeek Harness 的跨会话引用(cue)插件 (✅ active)
+- [dsh-guardian](https://github.com/cdxiaodong/dsh-guardian) ⭐4 — Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. (✅ active)
 - [dsh-input-history](https://github.com/lhh010/dsh-input-history) ⭐4 — Terminal-style input history: Ctrl+Up/Ctrl+Down to recall and switch sent messages. (✅ active)
 - [dsh-pet](https://github.com/PC2005-cloud/dsh-pet) ⭐4 — DeepSeek Harness 桌面宠物插件 + 完整素材生成链：AI 提示词 → 绿幕视频 → 透明动画 → 可安装插件，从零到宠物全流程可复现 (✅ active)
 - [dsh-plugin-anti-ads](https://github.com/HuanLinOTO/dsh-plugin-anti-ads) ⭐4 — DSH Web 广告拦截器，四层独立防御拦截 dsh-ads 插件的所有广告位 | DSH Web ad blocker with four independent defense layers targeting the dsh-ads plugin (✅ active)
@@ -876,6 +879,7 @@ awesome-deepseek-harness/
 - [context-vista](https://github.com/GooodWei/context-vista) ⭐3 — Live context/token monitor: floating panel + /context command with donut charts of token usage, allocation and estimated cost. (✅ active)
 - [dsh-builtin-toggles](https://github.com/Starfie1d1272/dsh-builtin-toggles) ⭐3 — Human-readable catalog of official DSH Web built-ins with safe GUI toggles. (✅ active)
 - [dsh-calculator](https://github.com/bobcat848/dsh-calculator) ⭐3 — Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness. (✅ active)
+- [dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) ⭐3 — Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis. (✅ active)
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐3 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) (✅ active)
 - [dsh-plugins-raincode](https://github.com/rainforest888/dsh-plugins-raincode) ⭐3 — dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览 (✅ active)
 - [dsh-token-panel](https://github.com/juhe291/dsh-token-panel) ⭐3 — A corner HUD for DeepSeek Harness that shows your session's token pressure, per-model cost, and daily/monthly usage at a glance — with an editable budget & balance that tracks spending for you. 右下角常驻的 Token 仪表盘：实时查看会话压力、按模型估算花费，预算和余额点一下就能改，每天每月用了多少都有记录。 (✅ active)

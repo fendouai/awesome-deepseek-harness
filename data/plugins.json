@@ -2157,5 +2157,35 @@
     "status": "active",
     "verified": false,
     "stars": 12
+  },
+  {
+    "id": "dsh-guardian",
+    "name": "dsh-guardian",
+    "type": "plugin",
+    "category": "security",
+    "repository": "https://github.com/cdxiaodong/dsh-guardian",
+    "description": "Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations.",
+    "description_zh": "Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。",
+    "capabilities": [
+      "security"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
+    "id": "dsh-llm-inspector",
+    "name": "dsh-llm-inspector",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/cdxiaodong/dsh-llm-inspector",
+    "description": "Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis.",
+    "description_zh": "统一 LLM 请求/响应检查器：调 reasoning effort、外部思考(think)导出、流量与包分析。",
+    "capabilities": [
+      "observability"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
   }
 ]

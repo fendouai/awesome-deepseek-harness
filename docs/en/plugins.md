@@ -15,7 +15,7 @@
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | Desktop pet plugin (QQ-pet style) floating at the bottom-right of the DSH Web GUI: draggable, feedable and playable. | ✅ active |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
 
-## Complete list (138)
+## Complete list (140)
 
 
 **Browser control**
@@ -55,6 +55,7 @@
 | [dsh-remote](https://github.com/flymysql/dsh-remote) | ⭐4 | Remote workspace: connect a host over SSH and operate a remote directory with rw_* tools. | ✅ active |
 | [weshop-dsh-plugin](https://github.com/weshopai/weshop-dsh-plugin) | ⭐4 | Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills. | ✅ active |
 | [dsh-calculator](https://github.com/bobcat848/dsh-calculator) | ⭐3 | Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness. | ✅ active |
+| [dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) | ⭐3 | Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis. | ✅ active |
 | [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) | ⭐3 | DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) | ✅ active |
 | [dsh-plugins-raincode](https://github.com/rainforest888/dsh-plugins-raincode) | ⭐3 | dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览 | ✅ active |
 | [dsh-usage-plugin](https://github.com/Yihong89/dsh-usage-plugin) | ⭐3 | DeepSeek Harness (DSH) plugins. First: dsh-usage-report — per-session token usage & estimated cost (/usage + usage_report), priced from the DeepSeek pricing table. | ✅ active |
@@ -153,6 +154,12 @@
 | [URL Manager](https://github.com/Piccolo123/url-manager) | ⭐2 | Agent-first URL and knowledge collection system: auto-categorize, tag, full-text search and shared collections. | ✅ active |
 | [dsh-web-search-exa](https://github.com/TonyDua/dsh-web-search-exa) | ⭐1 | Zero-config Exa web search provider: keyless anonymous MCP fallback plus keyed REST search. | ✅ active |
 | [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin) | – | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
+
+**Security**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-guardian](https://github.com/cdxiaodong/dsh-guardian) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
 
 **UI & experience**
 

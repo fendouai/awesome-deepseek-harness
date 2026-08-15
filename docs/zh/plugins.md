@@ -15,7 +15,7 @@
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | QQ 宠物形态桌面宠物：DSH Web 右下角悬浮，可拖拽/投喂/玩耍。 | ✅ 活跃 |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex 风格 @file 提及：在 DSH 输入框中搜索工作区文件并附加内容到提示词。 | ✅ 活跃 |
 
-## 完整列表（140）
+## 完整列表（141）
 
 
 **浏览器控制**
@@ -142,6 +142,7 @@
 | [dsh-notification](https://github.com/omdsh-dev/dsh-notification) | ⭐37 | 回合完成桌面通知，按结果分控 + 关键词包含/排除过滤。 | ✅ 活跃 |
 | [dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) | ⭐9 | 为 DSH 增加桌面通知提醒。 | ✅ 活跃 |
 | [dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) | ⭐2 | DSH Windows 原生通知，零依赖。 | ✅ 活跃 |
+| [dsh-island](https://github.com/cdxiaodong/dsh-island) | – | 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。 | ✅ 活跃 |
 
 **搜索与研究**
 

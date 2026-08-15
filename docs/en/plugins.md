@@ -15,7 +15,7 @@
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | Desktop pet plugin (QQ-pet style) floating at the bottom-right of the DSH Web GUI: draggable, feedable and playable. | ✅ active |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
 
-## Complete list (140)
+## Complete list (141)
 
 
 **Browser control**
@@ -142,6 +142,7 @@
 | [dsh-notification](https://github.com/omdsh-dev/dsh-notification) | ⭐37 | Desktop notifications for turn completions with per-outcome controls and include/exclude keyword filters. | ✅ active |
 | [dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) | ⭐9 | Adds desktop notification reminders to DSH. | ✅ active |
 | [dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) | ⭐2 | Windows notifications for DSH, zero dependencies. | ✅ active |
+| [dsh-island](https://github.com/cdxiaodong/dsh-island) | – | Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny. | ✅ active |
 
 **Search & research**
 

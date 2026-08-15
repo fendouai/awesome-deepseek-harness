@@ -171,7 +171,7 @@ dsh web
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | QQ 宠物形态桌面宠物：DSH Web 右下角悬浮，可拖拽/投喂/玩耍。 | ✅ 活跃 |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex 风格 @file 提及：在 DSH 输入框中搜索工作区文件并附加内容到提示词。 | ✅ 活跃 |
 
-#### 完整列表（140）
+#### 完整列表（141）
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,777 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐1,697 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -306,6 +306,7 @@ dsh web
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — 从 Web 输入框上传任意本地文件，待传卡片显示，设置页统一管理。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-hud](https://github.com/a903067276-rgb/dsh-hud)  — HUD 状态面板：浮动侧栏展示 git 状态、MCP 服务器、技能、模型与 token 用量。（✅ 活跃）
+- [dsh-island](https://github.com/cdxiaodong/dsh-island)  — 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。（✅ 活跃）
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria)  — 向量 + 图记忆后端：命名空间隔离、自动观察、召回、重要性处理与热重载。（🧪 实验性）
 - [dsh-memory](https://github.com/flymysql/dsh-memory)  — 跨会话记忆库：memory_remember / memory_recall / memory_forget 工具 + 设置页。（🧪 实验性）
 - [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin)  — RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。（✅ 活跃）
@@ -780,7 +781,7 @@ awesome-deepseek-harness/
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | QQ 宠物形态桌面宠物：DSH Web 右下角悬浮，可拖拽/投喂/玩耍。 | ✅ 活跃 |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex 风格 @file 提及：在 DSH 输入框中搜索工作区文件并附加内容到提示词。 | ✅ 活跃 |
 
-#### 完整列表（140）
+#### 完整列表（141）
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,777 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐1,697 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -915,6 +916,7 @@ awesome-deepseek-harness/
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — 从 Web 输入框上传任意本地文件，待传卡片显示，设置页统一管理。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-hud](https://github.com/a903067276-rgb/dsh-hud)  — HUD 状态面板：浮动侧栏展示 git 状态、MCP 服务器、技能、模型与 token 用量。（✅ 活跃）
+- [dsh-island](https://github.com/cdxiaodong/dsh-island)  — 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。（✅ 活跃）
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria)  — 向量 + 图记忆后端：命名空间隔离、自动观察、召回、重要性处理与热重载。（🧪 实验性）
 - [dsh-memory](https://github.com/flymysql/dsh-memory)  — 跨会话记忆库：memory_remember / memory_recall / memory_forget 工具 + 设置页。（🧪 实验性）
 - [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin)  — RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。（✅ 活跃）

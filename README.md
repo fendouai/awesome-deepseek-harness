@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | Desktop pet plugin (QQ-pet style) floating at the bottom-right of the DSH Web GUI: draggable, feedable and playable. | ✅ active |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
 
-#### Complete list (140)
+#### Complete list (141)
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,777 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐1,697 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -305,6 +305,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — Upload arbitrary local files from the Web composer with pending cards, managed in Settings. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-hud](https://github.com/a903067276-rgb/dsh-hud)  — HUD status panel: git status, MCP servers, skills, model and token usage in a floating side panel. (✅ active)
+- [dsh-island](https://github.com/cdxiaodong/dsh-island)  — Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny. (✅ active)
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria)  — Vector + graph memory backend with namespace isolation, automatic observation, recall, importance handling and hot reload. (🧪 experimental)
 - [dsh-memory](https://github.com/flymysql/dsh-memory)  — Cross-session memory vault: memory_remember / memory_recall / memory_forget tools with a Settings page. (🧪 experimental)
 - [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin)  — RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. (✅ active)
@@ -779,7 +780,7 @@ awesome-deepseek-harness/
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | Desktop pet plugin (QQ-pet style) floating at the bottom-right of the DSH Web GUI: draggable, feedable and playable. | ✅ active |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
 
-#### Complete list (140)
+#### Complete list (141)
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,777 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐1,697 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -914,6 +915,7 @@ awesome-deepseek-harness/
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — Upload arbitrary local files from the Web composer with pending cards, managed in Settings. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-hud](https://github.com/a903067276-rgb/dsh-hud)  — HUD status panel: git status, MCP servers, skills, model and token usage in a floating side panel. (✅ active)
+- [dsh-island](https://github.com/cdxiaodong/dsh-island)  — Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny. (✅ active)
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria)  — Vector + graph memory backend with namespace isolation, automatic observation, recall, importance handling and hot reload. (🧪 experimental)
 - [dsh-memory](https://github.com/flymysql/dsh-memory)  — Cross-session memory vault: memory_remember / memory_recall / memory_forget tools with a Settings page. (🧪 experimental)
 - [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin)  — RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. (✅ active)

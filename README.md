@@ -310,6 +310,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git)  — Structured safe Git tools: status/diff/log/branch/stage/commit/stash/show with a destructive-command guard. (✅ active)
 - [dsh-tool-search](https://github.com/vibeinging/dsh-tool-search)  — Per-agent on-demand tool discovery and progressive schema disclosure. (✅ active)
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index)  — Turn-index sidebar: one entry per user turn, click to jump with scroll-spy highlighting. (✅ active)
+- [cdxiaodong/dsh-island](https://github.com/cdxiaodong/dsh-island) - Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny.
 
 ### Skills
 

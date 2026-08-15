@@ -311,6 +311,7 @@ dsh web
 - [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git)  — 结构化安全 Git 工具：status/diff/log/branch/stage/commit/stash/show，带破坏性命令防护。（✅ 活跃）
 - [dsh-tool-search](https://github.com/vibeinging/dsh-tool-search)  — 按 Agent 按需工具发现与渐进式 schema 披露。（✅ 活跃）
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index)  — 回合索引侧栏：每个用户回合一条，点击跳转，滚动监听高亮。（✅ 活跃）
+- [cdxiaodong/dsh-island](https://github.com/cdxiaodong/dsh-island) - 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。
 
 ### Skills
 

@@ -15,7 +15,7 @@
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | Desktop pet plugin (QQ-pet style) floating at the bottom-right of the DSH Web GUI: draggable, feedable and playable. | ✅ active |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
 
-## Complete list (138)
+## Complete list (139)
 
 
 **Browser control**
@@ -153,6 +153,12 @@
 | [URL Manager](https://github.com/Piccolo123/url-manager) | ⭐2 | Agent-first URL and knowledge collection system: auto-categorize, tag, full-text search and shared collections. | ✅ active |
 | [dsh-web-search-exa](https://github.com/TonyDua/dsh-web-search-exa) | ⭐1 | Zero-config Exa web search provider: keyless anonymous MCP fallback plus keyed REST search. | ✅ active |
 | [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin) | – | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
+
+**Security**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) | ⭐3 | Login gateway (password door) for the DSH web UI: first-run setup, multi-user accounts, bcrypt + at-rest encryption, brute-force lockout, audit log, and automatic HTTPS with 80-to-443 redirect. | ✅ active |
 
 **UI & experience**
 

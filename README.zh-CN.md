@@ -171,7 +171,7 @@ dsh web
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | QQ 宠物形态桌面宠物：DSH Web 右下角悬浮，可拖拽/投喂/玩耍。 | ✅ 活跃 |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex 风格 @file 提及：在 DSH 输入框中搜索工作区文件并附加内容到提示词。 | ✅ 活跃 |
 
-#### 完整列表（138）
+#### 完整列表（139）
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,777 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐1,697 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -271,6 +271,7 @@ dsh web
 - [dsh-builtin-toggles](https://github.com/Starfie1d1272/dsh-builtin-toggles) ⭐3 — 官方 DSH Web 内置功能可读目录 + 安全 UI 开关。（✅ 活跃）
 - [dsh-calculator](https://github.com/bobcat848/dsh-calculator) ⭐3 — Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness.（✅ 活跃）
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐3 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布)（✅ 活跃）
+- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐3 — DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、bcrypt + 静态加密、防爆破锁定、审计日志与自动 HTTPS（80 自动跳转 443）。（✅ 活跃）
 - [dsh-plugins-raincode](https://github.com/rainforest888/dsh-plugins-raincode) ⭐3 — dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览（✅ 活跃）
 - [dsh-token-panel](https://github.com/juhe291/dsh-token-panel) ⭐3 — A corner HUD for DeepSeek Harness that shows your session's token pressure, per-model cost, and daily/monthly usage at a glance — with an editable budget & balance that tracks spending for you. 右下角常驻的 Token 仪表盘：实时查看会话压力、按模型估算花费，预算和余额点一下就能改，每天每月用了多少都有记录。（✅ 活跃）
 - [dsh-usage-plugin](https://github.com/Yihong89/dsh-usage-plugin) ⭐3 — DeepSeek Harness (DSH) plugins. First: dsh-usage-report — per-session token usage & estimated cost (/usage + usage_report), priced from the DeepSeek pricing table.（✅ 活跃）
@@ -778,7 +779,7 @@ awesome-deepseek-harness/
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | QQ 宠物形态桌面宠物：DSH Web 右下角悬浮，可拖拽/投喂/玩耍。 | ✅ 活跃 |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex 风格 @file 提及：在 DSH 输入框中搜索工作区文件并附加内容到提示词。 | ✅ 活跃 |
 
-#### 完整列表（138）
+#### 完整列表（139）
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,777 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐1,697 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -878,6 +879,7 @@ awesome-deepseek-harness/
 - [dsh-builtin-toggles](https://github.com/Starfie1d1272/dsh-builtin-toggles) ⭐3 — 官方 DSH Web 内置功能可读目录 + 安全 UI 开关。（✅ 活跃）
 - [dsh-calculator](https://github.com/bobcat848/dsh-calculator) ⭐3 — Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness.（✅ 活跃）
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐3 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布)（✅ 活跃）
+- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐3 — DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、bcrypt + 静态加密、防爆破锁定、审计日志与自动 HTTPS（80 自动跳转 443）。（✅ 活跃）
 - [dsh-plugins-raincode](https://github.com/rainforest888/dsh-plugins-raincode) ⭐3 — dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览（✅ 活跃）
 - [dsh-token-panel](https://github.com/juhe291/dsh-token-panel) ⭐3 — A corner HUD for DeepSeek Harness that shows your session's token pressure, per-model cost, and daily/monthly usage at a glance — with an editable budget & balance that tracks spending for you. 右下角常驻的 Token 仪表盘：实时查看会话压力、按模型估算花费，预算和余额点一下就能改，每天每月用了多少都有记录。（✅ 活跃）
 - [dsh-usage-plugin](https://github.com/Yihong89/dsh-usage-plugin) ⭐3 — DeepSeek Harness (DSH) plugins. First: dsh-usage-report — per-session token usage & estimated cost (/usage + usage_report), priced from the DeepSeek pricing table.（✅ 活跃）

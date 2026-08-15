@@ -15,7 +15,7 @@
 | 9 | [whale-girl](https://github.com/vlln/whale-girl) | ⭐118 | QQ 宠物形态桌面宠物：DSH Web 右下角悬浮，可拖拽/投喂/玩耍。 | ✅ 活跃 |
 | 10 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | ⭐116 | Codex 风格 @file 提及：在 DSH 输入框中搜索工作区文件并附加内容到提示词。 | ✅ 活跃 |
 
-## 完整列表（138）
+## 完整列表（139）
 
 
 **浏览器控制**
@@ -153,6 +153,12 @@
 | [URL Manager](https://github.com/Piccolo123/url-manager) | ⭐2 | Agent 优先的 URL 与知识收集系统：自动分类、标签、全文检索与共享收藏。 | ✅ 活跃 |
 | [dsh-web-search-exa](https://github.com/TonyDua/dsh-web-search-exa) | ⭐1 | 零配置 Exa 网页搜索：免密钥匿名 MCP 回退 + API Key REST 搜索。 | ✅ 活跃 |
 | [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin) | – | RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。 | ✅ 活跃 |
+
+**安全**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) | ⭐3 | DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、bcrypt + 静态加密、防爆破锁定、审计日志与自动 HTTPS（80 自动跳转 443）。 | ✅ 活跃 |
 
 **界面与体验**
 

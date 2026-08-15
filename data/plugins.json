@@ -2157,5 +2157,23 @@
     "status": "active",
     "verified": false,
     "stars": 12
+  },
+  {
+    "id": "dsh-passwords",
+    "name": "dsh-passwords",
+    "type": "plugin",
+    "category": "security",
+    "repository": "https://github.com/slywalker2006/dsh-passwords",
+    "description": "Login gateway (password door) for the DSH web UI: first-run setup, multi-user accounts, bcrypt + at-rest encryption, brute-force lockout, audit log, and automatic HTTPS with 80-to-443 redirect.",
+    "description_zh": "DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、bcrypt + 静态加密、防爆破锁定、审计日志与自动 HTTPS（80 自动跳转 443）。",
+    "capabilities": [
+      "security",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "install": "npm install -g dsh-passwords",
+    "license": "BSD-3-Clause"
   }
 ]

@@ -14,7 +14,11 @@
     ],
     "status": "active",
     "verified": true,
-    "stars": 80001
+    "stars": 80038,
+    "_source_description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 80027,
+    "growth": 11
   },
   {
     "id": "cordis",
@@ -30,7 +34,11 @@
     ],
     "status": "active",
     "verified": true,
-    "stars": 3182
+    "stars": 3780,
+    "_source_description": "Meta-Framework of Spatiotemporal Composability",
+    "_updated": "2026-08-13",
+    "_stars_prev": 3562,
+    "growth": 218
   },
   {
     "id": "sandbase-harness",
@@ -47,7 +55,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 573
+    "stars": 586,
+    "_source_description": "Open-source CMA-compatible agent runtime for any model, with MCP tools, sandboxed sessions, audit, replay, and a local console. Includes a native DeepSeek Harness bundle over stdio MCP.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 580,
+    "growth": 6
   },
   {
     "id": "mnemon",
@@ -63,7 +75,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 430
+    "stars": 449,
+    "_source_description": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 442,
+    "growth": 7
   },
   {
     "id": "claude-paper",
@@ -79,23 +95,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 294
-  },
-  {
-    "id": "axern",
-    "name": "Axern",
-    "type": "related",
-    "category": "harness",
-    "repository": "https://github.com/cofy-x/axern",
-    "description": "Open-source sandboxes for AI agents: untrusted code execution and durable services.",
-    "description_zh": "面向 AI Agent 的开源沙箱：不可信代码执行与持久服务。",
-    "capabilities": [
-      "security",
-      "harness"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 272
+    "stars": 301,
+    "_source_description": "📖 Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DeepSeek Harness—quick summaries, deep study materials, code demos, and a local web viewer.",
+    "_updated": "2026-08-14",
+    "_stars_prev": 294,
+    "growth": 7
   },
   {
     "id": "open-managed-agents",
@@ -111,7 +115,31 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 235
+    "stars": 236,
+    "_source_description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.",
+    "_updated": "2026-08-11",
+    "_stars_prev": 235,
+    "growth": 1
+  },
+  {
+    "id": "axern",
+    "name": "Axern",
+    "type": "related",
+    "category": "harness",
+    "repository": "https://github.com/cofy-x/axern",
+    "description": "Open-source sandboxes for AI agents: untrusted code execution and durable services.",
+    "description_zh": "面向 AI Agent 的开源沙箱：不可信代码执行与持久服务。",
+    "capabilities": [
+      "security",
+      "harness"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 167,
+    "_source_description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 161,
+    "growth": 6
   },
   {
     "id": "deepseek-auto-evolving-harness",
@@ -127,6 +155,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 28
+    "stars": 28,
+    "_source_description": "Auto-evolving LLM Agent Harness - Benchmark-driven evolution via Claude Code + self_evolution.md guide",
+    "_updated": "2026-05-26"
   }
 ]

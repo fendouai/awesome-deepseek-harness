@@ -1,74 +1,113 @@
+---
+title: "MCP & Integrations"
+description: "Top 10 and full list of 35 curated mcp & integrations for DeepSeek Harness (dsh)."
+keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
+---
 # MCP & Integrations
+
+## 🚀 Trending (fastest growth)
+
+| # | Project | Growth | Stars | Description |
+|---|---|---|---|---|
+| 1 | [dsh-super-injector](resources/dsh-super-injector.md) | ⬆️ +17 | ⭐48 | Super-injector plugin (cordis) for context injection. |
+| 2 | [dsh-qqbot](resources/dsh-qqbot.md) | ⬆️ +8 | ⭐32 | 让 QQ 机器人接入 DeepSeek Harness（dsh）的官方插件 |
+| 3 | [Coding Tools MCP](resources/coding-tools-mcp.md) | ⬆️ +6 | ⭐787 | Coding-oriented MCP tool collection that appears in the emerging DSH ecosystem: give any AI agent the ability to code. |
+| 4 | [dsh-openpencil](resources/dsh-openpencil.md) | ⬆️ +6 | ⭐74 | OpenPencil design preview and editing integration. |
+| 5 | [deepseek-harness-action](resources/deepseek-harness-action.md) | ⬆️ +4 | ⭐11 | Community GitHub Action: AI code review, CI diagnosis, auto-fix and issue-to-PR implementation. |
 
 ## 🔥 Top 10
 
 | # | Project | Stars | Description | Status |
 |---|---|---|---|---|
-| 1 | [Coding Tools MCP](https://github.com/xyTom/coding-tools-mcp) | ⭐758 | Coding-oriented MCP tool collection that appears in the emerging DSH ecosystem: give any AI agent the ability to code. | ✅ active |
-| 2 | [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | ⭐64 | OpenPencil design preview and editing integration. | ✅ active |
-| 3 | [dsh-lark](https://github.com/omdsh-dev/dsh-lark) | ⭐14 | Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness 插件 | ✅ active |
-| 4 | [deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) | ⭐6 | ACP server implementation for DeepSeek Harness: exposes the full DSH agent to ACP clients while reusing credentials and sessions. | ✅ active |
-| 5 | [deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) | ⭐6 | Community Docker and Kubernetes packaging for @deepseek-ai/dsh with a hardened image. | ✅ active |
-| 6 | [dsh-oauth-mcp-client](https://github.com/springbrand-lab/dsh-oauth-mcp-client) | ⭐6 | OAuth 2.1 Streamable HTTP MCP client plugin for DeepSeek Harness. | ✅ active |
-| 7 | [deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) | ⭐5 | Community GitHub Action: AI code review, CI diagnosis, auto-fix and issue-to-PR implementation. | ✅ active |
-| 8 | [dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) | ⭐5 | MCP server manager: Settings page with OAuth (PKCE + dynamic client registration) or static-token auth. | ✅ active |
-| 9 | [deepseek-harness-vsc-extension](https://github.com/weinibuliu/deepseek-harness-vsc-extension) | ⭐4 | DeepSeek Harness for VS Code as extension | ✅ active |
-| 10 | [DSH Telegram Relay](https://github.com/congchuanling-dot/DSH-Telegram-Relay) | ⭐4 | Relay that turns Telegram into a remote conversation channel for DSH with notifications. | ✅ active |
+| 1 | [Coding Tools MCP](resources/coding-tools-mcp.md) | ⭐787 | Coding-oriented MCP tool collection that appears in the emerging DSH ecosystem: give any AI agent the ability to code. | ✅ active |
+| 2 | [dsh-openpencil](resources/dsh-openpencil.md) | ⭐74 | OpenPencil design preview and editing integration. | ✅ active |
+| 3 | [dsh-super-injector](resources/dsh-super-injector.md) | ⭐48 | Super-injector plugin (cordis) for context injection. | ✅ active |
+| 4 | [dsh-qqbot](resources/dsh-qqbot.md) | ⭐32 | 让 QQ 机器人接入 DeepSeek Harness（dsh）的官方插件 | ✅ active |
+| 5 | [dsh-lark](resources/dsh-lark.md) | ⭐16 | Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness 插件 | ✅ active |
+| 6 | [deepseek-harness-action](resources/deepseek-harness-action.md) | ⭐11 | Community GitHub Action: AI code review, CI diagnosis, auto-fix and issue-to-PR implementation. | ✅ active |
+| 7 | [ikanban](resources/ikanban.md) | ⭐10 | Monorepo for the iKanban browser-surface fork for DeepSeek Harness. | ✅ active |
+| 8 | [deepseek-harness-docker](resources/deepseek-harness-docker.md) | ⭐8 | Community Docker and Kubernetes packaging for @deepseek-ai/dsh with a hardened image. | ✅ active |
+| 9 | [dsh-git-graph](resources/dsh-git-graph.md) | ⭐8 | Embedded git repository graph visualizer for the DeepSeek Harness Web GUI | 嵌入式 Git 仓库图谱可视化插件（提交历史图 / 分支过滤 / 文件 diff / VSCode 式未提交改动） | ✅ active |
+| 10 | [dsh-search-mcp](resources/dsh-search-mcp.md) | ⭐8 | Replace DSH's built-in web search with search MCP servers (Tavily/Brave/Exa/Perplexity/DuckDuckGo). | ✅ active |
 
-## Complete list (25)
+## Complete list (35)
 
 
-**ACP**
+**Developer tools (11)**
 
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) | ⭐6 | ACP server implementation for DeepSeek Harness: exposes the full DSH agent to ACP clients while reusing credentials and sessions. | ✅ active |
-
-**Browser control**
+*Other (7)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
-| [dsh-browser](https://github.com/xylt369/dsh-browser) | ⭐3 | Browser capability for DeepSeek Harness: headed Edge/Playwright provider, SSRF-safe navigation, a11y-ref clicking, permission gate with auto-remember, gated evaluate | ✅ active |
-| [dsh-chrome](https://github.com/YJSoooooo/dsh-chrome) | ⭐1 | Chrome profile bridge: control an existing signed-in Chrome profile through Chrome DevTools Protocol. | ✅ active |
-
-**Channels**
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-lark](https://github.com/omdsh-dev/dsh-lark) | ⭐14 | Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness 插件 | ✅ active |
-| [DSH Telegram Relay](https://github.com/congchuanling-dot/DSH-Telegram-Relay) | ⭐4 | Relay that turns Telegram into a remote conversation channel for DSH with notifications. | ✅ active |
-| [dsh-telegram-channel](https://github.com/hi-wenw/dsh-telegram-channel) | ⭐4 | Telegram mobile remote for live DSH Web sessions: session picker, bind/unbind, same trajectory as desktop. | ✅ active |
-
-**Developer tools**
+| [dsh-super-injector](resources/dsh-super-injector.md) | ⭐48 | Super-injector plugin (cordis) for context injection. | ✅ active |
+| [dsh-vision-proxy](resources/dsh-vision-proxy.md) | ⭐8 | DeepSeek Harness 插件：DeepSeek 大脑 + 自动识图。GUI 附加图片自动经 OpenAI 兼容 VLM 转译成文字后交给 DeepSeek 作答；支持百炼/智谱/OpenRouter 等任意 OpenAI 兼容端点（默认 qwen3.7-flash），无 key 自动探测本地 Ollama（图片不出本机）；安装时有一问式确认 | ✅ active |
+| [dsh-subscription-auth](resources/dsh-subscription-auth.md) | ⭐4 | dsh对接openai、grok、anthropic、kimi订阅渠道 | ✅ active |
+| [dsh-subagent-cwd](resources/dsh-subagent-cwd.md) | ⭐3 | DeepSeek Harness subagent delegation enhancement | ✅ active |
+| [dsh-plugin-acn](resources/dsh-plugin-acn.md) | ⭐2 | DeepSeek Harness plugin: join ACN so this agent can discover, message, and collaborate with other agents. Defaults to the China region. | ✅ active |
+| [deepseek-harness-rs](resources/deepseek-harness-rs.md) | ⭐1 | A Rust port of DeepSeek Harness. | 🧪 experimental |
+| [dsh-plugin-vision](resources/dsh-plugin-vision.md) | – | Vision for text-only LLMs in DeepSeek Harness (DSH): describe images / OCR / VQA via free Gemini & GLM vision APIs | ✅ active |
+*🧪 Code, tests & review (2)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
-| [deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) | ⭐6 | Community Docker and Kubernetes packaging for @deepseek-ai/dsh with a hardened image. | ✅ active |
-| [deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) | ⭐5 | Community GitHub Action: AI code review, CI diagnosis, auto-fix and issue-to-PR implementation. | ✅ active |
-| [deepseek-harness-rs](https://github.com/Tokimorphling/deepseek-harness-rs) | – | A Rust port of DeepSeek Harness. | 🧪 experimental |
-| [dsh-github-integration](https://github.com/omdsh-dev/dsh-github-integration) | – | GitHub integration plugin for DSH. | ✅ active |
-| [dsh-lan-access](https://github.com/Leon0555/dsh-lan-access) | – | LAN access for the Web GUI: 0.0.0.0 bind plus a crypto.randomUUID polyfill for non-secure contexts. | ✅ active |
-| [dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) | – | Super-injector plugin (cordis) for context injection. | ✅ active |
-
-**IDE & editors**
+| [deepseek-harness-action](resources/deepseek-harness-action.md) | ⭐11 | Community GitHub Action: AI code review, CI diagnosis, auto-fix and issue-to-PR implementation. | ✅ active |
+| [dsh-github-integration](resources/dsh-github-integration.md) | ⭐2 | GitHub integration plugin for DSH. | ✅ active |
+*📁 Files & import (1)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
-| [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) | ⭐64 | OpenPencil design preview and editing integration. | ✅ active |
-| [deepseek-harness-vsc-extension](https://github.com/weinibuliu/deepseek-harness-vsc-extension) | ⭐4 | DeepSeek Harness for VS Code as extension | ✅ active |
-| [vscode-deepseek-harness](https://github.com/kalynnka/vscode-deepseek-harness) | ⭐1 | Unofficial: drive your own dsh as a native VS Code chat agent. | ✅ active |
-| [dsh4vscode](https://github.com/DoggyHU/dsh4vscode) | – | VS Code chat windows backed by the DSH agent: OpenCode-style independent sessions with model auto-routing. | ✅ active |
-| [opendsh](https://github.com/TheChengXi/opendsh) | – | Open the DeepSeek Harness Web UI inside VS Code with one-command start/stop. | ✅ active |
-
-**MCP**
+| [deepseek-harness-docker](resources/deepseek-harness-docker.md) | ⭐8 | Community Docker and Kubernetes packaging for @deepseek-ai/dsh with a hardened image. | ✅ active |
+*🛡️ Security & ops (1)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
-| [Coding Tools MCP](https://github.com/xyTom/coding-tools-mcp) | ⭐758 | Coding-oriented MCP tool collection that appears in the emerging DSH ecosystem: give any AI agent the ability to code. | ✅ active |
-| [dsh-oauth-mcp-client](https://github.com/springbrand-lab/dsh-oauth-mcp-client) | ⭐6 | OAuth 2.1 Streamable HTTP MCP client plugin for DeepSeek Harness. | ✅ active |
-| [dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) | ⭐5 | MCP server manager: Settings page with OAuth (PKCE + dynamic client registration) or static-token auth. | ✅ active |
-| [PicGo DSH Plugin](https://github.com/PicGo/dsh-plugin) | ⭐4 | Official PicGo plugin: upload images/files to your image host from DSH and get public URLs. | ✅ active |
-| [dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) | ⭐3 | Read-only runtime management panel for the official DSH MCP client: /mcp command and a Settings tab. | ✅ active |
-| [dsh-search-mcp](https://github.com/gxpppp/dsh-search-mcp) | ⭐3 | Replace DSH's built-in web search with search MCP servers (Tavily/Brave/Exa/Perplexity/DuckDuckGo). | ✅ active |
-| [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) | ⭐2 | Expose DeepSeek Harness agent capabilities as an MCP server (brain=Hermes, arms=Harness). | ✅ active |
-| [URL Manager MCP](https://github.com/Piccolo123/url-manager-mcp) | – | MCP companion for URL Manager: 21 tools for save/search/categorize/share with magic-link delivery. | ✅ active |
+| [dsh-lan-access](resources/dsh-lan-access.md) | ⭐4 | LAN access for the Web GUI: 0.0.0.0 bind plus a crypto.randomUUID polyfill for non-secure contexts. | ✅ active |
+
+**MCP (8)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [Coding Tools MCP](resources/coding-tools-mcp.md) | ⭐787 | Coding-oriented MCP tool collection that appears in the emerging DSH ecosystem: give any AI agent the ability to code. | ✅ active |
+| [dsh-search-mcp](resources/dsh-search-mcp.md) | ⭐8 | Replace DSH's built-in web search with search MCP servers (Tavily/Brave/Exa/Perplexity/DuckDuckGo). | ✅ active |
+| [dsh-mcp-manager](resources/dsh-mcp-manager.md) | ⭐6 | MCP server manager: Settings page with OAuth (PKCE + dynamic client registration) or static-token auth. | ✅ active |
+| [dsh-oauth-mcp-client](resources/dsh-oauth-mcp-client.md) | ⭐6 | OAuth 2.1 Streamable HTTP MCP client plugin for DeepSeek Harness. | ✅ active |
+| [dsh-harness-mcp-server](resources/dsh-harness-mcp-server.md) | ⭐5 | Expose DeepSeek Harness agent capabilities as an MCP server (brain=Hermes, arms=Harness). | ✅ active |
+| [dsh-mcp-panel](resources/dsh-mcp-panel.md) | ⭐4 | Read-only runtime management panel for the official DSH MCP client: /mcp command and a Settings tab. | ✅ active |
+| [PicGo DSH Plugin](resources/picgo-dsh-plugin.md) | ⭐4 | Official PicGo plugin: upload images/files to your image host from DSH and get public URLs. | ✅ active |
+| [URL Manager MCP](resources/url-manager-mcp.md) | – | MCP companion for URL Manager: 21 tools for save/search/categorize/share with magic-link delivery. | ✅ active |
+
+**IDE & editors (7)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-openpencil](resources/dsh-openpencil.md) | ⭐74 | OpenPencil design preview and editing integration. | ✅ active |
+| [dsh-git-graph](resources/dsh-git-graph.md) | ⭐8 | Embedded git repository graph visualizer for the DeepSeek Harness Web GUI | 嵌入式 Git 仓库图谱可视化插件（提交历史图 / 分支过滤 / 文件 diff / VSCode 式未提交改动） | ✅ active |
+| [deepseek-harness-vsc-extension](resources/deepseek-harness-vsc-extension.md) | ⭐7 | DeepSeek Harness for VS Code as extension | ✅ active |
+| [dsh-agentlink](resources/dsh-agentlink.md) | ⭐3 | Caller-side bridge from Codex and other agent frameworks to DeepSeek Harness, with observable sessions, follow-up, cancellation, and human-gated approvals. | ✅ active |
+| [dsh4vscode](resources/dsh4vscode.md) | ⭐3 | VS Code chat windows backed by the DSH agent: OpenCode-style independent sessions with model auto-routing. | ✅ active |
+| [vscode-deepseek-harness](resources/vscode-deepseek-harness.md) | ⭐2 | Unofficial: drive your own dsh as a native VS Code chat agent. | ✅ active |
+| [opendsh](resources/opendsh.md) | – | Open the DeepSeek Harness Web UI inside VS Code with one-command start/stop. | ✅ active |
+
+**Channels (5)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-qqbot](resources/dsh-qqbot.md) | ⭐32 | 让 QQ 机器人接入 DeepSeek Harness（dsh）的官方插件 | ✅ active |
+| [dsh-lark](resources/dsh-lark.md) | ⭐16 | Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness 插件 | ✅ active |
+| [dsh-telegram-channel](resources/dsh-telegram-channel.md) | ⭐6 | Telegram mobile remote for live DSH Web sessions: session picker, bind/unbind, same trajectory as desktop. | ✅ active |
+| [telegram](resources/telegram.md) | ⭐6 | Telegram Bot API 桥接插件：长轮询、per-chat 会话、HTML 格式化 | ✅ active |
+| [DSH Telegram Relay](resources/dsh-telegram-relay.md) | ⭐5 | Relay that turns Telegram into a remote conversation channel for DSH with notifications. | ✅ active |
+
+**Browser control (3)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [ikanban](resources/ikanban.md) | ⭐10 | Monorepo for the iKanban browser-surface fork for DeepSeek Harness. | ✅ active |
+| [dsh-browser](resources/dsh-browser-xylt.md) | ⭐4 | Browser capability for DeepSeek Harness: headed Edge/Playwright provider, SSRF-safe navigation, a11y-ref clicking, permission gate with auto-remember, gated evaluate | ✅ active |
+| [dsh-chrome](resources/dsh-chrome.md) | ⭐1 | Chrome profile bridge: control an existing signed-in Chrome profile through Chrome DevTools Protocol. | ✅ active |
+
+**ACP (1)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [deepseek-harness-acp](resources/deepseek-harness-acp.md) | ⭐7 | ACP server implementation for DeepSeek Harness: exposes the full DSH agent to ACP clients while reusing credentials and sessions. | ✅ active |

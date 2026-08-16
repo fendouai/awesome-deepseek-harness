@@ -271,7 +271,7 @@ dsh web
 - [dsh-builtin-toggles](https://github.com/Starfie1d1272/dsh-builtin-toggles) ⭐3 — 官方 DSH Web 内置功能可读目录 + 安全 UI 开关。（✅ 活跃）
 - [dsh-calculator](https://github.com/bobcat848/dsh-calculator) ⭐3 — Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness.（✅ 活跃）
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐3 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布)（✅ 活跃）
-- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐3 — DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、bcrypt + 静态加密、防爆破锁定、审计日志与自动 HTTPS（80 自动跳转 443）。（✅ 活跃）
+- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐6 — DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、bcrypt + 静态加密、防爆破锁定、审计日志与自动 HTTPS（80 自动跳转 443）。（✅ 活跃）
 - [dsh-plugins-raincode](https://github.com/rainforest888/dsh-plugins-raincode) ⭐3 — dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览（✅ 活跃）
 - [dsh-token-panel](https://github.com/juhe291/dsh-token-panel) ⭐3 — A corner HUD for DeepSeek Harness that shows your session's token pressure, per-model cost, and daily/monthly usage at a glance — with an editable budget & balance that tracks spending for you. 右下角常驻的 Token 仪表盘：实时查看会话压力、按模型估算花费，预算和余额点一下就能改，每天每月用了多少都有记录。（✅ 活跃）
 - [dsh-usage-plugin](https://github.com/Yihong89/dsh-usage-plugin) ⭐3 — DeepSeek Harness (DSH) plugins. First: dsh-usage-report — per-session token usage & estimated cost (/usage + usage_report), priced from the DeepSeek pricing table.（✅ 活跃）
@@ -879,7 +879,7 @@ awesome-deepseek-harness/
 - [dsh-builtin-toggles](https://github.com/Starfie1d1272/dsh-builtin-toggles) ⭐3 — 官方 DSH Web 内置功能可读目录 + 安全 UI 开关。（✅ 活跃）
 - [dsh-calculator](https://github.com/bobcat848/dsh-calculator) ⭐3 — Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness.（✅ 活跃）
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐3 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布)（✅ 活跃）
-- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐3 — DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、bcrypt + 静态加密、防爆破锁定、审计日志与自动 HTTPS（80 自动跳转 443）。（✅ 活跃）
+- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐6 — DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、bcrypt + 静态加密、防爆破锁定、审计日志与自动 HTTPS（80 自动跳转 443）。（✅ 活跃）
 - [dsh-plugins-raincode](https://github.com/rainforest888/dsh-plugins-raincode) ⭐3 — dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览（✅ 活跃）
 - [dsh-token-panel](https://github.com/juhe291/dsh-token-panel) ⭐3 — A corner HUD for DeepSeek Harness that shows your session's token pressure, per-model cost, and daily/monthly usage at a glance — with an editable budget & balance that tracks spending for you. 右下角常驻的 Token 仪表盘：实时查看会话压力、按模型估算花费，预算和余额点一下就能改，每天每月用了多少都有记录。（✅ 活跃）
 - [dsh-usage-plugin](https://github.com/Yihong89/dsh-usage-plugin) ⭐3 — DeepSeek Harness (DSH) plugins. First: dsh-usage-report — per-session token usage & estimated cost (/usage + usage_report), priced from the DeepSeek pricing table.（✅ 活跃）

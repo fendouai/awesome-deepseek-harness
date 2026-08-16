@@ -22,7 +22,11 @@ DATA_DIR = ROOT / "data"
 def load_entries():
     entries = []
     for f in sorted(DATA_DIR.glob("*.json")):
+        if f.name == "candidates.json":
+            continue
         for e in json.loads(f.read_text()):
+            if not isinstance(e, dict) or "repository" not in e:
+                continue
             e["_file"] = f.name
             entries.append(e)
     return entries

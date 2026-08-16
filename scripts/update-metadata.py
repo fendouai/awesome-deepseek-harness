@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
-DATA_FILES = sorted(f for f in DATA_DIR.glob("*.json") if f.name != "candidates.json")
+DATA_FILES = sorted(f for f in DATA_DIR.glob("*.json") if f.name not in ("candidates.json", "readmes.json", "official-guides.json"))
 
 
 def repo_fullname(url):
@@ -75,7 +75,9 @@ def main():
             if not meta:
                 continue
             if meta["stars"] != e.get("stars"):
+                e["_stars_prev"] = e.get("stars", meta["stars"])
                 e["stars"] = meta["stars"]
+                e["growth"] = max(0, meta["stars"] - e.get("_stars_prev", meta["stars"]))
                 changed = True
             if meta["description"] and meta["description"] != e.get("_source_description"):
                 e["_source_description"] = meta["description"]

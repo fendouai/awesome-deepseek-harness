@@ -1,5 +1,22 @@
 [
   {
+    "id": "easyeda-agent",
+    "name": "easyeda-agent",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/zhoushoujianwork/easyeda-agent",
+    "description": "EasyEDA Pro automation: Go daemon + in-app connector + agent skill + stdio MCP server for typed schematic/PCB actions, workflow gates, and DRC.",
+    "description_zh": "EasyEDA Pro automation: Go daemon + in-app connector + agent skill + stdio MCP server for typed schematic/PCB actions, workflow gates, and DRC.",
+    "capabilities": [
+      "mcp",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 224,
+    "_updated": "2026-08-14"
+  },
+  {
     "id": "dsh-skill-viewer",
     "name": "dsh-skill-viewer",
     "type": "plugin",
@@ -13,7 +30,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 12
+    "stars": 34,
+    "_source_description": "DSH Web UI plugin: Skills settings section with hot enable/disable, delete and add（Web界面的skill管理工具）",
+    "_updated": "2026-08-15",
+    "_stars_prev": 31,
+    "growth": 3
   },
   {
     "id": "dsh-plugin-dev",
@@ -28,7 +49,45 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 9
+    "stars": 10,
+    "_source_description": "DSH 插件开发踩坑与做法档案（skill + 文档）：cordis 双副本、tsconfig 三件套、Windows junction、多帧 zstd 等实测记录",
+    "_updated": "2026-08-14"
+  },
+  {
+    "id": "dsh-science",
+    "name": "dsh-science",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/biociao/dsh-science",
+    "description": "Claude Science-style research workbench: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics/pathogens/bioinformatics.",
+    "description_zh": "Claude Science-style research workbench: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics/pathogens/bioinformatics.",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "_updated": "2026-08-15"
+  },
+  {
+    "id": "dsh-reverse-skill",
+    "name": "dsh-reverse-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/dhicoc/dsh-reverse-skill",
+    "description": "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
+    "description_zh": "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 12,
+    "_source_description": "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 9,
+    "growth": 3
   },
   {
     "id": "dsh-plugin-skills",
@@ -44,7 +103,29 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 7
+    "stars": 7,
+    "_source_description": "Agent skills for building and testing DeepSeek Harness plugins — from scaffolding a new plugin package to choosing the right test tiers, entirely inside an agent session.",
+    "_updated": "2026-08-11"
+  },
+  {
+    "id": "dsh-plugin-development",
+    "name": "dsh-plugin-development",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/w2112515/dsh-plugin-development",
+    "description": "Portable Agent Skill for developing and auditing DeepSeek Harness plugins, with an optional profile-installable DSH bundle adapter.",
+    "description_zh": "Portable Agent Skill for developing and auditing DeepSeek Harness plugins, with an optional profile-installable DSH bundle adapter.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 8,
+    "_source_description": "Portable Agent Skill for developing and auditing DeepSeek Harness plugins, with an optional profile-installable DSH bundle adapter.",
+    "_updated": "2026-08-14",
+    "_stars_prev": 7,
+    "growth": 1
   },
   {
     "id": "dsh-book2skill",
@@ -60,22 +141,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 3
-  },
-  {
-    "id": "dsh-review-skills",
-    "name": "dsh-review-skills",
-    "type": "skill",
-    "category": "coding",
-    "repository": "https://github.com/ben7am1n/dsh-review-skills",
-    "description": "Code review skill pack for DeepSeek Harness.",
-    "description_zh": "DSH 代码评审技能集。",
-    "capabilities": [
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2
+    "stars": 4,
+    "_source_description": "DSH book-to-skill plugin: a 5-stage long task (fetch → parse → understand → generate → install) with 3 human gates, host tools for the agent and a browser timeline panel",
+    "_updated": "2026-08-13",
+    "_stars_prev": 3,
+    "growth": 1
   },
   {
     "id": "dsh-godot-skill",
@@ -90,55 +160,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 2
-  },
-  {
-    "id": "dsh-skill-pack-security",
-    "name": "dsh-skill-pack-security",
-    "type": "skill",
-    "category": "security",
-    "repository": "https://github.com/PerryLink/dsh-skill-pack-security",
-    "description": "Security-audit skill pack: 5 agent skills covering secret scan, dependency audit and more.",
-    "description_zh": "安全审计技能包：5 个 Agent 技能，覆盖密钥扫描、依赖审计等。",
-    "capabilities": [
-      "security",
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 1
-  },
-  {
-    "id": "dsh-skillport",
-    "name": "dsh-skillport",
-    "type": "plugin",
-    "category": "learning",
-    "repository": "https://github.com/Jesse-njx/dsh-skillport",
-    "description": "Every skill you already have — Claude Code, Codex, Cursor, Gemini CLI — works in DSH.",
-    "description_zh": "让 Claude Code、Codex、Cursor、Gemini CLI 已有的技能在 DSH 中直接可用。",
-    "capabilities": [
-      "workflow",
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 1
-  },
-  {
-    "id": "dsh-find-skill",
-    "name": "dsh-find-skill",
-    "type": "plugin",
-    "category": "learning",
-    "repository": "https://github.com/Moximxxx/dsh-find-skill",
-    "description": "Bridges the vercel-labs/skills ecosystem: LLM-driven skill search, install and management.",
-    "description_zh": "桥接 vercel-labs/skills 生态：LLM 驱动技能搜索、安装与管理。",
-    "capabilities": [
-      "search",
-      "workflow"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 1
+    "stars": 4,
+    "_source_description": "Godot Engine 4.x 全栈游戏开发技能插件 for DeepSeek Harness (DSH) — registers the godot-4-development skill at runtime",
+    "_updated": "2026-08-13",
+    "_stars_prev": 3,
+    "growth": 1
   },
   {
     "id": "dsh-skillradar",
@@ -154,23 +180,148 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 1
+    "stars": 3,
+    "_source_description": "DSH plugin: scans session-visible skills and ranks them by relevance to the recent conversation.",
+    "_updated": "2026-08-14"
   },
   {
-    "id": "dsh-news-briefing",
-    "name": "dsh-news-briefing",
+    "id": "dsh-humanize",
+    "name": "dsh-humanize",
     "type": "skill",
-    "category": "research",
-    "repository": "https://github.com/canghai666x/dsh-news-briefing",
-    "description": "News briefing skill: multi-dimensional story scoring, anti-clickbait rules, content prioritization and Chinese editorial style.",
-    "description_zh": "新闻简报技能：多维故事评分、反标题党规则、内容优先级与中文编辑风格。",
+    "category": "coding",
+    "repository": "https://github.com/zevorn/dsh-humanize",
+    "description": "De-AI writing skill: rewrite agent output to sound more human.",
+    "description_zh": "去 AI 味写作技能：让 Agent 输出更自然。",
     "capabilities": [
-      "research",
-      "search"
+      "research"
     ],
     "status": "active",
     "verified": false,
-    "stars": 0
+    "stars": 3,
+    "_updated": "2026-08-13"
+  },
+  {
+    "id": "dsh-memoryhub",
+    "name": "dsh-memoryhub",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/solknight48/dsh-memoryhub",
+    "description": "MemoryHub (mh) plugin for DeepSeek Harness (dsh): auto-loads checkpoint memory on session start, adds mh_* tools and the mh skill, and a Memory tab in the web UI",
+    "description_zh": "MemoryHub (mh) plugin for DeepSeek Harness (dsh): auto-loads checkpoint memory on session start, adds mh_* tools and the mh skill, and a Memory tab in the web UI",
+    "capabilities": [
+      "coding",
+      "memory",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "_source_description": "MemoryHub (mh) plugin for DeepSeek Harness (dsh): auto-loads checkpoint memory on session start, adds mh_* tools and the mh skill, and a Memory tab in the web UI",
+    "_updated": "2026-08-15"
+  },
+  {
+    "id": "dsh-review-skills",
+    "name": "dsh-review-skills",
+    "type": "skill",
+    "category": "coding",
+    "repository": "https://github.com/ben7am1n/dsh-review-skills",
+    "description": "Code review skill pack for DeepSeek Harness.",
+    "description_zh": "DSH 代码评审技能集。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_updated": "2026-08-13"
+  },
+  {
+    "id": "dsh-skill-pack-security",
+    "name": "dsh-skill-pack-security",
+    "type": "skill",
+    "category": "security",
+    "repository": "https://github.com/PerryLink/dsh-skill-pack-security",
+    "description": "Security-audit skill pack: 5 agent skills covering secret scan, dependency audit and more.",
+    "description_zh": "安全审计技能包：5 个 Agent 技能，覆盖密钥扫描、依赖审计等。",
+    "capabilities": [
+      "security",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_source_description": "Security-audit skill pack for DeepSeek Harness (dsh): 8 agent skills - secret scan, dependency audit, supply-chain review, prompt-injection review, audit orchestration, threat modeling, vuln intel, incident response. Zero runtime code. Apache-2.0.",
+    "_updated": "2026-08-14"
+  },
+  {
+    "id": "dsh-skillport",
+    "name": "dsh-skillport",
+    "type": "plugin",
+    "category": "learning",
+    "repository": "https://github.com/Jesse-njx/dsh-skillport",
+    "description": "Every skill you already have — Claude Code, Codex, Cursor, Gemini CLI — works in DSH.",
+    "description_zh": "让 Claude Code、Codex、Cursor、Gemini CLI 已有的技能在 DSH 中直接可用。",
+    "capabilities": [
+      "workflow",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_source_description": "Every skill you already have — Claude Code, Codex, Cursor, Gemini CLI — works in DSH: Agent Skills SKILL.md discovery, Tier-2 conversions, find_skill search, and a skills doctor",
+    "_updated": "2026-08-13"
+  },
+  {
+    "id": "dsh-find-skill",
+    "name": "dsh-find-skill",
+    "type": "plugin",
+    "category": "learning",
+    "repository": "https://github.com/Moximxxx/dsh-find-skill",
+    "description": "Bridges the vercel-labs/skills ecosystem: LLM-driven skill search, install and management.",
+    "description_zh": "桥接 vercel-labs/skills 生态：LLM 驱动技能搜索、安装与管理。",
+    "capabilities": [
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_source_description": "dsh plugin bridging the vercel-labs/skills ecosystem: LLM-driven skill search, install, and lifecycle for temp/project/global scopes.",
+    "_updated": "2026-08-15"
+  },
+  {
+    "id": "dsh-explore-skill",
+    "name": "deepseek-harness-skillx",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/drowned-fish1/deepseek-harness-skillx",
+    "description": "Skill collection for DeepSeek Harness workflows.",
+    "description_zh": "DSH 工作流技能合集。",
+    "capabilities": [
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_source_description": "DeepSeek Harness plugin for safely discovering, auditing, and adopting external Agent Skills — prompt-injection and AgentBaiting defense.",
+    "_updated": "2026-08-13"
+  },
+  {
+    "id": "dsh-kb-sieve",
+    "name": "dsh-kb-sieve",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/omdsh-dev/dsh-kb-sieve",
+    "description": "DSH knowledge-base plugin: build audit-able KB packs (references + SQLite FTS5) from md/txt/docx/pdf, deterministic retrieval (kb_query) and original-text reading (kb_read), zero-script generated skills. Apache-2.0.",
+    "description_zh": "DSH knowledge-base plugin: build audit-able KB packs (references + SQLite FTS5) from md/txt/docx/pdf, deterministic retrieval (kb_query) and original-text reading (kb_read), zero-script generated skills. Apache-2.0.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_source_description": "DSH knowledge-base plugin: build audit-able KB packs (references + SQLite FTS5) from md/txt/docx/pdf, deterministic retrieval (kb_query) and original-text reading (kb_read), zero-script generated skills. Apache-2.0.",
+    "_updated": "2026-08-12"
   },
   {
     "id": "dsh-web-novel-research",
@@ -186,36 +337,41 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 0
+    "stars": 1,
+    "_updated": "2026-08-14"
   },
   {
-    "id": "dsh-humanize",
-    "name": "dsh-humanize",
+    "id": "dsh-news-briefing",
+    "name": "dsh-news-briefing",
     "type": "skill",
-    "category": "coding",
-    "repository": "https://github.com/zevorn/dsh-humanize",
-    "description": "De-AI writing skill: rewrite agent output to sound more human.",
-    "description_zh": "去 AI 味写作技能：让 Agent 输出更自然。",
+    "category": "research",
+    "repository": "https://github.com/canghai666x/dsh-news-briefing",
+    "description": "News briefing skill: multi-dimensional story scoring, anti-clickbait rules, content prioritization and Chinese editorial style.",
+    "description_zh": "新闻简报技能：多维故事评分、反标题党规则、内容优先级与中文编辑风格。",
     "capabilities": [
-      "research"
+      "research",
+      "search"
     ],
     "status": "active",
     "verified": false,
-    "stars": 0
+    "stars": 0,
+    "_updated": "2026-08-14"
   },
   {
-    "id": "dsh-explore-skill",
-    "name": "deepseek-harness-skillx",
+    "id": "mstar-workflow",
+    "name": "mstar-workflow",
     "type": "skill",
     "category": "learning",
-    "repository": "https://github.com/drowned-fish1/deepseek-harness-skillx",
-    "description": "Skill collection for DeepSeek Harness workflows.",
-    "description_zh": "DSH 工作流技能合集。",
+    "repository": "https://github.com/btspoony/mstar-workflow",
+    "description": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin",
+    "description_zh": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin",
     "capabilities": [
-      "workflow"
+      "coding"
     ],
-    "status": "active",
+    "status": "inactive",
     "verified": false,
-    "stars": 0
+    "stars": 0,
+    "_source_description": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin",
+    "_updated": "2026-08-14"
   }
 ]

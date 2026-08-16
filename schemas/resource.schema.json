@@ -76,6 +76,10 @@
         "security"
       ]
     },
+    "subcategory": {
+      "type": "string",
+      "description": "Optional finer-grained grouping within a category, e.g. skins-themes, memory-systems."
+    },
     "repository": {
       "type": "string",
       "pattern": "^https://github\\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",

@@ -1,0 +1,25 @@
+---
+title: "dsh-minigames"
+description: "DSH Web UI 右侧小游戏面板：18 款离线小游戏（恐龙跳一跳 / 俄罗斯方块 / 坦克大战 / 扫雷 / 2048 / 数独 / 吃豆人 / 跟枪练习等），可扩展游戏注册表，等待模型回复或修 bug 时的摸鱼神器"
+keywords: "dsh-minigames, fun, plugin, coding, ui, deepseek harness, dsh"
+---
+# dsh-minigames
+
+> ⭐ 18 · ✅ active · plugin
+
+## One-liner
+
+DSH Web UI 右侧小游戏面板：18 款离线小游戏（恐龙跳一跳 / 俄罗斯方块 / 坦克大战 / 扫雷 / 2048 / 数独 / 吃豆人 / 跟枪练习等），可扩展游戏注册表，等待模型回复或修 bug 时的摸鱼神器
+
+## About
+
+DSH Web UI 右侧小游戏面板：等待模型回复或修 bug 时的摸鱼神器。 - **折叠态**：浏览器右缘一条小竖条（🎮），不占空间。 - **展开态**：点击后占据窗口**右半部分**（默认 50vw，可拖左缘调整 360px–80vw）， 面板内自由选择游戏。 - **游戏**（全部离线、零资源文件、Canvas 绘制）： 1. 🦖 **恐龙跳一跳** —— Chrome 经典小恐龙（昼夜/雨天）； 2. 🧱 **俄罗斯方块** —— 经典下落消除； 3. 🛡️ **坦克大战（带 AI）** —— 2D 坦克对战，敌军追踪 + 视线开火，共 3 波； 4. 💎 **消消乐** —— 点击消除四连通同色块，目标分过关、逐关递增； 5. 🔢 **华容道** —— 16 格数字华容道（15-puzzle），滑动方块按序排列，用时越短分越高； 6. 🐍 **贪吃蛇** —— 经典贪吃蛇，穿越边界会从对侧出现（环面地图）； 7. 🔢 **2048** —— 方向键滑动合并数字，合成 2048 即达成； 8. 💣 **扫雷** —— 左键翻开、右键标旗、双击数字自动展开周围； 9. 🃏 *
+
+## Author
+**[lhh010](https://github.com/lhh010)**
+
+## Links
+
+- [GitHub Repository](https://github.com/lhh010/dsh-minigames)
+- [Full README](https://github.com/lhh010/dsh-minigames#readme)
+- [Back to the Plugins list](../plugins.md)

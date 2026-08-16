@@ -13,7 +13,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 37
+    "stars": 48,
+    "_source_description": "从零开始，看懂 DeepSeek Harness 的「万物皆可插件」— 零基础插件开发教程（含 22 个中文技能实例）| Zero-to-plugin tutorial for DeepSeek Harness",
+    "_updated": "2026-08-14",
+    "_stars_prev": 44,
+    "growth": 4
   },
   {
     "id": "dsh-plugin-template",
@@ -28,7 +32,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 16
+    "stars": 16,
+    "_source_description": "Template for deepseek-harness plugin development.",
+    "_updated": "2026-08-14",
+    "_stars_prev": 12,
+    "growth": 4
   },
   {
     "id": "turtle-ui",
@@ -44,37 +52,9 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 6
-  },
-  {
-    "id": "dsh-plugin-template-sunshine",
-    "name": "dsh-plugin-template (sunshine-lang)",
-    "type": "example",
-    "category": "learning",
-    "repository": "https://github.com/sunshine-lang/dsh-plugin-template",
-    "description": "Ready-to-publish plugin skeleton: bundle format, tool DSL, config and tests.",
-    "description_zh": "可直接发布的插件骨架：bundle 格式、工具 DSL、配置与测试。",
-    "capabilities": [
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2
-  },
-  {
-    "id": "dsh-101",
-    "name": "dsh-101",
-    "type": "example",
-    "category": "learning",
-    "repository": "https://github.com/bill9109/dsh-101",
-    "description": "DSH documentation reading mode.",
-    "description_zh": "DSH 文档阅读模式。",
-    "capabilities": [
-      "learning"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2
+    "stars": 6,
+    "_source_description": "as is, no warranty",
+    "_updated": "2026-08-13"
   },
   {
     "id": "plugin-template-omdsh",
@@ -89,7 +69,45 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 0
+    "stars": 5,
+    "_source_description": "基于原turtle ui官方仓库创建的plugin模板仓库",
+    "_updated": "2026-08-12"
+  },
+  {
+    "id": "dsh-plugin-template-sunshine",
+    "name": "dsh-plugin-template (sunshine-lang)",
+    "type": "example",
+    "category": "learning",
+    "repository": "https://github.com/sunshine-lang/dsh-plugin-template",
+    "description": "Ready-to-publish plugin skeleton: bundle format, tool DSL, config and tests.",
+    "description_zh": "可直接发布的插件骨架：bundle 格式、工具 DSL、配置与测试。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "_source_description": "Ready-to-publish DeepSeek Harness plugin skeleton: bundle format, tool DSL, config, tests, and a scaffold script",
+    "_updated": "2026-08-14"
+  },
+  {
+    "id": "dsh-101",
+    "name": "dsh-101",
+    "type": "example",
+    "category": "learning",
+    "repository": "https://github.com/bill9109/dsh-101",
+    "description": "DSH documentation reading mode.",
+    "description_zh": "DSH 文档阅读模式。",
+    "capabilities": [
+      "learning"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "_source_description": "DSH 文档阅读模式",
+    "_updated": "2026-08-14",
+    "_stars_prev": 2,
+    "growth": 1
   },
   {
     "id": "dsh-plugin-hello",
@@ -104,6 +122,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 0
+    "stars": 0,
+    "_source_description": "A minimal DeepSeek Harness community plugin that registers a callable hello tool",
+    "_updated": "2026-08-14"
   }
 ]

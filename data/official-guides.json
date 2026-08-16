@@ -1,0 +1,118 @@
+{
+  "source": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+  "description": "Official curated guides for integrating DeepSeek models into AI agent & coding-assistant tools.",
+  "description_zh": "官方精选：将 DeepSeek 模型集成到主流 AI Agent 与编码助手工具的指南。",
+  "updated": "2026-08-15",
+  "tools": [
+    {
+      "tool": "AstrBot",
+      "description": "Open-source agent assistant for Feishu, Telegram and more, extensible with skills, plugins, and MCPs.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/astrbot.md"
+    },
+    {
+      "tool": "Cherry Studio",
+      "description": "Open-source cross-platform desktop AI client with 300+ assistants, MCP support, knowledge bases, and multi-model chat.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/cherry_studio.md"
+    },
+    {
+      "tool": "Claude Code",
+      "description": "AI coding assistant that runs in the terminal.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/claude_code.md"
+    },
+    {
+      "tool": "Cline",
+      "description": "AI coding assistant extension for VS Code supporting multiple API providers.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/cline.md"
+    },
+    {
+      "tool": "Codex",
+      "description": "OpenAI's coding agent.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/codex.md"
+    },
+    {
+      "tool": "Crush",
+      "description": "Glamorous open-source AI coding agent for the terminal with multi-model support and LSP integration.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/crush.md"
+    },
+    {
+      "tool": "Deep Code",
+      "description": "Open-source terminal AI coding assistant for the DeepSeek-V4 model with deep thinking, reasoning effort control, and Agent Skills.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/deepcode.md"
+    },
+    {
+      "tool": "DeepSeek-TUI",
+      "description": "Open-source Rust terminal coding assistant for DeepSeek-V4 — Codex-style architecture, sandboxed tools, MCP client + server, 1M context.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/deepseek-tui.md"
+    },
+    {
+      "tool": "GitHub Copilot",
+      "description": "AI peer programmer built into VS Code.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/github_copilot.md"
+    },
+    {
+      "tool": "GitHub Copilot CLI",
+      "description": "Terminal-native AI coding assistant with agentic capabilities.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/copilot_cli.md"
+    },
+    {
+      "tool": "Hermes",
+      "description": "Open-source self-improving AI agent built by Nous Research.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/hermes.md"
+    },
+    {
+      "tool": "Kilo Code",
+      "description": "AI coding assistant available as a CLI and editor extension.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/kilo_code.md"
+    },
+    {
+      "tool": "Langcli",
+      "description": "Open-source AI coding assistant that is 100% compatible with Claude Code and supports mainstream LLM models",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/langcli.md"
+    },
+    {
+      "tool": "LobeHub",
+      "description": "LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/lobehub.md"
+    },
+    {
+      "tool": "nanobot",
+      "description": "Open-source lightweight AI agent with chat platform integration, memory, MCP, and more.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/nanobot.md"
+    },
+    {
+      "tool": "Oh My Pi",
+      "description": "Terminal AI coding agent forked from Pi with OMP-specific tools, model roles, MCP, plugins, and agent workflows.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/oh-my-pi.md"
+    },
+    {
+      "tool": "OpenClaw",
+      "description": "Open-source personal AI assistant that plugs into chat tools (Feishu, WeChat) and is extensible via Skills.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/openclaw.md"
+    },
+    {
+      "tool": "OpenCode",
+      "description": "Open-source AI coding assistant available in terminal, web, and other forms.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/opencode.md"
+    },
+    {
+      "tool": "Pi",
+      "description": "Minimal, extensible terminal coding harness with tree-structured sessions and custom providers.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/pi_mono.md"
+    },
+    {
+      "tool": "Qwen Code",
+      "description": "Coding agent CLI by the Alibaba Qwen team — now with built-in DeepSeek provider support.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/qwen_code.md"
+    },
+    {
+      "tool": "Reasonix",
+      "description": "DeepSeek-native coding agent that runs in the terminal — cache-first loop, MCP-native.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/reasonix.md"
+    },
+    {
+      "tool": "WorkBuddy/CodeBuddy",
+      "description": "AI agent and coding assistant with custom OpenAI-compatible model configuration.",
+      "guide": "https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/workbuddy.md"
+    }
+  ]
+}

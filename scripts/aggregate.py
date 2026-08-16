@@ -31,10 +31,10 @@ DATA_DIR = ROOT / "data"
 # Source files (produced by the research phase)
 # --------------------------------------------------------------------------
 SOURCES = [
-    "/tmp/dsh_search/topic.json",          # topic:dsh-plugin top 100
-    "/tmp/dsh_search/topic_dsh.json",      # topic:dsh top 100
-    "/tmp/dsh_search/name_desc.json",      # "DeepSeek Harness" in name/desc
-    "/tmp/dsh_search/name_dsh_plugin.json",
+    "/tmp/dsh_r2/topic_plugin.json",
+    "/tmp/dsh_r2/topic_dsh.json",
+    "/tmp/dsh_r2/name_desc.json",
+    "/tmp/dsh_refresh/name_dsh_plugin.json",
     "/tmp/dsh_search/q2_dsh-skill.json",
     "/tmp/dsh_search/q2_dsh-mcp.json",
     "/tmp/dsh_search/q2_dsh-agent.json",
@@ -194,9 +194,11 @@ def main():
     # 2. existing curated entries (metadata refreshed later by update-metadata)
     existing = {}
     for f in DATA_DIR.glob("*.json"):
-        if f.name == "candidates.json":
+        if f.name in ("candidates.json", "readmes.json", "official-guides.json"):
             continue
         for e in json.loads(f.read_text()):
+            if not isinstance(e, dict) or "repository" not in e:
+                continue
             existing[e["repository"].replace("https://github.com/", "").lower()] = e
 
     # 3. filter noise

@@ -1,6 +1,25 @@
 [
   {
-    "id": "awesome-dsh-plugin",
+    "id": "awesome-deepseek-agent",
+    "name": "awesome-deepseek-agent (official)",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "description": "Official curated guides for integrating DeepSeek models into agent/coding-assistant tools (AstrBot, Cherry Studio, Claude Code, Codex, DeepSeek-TUI, Reasonix and more).",
+    "description_zh": "官方精选：将 DeepSeek 模型集成到主流 Agent/编码助手工具的指南（AstrBot、Cherry Studio、Claude Code、Codex、DeepSeek-TUI、Reasonix 等）。",
+    "capabilities": [
+      "research",
+      "learning"
+    ],
+    "status": "active",
+    "verified": true,
+    "stars": 5853,
+    "_updated": "2026-06-17",
+    "_stars_prev": 5801,
+    "growth": 52
+  },
+  {
+    "id": "awesome-dsh-plugin-org",
     "name": "awesome-dsh-plugin",
     "type": "awesome-list",
     "category": "registry",
@@ -12,7 +31,11 @@
     ],
     "status": "active",
     "verified": true,
-    "stars": 751
+    "stars": 2516,
+    "_source_description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "_updated": "2026-08-15",
+    "_stars_prev": 1762,
+    "growth": 754
   },
   {
     "id": "adamplatin-awesome-dsh-plugins",
@@ -28,7 +51,11 @@
     ],
     "status": "active",
     "verified": true,
-    "stars": 751
+    "stars": 942,
+    "_source_description": "前部索引仓库（Radar）：自动扫描发现的所有 dsh 插件候选；经测试合格的将移入后序精选目录仓库",
+    "_updated": "2026-08-15",
+    "_stars_prev": 890,
+    "growth": 52
   },
   {
     "id": "0xsline-awesome-deepseek-harness",
@@ -43,7 +70,11 @@
     ],
     "status": "active",
     "verified": true,
-    "stars": 360
+    "stars": 465,
+    "_source_description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 433,
+    "growth": 32
   },
   {
     "id": "zhaoolee-notes",
@@ -59,7 +90,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 138
+    "stars": 142,
+    "_source_description": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
+    "_updated": "2026-08-15",
+    "_stars_prev": 141,
+    "growth": 1
   },
   {
     "id": "bruc3van-awesome-dsh-plugin",
@@ -74,7 +109,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 86
+    "stars": 139,
+    "_source_description": "用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。",
+    "_updated": "2026-08-15",
+    "_stars_prev": 120,
+    "growth": 19
   },
   {
     "id": "alex-yanggg-awesome",
@@ -89,7 +128,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 47
+    "stars": 62,
+    "_source_description": "A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 57,
+    "growth": 5
   },
   {
     "id": "zhiyuan-fan-awesome",
@@ -104,53 +147,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 47
-  },
-  {
-    "id": "oh-my-dsh-like-study1",
-    "name": "oh-my-dsh",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/LaplaceYoung/oh-my-dsh",
-    "description": "Plugin ecosystem for DSH: 700+ plugins registered only through extension seams, without modifying the agent-loop skeleton.",
-    "description_zh": "面向 DSH 的插件生态：700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架。",
-    "capabilities": [
-      "search"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 43
-  },
-  {
-    "id": "plugin-registry",
-    "name": "plugin-registry",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/vlln/plugin-registry",
-    "description": "DSH plugin ecosystem infrastructure: thin console to manage official repository plugins (0 patch) plus the make-dsh-plugin skill.",
-    "description_zh": "DSH 插件生态基建：薄控制台管理官方 repository 插件（0 patch）+ make-dsh-plugin 技能。",
-    "capabilities": [
-      "workflow",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 31
-  },
-  {
-    "id": "dominic-awesome",
-    "name": "awesome-deepseek-harness (Dominic789654)",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/Dominic789654/awesome-deepseek-harness",
-    "description": "Curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators and UIs for DeepSeek Harness.",
-    "description_zh": "DSH 插件、技能、MCP 服务器、patch/profile 层、编排器与 UI 精选列表。",
-    "capabilities": [
-      "search"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 30
+    "stars": 61,
+    "_updated": "2026-08-15",
+    "_stars_prev": 55,
+    "growth": 6,
+    "_source_description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese."
   },
   {
     "id": "libukai-awesome",
@@ -166,7 +167,69 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 29
+    "stars": 62,
+    "_source_description": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+    "_updated": "2026-08-15",
+    "_stars_prev": 47,
+    "growth": 15
+  },
+  {
+    "id": "oh-my-dsh-like-study1",
+    "name": "oh-my-dsh",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/LaplaceYoung/oh-my-dsh",
+    "description": "Plugin ecosystem for DSH: 700+ plugins registered only through extension seams, without modifying the agent-loop skeleton.",
+    "description_zh": "面向 DSH 的插件生态：700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架。",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 47,
+    "_source_description": "oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架",
+    "_updated": "2026-08-15",
+    "_stars_prev": 45,
+    "growth": 2
+  },
+  {
+    "id": "plugin-registry",
+    "name": "plugin-registry",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/vlln/plugin-registry",
+    "description": "DSH plugin ecosystem infrastructure: thin console to manage official repository plugins (0 patch) plus the make-dsh-plugin skill.",
+    "description_zh": "DSH 插件生态基建：薄控制台管理官方 repository 插件（0 patch）+ make-dsh-plugin 技能。",
+    "capabilities": [
+      "workflow",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 40,
+    "_source_description": "DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导",
+    "_updated": "2026-08-13",
+    "_stars_prev": 39,
+    "growth": 1
+  },
+  {
+    "id": "dominic-awesome",
+    "name": "awesome-deepseek-harness (Dominic789654)",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Dominic789654/awesome-deepseek-harness",
+    "description": "Curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators and UIs for DeepSeek Harness.",
+    "description_zh": "DSH 插件、技能、MCP 服务器、patch/profile 层、编排器与 UI 精选列表。",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 47,
+    "_source_description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+    "_updated": "2026-08-15",
+    "_stars_prev": 39,
+    "growth": 8
   },
   {
     "id": "oh-my-dsh",
@@ -181,22 +244,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 21
-  },
-  {
-    "id": "deepseek-plugin-store",
-    "name": "deepseek-plugin-store",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/Ericwong5021/deepseek-plugin-store",
-    "description": "DeepSeek Harness 独立社区插件商店：发现、安装并提交经过验证的插件、工具与扩展。 | Independent community plugin directory.",
-    "description_zh": "DeepSeek Harness 独立社区插件商店：发现、安装并提交经过验证的插件、工具与扩展。 | Independent community plugin directory.",
-    "capabilities": [
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 12
+    "stars": 31,
+    "_source_description": "🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH: a community-maintained catalog of DeepSeek Harness plugins, auto-synced from the dsh-plugin topic",
+    "_updated": "2026-08-15",
+    "_stars_prev": 26,
+    "growth": 5
   },
   {
     "id": "dsh-suite",
@@ -212,7 +264,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 11
+    "stars": 23,
+    "_source_description": "The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and scaffolder. DSH 插件活目录：每小时刷新，每日兼容实测，内置插件商店与脚手架。",
+    "_updated": "2026-08-15",
+    "_stars_prev": 21,
+    "growth": 2
   },
   {
     "id": "dsh-meme-hub",
@@ -228,67 +284,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 9
-  },
-  {
-    "id": "white0dew-awesome",
-    "name": "awesome-dsh-plugins (white0dew)",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/white0dew/awesome-dsh-plugins",
-    "description": "Public GitHub directory for DSH plugins with install commands.",
-    "description_zh": "DSH 插件公开目录，含安装命令。",
-    "capabilities": [
-      "search"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 7
-  },
-  {
-    "id": "jiji262-awesome",
-    "name": "awesome-deepseek-harness (jiji262)",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/jiji262/awesome-deepseek-harness",
-    "description": "Curated DeepSeek Harness resources.",
-    "description_zh": "DeepSeek Harness 资源精选。",
-    "capabilities": [
-      "search"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 6
-  },
-  {
-    "id": "kejixiaoliang-awesome",
-    "name": "awesome-dsh-plugins (kejixiaoliang)",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/kejixiaoliang/awesome-dsh-plugins",
-    "description": "Curated DSH plugin catalog: 14 categories, 280+ community plugins covering MCP/Skill/TUI/multi-agent/context memory/UI skins.",
-    "description_zh": "DSH 插件精选目录：14 类 280+ 个社区插件，覆盖 MCP/Skill/TUI/多 Agent/上下文记忆/UI 皮肤。",
-    "capabilities": [
-      "search"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 5
-  },
-  {
-    "id": "billliao-awesome",
-    "name": "awesome-dsh-plugin (billLiao)",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/billLiao/awesome-dsh-plugin",
-    "description": "Curated list of plugins for DeepSeek Harness.",
-    "description_zh": "DeepSeek Harness 插件精选列表。",
-    "capabilities": [
-      "search"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 5
+    "stars": 20,
+    "_source_description": "🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins",
+    "_updated": "2026-08-15",
+    "_stars_prev": 17,
+    "growth": 3
   },
   {
     "id": "zat-dsh-engine",
@@ -304,22 +304,30 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 4
+    "stars": 29,
+    "_source_description": "Visual plugin marketplace for DeepSeek Harness — browse, search and install community plugins",
+    "_updated": "2026-08-15",
+    "_stars_prev": 17,
+    "growth": 12
   },
   {
-    "id": "dsh-plugins-hacksing",
-    "name": "dsh-plugins",
+    "id": "awesome-dsh-plugin",
+    "name": "awesome-dsh-plugin",
     "type": "awesome-list",
     "category": "registry",
-    "repository": "https://github.com/HackSing/dsh-plugins",
-    "description": "A bilingual, continuously maintained directory of plugins for DeepSeek Harness (DSH).",
-    "description_zh": "A bilingual, continuously maintained directory of plugins for DeepSeek Harness (DSH).",
+    "repository": "https://github.com/beancookie/awesome-dsh-plugin",
+    "description": "Awesome DeepSeek Harness (DSH) Plugin",
+    "description_zh": "Awesome DeepSeek Harness (DSH) Plugin",
     "capabilities": [
       "coding"
     ],
     "status": "active",
     "verified": false,
-    "stars": 4
+    "stars": 25,
+    "_source_description": "Awesome DeepSeek Harness (DSH) Plugin",
+    "_updated": "2026-08-15",
+    "_stars_prev": 16,
+    "growth": 9
   },
   {
     "id": "dsh-plugin-marketplace",
@@ -334,7 +342,220 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 4
+    "stars": 17,
+    "_source_description": "Verified plugin marketplace and autonomous registry for DeepSeek Harness",
+    "_updated": "2026-08-15",
+    "_stars_prev": 14,
+    "growth": 3
+  },
+  {
+    "id": "dsh-plugin-hub-noob",
+    "name": "dsh-plugin-hub",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/cclank/dsh-plugin-hub",
+    "description": "DeepSeek Harness community plugin registry with evidence-based screening",
+    "description_zh": "DeepSeek Harness community plugin registry with evidence-based screening",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 15,
+    "_source_description": "DeepSeek Harness community plugin registry with evidence-based screening",
+    "_updated": "2026-08-15",
+    "_stars_prev": 13,
+    "growth": 2
+  },
+  {
+    "id": "deepseek-plugin-store",
+    "name": "deepseek-plugin-store",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Ericwong5021/deepseek-plugin-store",
+    "description": "DeepSeek Harness 独立社区插件商店：发现、安装并提交经过验证的插件、工具与扩展。 | Independent community plugin directory.",
+    "description_zh": "DeepSeek Harness 独立社区插件商店：发现、安装并提交经过验证的插件、工具与扩展。 | Independent community plugin directory.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13,
+    "_source_description": "DeepSeek Harness 独立社区插件商店：发现、安装并提交经过验证的插件、工具与扩展。 | Independent community plugin directory.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 12,
+    "growth": 1
+  },
+  {
+    "id": "white0dew-awesome",
+    "name": "awesome-dsh-plugins (white0dew)",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/white0dew/awesome-dsh-plugins",
+    "description": "Public GitHub directory for DSH plugins with install commands.",
+    "description_zh": "DSH 插件公开目录，含安装命令。",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "_source_description": "Awesome DSH Plugins: a public GitHub directory for DeepSeek Harness plugins, DSH plugins, install commands, and ecosystem discovery.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 10,
+    "growth": 0
+  },
+  {
+    "id": "jiji262-awesome",
+    "name": "awesome-deepseek-harness (jiji262)",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/jiji262/awesome-deepseek-harness",
+    "description": "Curated DeepSeek Harness resources.",
+    "description_zh": "DeepSeek Harness 资源精选。",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "_updated": "2026-08-15"
+  },
+  {
+    "id": "dsh-market-2bingling",
+    "name": "dsh-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/2BingLing/dsh-market",
+    "description": "DeepSeek Harness 插件市场 · 持续收录 500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 500+ plugins, Chinese search, 5-dim scoring, one-click install.",
+    "description_zh": "DeepSeek Harness 插件市场 · 持续收录 500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 500+ plugins, Chinese search, 5-dim scoring, one-click install.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 11,
+    "_source_description": "DeepSeek Harness 插件市场 · 持续收录 1500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 1500+ plugins, Chinese search, 5-dim scoring, one-click install.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 9,
+    "growth": 2
+  },
+  {
+    "id": "kejixiaoliang-awesome",
+    "name": "awesome-dsh-plugins (kejixiaoliang)",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/kejixiaoliang/awesome-dsh-plugins",
+    "description": "Curated DSH plugin catalog: 14 categories, 280+ community plugins covering MCP/Skill/TUI/multi-agent/context memory/UI skins.",
+    "description_zh": "DSH 插件精选目录：14 类 280+ 个社区插件，覆盖 MCP/Skill/TUI/多 Agent/上下文记忆/UI 皮肤。",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 12,
+    "_source_description": "DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 8,
+    "growth": 4
+  },
+  {
+    "id": "awesome-deepseek-harness-plugins-zhiyuan",
+    "name": "awesome-deepseek-harness-plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins",
+    "description": "Curated community plugin directory and live marketplace for DeepSeek Harness.",
+    "description_zh": "Curated community plugin directory and live marketplace for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "_source_description": "Curated community plugin directory and live marketplace for DeepSeek Harness.",
+    "_updated": "2026-08-15",
+    "_stars_prev": 7,
+    "growth": 2
+  },
+  {
+    "id": "billliao-awesome",
+    "name": "awesome-dsh-plugin (billLiao)",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/billLiao/awesome-dsh-plugin",
+    "description": "Curated list of plugins for DeepSeek Harness.",
+    "description_zh": "DeepSeek Harness 插件精选列表。",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "_source_description": "A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表",
+    "_updated": "2026-08-15",
+    "_stars_prev": 6,
+    "growth": 1
+  },
+  {
+    "id": "dsh-plugin-marketplace-yelebai",
+    "name": "dsh-plugin-marketplace",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/AwesomeHou/dsh-plugin-marketplace",
+    "description": "Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).",
+    "description_zh": "Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13,
+    "_source_description": "Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).",
+    "_updated": "2026-08-15",
+    "_stars_prev": 5,
+    "growth": 8
+  },
+  {
+    "id": "dsh-plugins-hacksing",
+    "name": "dsh-plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/HackSing/dsh-plugins",
+    "description": "A bilingual, continuously maintained directory of plugins for DeepSeek Harness (DSH).",
+    "description_zh": "A bilingual, continuously maintained directory of plugins for DeepSeek Harness (DSH).",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "_source_description": "A bilingual, continuously maintained directory of plugins for DeepSeek Harness (DSH).",
+    "_updated": "2026-08-15",
+    "_stars_prev": 4,
+    "growth": 1
+  },
+  {
+    "id": "awesome-deepseek-harness-plugins",
+    "name": "awesome-deepseek-harness-plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/walkinglabs/awesome-deepseek-harness-plugins",
+    "description": "A curated, bilingual list of verified plugins, tools, design workflows, and learning resources for DeepSeek Harness (DSH).",
+    "description_zh": "A curated, bilingual list of verified plugins, tools, design workflows, and learning resources for DeepSeek Harness (DSH).",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "_source_description": "A curated, bilingual list of verified plugins, tools, design workflows, and learning resources for DeepSeek Harness (DSH).",
+    "_updated": "2026-08-15"
   },
   {
     "id": "dsh-plugins",
@@ -351,38 +572,80 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 3
+    "stars": 3,
+    "_source_description": "DeepSeek Harness 社区插件目录，自动汇总并基础校验 GitHub 插件，支持搜索、筛选、双语详情与最新版本安装命令复制。Community directory for DeepSeek Harness plugins with automated discovery, basic validation, search, filters, bilingual details, and latest version install commands.",
+    "_updated": "2026-08-15"
   },
   {
-    "id": "dsh-market-2bingling",
-    "name": "dsh-market",
+    "id": "sandbase-skills",
+    "name": "sandbase-skills",
     "type": "awesome-list",
     "category": "registry",
-    "repository": "https://github.com/2BingLing/dsh-market",
-    "description": "DeepSeek Harness 插件市场 · 持续收录 500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 500+ plugins, Chinese search, 5-dim scoring, one-click install.",
-    "description_zh": "DeepSeek Harness 插件市场 · 持续收录 500+ DSH 插件：中文搜索 + 实用五维评分 + 一键安装。Web 版与 DSH 侧边栏插件双形态。Plugin marketplace for DeepSeek Harness: 500+ plugins, Chinese search, 5-dim scoring, one-click install.",
+    "repository": "https://github.com/sandbaseai/sandbase-skills",
+    "description": "88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.",
+    "description_zh": "88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "_source_description": "88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.",
+    "_updated": "2026-08-15"
+  },
+  {
+    "id": "dsh-marketplace",
+    "name": "dsh-marketplace",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/ouyangyipeng/dsh-marketplace",
+    "description": "A safe, live plugin marketplace for DeepSeek Harness",
+    "description_zh": "A safe, live plugin marketplace for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "_source_description": "A safe, live plugin marketplace for DeepSeek Harness",
+    "_updated": "2026-08-14"
+  },
+  {
+    "id": "dsh-plugin-market-2bingling",
+    "name": "dsh-plugin-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/chnjames/dsh-plugin-market",
+    "description": "DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）",
+    "description_zh": "DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "_source_description": "DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令）",
+    "_updated": "2026-08-15"
+  },
+  {
+    "id": "dsh-plugin-market",
+    "name": "dsh-plugin-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/TheYoungChen/dsh-plugin-market",
+    "description": "DeepSeek Harness plugin market - browse, search & install dsh-plugin topic plugins (dsh 插件市场：浏览/搜索/安装插件)",
+    "description_zh": "DeepSeek Harness plugin market - browse, search & install dsh-plugin topic plugins (dsh 插件市场：浏览/搜索/安装插件)",
     "capabilities": [
       "coding",
       "search"
     ],
     "status": "active",
     "verified": false,
-    "stars": 3
-  },
-  {
-    "id": "awesome-deepseek-agent",
-    "name": "awesome-deepseek-agent (official)",
-    "type": "awesome-list",
-    "category": "registry",
-    "repository": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-    "description": "Official curated guides for integrating DeepSeek models into agent/coding-assistant tools (AstrBot, Cherry Studio, Claude Code, Codex, DeepSeek-TUI, Reasonix and more).",
-    "description_zh": "官方精选：将 DeepSeek 模型集成到主流 Agent/编码助手工具的指南（AstrBot、Cherry Studio、Claude Code、Codex、DeepSeek-TUI、Reasonix 等）。",
-    "capabilities": [
-      "research",
-      "learning"
-    ],
-    "status": "active",
-    "verified": true,
-    "stars": 0
+    "stars": 3,
+    "_source_description": "DeepSeek Harness plugin market - browse, search & install dsh-plugin topic plugins (dsh 插件市场：浏览/搜索/安装插件)",
+    "_updated": "2026-08-15"
   }
 ]

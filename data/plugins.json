@@ -3663,5 +3663,22 @@
     "stars": 0,
     "_updated": "2026-08-14",
     "subcategory": "sidebar-panels"
+  },
+  {
+    "id": "dsh-smooth-stream",
+    "name": "dsh-smooth-stream",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/Laplace-bit/dsh-smooth-stream",
+    "description": "Silky streaming reveal for the Web UI: text appears at the model's arrival rate, new lines glide in, no flicker; follow stays with the user and respects prefers-reduced-motion.",
+    "description_zh": "丝滑流式渲染：字跟着模型到达走、换行滑入、不闪，滚动归用户，尊重 prefers-reduced-motion。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": true,
+    "stars": 0,
+    "_updated": "2026-08-16",
+    "subcategory": "generative-ui"
   }
 ]

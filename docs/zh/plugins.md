@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（193 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（194 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-ads](resources/dsh-ads.md) | ⭐396 | 整活插件：2005 中文站点风格广告层，侧栏广告/对话内信息流/角落弹窗。 | ✅ 活跃 |
 | 10 | [dsh-market](resources/dsh-market.md) | ⭐218 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 
-## 完整列表（193）
+## 完整列表（194）
 
 
-**界面与体验（46）**
+**界面与体验（47）**
 
 *🎨 皮肤与主题（9）*
 
@@ -61,6 +61,18 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ultra-ui](resources/dsh-ultra-ui.md) | ⭐3 | Ultra UI plugin (cordis). | ✅ 活跃 |
 | [dsh-plugin-description](resources/dsh-plugin-description.md) | ⭐2 | mount one row in the composition and every plugin card on the Web Settings plugin list page gets a bilingual (zh/en) description; it also publishes the pluginDescriptions service so other plugins can register their own descriptions. | ✅ 活跃 |
 | [dsh-view-modes](resources/dsh-view-modes.md) | ⭐1 | Verbose/Normal/Summary 三种输出模式，工具调用与思考语义分组。 | ✅ 活跃 |
+*💡 生成式界面（8）*
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐1,065 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
+| [dsh-visualize](resources/dsh-visualize.md) | ⭐100 | 对话内交互式 HTML UI：流式预览与沙箱渲染。 | ✅ 活跃 |
+| [dsh-genui](resources/dsh-genui.md) | ⭐99 | 对话内生成式 UI：布局、图表、表单、测验、Mermaid 与交互事件内联渲染。 | ✅ 活跃 |
+| [deepseek-harness-skin](resources/deepseek-harness-skin.md) | ⭐34 | 换肤系统：21 套内置皮肤 + 一张图生成整套配色，构建期校验可读性。 | ✅ 活跃 |
+| [dsh-web-review](resources/dsh-web-review.md) | ⭐15 | DeepSeek Harness Web GUI 的网页预览与元素批注插件，让 AI 根据可视化反馈直接修改前端源码。 | ✅ 活跃 |
+| [dsh-plugin-aigc-canvas](resources/dsh-plugin-aigc-canvas.md) | ⭐6 | provider-agnostic AIGC HTTP 桥 + 无限画布 + ffmpeg 后处理，13 个工具含画布连边/reroll/媒体编辑 | Provider-agnostic AIGC HTTP bridge + infinite canvas + ffmpeg post-processing; 13 tools incl. canvas linking/reroll/media-edit | ✅ 活跃 |
+| [dsh-suggested-replies](resources/dsh-suggested-replies.md) | ⭐3 | DSH Web 预测回复插件：AI 回复后在输入框上方生成可点击填入草稿的候选。 | ✅ 活跃 |
+| [dsh-smooth-stream](resources/dsh-smooth-stream.md) | – | 丝滑流式渲染：字跟着模型到达走、换行滑入、不闪，滚动归用户，尊重 prefers-reduced-motion。 | ✅ 活跃 |
 *🖥️ 侧边栏与面板（8）*
 
 | 项目 | 星数 | 说明 | 状态 |
@@ -73,17 +85,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-workspace-search](resources/dsh-workspace-search.md) | ⭐4 | VS Code 风格工作区关键词搜索：Better Sidebar 生态的搜索 Tab。 | ✅ 活跃 |
 | [dsh-turn-index](resources/dsh-turn-index.md) | ⭐1 | 回合索引侧栏：每个用户回合一条，点击跳转，滚动监听高亮。 | ✅ 活跃 |
 | [dsh-plugin-cost](resources/dsh-plugin-cost.md) | – | Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). | ✅ 活跃 |
-*💡 生成式界面（7）*
-
-| 项目 | 星数 | 说明 | 状态 |
-|---|---|---|---|
-| [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐1,065 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
-| [dsh-visualize](resources/dsh-visualize.md) | ⭐100 | 对话内交互式 HTML UI：流式预览与沙箱渲染。 | ✅ 活跃 |
-| [dsh-genui](resources/dsh-genui.md) | ⭐99 | 对话内生成式 UI：布局、图表、表单、测验、Mermaid 与交互事件内联渲染。 | ✅ 活跃 |
-| [deepseek-harness-skin](resources/deepseek-harness-skin.md) | ⭐34 | 换肤系统：21 套内置皮肤 + 一张图生成整套配色，构建期校验可读性。 | ✅ 活跃 |
-| [dsh-web-review](resources/dsh-web-review.md) | ⭐15 | DeepSeek Harness Web GUI 的网页预览与元素批注插件，让 AI 根据可视化反馈直接修改前端源码。 | ✅ 活跃 |
-| [dsh-plugin-aigc-canvas](resources/dsh-plugin-aigc-canvas.md) | ⭐6 | provider-agnostic AIGC HTTP 桥 + 无限画布 + ffmpeg 后处理，13 个工具含画布连边/reroll/媒体编辑 | Provider-agnostic AIGC HTTP bridge + infinite canvas + ffmpeg post-processing; 13 tools incl. canvas linking/reroll/media-edit | ✅ 活跃 |
-| [dsh-suggested-replies](resources/dsh-suggested-replies.md) | ⭐3 | DSH Web 预测回复插件：AI 回复后在输入框上方生成可点击填入草稿的候选。 | ✅ 活跃 |
 *🐋 桌面宠物（5）*
 
 | 项目 | 星数 | 说明 | 状态 |

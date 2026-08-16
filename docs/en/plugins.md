@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 193 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 194 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-ads](resources/dsh-ads.md) | ⭐396 | Joke plugin: 2005 Chinese-web-style ad layer with sidebar banners, in-chat feed ads and corner popups. | ✅ active |
 | 10 | [dsh-market](resources/dsh-market.md) | ⭐218 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 
-## Complete list (193)
+## Complete list (194)
 
 
-**UI & experience (46)**
+**UI & experience (47)**
 
 *🎨 Skins & themes (9)*
 
@@ -61,6 +61,18 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ultra-ui](resources/dsh-ultra-ui.md) | ⭐3 | Ultra UI plugin (cordis). | ✅ active |
 | [dsh-plugin-description](resources/dsh-plugin-description.md) | ⭐2 | mount one row in the composition and every plugin card on the Web Settings plugin list page gets a bilingual (zh/en) description; it also publishes the pluginDescriptions service so other plugins can register their own descriptions. | ✅ active |
 | [dsh-view-modes](resources/dsh-view-modes.md) | ⭐1 | Output modes with Verbose, Normal and Summary views plus semantic grouping for tool calls and thinking. | ✅ active |
+*💡 Generative UI (8)*
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐1,065 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
+| [dsh-visualize](resources/dsh-visualize.md) | ⭐100 | Interactive HTML UI rendered directly in conversation with streaming preview and sandbox rendering. | ✅ active |
+| [dsh-genui](resources/dsh-genui.md) | ⭐99 | Generative UI inside conversations: layouts, charts, forms, quizzes, Mermaid and interactive events rendered inline. | ✅ active |
+| [deepseek-harness-skin](resources/deepseek-harness-skin.md) | ⭐34 | Skin system with 21 built-in themes plus one-image custom skin generation, contrast-validated at build time. | ✅ active |
+| [dsh-web-review](resources/dsh-web-review.md) | ⭐15 | DeepSeek Harness Web GUI 的网页预览与元素批注插件，让 AI 根据可视化反馈直接修改前端源码。 | ✅ active |
+| [dsh-plugin-aigc-canvas](resources/dsh-plugin-aigc-canvas.md) | ⭐6 | provider-agnostic AIGC HTTP 桥 + 无限画布 + ffmpeg 后处理，13 个工具含画布连边/reroll/媒体编辑 | Provider-agnostic AIGC HTTP bridge + infinite canvas + ffmpeg post-processing; 13 tools incl. canvas linking/reroll/media-edit | ✅ active |
+| [dsh-suggested-replies](resources/dsh-suggested-replies.md) | ⭐3 | Predicted next-message candidates above the DSH Web composer, one click to fill the draft. | ✅ active |
+| [dsh-smooth-stream](resources/dsh-smooth-stream.md) | – | Silky streaming reveal for the Web UI: text appears at the model's arrival rate, new lines glide in, no flicker; follow stays with the user and respects prefers-reduced-motion. | ✅ active |
 *🖥️ Sidebars & panels (8)*
 
 | Project | Stars | Description | Status |
@@ -73,17 +85,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-workspace-search](resources/dsh-workspace-search.md) | ⭐4 | VS Code-style workspace keyword search: a Search tab for the Better Sidebar ecosystem. | ✅ active |
 | [dsh-turn-index](resources/dsh-turn-index.md) | ⭐1 | Turn-index sidebar: one entry per user turn, click to jump with scroll-spy highlighting. | ✅ active |
 | [dsh-plugin-cost](resources/dsh-plugin-cost.md) | – | Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). | ✅ active |
-*💡 Generative UI (7)*
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐1,065 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
-| [dsh-visualize](resources/dsh-visualize.md) | ⭐100 | Interactive HTML UI rendered directly in conversation with streaming preview and sandbox rendering. | ✅ active |
-| [dsh-genui](resources/dsh-genui.md) | ⭐99 | Generative UI inside conversations: layouts, charts, forms, quizzes, Mermaid and interactive events rendered inline. | ✅ active |
-| [deepseek-harness-skin](resources/deepseek-harness-skin.md) | ⭐34 | Skin system with 21 built-in themes plus one-image custom skin generation, contrast-validated at build time. | ✅ active |
-| [dsh-web-review](resources/dsh-web-review.md) | ⭐15 | DeepSeek Harness Web GUI 的网页预览与元素批注插件，让 AI 根据可视化反馈直接修改前端源码。 | ✅ active |
-| [dsh-plugin-aigc-canvas](resources/dsh-plugin-aigc-canvas.md) | ⭐6 | provider-agnostic AIGC HTTP 桥 + 无限画布 + ffmpeg 后处理，13 个工具含画布连边/reroll/媒体编辑 | Provider-agnostic AIGC HTTP bridge + infinite canvas + ffmpeg post-processing; 13 tools incl. canvas linking/reroll/media-edit | ✅ active |
-| [dsh-suggested-replies](resources/dsh-suggested-replies.md) | ⭐3 | Predicted next-message candidates above the DSH Web composer, one click to fill the draft. | ✅ active |
 *🐋 Desktop pets (5)*
 
 | Project | Stars | Description | Status |

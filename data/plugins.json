@@ -3663,5 +3663,20 @@
     "stars": 0,
     "_updated": "2026-08-14",
     "subcategory": "sidebar-panels"
+  },
+  {
+    "id": "dsh-repo-setup",
+    "name": "dsh-repo-setup",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/gongyijie85/dsh-repo-setup",
+    "description": "Read-only repo bootstrap scanner (repo_setup_scan tool): detects stack/tests/docs/git/db and recommends plugins, MCP servers and hygiene files (claude-code-setup counterpart).",
+    "description_zh": "只读仓库体检引导工具（repo_setup_scan）：识别技术栈/测试/文档/git/数据库线索，给出插件、MCP 与卫生文件的安装建议（claude-code-setup 对应版）。",
+    "capabilities": [
+      "developer"
+    ],
+    "status": "active",
+    "verified": false,
+    "_updated": "2026-08-16"
   }
 ]

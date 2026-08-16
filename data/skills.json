@@ -373,5 +373,65 @@
     "stars": 0,
     "_source_description": "A Skill-driven Harness/Loop Engineering Workflow Agent Plugin",
     "_updated": "2026-08-14"
+  },
+  {
+    "id": "mattpocock-skills-dsh",
+    "name": "mattpocock-skills-dsh",
+    "type": "skill",
+    "category": "coding",
+    "repository": "https://github.com/gongyijie85/mattpocock-skills-dsh",
+    "description": "Matt Pocock full promoted skill set (25 SKILL.md: grilling, writing-for-agents, wait-what, TDD, code review, wayfinder, ask-matt router) ported to DSH.",
+    "description_zh": "Matt Pocock 完整发布技能集（25 个 SKILL.md：grilling、writing-for-agents、wait-what、TDD、code-review、wayfinder、ask-matt 路由等）的 DSH 移植。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "_updated": "2026-08-16"
+  },
+  {
+    "id": "mattpocock-skills-dsh-zh",
+    "name": "mattpocock-skills-dsh-zh",
+    "type": "skill",
+    "category": "coding",
+    "repository": "https://github.com/gongyijie85/mattpocock-skills-dsh-zh",
+    "description": "Matt Pocock's 25 skills fully translated to Chinese (technical terms kept in English with glosses).",
+    "description_zh": "Matt Pocock 25 个技能正文全译中文（技术术语保留英文并附注释）。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "_updated": "2026-08-16"
+  },
+  {
+    "id": "dsh-ponytail",
+    "name": "dsh-ponytail",
+    "type": "skill",
+    "category": "coding",
+    "repository": "https://github.com/gongyijie85/dsh-ponytail",
+    "description": "Ponytail lazy senior dev mode: 6 skills (ponytail, ponytail-audit, ponytail-debt, ponytail-gain, ponytail-help, ponytail-review) adapted from DietrichGebert/ponytail.",
+    "description_zh": "Ponytail 最懒资深工程师模式：6 个技能，改编自 DietrichGebert/ponytail。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "_updated": "2026-08-16"
+  },
+  {
+    "id": "dsh-ecc",
+    "name": "dsh-ecc",
+    "type": "skill",
+    "category": "coding",
+    "repository": "https://github.com/gongyijie85/dsh-ecc",
+    "description": "273 ECC skills (95.8% of the 227k-star operator system) ported to DSH in four batches.",
+    "description_zh": "ECC（227k⭐ 操作员系统）273 个技能（95.8%）分四批移植到 DSH。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "_updated": "2026-08-16"
   }
 ]

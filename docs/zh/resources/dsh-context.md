@@ -1,15 +1,15 @@
 ---
 title: "dsh-context"
-description: "A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves."
+description: "上下文洞察面板：一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。"
 keywords: "dsh-context, memory, plugin, coding, context, deepseek harness, dsh"
 ---
 # dsh-context
 
-> ⭐ 40 · ✅ 活跃 · 插件
+> ⭐ 42 · ✅ 活跃 · 插件
 
 ## 一句话介绍
 
-A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves.
+上下文洞察面板：一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。
 
 ## 详细介绍
 

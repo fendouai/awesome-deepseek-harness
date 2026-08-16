@@ -1,15 +1,15 @@
 ---
 title: "dsh-context"
-description: "A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves."
+description: "Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats."
 keywords: "dsh-context, memory, plugin, coding, context, deepseek harness, dsh"
 ---
 # dsh-context
 
-> ⭐ 40 · ✅ active · plugin
+> ⭐ 42 · ✅ active · plugin
 
 ## One-liner
 
-A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves.
+Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats.
 
 ## About
 

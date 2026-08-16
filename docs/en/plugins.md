@@ -256,7 +256,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
-| [dsh-context](resources/dsh-context.md) | ⭐40 | A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves. | ✅ active |
+| [dsh-context](resources/dsh-context.md) | ⭐42 | Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats. | ✅ active |
 | [billion-context-dsh](resources/billion-context-dsh.md) | ⭐12 | Model-driven context compression (Active Context Pruning): the model decides when and what to compress. | ✅ active |
 | [dsh-context-doctor](resources/dsh-context-doctor.md) | ⭐7 | Audits what actually enters every model request: token cost of AGENTS.md chains, skill catalogs and tool schemas, with duplicate/conflict detection. | ✅ active |
 | [context-vista](resources/context-vista.md) | ⭐4 | Live context/token monitor: floating panel + /context command with donut charts of token usage, allocation and estimated cost. | ✅ active |

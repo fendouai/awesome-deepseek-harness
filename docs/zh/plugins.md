@@ -256,7 +256,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
-| [dsh-context](resources/dsh-context.md) | ⭐40 | A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves. | ✅ 活跃 |
+| [dsh-context](resources/dsh-context.md) | ⭐42 | 上下文洞察面板：一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。 | ✅ 活跃 |
 | [billion-context-dsh](resources/billion-context-dsh.md) | ⭐12 | 模型驱动的上下文管理（Active Context Pruning）：由模型决定何时压缩、压缩什么。 | ✅ 活跃 |
 | [dsh-context-doctor](resources/dsh-context-doctor.md) | ⭐7 | 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突。 | ✅ 活跃 |
 | [context-vista](resources/context-vista.md) | ⭐4 | 上下文/Token 实时监控：悬浮面板 + /context 命令，环形图展示用量、分配与估算费用。 | ✅ 活跃 |

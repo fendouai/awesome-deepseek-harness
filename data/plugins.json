@@ -518,19 +518,19 @@
     "type": "plugin",
     "category": "memory",
     "repository": "https://github.com/bowenliang123/dsh-context",
-    "description": "A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves.",
-    "description_zh": "A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves.",
+    "description": "Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats.",
+    "description_zh": "上下文洞察面板：一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。",
     "capabilities": [
       "coding",
       "context"
     ],
     "status": "active",
     "verified": false,
-    "stars": 40,
+    "stars": 42,
     "_source_description": "A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves.",
     "_updated": "2026-08-15",
     "_stars_prev": 35,
-    "growth": 5,
+    "growth": 7,
     "subcategory": "context-management"
   },
   {

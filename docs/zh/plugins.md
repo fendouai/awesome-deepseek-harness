@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（198 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（199 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-vision-toolkit](resources/dsh-vision-toolkit.md) | ⭐496 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 | 10 | [dsh-ads](resources/dsh-ads.md) | ⭐447 | 整活插件：2005 中文站点风格广告层，侧栏广告/对话内信息流/角落弹窗。 | ✅ 活跃 |
 
-## 完整列表（198）
+## 完整列表（199）
 
 
 **界面与体验（47）**
@@ -111,7 +111,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-deepseek-quota](resources/dsh-deepseek-quota.md) | ⭐3 | DeepSeek API quota (balance) widget for the DSH web GUI: a floating bottom-right card showing remaining DeepSeek API balance. | ✅ 活跃 |
 | [dsh-cost-meter](resources/dsh-cost-meter.md) | ⭐1 | dsh plugin: per-turn USD cost badge in the Web UI (session total + per-message footer, hover breakdown) from token usage x a configurable pricing table. | ✅ 活跃 |
 
-**开发者工具（45）**
+**开发者工具（46）**
 
 *📁 文件与导入（10）*
 
@@ -182,6 +182,11 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-tool-git](resources/dsh-tool-git.md) | ⭐4 | 结构化安全 Git 工具：status/diff/log/branch/stage/commit/stash/show，带破坏性命令防护。 | ✅ 活跃 |
 | [dsh-llm-inspector](resources/dsh-llm-inspector.md) | ⭐3 | 统一 LLM 请求/响应检查器：调 reasoning effort、外部思考(think)导出、流量与包分析。 | ✅ 活跃 |
 | [dsh-review-loop](resources/dsh-review-loop.md) | ⭐2 | 增量代码审查：基于检查点的审查队列 + Web UI 面板 + /review 命令。 | ✅ 活跃 |
+*model-providers（1）*
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-llm-local-token](resources/dsh-llm-local-token.md) | – | 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。 | ✅ 活跃 |
 
 **视觉与多模态（21）**
 

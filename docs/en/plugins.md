@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 198 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 199 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-vision-toolkit](resources/dsh-vision-toolkit.md) | ⭐496 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 | 10 | [dsh-ads](resources/dsh-ads.md) | ⭐447 | Joke plugin: 2005 Chinese-web-style ad layer with sidebar banners, in-chat feed ads and corner popups. | ✅ active |
 
-## Complete list (198)
+## Complete list (199)
 
 
 **UI & experience (47)**
@@ -111,7 +111,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-deepseek-quota](resources/dsh-deepseek-quota.md) | ⭐3 | DeepSeek API quota (balance) widget for the DSH web GUI: a floating bottom-right card showing remaining DeepSeek API balance. | ✅ active |
 | [dsh-cost-meter](resources/dsh-cost-meter.md) | ⭐1 | dsh plugin: per-turn USD cost badge in the Web UI (session total + per-message footer, hover breakdown) from token usage x a configurable pricing table. | ✅ active |
 
-**Developer tools (45)**
+**Developer tools (46)**
 
 *📁 Files & import (10)*
 
@@ -182,6 +182,11 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-tool-git](resources/dsh-tool-git.md) | ⭐4 | Structured safe Git tools: status/diff/log/branch/stage/commit/stash/show with a destructive-command guard. | ✅ active |
 | [dsh-llm-inspector](resources/dsh-llm-inspector.md) | ⭐3 | Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis. | ✅ active |
 | [dsh-review-loop](resources/dsh-review-loop.md) | ⭐2 | Incremental diff reviewer: checkpoint-based review queue with a Web UI panel and /review command. | ✅ active |
+*model-providers (1)*
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-llm-local-token](resources/dsh-llm-local-token.md) | – | DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. | ✅ active |
 
 **Vision & multimodal (21)**
 

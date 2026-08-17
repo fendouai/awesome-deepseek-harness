@@ -3829,5 +3829,22 @@
     "_stars_prev": 0,
     "growth": 8,
     "_source_description": "DeepSeek Harness (dsh) plugin: silky streaming reveal, no flicker. dsh 丝滑流式渲染插件。"
+  },
+  {
+    "id": "dsh-llm-local-token",
+    "name": "dsh-llm-local-token",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/tianxia--/dsh-llm-local-token",
+    "description": "DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys.",
+    "description_zh": "复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。",
+    "capabilities": [
+      "security",
+      "observability"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "subcategory": "model-providers"
   }
 ]

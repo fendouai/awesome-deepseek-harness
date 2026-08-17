@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐496 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 | 10 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | ⭐447 | 整活插件：2005 中文站点风格广告层，侧栏广告/对话内信息流/角落弹窗。 | ✅ 活跃 |
 
-#### 完整列表（198）
+#### 完整列表（199）
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,848 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐3,249 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -365,6 +365,7 @@ dsh web
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — 从 Web 输入框上传任意本地文件，待传卡片显示，设置页统一管理。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-island](https://github.com/cdxiaodong/dsh-island)  — 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。（✅ 活跃）
+- [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。（✅ 活跃）
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria)  — 向量 + 图记忆后端：命名空间隔离、自动观察、召回、重要性处理与热重载。（🧪 实验性）
 - [dsh-memory](https://github.com/flymysql/dsh-memory)  — 跨会话记忆库：memory_remember / memory_recall / memory_forget 工具 + 设置页。（🧪 实验性）
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh).（✅ 活跃）
@@ -886,7 +887,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐496 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 | 10 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | ⭐447 | 整活插件：2005 中文站点风格广告层，侧栏广告/对话内信息流/角落弹窗。 | ✅ 活跃 |
 
-#### 完整列表（198）
+#### 完整列表（199）
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,848 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐3,249 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1080,6 +1081,7 @@ awesome-deepseek-harness/
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — 从 Web 输入框上传任意本地文件，待传卡片显示，设置页统一管理。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-island](https://github.com/cdxiaodong/dsh-island)  — 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。（✅ 活跃）
+- [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。（✅ 活跃）
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria)  — 向量 + 图记忆后端：命名空间隔离、自动观察、召回、重要性处理与热重载。（🧪 实验性）
 - [dsh-memory](https://github.com/flymysql/dsh-memory)  — 跨会话记忆库：memory_remember / memory_recall / memory_forget 工具 + 设置页。（🧪 实验性）
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh).（✅ 活跃）

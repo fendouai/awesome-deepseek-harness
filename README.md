@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐496 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 | 10 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | ⭐447 | Joke plugin: 2005 Chinese-web-style ad layer with sidebar banners, in-chat feed ads and corner popups. | ✅ active |
 
-#### Complete list (198)
+#### Complete list (199)
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,848 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐3,249 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -364,6 +364,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — Upload arbitrary local files from the Web composer with pending cards, managed in Settings. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-island](https://github.com/cdxiaodong/dsh-island)  — Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny. (✅ active)
+- [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. (✅ active)
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria)  — Vector + graph memory backend with namespace isolation, automatic observation, recall, importance handling and hot reload. (🧪 experimental)
 - [dsh-memory](https://github.com/flymysql/dsh-memory)  — Cross-session memory vault: memory_remember / memory_recall / memory_forget tools with a Settings page. (🧪 experimental)
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). (✅ active)
@@ -885,7 +886,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐496 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 | 10 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | ⭐447 | Joke plugin: 2005 Chinese-web-style ad layer with sidebar banners, in-chat feed ads and corner popups. | ✅ active |
 
-#### Complete list (198)
+#### Complete list (199)
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,848 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐3,249 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -1079,6 +1080,7 @@ awesome-deepseek-harness/
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — Upload arbitrary local files from the Web composer with pending cards, managed in Settings. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-island](https://github.com/cdxiaodong/dsh-island)  — Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny. (✅ active)
+- [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. (✅ active)
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria)  — Vector + graph memory backend with namespace isolation, automatic observation, recall, importance handling and hot reload. (🧪 experimental)
 - [dsh-memory](https://github.com/flymysql/dsh-memory)  — Cross-session memory vault: memory_remember / memory_recall / memory_forget tools with a Settings page. (🧪 experimental)
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). (✅ active)

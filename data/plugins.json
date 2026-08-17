@@ -3829,5 +3829,23 @@
     "_stars_prev": 0,
     "growth": 8,
     "_source_description": "DeepSeek Harness (dsh) plugin: silky streaming reveal, no flicker. dsh 丝滑流式渲染插件。"
+  },
+  {
+    "id": "dsh-dream-skin",
+    "name": "dsh-dream-skin",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/RevolutionLA/dsh-dream-skin",
+    "description": "One-command skinning for DSH Web: 8 original themes, wallpaper (opacity/blur/gradient/URL), per-user accent, shareable theme packs, favorites and surprise-me — purely native on DSH's token system.",
+    "description_zh": "DSH Web 一键换肤插件：8 套原创主题、背景壁纸（透明度/模糊/渐变/URL）、每用户强调色、主题包导入导出与分享链接、收藏与随机，纯原生 token 系统。",
+    "capabilities": [
+      "ui",
+      "theme",
+      "wallpaper"
+    ],
+    "status": "active",
+    "verified": true,
+    "stars": 45,
+    "subcategory": "skins-themes"
   }
 ]

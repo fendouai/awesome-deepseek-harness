@@ -3829,5 +3829,23 @@
     "_stars_prev": 0,
     "growth": 8,
     "_source_description": "DeepSeek Harness (dsh) plugin: silky streaming reveal, no flicker. dsh 丝滑流式渲染插件。"
+  },
+  {
+    "id": "open-sea-skin",
+    "name": "Open Sea Skin",
+    "type": "plugin",
+    "category": "ui",
+    "subcategory": "skins-themes",
+    "repository": "https://github.com/d-dev0101/open-sea-skin",
+    "description": "Realtime WebGPU ocean skin with controls for waves, daylight, glass opacity and automatic day cycling.",
+    "description_zh": "实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "install": "dsh plugin --profile web add 'github:d-dev0101/open-sea-skin#v1.2.0'",
+    "license": "MIT"
   }
 ]

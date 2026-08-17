@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（198 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（199 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,12 +30,12 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-vision-toolkit](resources/dsh-vision-toolkit.md) | ⭐496 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 | 10 | [dsh-ads](resources/dsh-ads.md) | ⭐447 | 整活插件：2005 中文站点风格广告层，侧栏广告/对话内信息流/角落弹窗。 | ✅ 活跃 |
 
-## 完整列表（198）
+## 完整列表（199）
 
 
-**界面与体验（47）**
+**界面与体验（48）**
 
-*🎨 皮肤与主题（9）*
+*🎨 皮肤与主题（10）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -48,6 +48,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-skin](resources/dsh-skin.md) | ⭐16 | Codex 风格皮肤切换器 + 自定义半透明壁纸，支持透明度/模糊控制。 | ✅ 活跃 |
 | [dsh-deepcel](resources/dsh-deepcel.md) | ⭐9 | Excel 风格电子表格皮肤。 | ✅ 活跃 |
 | [dsh-ui-appearance](resources/dsh-ui-appearance.md) | ⭐6 | Appearance customization plugin for DeepSeek Harness: theme color palette, background image, opacity/blur, glass effect | ✅ 活跃 |
+| [Open Sea Skin](resources/open-sea-skin.md) | – | 实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。 | ✅ 活跃 |
 *其他（9）*
 
 | 项目 | 星数 | 说明 | 状态 |

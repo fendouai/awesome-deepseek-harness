@@ -978,5 +978,28 @@
     "_updated": "2026-08-15",
     "_stars_prev": 12,
     "growth": 2
+  },
+  {
+    "id": "dsh-desktop-app",
+    "name": "dsh-desktop",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/xiaowei2025cqu23phy/dsh-desktop",
+    "description": "Desktop client for DeepSeek Harness: AI screensaver, phone PWA remote control (LAN pairing), QQ/Telegram bot channels with approval/question buttons, mode prompts (assistant/friend), wallpapers and more.",
+    "description_zh": "DeepSeek Harness 桌面客户端:AI 屏保、手机 PWA 遥控(扫码配对)、QQ/Telegram 机器人通道(审批/提问按钮)、模式提示词(工作助手/对话朋友)、壁纸美化等。",
+    "capabilities": [
+      "desktop",
+      "mobile",
+      "channels",
+      "automation",
+      "notifications",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "_updated": "2026-08-17",
+    "_stars_prev": 0,
+    "growth": 1
   }
 ]

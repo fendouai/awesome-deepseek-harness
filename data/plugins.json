@@ -3829,5 +3829,21 @@
     "_stars_prev": 0,
     "growth": 8,
     "_source_description": "DeepSeek Harness (dsh) plugin: silky streaming reveal, no flicker. dsh 丝滑流式渲染插件。"
+  },
+  {
+    "id": "xgone-dsh-remote",
+    "name": "xgone/dsh-remote",
+    "type": "plugin",
+    "category": "security",
+    "repository": "https://github.com/xgone/dsh-remote",
+    "description": "Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management.",
+    "description_zh": "让 DeepSeek Harness 可以被安全地远程访问：账号密码认证 + MFA（TOTP）登录门禁、签名会话 Cookie、角色权限、浏览器内目录选择器、账号管理设置页。",
+    "capabilities": [
+      "security",
+      "ui"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 0
   }
 ]

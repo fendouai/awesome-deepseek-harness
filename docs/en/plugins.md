@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 198 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 199 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-vision-toolkit](resources/dsh-vision-toolkit.md) | ⭐496 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 | 10 | [dsh-ads](resources/dsh-ads.md) | ⭐447 | Joke plugin: 2005 Chinese-web-style ad layer with sidebar banners, in-chat feed ads and corner popups. | ✅ active |
 
-## Complete list (198)
+## Complete list (199)
 
 
 **UI & experience (47)**
@@ -350,8 +350,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-notify-windows](resources/dsh-notify-windows.md) | ⭐4 | Windows notifications for DSH, zero dependencies. | ✅ active |
 | [dsh-island](resources/dsh-island.md) | – | Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny. | ✅ active |
 
-**Security (1)**
+**Security (2)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
+| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | – | Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management. | 🧪 experimental |

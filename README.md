@@ -680,7 +680,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 ### Examples & Starters
 
 
-#### 🔥 Top 7
+#### 🔥 Top 8
 
 | # | Project | Stars | Description | Status |
 |---|---|---|---|---|
@@ -691,8 +691,9 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 5 | [dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) | ⭐4 | Template for DeepSeek Harness plugin development. | ✅ active |
 | 6 | [dsh-plugin-template (sunshine-lang)](https://github.com/sunshine-lang/dsh-plugin-template) | ⭐3 | Ready-to-publish plugin skeleton: bundle format, tool DSL, config and tests. | ✅ active |
 | 7 | [dsh-plugin-hello](https://github.com/xu1132/dsh-plugin-hello) |  | Hello-world style starter plugin for DSH. | ✅ active |
+| 8 | [Living-Dream-DSH](https://github.com/alllllllllli/Living-Dream-DSH) |  | Complete DSH desktop config framework: 8+ MCP servers, free model channels, mobile remote, one-click installer. MIT. | ✅ active |
 
-#### Complete list (7)
+#### Complete list (8)
 
 - [hello-dsh](https://github.com/pingfanfan/hello-dsh) ⭐67 — Zero-to-plugin tutorial: understand 'everything is a plugin' with 22 Chinese skill examples. (✅ active)
 - [plugin-template (omdsh-dev)](https://github.com/omdsh-dev/plugin-template) ⭐10 — Plugin template repository derived from the original turtle-ui official repo. (✅ active)
@@ -701,6 +702,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) ⭐4 — Template for DeepSeek Harness plugin development. (✅ active)
 - [dsh-plugin-template (sunshine-lang)](https://github.com/sunshine-lang/dsh-plugin-template) ⭐3 — Ready-to-publish plugin skeleton: bundle format, tool DSL, config and tests. (✅ active)
 - [dsh-plugin-hello](https://github.com/xu1132/dsh-plugin-hello)  — Hello-world style starter plugin for DSH. (✅ active)
+- [Living-Dream-DSH](https://github.com/alllllllllli/Living-Dream-DSH) ⭐ — Complete DSH desktop config framework: 8+ MCP servers, free model channels (CNB proxy, AMD Radeon Cloud), mobile remote via Tailscale, vision patches, one-click installer. MIT. (✅ active)
 
 ### Tutorials & Learning
 
@@ -1450,7 +1452,7 @@ awesome-deepseek-harness/
 ### Examples & Starters
 
 
-#### 🔥 Top 7
+#### 🔥 Top 8
 
 | # | Project | Stars | Description | Status |
 |---|---|---|---|---|
@@ -1461,8 +1463,9 @@ awesome-deepseek-harness/
 | 5 | [dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) | ⭐4 | Template for DeepSeek Harness plugin development. | ✅ active |
 | 6 | [dsh-plugin-template (sunshine-lang)](https://github.com/sunshine-lang/dsh-plugin-template) | ⭐3 | Ready-to-publish plugin skeleton: bundle format, tool DSL, config and tests. | ✅ active |
 | 7 | [dsh-plugin-hello](https://github.com/xu1132/dsh-plugin-hello) |  | Hello-world style starter plugin for DSH. | ✅ active |
+| 8 | [Living-Dream-DSH](https://github.com/alllllllllli/Living-Dream-DSH) |  | Complete DSH desktop config framework: 8+ MCP servers, free model channels, mobile remote, one-click installer. MIT. | ✅ active |
 
-#### Complete list (7)
+#### Complete list (8)
 
 - [hello-dsh](https://github.com/pingfanfan/hello-dsh) ⭐67 — Zero-to-plugin tutorial: understand 'everything is a plugin' with 22 Chinese skill examples. (✅ active)
 - [plugin-template (omdsh-dev)](https://github.com/omdsh-dev/plugin-template) ⭐10 — Plugin template repository derived from the original turtle-ui official repo. (✅ active)
@@ -1471,6 +1474,7 @@ awesome-deepseek-harness/
 - [dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) ⭐4 — Template for DeepSeek Harness plugin development. (✅ active)
 - [dsh-plugin-template (sunshine-lang)](https://github.com/sunshine-lang/dsh-plugin-template) ⭐3 — Ready-to-publish plugin skeleton: bundle format, tool DSL, config and tests. (✅ active)
 - [dsh-plugin-hello](https://github.com/xu1132/dsh-plugin-hello)  — Hello-world style starter plugin for DSH. (✅ active)
+- [Living-Dream-DSH](https://github.com/alllllllllli/Living-Dream-DSH) ⭐ — Complete DSH desktop config framework: 8+ MCP servers, free model channels (CNB proxy, AMD Radeon Cloud), mobile remote via Tailscale, vision patches, one-click installer. MIT. (✅ active)
 
 ### Tutorials & Learning
 

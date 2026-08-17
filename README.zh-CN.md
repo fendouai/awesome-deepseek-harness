@@ -681,7 +681,7 @@ dsh web
 ### Examples & Starters
 
 
-#### 🔥 Top 7
+#### 🔥 Top 8
 
 | # | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|---|
@@ -692,8 +692,9 @@ dsh web
 | 5 | [dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) | ⭐4 | DeepSeek Harness 插件开发模板。 | ✅ 活跃 |
 | 6 | [dsh-plugin-template (sunshine-lang)](https://github.com/sunshine-lang/dsh-plugin-template) | ⭐3 | 可直接发布的插件骨架：bundle 格式、工具 DSL、配置与测试。 | ✅ 活跃 |
 | 7 | [dsh-plugin-hello](https://github.com/xu1132/dsh-plugin-hello) |  | Hello-world 风格 DSH 起步插件。 | ✅ 活跃 |
+| 8 | [Living-Dream-DSH](https://github.com/alllllllllli/Living-Dream-DSH) |  | 完整 DSH 桌面配置框架：8+ MCP 服务器、免费模型渠道、手机远程、一键安装。MIT。 | ✅ 活跃 |
 
-#### 完整列表（7）
+#### 完整列表（8）
 
 - [hello-dsh](https://github.com/pingfanfan/hello-dsh) ⭐67 — 从零开始看懂「万物皆可插件」：零基础插件开发教程，含 22 个中文技能实例。（✅ 活跃）
 - [plugin-template (omdsh-dev)](https://github.com/omdsh-dev/plugin-template) ⭐10 — 基于原 turtle-ui 官方仓库创建的插件模板。（✅ 活跃）
@@ -702,6 +703,7 @@ dsh web
 - [dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) ⭐4 — DeepSeek Harness 插件开发模板。（✅ 活跃）
 - [dsh-plugin-template (sunshine-lang)](https://github.com/sunshine-lang/dsh-plugin-template) ⭐3 — 可直接发布的插件骨架：bundle 格式、工具 DSL、配置与测试。（✅ 活跃）
 - [dsh-plugin-hello](https://github.com/xu1132/dsh-plugin-hello)  — Hello-world 风格 DSH 起步插件。（✅ 活跃）
+- [Living-Dream-DSH](https://github.com/alllllllllli/Living-Dream-DSH) ⭐ — 完整 DSH 桌面配置框架：8+ MCP 服务器、免费模型渠道（CNB 代理、AMD Radeon Cloud）、Tailscale 手机远程、视觉补丁、一键安装脚本。MIT。（✅ 活跃）
 
 ### Tutorials & Learning
 
@@ -1451,7 +1453,7 @@ awesome-deepseek-harness/
 ### Examples & Starters
 
 
-#### 🔥 Top 7
+#### 🔥 Top 8
 
 | # | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|---|
@@ -1462,8 +1464,9 @@ awesome-deepseek-harness/
 | 5 | [dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) | ⭐4 | DeepSeek Harness 插件开发模板。 | ✅ 活跃 |
 | 6 | [dsh-plugin-template (sunshine-lang)](https://github.com/sunshine-lang/dsh-plugin-template) | ⭐3 | 可直接发布的插件骨架：bundle 格式、工具 DSL、配置与测试。 | ✅ 活跃 |
 | 7 | [dsh-plugin-hello](https://github.com/xu1132/dsh-plugin-hello) |  | Hello-world 风格 DSH 起步插件。 | ✅ 活跃 |
+| 8 | [Living-Dream-DSH](https://github.com/alllllllllli/Living-Dream-DSH) |  | 完整 DSH 桌面配置框架：8+ MCP 服务器、免费模型渠道、手机远程、一键安装。MIT。 | ✅ 活跃 |
 
-#### 完整列表（7）
+#### 完整列表（8）
 
 - [hello-dsh](https://github.com/pingfanfan/hello-dsh) ⭐67 — 从零开始看懂「万物皆可插件」：零基础插件开发教程，含 22 个中文技能实例。（✅ 活跃）
 - [plugin-template (omdsh-dev)](https://github.com/omdsh-dev/plugin-template) ⭐10 — 基于原 turtle-ui 官方仓库创建的插件模板。（✅ 活跃）
@@ -1472,6 +1475,7 @@ awesome-deepseek-harness/
 - [dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) ⭐4 — DeepSeek Harness 插件开发模板。（✅ 活跃）
 - [dsh-plugin-template (sunshine-lang)](https://github.com/sunshine-lang/dsh-plugin-template) ⭐3 — 可直接发布的插件骨架：bundle 格式、工具 DSL、配置与测试。（✅ 活跃）
 - [dsh-plugin-hello](https://github.com/xu1132/dsh-plugin-hello)  — Hello-world 风格 DSH 起步插件。（✅ 活跃）
+- [Living-Dream-DSH](https://github.com/alllllllllli/Living-Dream-DSH) ⭐ — 完整 DSH 桌面配置框架：8+ MCP 服务器、免费模型渠道（CNB 代理、AMD Radeon Cloud）、Tailscale 手机远程、视觉补丁、一键安装脚本。MIT。（✅ 活跃）
 
 ### Tutorials & Learning
 

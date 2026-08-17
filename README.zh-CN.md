@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐496 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 | 10 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | ⭐447 | 整活插件：2005 中文站点风格广告层，侧栏广告/对话内信息流/角落弹窗。 | ✅ 活跃 |
 
-#### 完整列表（198）
+#### 完整列表（200）
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,848 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐3,249 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -361,7 +361,9 @@ dsh web
 - [dsh-plugin-quote-reply](https://github.com/yangYzc/dsh-plugin-quote-reply) ⭐1 — DSH plugin: select text in a conversation, then quote it into the composer or reply in a new window. / DeepSeek Harness 划词引用插件：选中文字一键引用回复或新窗口回复。（✅ 活跃）
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) ⭐1 — 回合索引侧栏：每个用户回合一条，点击跳转，滚动监听高亮。（✅ 活跃）
 - [dsh-view-modes](https://github.com/NigelYao/dsh-view-modes) ⭐1 — Verbose/Normal/Summary 三种输出模式，工具调用与思考语义分组。（✅ 活跃）
+- [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) ⭐1 — DeepSeek Harness 视觉能力全家桶：vision_understand 工具（OpenAI 兼容视觉 API，默认免费智谱 GLM-4V-Flash）+ 粘贴/拖拽/按钮三入口识图。（✅ 活跃）
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file.（✅ 活跃）
+- [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)  — DeepSeek Harness 自动审批门控：Flash 预判写入/命令是否不可回补，安全操作自动批准、危险操作转人工（fail-safe）。（✅ 活跃）
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — 从 Web 输入框上传任意本地文件，待传卡片显示，设置页统一管理。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-island](https://github.com/cdxiaodong/dsh-island)  — 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。（✅ 活跃）
@@ -886,7 +888,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐496 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 | 10 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | ⭐447 | 整活插件：2005 中文站点风格广告层，侧栏广告/对话内信息流/角落弹窗。 | ✅ 活跃 |
 
-#### 完整列表（198）
+#### 完整列表（200）
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,848 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐3,249 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1076,7 +1078,9 @@ awesome-deepseek-harness/
 - [dsh-plugin-quote-reply](https://github.com/yangYzc/dsh-plugin-quote-reply) ⭐1 — DSH plugin: select text in a conversation, then quote it into the composer or reply in a new window. / DeepSeek Harness 划词引用插件：选中文字一键引用回复或新窗口回复。（✅ 活跃）
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) ⭐1 — 回合索引侧栏：每个用户回合一条，点击跳转，滚动监听高亮。（✅ 活跃）
 - [dsh-view-modes](https://github.com/NigelYao/dsh-view-modes) ⭐1 — Verbose/Normal/Summary 三种输出模式，工具调用与思考语义分组。（✅ 活跃）
+- [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) ⭐1 — DeepSeek Harness 视觉能力全家桶：vision_understand 工具（OpenAI 兼容视觉 API，默认免费智谱 GLM-4V-Flash）+ 粘贴/拖拽/按钮三入口识图。（✅ 活跃）
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file.（✅ 活跃）
+- [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)  — DeepSeek Harness 自动审批门控：Flash 预判写入/命令是否不可回补，安全操作自动批准、危险操作转人工（fail-safe）。（✅ 活跃）
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — 从 Web 输入框上传任意本地文件，待传卡片显示，设置页统一管理。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-island](https://github.com/cdxiaodong/dsh-island)  — 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。（✅ 活跃）

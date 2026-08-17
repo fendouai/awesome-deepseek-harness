@@ -3829,5 +3829,46 @@
     "_stars_prev": 0,
     "growth": 8,
     "_source_description": "DeepSeek Harness (dsh) plugin: silky streaming reveal, no flicker. dsh 丝滑流式渲染插件。"
+  },
+  {
+    "id": "dsh-vision-tools",
+    "name": "dsh-vision-tools",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/moon09300731/dsh-vision-tools",
+    "description": "Full vision-capability bundle for DeepSeek Harness: a vision_understand tool (OpenAI-compatible vision APIs, free Zhipu GLM-4V-Flash by default) plus paste/drag-and-drop/button entry points for image recognition.",
+    "description_zh": "DeepSeek Harness 视觉能力全家桶：vision_understand 工具（OpenAI 兼容视觉 API，默认免费智谱 GLM-4V-Flash）+ 粘贴/拖拽/按钮三入口识图。",
+    "capabilities": [
+      "multimodal",
+      "vision"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "_source_description": "DeepSeek Harness 视觉能力全家桶：vision_understand 工具（OpenAI 兼容视觉 API，默认免费智谱 GLM-4V-Flash）+ 粘贴/拖拽/按钮三入口识图",
+    "_updated": "2026-08-17",
+    "_stars_prev": 0,
+    "growth": 0,
+    "subcategory": "vision-tools"
+  },
+  {
+    "id": "dsh-approval-gate",
+    "name": "dsh-approval-gate",
+    "type": "plugin",
+    "category": "security",
+    "repository": "https://github.com/moon09300731/dsh-approval-gate",
+    "description": "Risk-gated approval automation for DeepSeek Harness: flash pre-classifies whether a write/command is irreversible — safe operations are auto-approved, dangerous ones are escalated to human approval (fail-safe).",
+    "description_zh": "DeepSeek Harness 自动审批门控：Flash 预判写入/命令是否不可回补，安全操作自动批准、危险操作转人工（fail-safe）。",
+    "capabilities": [
+      "security"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "_source_description": "DeepSeek Harness 自动审批门控：Flash 预判写入/命令是否不可回补，安全操作自动批准、危险操作转人工（fail-safe）",
+    "_updated": "2026-08-17",
+    "_stars_prev": 0,
+    "growth": 0,
+    "subcategory": "approval"
   }
 ]

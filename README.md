@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐496 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 | 10 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | ⭐447 | Joke plugin: 2005 Chinese-web-style ad layer with sidebar banners, in-chat feed ads and corner popups. | ✅ active |
 
-#### Complete list (198)
+#### Complete list (200)
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,848 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐3,249 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -360,7 +360,9 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-plugin-quote-reply](https://github.com/yangYzc/dsh-plugin-quote-reply) ⭐1 — DSH plugin: select text in a conversation, then quote it into the composer or reply in a new window. / DeepSeek Harness 划词引用插件：选中文字一键引用回复或新窗口回复。 (✅ active)
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) ⭐1 — Turn-index sidebar: one entry per user turn, click to jump with scroll-spy highlighting. (✅ active)
 - [dsh-view-modes](https://github.com/NigelYao/dsh-view-modes) ⭐1 — Output modes with Verbose, Normal and Summary views plus semantic grouping for tool calls and thinking. (✅ active)
+- [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) ⭐1 — Full vision-capability bundle for DeepSeek Harness: a vision_understand tool (OpenAI-compatible vision APIs, free Zhipu GLM-4V-Flash by default) plus paste/drag-and-drop/button entry points for image recognition. (✅ active)
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. (✅ active)
+- [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)  — Risk-gated approval automation for DeepSeek Harness: flash pre-classifies whether a write/command is irreversible — safe operations are auto-approved, dangerous ones are escalated to human approval (fail-safe). (✅ active)
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — Upload arbitrary local files from the Web composer with pending cards, managed in Settings. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-island](https://github.com/cdxiaodong/dsh-island)  — Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny. (✅ active)
@@ -885,7 +887,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐496 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 | 10 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | ⭐447 | Joke plugin: 2005 Chinese-web-style ad layer with sidebar banners, in-chat feed ads and corner popups. | ✅ active |
 
-#### Complete list (198)
+#### Complete list (200)
 
 - [petdex](https://github.com/crafter-station/petdex) ⭐3,848 — A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐3,249 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -1075,7 +1077,9 @@ awesome-deepseek-harness/
 - [dsh-plugin-quote-reply](https://github.com/yangYzc/dsh-plugin-quote-reply) ⭐1 — DSH plugin: select text in a conversation, then quote it into the composer or reply in a new window. / DeepSeek Harness 划词引用插件：选中文字一键引用回复或新窗口回复。 (✅ active)
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) ⭐1 — Turn-index sidebar: one entry per user turn, click to jump with scroll-spy highlighting. (✅ active)
 - [dsh-view-modes](https://github.com/NigelYao/dsh-view-modes) ⭐1 — Output modes with Verbose, Normal and Summary views plus semantic grouping for tool calls and thinking. (✅ active)
+- [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) ⭐1 — Full vision-capability bundle for DeepSeek Harness: a vision_understand tool (OpenAI-compatible vision APIs, free Zhipu GLM-4V-Flash by default) plus paste/drag-and-drop/button entry points for image recognition. (✅ active)
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. (✅ active)
+- [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)  — Risk-gated approval automation for DeepSeek Harness: flash pre-classifies whether a write/command is irreversible — safe operations are auto-approved, dangerous ones are escalated to human approval (fail-safe). (✅ active)
 - [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads)  — Upload arbitrary local files from the Web composer with pending cards, managed in Settings. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-island](https://github.com/cdxiaodong/dsh-island)  — Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny. (✅ active)

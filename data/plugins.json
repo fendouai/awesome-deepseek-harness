@@ -3829,5 +3829,20 @@
     "_stars_prev": 0,
     "growth": 8,
     "_source_description": "DeepSeek Harness (dsh) plugin: silky streaming reveal, no flicker. dsh 丝滑流式渲染插件。"
+  },
+  {
+    "id": "dsh-what-changed",
+    "name": "dsh-what-changed",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/sjh9714/dsh-what-changed",
+    "description": "Session-wide file change review in the session header. Lists every file the agent wrote this session with its hunks, counts refused writes separately from changes, and folds from a session projection rather than the on-disk log.",
+    "description_zh": "会话顶栏的整会话改动审阅。列出本次会话 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动，数据来自 session projection 而非磁盘日志。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

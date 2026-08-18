@@ -4675,5 +4675,20 @@
     "subcategory": "cost-billing",
     "_source_description": "Stop pasting API keys into DeepSeek Harness — reuse the OAuth tokens your local Codex CLI and Claude Code already hold as model routes, with subscription usage built in.",
     "_updated": "2026-08-17"
+  },
+  {
+    "id": "dsh-skill-hub",
+    "name": "dsh-skill-hub",
+    "type": "plugin",
+    "category": "discovery",
+    "repository": "https://github.com/cheshireez/dsh-skill-hub",
+    "description": "In-GUI skill manager for DeepSeek Harness: browse, search, toggle, inspect, diagnose and scaffold local skills from the official ctx.skills registry, plus a skill market with tracked source sync and one-click update-all.",
+    "description_zh": "DSH Web GUI 技能中枢：基于官方 ctx.skills 注册表浏览、搜索、启停、查看、诊断并新建本地技能，附技能市场：来源快照跟踪、一键全量更新。",
+    "capabilities": ["ui", "workflow"],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "install": "dsh plugin --profile web add dsh-skill-hub",
+    "license": "MIT"
   }
 ]

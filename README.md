@@ -1595,6 +1595,7 @@ awesome-deepseek-harness/
 - [open-managed-agents](https://github.com/openma-ai/open-managed-agents) ⭐237 — Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. (✅ active)
 - [Axern](https://github.com/cofy-x/axern) ⭐56 — Open-source sandboxes for AI agents: untrusted code execution and durable services. (✅ active)
 - [deepseek-auto-evolving-harness](https://github.com/liuchen6667/deepseek-auto-evolving-harness) ⭐28 — Auto-evolving LLM agent harness: benchmark-driven evolution via Claude Code and a self_evolution.md guide. (✅ active)
+- [dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice) ⭐ — 沉浸式听朗读：对话内点读/暂停/继续，豆包 TTS 音色，BYOK，只读最终回答并过滤代码/表格/图形。(✅ active)
 <!-- AUTO:resources:END -->` are produced by `scripts/generate-readme.py`. Edit the JSON, never the tables.
 
 ---

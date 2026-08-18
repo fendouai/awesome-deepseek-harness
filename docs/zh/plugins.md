@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（238 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（239 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐980 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐728 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-## 完整列表（238）
+## 完整列表（239）
 
 
 **界面与体验（52）**
@@ -400,3 +400,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [dsh-trading](resources/dsh-trading.md) | ⭐5 | 纯研究型交易工作台插件：类型化行情数据缝（自带 provider）、多周期指标快照、带溯源门控标注的交互图表卡片，以及拒绝执行型工具调用的风险护栏——架构上不提供执行能力。 | ✅ 活跃 |
+
+**工作流（1）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-client-auto-retry](resources/dsh-client-auto-retry.md) | – | 回合中断自动续跑：turn/end 因 error/interrupted/max-tokens 结束时自动发送「继续」，支持宽限期、冷却、连发上限、启动扫描与设置卡片；不切换模型/provider。 | ✅ 活跃 |

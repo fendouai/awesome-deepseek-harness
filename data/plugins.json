@@ -4676,4 +4676,22 @@
     "_source_description": "Stop pasting API keys into DeepSeek Harness — reuse the OAuth tokens your local Codex CLI and Claude Code already hold as model routes, with subscription usage built in.",
     "_updated": "2026-08-17"
   }
+,
+  {
+    "id": "dsh-client-auto-retry",
+    "name": "dsh-client-auto-retry",
+    "type": "plugin",
+    "category": "workflow",
+    "repository": "https://github.com/Frog755/dsh-client-auto-retry",
+    "description": "Auto-resumes interrupted DSH turns: sends a queued 继续 after error/interrupted/max-tokens turn-end, with grace period, cooldown, consecutive cap, boot scan and a settings card; never switches models or providers.",
+    "description_zh": "回合中断自动续跑：turn/end 因 error/interrupted/max-tokens 结束时自动发送「继续」，支持宽限期、冷却、连发上限、启动扫描与设置卡片；不切换模型/provider。",
+    "capabilities": [
+      "workflow",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "subcategory": "session-resume"
+  }
 ]

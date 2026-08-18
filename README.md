@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐980 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐728 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-#### Complete list (238)
+#### Complete list (239)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,631 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,484 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -406,6 +406,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-voice-webspeech](https://github.com/anweat/dsh-voice-webspeech) ⭐1 — Browser Web Speech API voice input for DSH: zero server, zero keys, zero model downloads (Edge=Azure, Chrome=Google speech). (✅ active)
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. (✅ active)
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐1 — Realtime WebGPU ocean skin with controls for waves, daylight, glass opacity and automatic day cycling. (✅ active)
+- [dsh-client-auto-retry](https://github.com/Frog755/dsh-client-auto-retry)  — Auto-resumes interrupted DSH turns: sends a queued 继续 after error/interrupted/max-tokens turn-end, with grace period, cooldown, consecutive cap, boot scan and a settings card; never switches models or providers. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. (✅ active)
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). (✅ active)
@@ -971,7 +972,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐980 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐728 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-#### Complete list (238)
+#### Complete list (239)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,631 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,484 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -1207,6 +1208,7 @@ awesome-deepseek-harness/
 - [dsh-voice-webspeech](https://github.com/anweat/dsh-voice-webspeech) ⭐1 — Browser Web Speech API voice input for DSH: zero server, zero keys, zero model downloads (Edge=Azure, Chrome=Google speech). (✅ active)
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. (✅ active)
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐1 — Realtime WebGPU ocean skin with controls for waves, daylight, glass opacity and automatic day cycling. (✅ active)
+- [dsh-client-auto-retry](https://github.com/Frog755/dsh-client-auto-retry)  — Auto-resumes interrupted DSH turns: sends a queued 继续 after error/interrupted/max-tokens turn-end, with grace period, cooldown, consecutive cap, boot scan and a settings card; never switches models or providers. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. (✅ active)
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). (✅ active)

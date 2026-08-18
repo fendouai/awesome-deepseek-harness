@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐980 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐728 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-#### 完整列表（238）
+#### 完整列表（239）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,631 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,484 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -407,6 +407,7 @@ dsh web
 - [dsh-voice-webspeech](https://github.com/anweat/dsh-voice-webspeech) ⭐1 — Browser Web Speech API voice input for DSH: zero server, zero keys, zero model downloads (Edge=Azure, Chrome=Google speech).（✅ 活跃）
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file.（✅ 活跃）
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐1 — 实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。（✅ 活跃）
+- [dsh-client-auto-retry](https://github.com/Frog755/dsh-client-auto-retry)  — 回合中断自动续跑：turn/end 因 error/interrupted/max-tokens 结束时自动发送「继续」，支持宽限期、冷却、连发上限、启动扫描与设置卡片；不切换模型/provider。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。（✅ 活跃）
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh).（✅ 活跃）
@@ -972,7 +973,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐980 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐728 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-#### 完整列表（238）
+#### 完整列表（239）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,631 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,484 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1208,6 +1209,7 @@ awesome-deepseek-harness/
 - [dsh-voice-webspeech](https://github.com/anweat/dsh-voice-webspeech) ⭐1 — Browser Web Speech API voice input for DSH: zero server, zero keys, zero model downloads (Edge=Azure, Chrome=Google speech).（✅ 活跃）
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file.（✅ 活跃）
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐1 — 实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。（✅ 活跃）
+- [dsh-client-auto-retry](https://github.com/Frog755/dsh-client-auto-retry)  — 回合中断自动续跑：turn/end 因 error/interrupted/max-tokens 结束时自动发送「继续」，支持宽限期、冷却、连发上限、启动扫描与设置卡片；不切换模型/provider。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。（✅ 活跃）
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh).（✅ 活跃）

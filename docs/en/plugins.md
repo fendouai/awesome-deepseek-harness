@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 238 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 239 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐980 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐728 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-## Complete list (238)
+## Complete list (239)
 
 
 **UI & experience (52)**
@@ -400,3 +400,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [dsh-trading](resources/dsh-trading.md) | ⭐5 | Research-only trading workbench for DSH: typed market-data seam (BYO provider), multi-timeframe indicator snapshots, interactive chart cards with provenance-gated annotations, and a risk-guard denying execution-shaped tool calls. No execution seam by construction. | ✅ active |
+
+**Workflows (1)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-client-auto-retry](resources/dsh-client-auto-retry.md) | – | Auto-resumes interrupted DSH turns: sends a queued 继续 after error/interrupted/max-tokens turn-end, with grace period, cooldown, consecutive cap, boot scan and a settings card; never switches models or providers. | ✅ active |

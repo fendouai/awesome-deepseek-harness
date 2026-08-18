@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐797 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐604 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 
-#### Complete list (227)
+#### Complete list (228)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,580 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,023 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -394,6 +394,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) ⭐1 — Turn-index sidebar: one entry per user turn, click to jump with scroll-spy highlighting. (✅ active)
 - [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) ⭐1 — Session-wide file change review in the session header. Lists every file the agent wrote this session with its hunks, counts refused writes separately from changes, and folds from a session projection rather than the on-disk log. (✅ active)
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. (✅ active)
+- [InfiniteDSH](https://github.com/vdnight89/InfiniteDSH) ⭐1 — 诸天万界DSH: one DSH session is one book — a cover-card picker opens 19 realms, a prose-only preset locks the model to fiction, keyword worldbook lore grounds each turn, and /export-story typesets the session into a Markdown novel. (✅ active)
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐1 — Realtime WebGPU ocean skin with controls for waves, daylight, glass opacity and automatic day cycling. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. (✅ active)
@@ -940,7 +941,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐797 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐604 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 
-#### Complete list (227)
+#### Complete list (228)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,580 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,023 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -1164,6 +1165,7 @@ awesome-deepseek-harness/
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) ⭐1 — Turn-index sidebar: one entry per user turn, click to jump with scroll-spy highlighting. (✅ active)
 - [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) ⭐1 — Session-wide file change review in the session header. Lists every file the agent wrote this session with its hunks, counts refused writes separately from changes, and folds from a session projection rather than the on-disk log. (✅ active)
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. (✅ active)
+- [InfiniteDSH](https://github.com/vdnight89/InfiniteDSH) ⭐1 — 诸天万界DSH: one DSH session is one book — a cover-card picker opens 19 realms, a prose-only preset locks the model to fiction, keyword worldbook lore grounds each turn, and /export-story typesets the session into a Markdown novel. (✅ active)
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐1 — Realtime WebGPU ocean skin with controls for waves, daylight, glass opacity and automatic day cycling. (✅ active)
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — Session-header git branch pill: shows the workspace branch and switches it from the Web UI. (✅ active)
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. (✅ active)

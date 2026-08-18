@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐797 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐604 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 
-#### 完整列表（227）
+#### 完整列表（228）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,580 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,023 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -395,6 +395,7 @@ dsh web
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) ⭐1 — 回合索引侧栏：每个用户回合一条，点击跳转，滚动监听高亮。（✅ 活跃）
 - [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) ⭐1 — 会话顶栏的整会话改动审阅。列出本次会话 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动，数据来自 session projection 而非磁盘日志。（✅ 活跃）
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file.（✅ 活跃）
+- [InfiniteDSH](https://github.com/vdnight89/InfiniteDSH) ⭐1 — 诸天万界DSH：一个会话就是一本书。封面开书十九界，文学预设只写正文，规则书按关键词注入，/export-story 誊成 Markdown 小说。（✅ 活跃）
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐1 — 实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。（✅ 活跃）
@@ -941,7 +942,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐797 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | ⭐604 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 
-#### 完整列表（227）
+#### 完整列表（228）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,580 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,023 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1165,6 +1166,7 @@ awesome-deepseek-harness/
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) ⭐1 — 回合索引侧栏：每个用户回合一条，点击跳转，滚动监听高亮。（✅ 活跃）
 - [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) ⭐1 — 会话顶栏的整会话改动审阅。列出本次会话 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动，数据来自 session projection 而非磁盘日志。（✅ 活跃）
 - [dshp](https://github.com/asdf17128/dshp) ⭐1 — Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file.（✅ 活跃）
+- [InfiniteDSH](https://github.com/vdnight89/InfiniteDSH) ⭐1 — 诸天万界DSH：一个会话就是一本书。封面开书十九界，文学预设只写正文，规则书按关键词注入，/export-story 誊成 Markdown 小说。（✅ 活跃）
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐1 — 实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。（✅ 活跃）
 - [dsh-git-branch-switcher](https://github.com/mixin-ai/dsh-git-branch-switcher)  — 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。（✅ 活跃）
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。（✅ 活跃）

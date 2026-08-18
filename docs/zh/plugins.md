@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（227 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（228 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐797 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-vision-toolkit](resources/dsh-vision-toolkit.md) | ⭐604 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 
-## 完整列表（227）
+## 完整列表（228）
 
 
 **界面与体验（50）**
@@ -327,7 +327,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。 | ✅ 活跃 |
 
-**娱乐与生活（12）**
+**娱乐与生活（13）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -343,6 +343,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-gomoku](resources/dsh-gomoku.md) | ⭐13 | 在 DSH 中与 AI 下五子棋，也可以让 AI 对局比试模型强弱。 | ✅ 活跃 |
 | [dsh-pet](resources/dsh-pet.md) | ⭐12 | 🐋 DSH 有声桌宠：悬浮桌面的 DeepSeek 小鲸鱼，不打开 DSH 也能实时感知会话状态（需要确认/工作中/完成/空闲/离线），支持音效提醒与零代码定制素材 | ✅ 活跃 |
 | [dsh-plugin-d399](resources/dsh-plugin-d399.md) | ⭐8 | 模型生成时右下角弹出小游戏菜单：Wordle/消消乐/192 款参数化小游戏。 | ✅ 活跃 |
+| [InfiniteDSH](resources/infinitedsh.md) | ⭐1 | 诸天万界DSH：一个会话就是一本书。封面开书十九界，文学预设只写正文，规则书按关键词注入，/export-story 誊成 Markdown 小说。 | ✅ 活跃 |
 
 **输入与编辑（9）**
 

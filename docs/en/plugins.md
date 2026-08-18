@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 227 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 228 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐797 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-toolkit](resources/dsh-vision-toolkit.md) | ⭐604 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 
-## Complete list (227)
+## Complete list (228)
 
 
 **UI & experience (50)**
@@ -327,7 +327,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**Fun & lifestyle (12)**
+**Fun & lifestyle (13)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -343,6 +343,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-gomoku](resources/dsh-gomoku.md) | ⭐13 | Play Gomoku with AI inside DSH, or let two AIs battle to compare models. | ✅ active |
 | [dsh-pet](resources/dsh-pet.md) | ⭐12 | 🐋 DSH 有声桌宠：悬浮桌面的 DeepSeek 小鲸鱼，不打开 DSH 也能实时感知会话状态（需要确认/工作中/完成/空闲/离线），支持音效提醒与零代码定制素材 | ✅ active |
 | [dsh-plugin-d399](resources/dsh-plugin-d399.md) | ⭐8 | Mini-game menu (Wordle, match-3, 192 parameterized games) that pops up while the model generates. | ✅ active |
+| [InfiniteDSH](resources/infinitedsh.md) | ⭐1 | 诸天万界DSH: one DSH session is one book — a cover-card picker opens 19 realms, a prose-only preset locks the model to fiction, keyword worldbook lore grounds each turn, and /export-story typesets the session into a Markdown novel. | ✅ active |
 
 **Input & editing (9)**
 

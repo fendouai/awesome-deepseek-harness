@@ -4425,5 +4425,18 @@
     "subcategory": "cost-billing",
     "_source_description": "Stop pasting API keys into DeepSeek Harness — if your Codex CLI or Claude Code is logged in, that subscription is now a model route.",
     "_updated": "2026-08-17"
+  },
+  {
+    "id": "infinitedsh",
+    "name": "InfiniteDSH",
+    "type": "plugin",
+    "category": "fun",
+    "repository": "https://github.com/vdnight89/InfiniteDSH",
+    "description": "诸天万界DSH: one DSH session is one book — a cover-card picker opens 19 realms, a prose-only preset locks the model to fiction, keyword worldbook lore grounds each turn, and /export-story typesets the session into a Markdown novel.",
+    "description_zh": "诸天万界DSH：一个会话就是一本书。封面开书十九界，文学预设只写正文，规则书按关键词注入，/export-story 誊成 Markdown 小说。",
+    "capabilities": ["workflow"],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   }
 ]

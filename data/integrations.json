@@ -835,5 +835,24 @@
     "stars": 0,
     "_source_description": "VS Code 中打开 DeepSeek Harness Web UI，支持一键启动/停止当前工作区。Open the DeepSeek Harness Web UI inside VS Code, with one-command start/stop for the current workspace.",
     "_updated": "2026-08-16"
+  },
+  {
+    "id": "dsh-wechat-bridge",
+    "name": "dsh-wechat-bridge",
+    "type": "plugin",
+    "category": "channel",
+    "repository": "https://github.com/lanbaolu/dsh-wechat-bridge",
+    "description": "Personal WeChat bridge for DeepSeek Harness: scan QR to bind, then chat with your local DSH agent directly inside WeChat (text/image/voice/file, streamed replies, persisted sessions).",
+    "description_zh": "个人微信桥接插件：扫码绑定后直接在微信里与本机 DeepSeek Harness Agent 对话（文字/图片/语音/文件、流式回复、会话持久化、三端通用）。",
+    "capabilities": [
+      "channels",
+      "files",
+      "mobile"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "_source_description": "DSH 微信桥接插件：三端通用，host 工具 + Web 管理面板。",
+    "_updated": "2026-08-18"
   }
 ]

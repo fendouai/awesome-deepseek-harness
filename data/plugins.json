@@ -4425,5 +4425,22 @@
     "subcategory": "cost-billing",
     "_source_description": "Stop pasting API keys into DeepSeek Harness — if your Codex CLI or Claude Code is logged in, that subscription is now a model route.",
     "_updated": "2026-08-17"
+  },
+  {
+    "id": "visual-review",
+    "name": "visual-review",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/wang-bool/visual-review",
+    "description": "Renders pasted/uploaded images inline in the DSH Web chat and gives text-only models vision: cloud multimodal API first, local Qwen3-VL fallback.",
+    "description_zh": "在 DSH Web 聊天界面内联渲染粘贴/上传的图片，让纯文本模型获得视觉：云端多模态 API 优先，本机 Qwen3-VL 兜底。",
+    "capabilities": [
+      "vision",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "subcategory": "vision-tools"
   }
 ]

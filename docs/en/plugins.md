@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 227 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 228 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐797 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-toolkit](resources/dsh-vision-toolkit.md) | ⭐604 | Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, UI restoration, grounding and pixel diff. | ✅ active |
 
-## Complete list (227)
+## Complete list (228)
 
 
 **UI & experience (50)**
@@ -190,9 +190,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-weather](resources/dsh-weather.md) | ⭐4 | Weather tool: current conditions and multi-day forecasts via Open-Meteo, free with no API key. | ✅ active |
 | [dsh-tool-search](resources/dsh-tool-search.md) | ⭐2 | Per-agent on-demand tool discovery and progressive schema disclosure. | ✅ active |
 
-**Vision & multimodal (31)**
+**Vision & multimodal (32)**
 
-*👁️ Vision tools (31)*
+*👁️ Vision tools (32)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -227,6 +227,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-plugin-deepeye](resources/dsh-plugin-deepeye.md) | ⭐4 | DeepEye vision plugin for DeepSeek Harness (DSH): image description, OCR, VQA, UI layout, and clipboard analysis. | ✅ active |
 | [dsh-doctor](resources/dsh-doctor-jorinyang.md) | ⭐3 | Deterministic diagnostics and recovery for DeepSeek Harness | ✅ active |
 | [dsh-vision-tools](resources/dsh-vision-tools.md) | ⭐2 | Full vision-capability bundle for DeepSeek Harness: a vision_understand tool (OpenAI-compatible vision APIs, free Zhipu GLM-4V-Flash by default) plus paste/drag-and-drop/button entry points for image recognition. | ✅ active |
+| [visual-review](resources/visual-review.md) | ⭐2 | Renders pasted/uploaded images inline in the DSH Web chat and gives text-only models vision: cloud multimodal API first, local Qwen3-VL fallback. | ✅ active |
 
 **Memory & context (24)**
 

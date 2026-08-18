@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（227 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（228 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐797 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-vision-toolkit](resources/dsh-vision-toolkit.md) | ⭐604 | 让纯文本模型更好的视觉工具箱：带意图图片问答、长截图 OCR、UI 还原、grounding、像素 diff。 | ✅ 活跃 |
 
-## 完整列表（227）
+## 完整列表（228）
 
 
 **界面与体验（50）**
@@ -190,9 +190,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-weather](resources/dsh-weather.md) | ⭐4 | 天气工具：Open-Meteo 当前天气与多日预报，免费免密钥。 | ✅ 活跃 |
 | [dsh-tool-search](resources/dsh-tool-search.md) | ⭐2 | 按 Agent 按需工具发现与渐进式 schema 披露。 | ✅ 活跃 |
 
-**视觉与多模态（31）**
+**视觉与多模态（32）**
 
-*👁️ 视觉工具（31）*
+*👁️ 视觉工具（32）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -227,6 +227,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-plugin-deepeye](resources/dsh-plugin-deepeye.md) | ⭐4 | DeepEye vision plugin for DeepSeek Harness (DSH): image description, OCR, VQA, UI layout, and clipboard analysis. | ✅ 活跃 |
 | [dsh-doctor](resources/dsh-doctor-jorinyang.md) | ⭐3 | Deterministic diagnostics and recovery for DeepSeek Harness | ✅ 活跃 |
 | [dsh-vision-tools](resources/dsh-vision-tools.md) | ⭐2 | DeepSeek Harness 视觉能力全家桶：vision_understand 工具（OpenAI 兼容视觉 API，默认免费智谱 GLM-4V-Flash）+ 粘贴/拖拽/按钮三入口识图。 | ✅ 活跃 |
+| [visual-review](resources/visual-review.md) | ⭐2 | 在 DSH Web 聊天界面内联渲染粘贴/上传的图片，让纯文本模型获得视觉：云端多模态 API 优先，本机 Qwen3-VL 兜底。 | ✅ 活跃 |
 
 **记忆与上下文（24）**
 

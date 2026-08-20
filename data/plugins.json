@@ -4901,5 +4901,23 @@
     "subcategory": "cost-billing",
     "_source_description": "DSH client plugin: auto-sends 「继续」 when a turn is interrupted/errored/overlong. No model/provider switching. Ships with a settings card.",
     "_updated": "2026-08-19"
+  },
+  {
+    "id": "dsh-plugin-store-sandbaseai",
+    "name": "DSH Plugin Store",
+    "type": "plugin",
+    "category": "discovery",
+    "repository": "https://github.com/sandbaseai/dsh-plugin-store",
+    "description": "Native DSH Settings marketplace with Community and Installed views, catalog search and tag filters, and provenance-gated local Profile installation for runtime-verified npm plugins.",
+    "description_zh": "DSH Settings 原生插件市场，提供社区与已安装视图、目录搜索和标签筛选，并仅为运行时已验证的 npm 插件执行来源准入受控的本地 Profile 安装。",
+    "capabilities": [
+      "ui",
+      "harness",
+      "security"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   }
 ]

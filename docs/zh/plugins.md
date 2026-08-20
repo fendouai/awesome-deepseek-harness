@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（249 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（250 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐1,194 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐820 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-## 完整列表（249）
+## 完整列表（250）
 
 
 **界面与体验（53）**
@@ -321,7 +321,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-rss](resources/dsh-rss.md) | ⭐4 | DeepSeek Harness RSS 订阅插件：rss_list/add/remove/fetch/check 五工具，RSS 0.9x/1.0/2.0 与 Atom 归一化解析，订阅列表持久化到 settings，proxyUrl 特殊代理支持；纯 Node 全平台。· RSS/Atom subscription tools for DeepSeek Harness agents. | ✅ 活跃 |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。 | ✅ 活跃 |
 
-**插件发现（22）**
+**插件发现（23）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -343,6 +343,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-skill-hub](resources/dsh-skill-hub.md) | ⭐3 | DSH Web GUI 技能中枢：基于官方 ctx.skills 注册表浏览、搜索、启停、查看、诊断并新建本地技能，附技能市场：来源快照跟踪、一键全量更新。 | ✅ 活跃 |
 | [dsh-adb](resources/dsh-adb.md) | ⭐2 | ADB device & bench operations: device discovery, structured logcat (background streaming), apk install, file pull/push, dumpsys performance snapshots. | ✅ 活跃 |
 | [dsh-scout](resources/dsh-scout.md) | ⭐2 | 面向 DeepSeek Harness 的只读环境探测插件，为智能体提供运行环境、软件版本、系统资源、端口、服务、硬件及工作区信息。 | ✅ 活跃 |
+| [DSH Plugin Store](resources/dsh-plugin-store-sandbaseai.md) | ⭐1 | DSH Settings 原生插件市场，提供社区与已安装视图、目录搜索和标签筛选，并仅为运行时已验证的 npm 插件执行来源准入受控的本地 Profile 安装。 | 🧪 实验性 |
 | [dsh-doctor](resources/dsh-doctor.md) | ⭐1 | Find what your DeepSeek Harness (dsh) patches silently broke — dead patches, config fields dropped by whole-config replacement, unmaintained plugins. Read-only, zero deps. | ✅ 活跃 |
 | [dsh-plugin-manager-registry](resources/dsh-plugin-manager-registry.md) | ⭐1 | @dsh-pm/registry — discover dsh plugins by merging the awesome-dsh-plugin list, GitHub dsh-plugin-topic search, and npm keyword search into one deduped, offline-tolerant registry (the discovery engine of dsh pm) | ✅ 活跃 |
 | [dshp](resources/dshp.md) | ⭐1 | Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. | ✅ 活跃 |

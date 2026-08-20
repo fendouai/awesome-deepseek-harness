@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,194 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐820 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-#### Complete list (249)
+#### Complete list (250)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,679 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,817 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -403,6 +403,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) ⭐2 — Session-wide file change review in the session header. Lists every file the agent wrote this session with its hunks, counts refused writes separately from changes, and folds from a session projection rather than the on-disk log. (✅ active)
 - [URL Manager](https://github.com/Piccolo123/url-manager) ⭐2 — Agent-first URL and knowledge collection system: auto-categorize, tag, full-text search and shared collections. (✅ active)
 - [visual-review](https://github.com/wang-bool/visual-review) ⭐2 — Renders pasted/uploaded images inline in the DSH Web chat and gives text-only models vision: cloud multimodal API first, local Qwen3-VL fallback. (✅ active)
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) ⭐1 — Native DSH Settings marketplace with Community and Installed views, catalog search and tag filters, and provenance-gated local Profile installation for runtime-verified npm plugins. (🧪 experimental)
 - [dsh-computer-use](https://github.com/xiaoheizi1212/dsh-computer-use) ⭐1 — Model-agnostic Computer Use for DSH: isolated browser, Windows native helper and third-party bridges. (✅ active)
 - [dsh-cost-meter](https://github.com/Sttrevens/dsh-cost-meter) ⭐1 — dsh plugin: per-turn USD cost badge in the Web UI (session total + per-message footer, hover breakdown) from token usage x a configurable pricing table. (✅ active)
 - [dsh-doctor](https://github.com/asdf17128/dsh-doctor) ⭐1 — Find what your DeepSeek Harness (dsh) patches silently broke — dead patches, config fields dropped by whole-config replacement, unmaintained plugins. Read-only, zero deps. (✅ active)
@@ -990,7 +991,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,194 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐820 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-#### Complete list (249)
+#### Complete list (250)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,679 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐4,817 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -1223,6 +1224,7 @@ awesome-deepseek-harness/
 - [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) ⭐2 — Session-wide file change review in the session header. Lists every file the agent wrote this session with its hunks, counts refused writes separately from changes, and folds from a session projection rather than the on-disk log. (✅ active)
 - [URL Manager](https://github.com/Piccolo123/url-manager) ⭐2 — Agent-first URL and knowledge collection system: auto-categorize, tag, full-text search and shared collections. (✅ active)
 - [visual-review](https://github.com/wang-bool/visual-review) ⭐2 — Renders pasted/uploaded images inline in the DSH Web chat and gives text-only models vision: cloud multimodal API first, local Qwen3-VL fallback. (✅ active)
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) ⭐1 — Native DSH Settings marketplace with Community and Installed views, catalog search and tag filters, and provenance-gated local Profile installation for runtime-verified npm plugins. (🧪 experimental)
 - [dsh-computer-use](https://github.com/xiaoheizi1212/dsh-computer-use) ⭐1 — Model-agnostic Computer Use for DSH: isolated browser, Windows native helper and third-party bridges. (✅ active)
 - [dsh-cost-meter](https://github.com/Sttrevens/dsh-cost-meter) ⭐1 — dsh plugin: per-turn USD cost badge in the Web UI (session total + per-message footer, hover breakdown) from token usage x a configurable pricing table. (✅ active)
 - [dsh-doctor](https://github.com/asdf17128/dsh-doctor) ⭐1 — Find what your DeepSeek Harness (dsh) patches silently broke — dead patches, config fields dropped by whole-config replacement, unmaintained plugins. Read-only, zero deps. (✅ active)

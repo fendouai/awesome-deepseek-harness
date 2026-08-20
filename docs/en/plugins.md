@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 249 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 250 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐1,194 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐820 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-## Complete list (249)
+## Complete list (250)
 
 
 **UI & experience (53)**
@@ -321,7 +321,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-rss](resources/dsh-rss.md) | ⭐4 | DeepSeek Harness RSS 订阅插件：rss_list/add/remove/fetch/check 五工具，RSS 0.9x/1.0/2.0 与 Atom 归一化解析，订阅列表持久化到 settings，proxyUrl 特殊代理支持；纯 Node 全平台。· RSS/Atom subscription tools for DeepSeek Harness agents. | ✅ active |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**Plugin discovery (22)**
+**Plugin discovery (23)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -343,6 +343,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-skill-hub](resources/dsh-skill-hub.md) | ⭐3 | In-GUI skill manager for DeepSeek Harness: browse, search, toggle, inspect, diagnose and scaffold local skills from the official ctx.skills registry, plus a skill market with tracked source sync and one-click update-all. | ✅ active |
 | [dsh-adb](resources/dsh-adb.md) | ⭐2 | ADB device & bench operations: device discovery, structured logcat (background streaming), apk install, file pull/push, dumpsys performance snapshots. | ✅ active |
 | [dsh-scout](resources/dsh-scout.md) | ⭐2 | 面向 DeepSeek Harness 的只读环境探测插件，为智能体提供运行环境、软件版本、系统资源、端口、服务、硬件及工作区信息。 | ✅ active |
+| [DSH Plugin Store](resources/dsh-plugin-store-sandbaseai.md) | ⭐1 | Native DSH Settings marketplace with Community and Installed views, catalog search and tag filters, and provenance-gated local Profile installation for runtime-verified npm plugins. | 🧪 experimental |
 | [dsh-doctor](resources/dsh-doctor.md) | ⭐1 | Find what your DeepSeek Harness (dsh) patches silently broke — dead patches, config fields dropped by whole-config replacement, unmaintained plugins. Read-only, zero deps. | ✅ active |
 | [dsh-plugin-manager-registry](resources/dsh-plugin-manager-registry.md) | ⭐1 | @dsh-pm/registry — discover dsh plugins by merging the awesome-dsh-plugin list, GitHub dsh-plugin-topic search, and npm keyword search into one deduped, offline-tolerant registry (the discovery engine of dsh pm) | ✅ active |
 | [dshp](resources/dshp.md) | ⭐1 | Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. | ✅ active |

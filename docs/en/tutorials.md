@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "Top 10 and full list of 13 curated tutorials & learning for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 14 curated tutorials & learning for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [deepseek-harness-prompts](resources/deepseek-harness-prompts.md) | ⭐6 | DeepSeek Harness prompts for different modes. | ✅ active |
 | 10 | [dsh-book-deepseek-harness](resources/dsh-book-deepseek-harness.md) | ⭐6 | 'Deep Dive into DeepSeek Harness' — source-level architecture book: 37 chapter files, PDF, Mermaid diagrams and writing conventions. | ✅ active |
 
-## Complete list (13)
+## Complete list (14)
 
 
-**Learning (13)**
+**Learning (14)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -50,3 +50,4 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-learn-everything](resources/dsh-learn-everything.md) | ⭐5 | Feynman learning-mode plugin: teach → teach-back → judge → re-explain loop rendered as rich HTML lesson cards. | ✅ active |
 | [gitlearnos](resources/gitlearnos.md) | ⭐4 | Git-native AI learning OS with a GitLearnOS-exclusive DeepSeek Harness panel, targeted practice, local RAG, and learner-owned memory. | ✅ active |
 | [deepseek-protocol-doctor](resources/deepseek-protocol-doctor.md) | ⭐2 | Checks DeepSeek tool loops, reasoning_content, strict schemas and captured SSE; also works as a DSH plugin. | ✅ active |
+| [DeepSeek Harness Brain](resources/deepseek-harness-brain.md) | – | Source-cited Obsidian knowledge base with a plain-English guide, architecture notes, an installable assistant skill, and portability guidance for DeepSeek Harness. | ✅ active |

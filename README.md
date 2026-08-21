@@ -788,7 +788,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepseek-harness-prompts](https://github.com/demouo/deepseek-harness-prompts) | ⭐6 | DeepSeek Harness prompts for different modes. | ✅ active |
 | 10 | [dsh-book-deepseek-harness](https://github.com/LaplaceYoung/dsh-book-deepseek-harness) | ⭐6 | 'Deep Dive into DeepSeek Harness' — source-level architecture book: 37 chapter files, PDF, Mermaid diagrams and writing conventions. | ✅ active |
 
-#### Complete list (13)
+#### Complete list (14)
 
 - [DeepSeek Harness Orange Book](https://github.com/alchaincyf/deepseek-harness-orange-book) ⭐1,118 — Community Orange Book: complete system prompts, a 129-line startup checklist and three raw session logs — first-hand testing the official docs lack. Free PDF/EPUB/HTML. (✅ active)
 - [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) ⭐604 — From 0 to 1 handbook: installation, plugin development, performance tuning, real-world cases and same-model multi-agent comparisons (CN + EN PDF). (✅ active)
@@ -803,6 +803,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) ⭐5 — Feynman learning-mode plugin: teach → teach-back → judge → re-explain loop rendered as rich HTML lesson cards. (✅ active)
 - [gitlearnos](https://github.com/Guojiz/gitlearnos) ⭐4 — Git-native AI learning OS with a GitLearnOS-exclusive DeepSeek Harness panel, targeted practice, local RAG, and learner-owned memory. (✅ active)
 - [deepseek-protocol-doctor](https://github.com/Whning0513/deepseek-protocol-doctor) ⭐2 — Checks DeepSeek tool loops, reasoning_content, strict schemas and captured SSE; also works as a DSH plugin. (✅ active)
+- [DeepSeek Harness Brain](https://github.com/AgriciDaniel/deepseek-harness-brain)  — Source-cited Obsidian knowledge base with a plain-English guide, architecture notes, an installable assistant skill, and portability guidance for DeepSeek Harness. (✅ active)
 
 ### Awesome Lists & Registries
 
@@ -1660,7 +1661,7 @@ awesome-deepseek-harness/
 | 9 | [deepseek-harness-prompts](https://github.com/demouo/deepseek-harness-prompts) | ⭐6 | DeepSeek Harness prompts for different modes. | ✅ active |
 | 10 | [dsh-book-deepseek-harness](https://github.com/LaplaceYoung/dsh-book-deepseek-harness) | ⭐6 | 'Deep Dive into DeepSeek Harness' — source-level architecture book: 37 chapter files, PDF, Mermaid diagrams and writing conventions. | ✅ active |
 
-#### Complete list (13)
+#### Complete list (14)
 
 - [DeepSeek Harness Orange Book](https://github.com/alchaincyf/deepseek-harness-orange-book) ⭐1,118 — Community Orange Book: complete system prompts, a 129-line startup checklist and three raw session logs — first-hand testing the official docs lack. Free PDF/EPUB/HTML. (✅ active)
 - [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) ⭐604 — From 0 to 1 handbook: installation, plugin development, performance tuning, real-world cases and same-model multi-agent comparisons (CN + EN PDF). (✅ active)
@@ -1675,6 +1676,7 @@ awesome-deepseek-harness/
 - [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) ⭐5 — Feynman learning-mode plugin: teach → teach-back → judge → re-explain loop rendered as rich HTML lesson cards. (✅ active)
 - [gitlearnos](https://github.com/Guojiz/gitlearnos) ⭐4 — Git-native AI learning OS with a GitLearnOS-exclusive DeepSeek Harness panel, targeted practice, local RAG, and learner-owned memory. (✅ active)
 - [deepseek-protocol-doctor](https://github.com/Whning0513/deepseek-protocol-doctor) ⭐2 — Checks DeepSeek tool loops, reasoning_content, strict schemas and captured SSE; also works as a DSH plugin. (✅ active)
+- [DeepSeek Harness Brain](https://github.com/AgriciDaniel/deepseek-harness-brain)  — Source-cited Obsidian knowledge base with a plain-English guide, architecture notes, an installable assistant skill, and portability guidance for DeepSeek Harness. (✅ active)
 
 ### Awesome Lists & Registries
 

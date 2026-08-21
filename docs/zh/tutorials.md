@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（13 条）。"
+description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（14 条）。"
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [deepseek-harness-prompts](resources/deepseek-harness-prompts.md) | ⭐6 | 不同模式下的 DeepSeek Harness 提示词集。 | ✅ 活跃 |
 | 10 | [dsh-book-deepseek-harness](resources/dsh-book-deepseek-harness.md) | ⭐6 | 《深入理解 DeepSeek Harness：一切皆插件的 Agent 架构》——源码级架构拆解科普书：37 个章节文件、PDF、Mermaid 图。 | ✅ 活跃 |
 
-## 完整列表（13）
+## 完整列表（14）
 
 
-**学习（13）**
+**学习（14）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -50,3 +50,4 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-learn-everything](resources/dsh-learn-everything.md) | ⭐5 | 费曼学习模式：教→复述→评判→重讲循环，渲染为富 HTML 课程卡片。 | ✅ 活跃 |
 | [gitlearnos](resources/gitlearnos.md) | ⭐4 | Git-native AI learning OS with a GitLearnOS-exclusive DeepSeek Harness panel, targeted practice, local RAG, and learner-owned memory. | ✅ 活跃 |
 | [deepseek-protocol-doctor](resources/deepseek-protocol-doctor.md) | ⭐2 | 检查 DeepSeek 工具循环、reasoning_content、严格 schema 与捕获的 SSE，也可作为 DSH 插件。 | ✅ 活跃 |
+| [DeepSeek Harness Brain](resources/deepseek-harness-brain.md) | – | 带来源引用的 Obsidian 知识库，包含浅显指南、架构笔记、可安装助手技能，以及 DeepSeek Harness 可移植性指南。 | ✅ 活跃 |

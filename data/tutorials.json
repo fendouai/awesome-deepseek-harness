@@ -246,5 +246,22 @@
     "stars": 2,
     "_source_description": "Checks DeepSeek tool loops, reasoning_content, strict schemas, and captured SSE. Also works as a DSH plugin.",
     "_updated": "2026-08-18"
+  },
+  {
+    "id": "deepseek-harness-brain",
+    "name": "DeepSeek Harness Brain",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/AgriciDaniel/deepseek-harness-brain",
+    "description": "Source-cited Obsidian knowledge base with a plain-English guide, architecture notes, an installable assistant skill, and portability guidance for DeepSeek Harness.",
+    "description_zh": "带来源引用的 Obsidian 知识库，包含浅显指南、架构笔记、可安装助手技能，以及 DeepSeek Harness 可移植性指南。",
+    "capabilities": [
+      "learning",
+      "research",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

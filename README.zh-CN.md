@@ -789,7 +789,7 @@ dsh web
 | 9 | [deepseek-harness-prompts](https://github.com/demouo/deepseek-harness-prompts) | ⭐6 | 不同模式下的 DeepSeek Harness 提示词集。 | ✅ 活跃 |
 | 10 | [dsh-book-deepseek-harness](https://github.com/LaplaceYoung/dsh-book-deepseek-harness) | ⭐6 | 《深入理解 DeepSeek Harness：一切皆插件的 Agent 架构》——源码级架构拆解科普书：37 个章节文件、PDF、Mermaid 图。 | ✅ 活跃 |
 
-#### 完整列表（13）
+#### 完整列表（14）
 
 - [DeepSeek Harness Orange Book](https://github.com/alchaincyf/deepseek-harness-orange-book) ⭐1,118 — 《DeepSeek Harness 橙皮书》：完整系统提示词、129 行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML 免费下载。（✅ 活跃）
 - [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) ⭐604 — 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）。（✅ 活跃）
@@ -804,6 +804,7 @@ dsh web
 - [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) ⭐5 — 费曼学习模式：教→复述→评判→重讲循环，渲染为富 HTML 课程卡片。（✅ 活跃）
 - [gitlearnos](https://github.com/Guojiz/gitlearnos) ⭐4 — Git-native AI learning OS with a GitLearnOS-exclusive DeepSeek Harness panel, targeted practice, local RAG, and learner-owned memory.（✅ 活跃）
 - [deepseek-protocol-doctor](https://github.com/Whning0513/deepseek-protocol-doctor) ⭐2 — 检查 DeepSeek 工具循环、reasoning_content、严格 schema 与捕获的 SSE，也可作为 DSH 插件。（✅ 活跃）
+- [DeepSeek Harness Brain](https://github.com/AgriciDaniel/deepseek-harness-brain)  — 带来源引用的 Obsidian 知识库，包含浅显指南、架构笔记、可安装助手技能，以及 DeepSeek Harness 可移植性指南。（✅ 活跃）
 
 ### Awesome Lists & Registries
 
@@ -1661,7 +1662,7 @@ awesome-deepseek-harness/
 | 9 | [deepseek-harness-prompts](https://github.com/demouo/deepseek-harness-prompts) | ⭐6 | 不同模式下的 DeepSeek Harness 提示词集。 | ✅ 活跃 |
 | 10 | [dsh-book-deepseek-harness](https://github.com/LaplaceYoung/dsh-book-deepseek-harness) | ⭐6 | 《深入理解 DeepSeek Harness：一切皆插件的 Agent 架构》——源码级架构拆解科普书：37 个章节文件、PDF、Mermaid 图。 | ✅ 活跃 |
 
-#### 完整列表（13）
+#### 完整列表（14）
 
 - [DeepSeek Harness Orange Book](https://github.com/alchaincyf/deepseek-harness-orange-book) ⭐1,118 — 《DeepSeek Harness 橙皮书》：完整系统提示词、129 行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML 免费下载。（✅ 活跃）
 - [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) ⭐604 — 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）。（✅ 活跃）
@@ -1676,6 +1677,7 @@ awesome-deepseek-harness/
 - [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) ⭐5 — 费曼学习模式：教→复述→评判→重讲循环，渲染为富 HTML 课程卡片。（✅ 活跃）
 - [gitlearnos](https://github.com/Guojiz/gitlearnos) ⭐4 — Git-native AI learning OS with a GitLearnOS-exclusive DeepSeek Harness panel, targeted practice, local RAG, and learner-owned memory.（✅ 活跃）
 - [deepseek-protocol-doctor](https://github.com/Whning0513/deepseek-protocol-doctor) ⭐2 — 检查 DeepSeek 工具循环、reasoning_content、严格 schema 与捕获的 SSE，也可作为 DSH 插件。（✅ 活跃）
+- [DeepSeek Harness Brain](https://github.com/AgriciDaniel/deepseek-harness-brain)  — 带来源引用的 Obsidian 知识库，包含浅显指南、架构笔记、可安装助手技能，以及 DeepSeek Harness 可移植性指南。（✅ 活跃）
 
 ### Awesome Lists & Registries
 

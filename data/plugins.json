@@ -4936,5 +4936,35 @@
     "stars": 0,
     "install": "dsh plugin add github:lynote-ai/dsh-humanizer",
     "license": "BSD-3-Clause"
+  },
+  {
+    "id": "dsh-routed-subagent",
+    "name": "dsh-routed-subagent",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/bpc-oss/dsh-routed-subagent",
+    "description": "Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions.",
+    "description_zh": "从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。",
+    "capabilities": [
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
+  },
+  {
+    "id": "dsh-fork-to-preset",
+    "name": "dsh-fork-to-preset",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/bpc-oss/dsh-fork-to-preset",
+    "description": "Fork any session into a different agent preset from the conversation header: a preset-picker button that creates a new child session mounted on the chosen preset, inheriting the source session completed turns.",
+    "description_zh": "在会话 Header 上一键把当前会话分叉到任意 agent preset：选择 preset 后创建挂载到该 preset 的新子会话，并继承源会话的已完成轮次。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

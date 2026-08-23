@@ -5156,5 +5156,20 @@
     "stars": 0,
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21"
+  },
+  {
+    "id": "dsh-desktop-pet",
+    "name": "dsh-desktop-pet",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/FenyxHuang/dsh-desktop-pet",
+    "description": "Whale desktop pet for DeepSeek Harness: the whale mirrors live agent status (thinking bubbles, working tool, error) and the API balance is rendered as a circular sea level; click to jump or 40% charged 360° dive with chatter.",
+    "description_zh": "DeepSeek Harness 桌面宠物:鲸鱼实时反应 agent 状态(思考冒泡/工作中工具/出错),API 余额渲染为圆形海平面,点击触发跳跃或 40% 转体跳水,带随机台词。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 5
   }
 ]

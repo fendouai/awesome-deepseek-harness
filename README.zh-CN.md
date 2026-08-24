@@ -171,7 +171,7 @@ dsh web
 | 9 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-#### 完整列表（262）
+#### 完整列表（263）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -396,6 +396,7 @@ dsh web
 - [mistymoon-dsh](https://github.com/mianyoubiaoqing/MistyMoon-DSH) ⭐3 — Local-first long-term companion plugin suite for DeepSeek Harness（✅ 活跃）
 - [URL Manager](https://github.com/Piccolo123/url-manager) ⭐3 — Agent 优先的 URL 与知识收集系统：自动分类、标签、全文检索与共享收藏。（✅ 活跃）
 - [zotero-wave-rag](https://github.com/Fisfzy/zotero-wave-rag) ⭐3 — 面向 Zotero 论文库的浪潮式 RAG 细节检索系统 —— DSH 外部插件。移植 VCPToolBox 浪潮语义动力学思想（标签河道图传播/虫洞跳转/钟型阻尼/Ω重排），配 BM25+RRF 混合检索、claim-evidence 忠实度校验、两级增量索引（✅ 活跃）
+- [DSH Composer Layout](https://github.com/lavapapa/dsh-composer-layout) ⭐2 — 为 DSH Web 提供可选右侧 Composer，让长回答与正在撰写的详细提示词并排可见。（🧪 实验性）
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) ⭐2 — ADB device & bench operations: device discovery, structured logcat (background streaming), apk install, file pull/push, dumpsys performance snapshots.（✅ 活跃）
 - [dsh-cost-meter](https://github.com/Sttrevens/dsh-cost-meter) ⭐2 — dsh plugin: per-turn USD cost badge in the Web UI (session total + per-message footer, hover breakdown) from token usage x a configurable pricing table.（✅ 活跃）
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria) ⭐2 — 向量 + 图记忆后端：命名空间隔离、自动观察、召回、重要性处理与热重载。（🧪 实验性）
@@ -1043,7 +1044,7 @@ awesome-deepseek-harness/
 | 9 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-#### 完整列表（262）
+#### 完整列表（263）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1268,6 +1269,7 @@ awesome-deepseek-harness/
 - [mistymoon-dsh](https://github.com/mianyoubiaoqing/MistyMoon-DSH) ⭐3 — Local-first long-term companion plugin suite for DeepSeek Harness（✅ 活跃）
 - [URL Manager](https://github.com/Piccolo123/url-manager) ⭐3 — Agent 优先的 URL 与知识收集系统：自动分类、标签、全文检索与共享收藏。（✅ 活跃）
 - [zotero-wave-rag](https://github.com/Fisfzy/zotero-wave-rag) ⭐3 — 面向 Zotero 论文库的浪潮式 RAG 细节检索系统 —— DSH 外部插件。移植 VCPToolBox 浪潮语义动力学思想（标签河道图传播/虫洞跳转/钟型阻尼/Ω重排），配 BM25+RRF 混合检索、claim-evidence 忠实度校验、两级增量索引（✅ 活跃）
+- [DSH Composer Layout](https://github.com/lavapapa/dsh-composer-layout) ⭐2 — 为 DSH Web 提供可选右侧 Composer，让长回答与正在撰写的详细提示词并排可见。（🧪 实验性）
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) ⭐2 — ADB device & bench operations: device discovery, structured logcat (background streaming), apk install, file pull/push, dumpsys performance snapshots.（✅ 活跃）
 - [dsh-cost-meter](https://github.com/Sttrevens/dsh-cost-meter) ⭐2 — dsh plugin: per-turn USD cost badge in the Web UI (session total + per-message footer, hover breakdown) from token usage x a configurable pricing table.（✅ 活跃）
 - [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria) ⭐2 — 向量 + 图记忆后端：命名空间隔离、自动观察、召回、重要性处理与热重载。（🧪 实验性）

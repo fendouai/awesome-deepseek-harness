@@ -5156,5 +5156,20 @@
     "stars": 0,
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21"
+  },
+  {
+    "id": "dsh-composer-layout",
+    "name": "DSH Composer Layout",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/lavapapa/dsh-composer-layout",
+    "description": "Adds an optional right-side Composer so long answers and detailed drafts remain visible together in DSH Web.",
+    "description_zh": "为 DSH Web 提供可选右侧 Composer，让长回答与正在撰写的详细提示词并排可见。",
+    "capabilities": ["ui"],
+    "status": "experimental",
+    "verified": false,
+    "stars": 2,
+    "install": "dsh plugin --profile web add dsh-composer-layout@0.1.5",
+    "license": "MIT"
   }
 ]

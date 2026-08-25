@@ -5156,5 +5156,20 @@
     "stars": 0,
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21"
+  },
+
+  {
+    "id": "dsh-better-stats",
+    "name": "dsh-better-stats",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/null5069/dsh-better-stats",
+    "description": "Enhanced stats strip for the DeepSeek Harness Web UI: official CNY pricing (peak/off-peak tiers, auto price sync), per-model accounting, live timers, agent-team tree merging, direct balance, budget alerts and streaming cost estimation.",
+    "description_zh": "DSH Web 输入框下方的增强统计条：官方人民币计价（峰谷分时、价目自动同步）、多模型分账、实时计时、子代理树合并、余额直连、预算预警与流式成本估算。",
+    "capabilities": [
+      "observability",
+      "ui"
+    ],
+    "status": "active"
   }
 ]

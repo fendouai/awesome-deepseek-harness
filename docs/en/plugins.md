@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 262 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 263 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,12 +30,12 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐927 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-## Complete list (262)
+## Complete list (263)
 
 
-**UI & experience (56)**
+**UI & experience (57)**
 
-*Other (13)*
+*Other (14)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -52,6 +52,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-view-modes](resources/dsh-view-modes.md) | ⭐2 | Output modes with Verbose, Normal and Summary views plus semantic grouping for tool calls and thinking. | ✅ active |
 | [dsh-fork-to-preset](resources/dsh-fork-to-preset.md) | – | Fork any session into a different agent preset from the conversation header: a preset-picker button that creates a new child session mounted on the chosen preset, inheriting the source session completed turns. | ✅ active |
 | [dsh-plugin](resources/dsh-plugin.md) | – | Build your own coding agent with Pi dsh-plugin | ✅ active |
+| [dsh-think-translate](resources/dsh-think-translate.md) | – | Display-layer UI translation for DSH Web: thinking chain, task cards and answer text in 8 target languages; local Ollama primary with in-panel model download, Google/Bing fallback. | 🧪 experimental |
 *🎨 Skins & themes (12)*
 
 | Project | Stars | Description | Status |

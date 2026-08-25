@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（262 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（263 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,12 +30,12 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-## 完整列表（262）
+## 完整列表（263）
 
 
-**界面与体验（56）**
+**界面与体验（57）**
 
-*其他（13）*
+*其他（14）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -52,6 +52,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-view-modes](resources/dsh-view-modes.md) | ⭐2 | Verbose/Normal/Summary 三种输出模式，工具调用与思考语义分组。 | ✅ 活跃 |
 | [dsh-fork-to-preset](resources/dsh-fork-to-preset.md) | – | 在会话 Header 上一键把当前会话分叉到任意 agent preset：选择 preset 后创建挂载到该 preset 的新子会话，并继承源会话的已完成轮次。 | ✅ 活跃 |
 | [dsh-plugin](resources/dsh-plugin.md) | – | Build your own coding agent with Pi dsh-plugin | ✅ 活跃 |
+| [dsh-think-translate](resources/dsh-think-translate.md) | – | DSH Web 界面显示层翻译：思考链、任务卡片、回答正文翻译为 8 种目标语言；本地 Ollama 模型为主力（面板内下载），Google/Bing 兜底。 | 🧪 实验性 |
 *🎨 皮肤与主题（12）*
 
 | 项目 | 星数 | 说明 | 状态 |

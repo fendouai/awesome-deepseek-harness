@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 262 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 263 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,12 +30,12 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐927 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-## Complete list (262)
+## Complete list (263)
 
 
-**UI & experience (56)**
+**UI & experience (57)**
 
-*Other (13)*
+*Other (14)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -46,6 +46,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-plugin-anti-ads](resources/dsh-plugin-anti-ads.md) | ⭐10 | DSH Web 广告拦截器，四层独立防御拦截 dsh-ads 插件的所有广告位 | DSH Web ad blocker with four independent defense layers targeting the dsh-ads plugin | ✅ active |
 | [dsh-builtin-toggles](resources/dsh-builtin-toggles.md) | ⭐7 | Human-readable catalog of official DSH Web built-ins with safe GUI toggles. | ✅ active |
 | [dsh-split-panes](resources/dsh-split-panes.md) | ⭐5 | Split panes. | ✅ active |
+| [dsh-session-hotkeys](resources/dsh-session-hotkeys.md) | ⭐3 | Session hotkeys for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send and archive confirmation, every binding rebindable with Windows/macOS presets. | ✅ active |
 | [dsh-ultra-ui](resources/dsh-ultra-ui.md) | ⭐3 | Ultra UI plugin (cordis). | ✅ active |
 | [dsh-plugin-description](resources/dsh-plugin-description.md) | ⭐2 | mount one row in the composition and every plugin card on the Web Settings plugin list page gets a bilingual (zh/en) description; it also publishes the pluginDescriptions service so other plugins can register their own descriptions. | ✅ active |
 | [dsh-plugin-radar](resources/dsh-plugin-radar-bf2.md) | ⭐2 | Find DSH plugins by asking in plain language, then security-scan them before install | ✅ active |

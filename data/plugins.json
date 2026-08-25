@@ -5156,5 +5156,20 @@
     "stars": 0,
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21"
+  },
+  {
+    "id": "dsh-session-hotkeys",
+    "name": "dsh-session-hotkeys",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys",
+    "description": "Session hotkeys for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send and archive confirmation, every binding rebindable with Windows/macOS presets.",
+    "description_zh": "会话热键：像切浏览器标签页一样用键盘管理 DSH Web 会话（Alt+1-9 顺序切换、固定槽位、上/下一个、新建/归档/重命名、键盘模型切换与备用发送），键位可在面板录制重绑，Windows/macOS 双预设。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
   }
 ]

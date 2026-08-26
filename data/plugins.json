@@ -5156,5 +5156,23 @@
     "stars": 0,
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21"
+  },
+  {
+    "id": "dsh-task-dispatcher",
+    "name": "dsh-task-dispatcher",
+    "type": "plugin",
+    "category": "automation",
+    "repository": "https://github.com/zhengjy01/dsh-task-dispatcher",
+    "description": "TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board.",
+    "description_zh": "DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。",
+    "capabilities": [
+      "automation",
+      "workflow",
+      "notifications"
+    ],
+    "status": "active",
+    "verified": true,
+    "stars": 0,
+    "license": "MIT"
   }
 ]

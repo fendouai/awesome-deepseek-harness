@@ -435,7 +435,7 @@ dsh web
 - [dsh-precedent](https://github.com/dshplugin-me/dsh-precedent)  — Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step.（✅ 活跃）
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — 从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。（✅ 活跃）
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces.（✅ 活跃）
-- [dsh-think-translate](https://github.com/UncleK/dsh-think-translate)  — DSH Web 界面显示层翻译：思考链、任务卡片、回答正文翻译为 8 种目标语言；本地 Ollama 模型为主力（面板内下载），Google/Bing 兜底。（🧪 实验性）
+- [dsh-think-translate](https://github.com/UncleK/dsh-think-translate)  — DSH Web 界面显示层翻译：思考链、任务卡片与回答正文翻译为 8 种目标语言；本地 Ollama 为主力（面板内下载），Google/Bing 兜底。（✅ 活跃）
 
 ### Skills
 
@@ -1308,7 +1308,7 @@ awesome-deepseek-harness/
 - [dsh-precedent](https://github.com/dshplugin-me/dsh-precedent)  — Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step.（✅ 活跃）
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — 从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。（✅ 活跃）
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces.（✅ 活跃）
-- [dsh-think-translate](https://github.com/UncleK/dsh-think-translate)  — DSH Web 界面显示层翻译：思考链、任务卡片、回答正文翻译为 8 种目标语言；本地 Ollama 模型为主力（面板内下载），Google/Bing 兜底。（🧪 实验性）
+- [dsh-think-translate](https://github.com/UncleK/dsh-think-translate)  — DSH Web 界面显示层翻译：思考链、任务卡片与回答正文翻译为 8 种目标语言；本地 Ollama 为主力（面板内下载），Google/Bing 兜底。（✅ 活跃）
 
 ### Skills
 

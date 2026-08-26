@@ -5164,11 +5164,11 @@
     "category": "ui",
     "repository": "https://github.com/UncleK/dsh-think-translate",
     "description": "Display-layer UI translation for DSH Web: thinking chain, task cards and answer text in 8 target languages; local Ollama primary with in-panel model download, Google/Bing fallback.",
-    "description_zh": "DSH Web 界面显示层翻译：思考链、任务卡片、回答正文翻译为 8 种目标语言；本地 Ollama 模型为主力（面板内下载），Google/Bing 兜底。",
+    "description_zh": "DSH Web 界面显示层翻译：思考链、任务卡片与回答正文翻译为 8 种目标语言；本地 Ollama 为主力（面板内下载），Google/Bing 兜底。",
     "capabilities": [
       "ui"
     ],
-    "status": "experimental",
+    "status": "active",
     "verified": false,
     "stars": 0
   }

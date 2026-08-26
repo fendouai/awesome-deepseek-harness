@@ -52,7 +52,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-view-modes](resources/dsh-view-modes.md) | ⭐2 | Verbose/Normal/Summary 三种输出模式，工具调用与思考语义分组。 | ✅ 活跃 |
 | [dsh-fork-to-preset](resources/dsh-fork-to-preset.md) | – | 在会话 Header 上一键把当前会话分叉到任意 agent preset：选择 preset 后创建挂载到该 preset 的新子会话，并继承源会话的已完成轮次。 | ✅ 活跃 |
 | [dsh-plugin](resources/dsh-plugin.md) | – | Build your own coding agent with Pi dsh-plugin | ✅ 活跃 |
-| [dsh-think-translate](resources/dsh-think-translate.md) | – | DSH Web 界面显示层翻译：思考链、任务卡片、回答正文翻译为 8 种目标语言；本地 Ollama 模型为主力（面板内下载），Google/Bing 兜底。 | 🧪 实验性 |
+| [dsh-think-translate](resources/dsh-think-translate.md) | – | DSH Web 界面显示层翻译：思考链、任务卡片与回答正文翻译为 8 种目标语言；本地 Ollama 为主力（面板内下载），Google/Bing 兜底。 | ✅ 活跃 |
 *🎨 皮肤与主题（12）*
 
 | 项目 | 星数 | 说明 | 状态 |

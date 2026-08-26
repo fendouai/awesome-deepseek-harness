@@ -5,7 +5,7 @@ keywords: "dsh-think-translate, ui, plugin, deepseek harness, dsh"
 ---
 # dsh-think-translate
 
-> ⭐ 0 · 🧪 experimental · plugin
+> ⭐ 0 · ✅ active · plugin
 
 ## One-liner
 

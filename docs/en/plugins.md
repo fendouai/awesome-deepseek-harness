@@ -52,7 +52,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-view-modes](resources/dsh-view-modes.md) | ⭐2 | Output modes with Verbose, Normal and Summary views plus semantic grouping for tool calls and thinking. | ✅ active |
 | [dsh-fork-to-preset](resources/dsh-fork-to-preset.md) | – | Fork any session into a different agent preset from the conversation header: a preset-picker button that creates a new child session mounted on the chosen preset, inheriting the source session completed turns. | ✅ active |
 | [dsh-plugin](resources/dsh-plugin.md) | – | Build your own coding agent with Pi dsh-plugin | ✅ active |
-| [dsh-think-translate](resources/dsh-think-translate.md) | – | Display-layer UI translation for DSH Web: thinking chain, task cards and answer text in 8 target languages; local Ollama primary with in-panel model download, Google/Bing fallback. | 🧪 experimental |
+| [dsh-think-translate](resources/dsh-think-translate.md) | – | Display-layer UI translation for DSH Web: thinking chain, task cards and answer text in 8 target languages; local Ollama primary with in-panel model download, Google/Bing fallback. | ✅ active |
 *🎨 Skins & themes (12)*
 
 | Project | Stars | Description | Status |

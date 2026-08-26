@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（262 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（263 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-## 完整列表（262）
+## 完整列表（263）
 
 
-**界面与体验（56）**
+**界面与体验（57）**
 
 *其他（13）*
 
@@ -81,7 +81,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-plugin-aigc-canvas](resources/dsh-plugin-aigc-canvas.md) | ⭐13 | provider-agnostic AIGC HTTP 桥 + 无限画布 + ffmpeg 后处理，13 个工具含画布连边/reroll/媒体编辑 | Provider-agnostic AIGC HTTP bridge + infinite canvas + ffmpeg post-processing; 13 tools incl. canvas linking/reroll/media-edit | ✅ 活跃 |
 | [dsh-landscape](resources/dsh-landscape.md) | ⭐7 | Agent-first DeepSeek Harness plugin intelligence: verify existing plugins, identify missing capabilities, and generate build-ready briefs. | ✅ 活跃 |
 | [dsh-suggested-replies](resources/dsh-suggested-replies.md) | ⭐3 | DSH Web 预测回复插件：AI 回复后在输入框上方生成可点击填入草稿的候选。 | ✅ 活跃 |
-*🖥️ 侧边栏与面板（8）*
+*🖥️ 侧边栏与面板（9）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -93,6 +93,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-workspace-search](resources/dsh-workspace-search.md) | ⭐4 | VS Code 风格工作区关键词搜索：Better Sidebar 生态的搜索 Tab。 | ✅ 活跃 |
 | [dsh-turn-index](resources/dsh-turn-index.md) | ⭐1 | 回合索引侧栏：每个用户回合一条，点击跳转，滚动监听高亮。 | ✅ 活跃 |
 | [dsh-plugin-cost](resources/dsh-plugin-cost.md) | – | Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). | ✅ 活跃 |
+| [dsh-pr-checks](resources/dsh-pr-checks.md) | – | DSH 插件（宿主端 + Web 客户端）：在侧边栏底部按工作区/项目分组展示各打开 PR 的 GitHub Actions 检查状态与进度。 | 🧪 实验性 |
 *🐋 桌面宠物（6）*
 
 | 项目 | 星数 | 说明 | 状态 |

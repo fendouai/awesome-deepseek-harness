@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 262 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 263 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐927 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-## Complete list (262)
+## Complete list (263)
 
 
-**UI & experience (56)**
+**UI & experience (57)**
 
 *Other (13)*
 
@@ -81,7 +81,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-plugin-aigc-canvas](resources/dsh-plugin-aigc-canvas.md) | ⭐13 | provider-agnostic AIGC HTTP 桥 + 无限画布 + ffmpeg 后处理，13 个工具含画布连边/reroll/媒体编辑 | Provider-agnostic AIGC HTTP bridge + infinite canvas + ffmpeg post-processing; 13 tools incl. canvas linking/reroll/media-edit | ✅ active |
 | [dsh-landscape](resources/dsh-landscape.md) | ⭐7 | Agent-first DeepSeek Harness plugin intelligence: verify existing plugins, identify missing capabilities, and generate build-ready briefs. | ✅ active |
 | [dsh-suggested-replies](resources/dsh-suggested-replies.md) | ⭐3 | Predicted next-message candidates above the DSH Web composer, one click to fill the draft. | ✅ active |
-*🖥️ Sidebars & panels (8)*
+*🖥️ Sidebars & panels (9)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -93,6 +93,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-workspace-search](resources/dsh-workspace-search.md) | ⭐4 | VS Code-style workspace keyword search: a Search tab for the Better Sidebar ecosystem. | ✅ active |
 | [dsh-turn-index](resources/dsh-turn-index.md) | ⭐1 | Turn-index sidebar: one entry per user turn, click to jump with scroll-spy highlighting. | ✅ active |
 | [dsh-plugin-cost](resources/dsh-plugin-cost.md) | – | Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). | ✅ active |
+| [dsh-pr-checks](resources/dsh-pr-checks.md) | – | DSH plugin (host + web client): status and progress of GitHub Actions checks of the open PRs, grouped by workspace/project, in the sidebar footer. | 🧪 experimental |
 *🐋 Desktop pets (6)*
 
 | Project | Stars | Description | Status |

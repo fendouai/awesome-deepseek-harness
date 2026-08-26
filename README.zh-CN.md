@@ -171,7 +171,7 @@ dsh web
 | 9 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-#### 完整列表（262）
+#### 完整列表（263）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -432,6 +432,7 @@ dsh web
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。（✅ 活跃）
 - [dsh-plugin](https://github.com/dsh-plugin-dev/dsh-plugin)  — Build your own coding agent with Pi dsh-plugin（✅ 活跃）
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh).（✅ 活跃）
+- [dsh-pr-checks](https://github.com/pauloapoloni/dsh-pr-checks)  — DSH 插件（宿主端 + Web 客户端）：在侧边栏底部按工作区/项目分组展示各打开 PR 的 GitHub Actions 检查状态与进度。（🧪 实验性）
 - [dsh-precedent](https://github.com/dshplugin-me/dsh-precedent)  — Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step.（✅ 活跃）
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — 从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。（✅ 活跃）
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces.（✅ 活跃）
@@ -1043,7 +1044,7 @@ awesome-deepseek-harness/
 | 9 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-#### 完整列表（262）
+#### 完整列表（263）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1304,6 +1305,7 @@ awesome-deepseek-harness/
 - [dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token)  — 复用本机 Codex CLI 与 Claude Code OAuth 凭据的 DSH 模型提供方路由，无需另配 API Key。（✅ 活跃）
 - [dsh-plugin](https://github.com/dsh-plugin-dev/dsh-plugin)  — Build your own coding agent with Pi dsh-plugin（✅ 活跃）
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh).（✅ 活跃）
+- [dsh-pr-checks](https://github.com/pauloapoloni/dsh-pr-checks)  — DSH 插件（宿主端 + Web 客户端）：在侧边栏底部按工作区/项目分组展示各打开 PR 的 GitHub Actions 检查状态与进度。（🧪 实验性）
 - [dsh-precedent](https://github.com/dshplugin-me/dsh-precedent)  — Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step.（✅ 活跃）
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — 从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。（✅ 活跃）
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces.（✅ 活跃）

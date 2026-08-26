@@ -5156,5 +5156,20 @@
     "stars": 0,
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21"
+  },
+  {
+    "id": "dsh-pr-checks",
+    "name": "dsh-pr-checks",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/pauloapoloni/dsh-pr-checks",
+    "description": "DSH plugin (host + web client): status and progress of GitHub Actions checks of the open PRs, grouped by workspace/project, in the sidebar footer.",
+    "description_zh": "DSH 插件（宿主端 + Web 客户端）：在侧边栏底部按工作区/项目分组展示各打开 PR 的 GitHub Actions 检查状态与进度。",
+    "capabilities": ["ui", "git"],
+    "status": "experimental",
+    "verified": false,
+    "stars": 0,
+    "license": "MIT",
+    "subcategory": "sidebar-panels"
   }
 ]

@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（262 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（263 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,12 +30,12 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-## 完整列表（262）
+## 完整列表（263）
 
 
-**界面与体验（56）**
+**界面与体验（57）**
 
-*其他（13）*
+*其他（14）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -46,6 +46,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-plugin-anti-ads](resources/dsh-plugin-anti-ads.md) | ⭐10 | DSH Web 广告拦截器，四层独立防御拦截 dsh-ads 插件的所有广告位 | DSH Web ad blocker with four independent defense layers targeting the dsh-ads plugin | ✅ 活跃 |
 | [dsh-builtin-toggles](resources/dsh-builtin-toggles.md) | ⭐7 | 官方 DSH Web 内置功能可读目录 + 安全 UI 开关。 | ✅ 活跃 |
 | [dsh-split-panes](resources/dsh-split-panes.md) | ⭐5 | Split panes. | ✅ 活跃 |
+| [dsh-solution-explorer](resources/dsh-solution-explorer.md) | ⭐4 | DSH Web GUI 右侧边栏：VS Code 风格文件浏览器 + 源代码管理（git 状态、暂存/取消暂存/丢弃、提交、diff、提交图、同步、分支/远程管理）+ 可编辑 diff 视图 + 语法高亮编辑器（15 种语言）+ 多标签终端（ConPTY）。 | ✅ 活跃 |
 | [dsh-ultra-ui](resources/dsh-ultra-ui.md) | ⭐3 | Ultra UI plugin (cordis). | ✅ 活跃 |
 | [dsh-plugin-description](resources/dsh-plugin-description.md) | ⭐2 | mount one row in the composition and every plugin card on the Web Settings plugin list page gets a bilingual (zh/en) description; it also publishes the pluginDescriptions service so other plugins can register their own descriptions. | ✅ 活跃 |
 | [dsh-plugin-radar](resources/dsh-plugin-radar-bf2.md) | ⭐2 | Find DSH plugins by asking in plain language, then security-scan them before install | ✅ 活跃 |

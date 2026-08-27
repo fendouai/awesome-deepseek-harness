@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐927 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-#### Complete list (262)
+#### Complete list (263)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -366,6 +366,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-plugin-deepeye](https://github.com/Favio8/dsh-plugin-deepeye) ⭐4 — DeepEye vision plugin for DeepSeek Harness (DSH): image description, OCR, VQA, UI layout, and clipboard analysis. (✅ active)
 - [dsh-rss](https://github.com/STARDUSTLC666/dsh-rss) ⭐4 — DeepSeek Harness RSS 订阅插件：rss_list/add/remove/fetch/check 五工具，RSS 0.9x/1.0/2.0 与 Atom 归一化解析，订阅列表持久化到 settings，proxyUrl 特殊代理支持；纯 Node 全平台。· RSS/Atom subscription tools for DeepSeek Harness agents. (✅ active)
 - [dsh-skill-hub](https://github.com/cheshireez/dsh-skill-hub) ⭐4 — In-GUI skill manager for DeepSeek Harness: browse, search, toggle, inspect, diagnose and scaffold local skills from the official ctx.skills registry, plus a skill market with tracked source sync and one-click update-all. (✅ active)
+- [dsh-solution-explorer](https://github.com/xiaoksio/dsh-solution-explorer) ⭐4 — VS Code-style right sidebar for the DSH Web GUI: file explorer plus source control (git status, stage/unstage/discard, commit, diff, commit graph, sync, branch/remote management) with an editable diff view, a syntax-highlighted editor (15 languages) and a multi-tab ConPTY terminal. (✅ active)
 - [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) ⭐4 — Structured safe Git tools: status/diff/log/branch/stage/commit/stash/show with a destructive-command guard. (✅ active)
 - [dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) ⭐4 — Privacy-minimal heuristic per-turn verification summaries for DeepSeek Harness (✅ active)
 - [dsh-wordbox](https://github.com/arcmosin/dsh-wordbox) ⭐4 — Persistent common-word panel beside the composer with global/project buckets and one-click insert. (✅ active)
@@ -1042,7 +1043,7 @@ awesome-deepseek-harness/
 | 9 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐927 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-#### Complete list (262)
+#### Complete list (263)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -1238,6 +1239,7 @@ awesome-deepseek-harness/
 - [dsh-plugin-deepeye](https://github.com/Favio8/dsh-plugin-deepeye) ⭐4 — DeepEye vision plugin for DeepSeek Harness (DSH): image description, OCR, VQA, UI layout, and clipboard analysis. (✅ active)
 - [dsh-rss](https://github.com/STARDUSTLC666/dsh-rss) ⭐4 — DeepSeek Harness RSS 订阅插件：rss_list/add/remove/fetch/check 五工具，RSS 0.9x/1.0/2.0 与 Atom 归一化解析，订阅列表持久化到 settings，proxyUrl 特殊代理支持；纯 Node 全平台。· RSS/Atom subscription tools for DeepSeek Harness agents. (✅ active)
 - [dsh-skill-hub](https://github.com/cheshireez/dsh-skill-hub) ⭐4 — In-GUI skill manager for DeepSeek Harness: browse, search, toggle, inspect, diagnose and scaffold local skills from the official ctx.skills registry, plus a skill market with tracked source sync and one-click update-all. (✅ active)
+- [dsh-solution-explorer](https://github.com/xiaoksio/dsh-solution-explorer) ⭐4 — VS Code-style right sidebar for the DSH Web GUI: file explorer plus source control (git status, stage/unstage/discard, commit, diff, commit graph, sync, branch/remote management) with an editable diff view, a syntax-highlighted editor (15 languages) and a multi-tab ConPTY terminal. (✅ active)
 - [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) ⭐4 — Structured safe Git tools: status/diff/log/branch/stage/commit/stash/show with a destructive-command guard. (✅ active)
 - [dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) ⭐4 — Privacy-minimal heuristic per-turn verification summaries for DeepSeek Harness (✅ active)
 - [dsh-wordbox](https://github.com/arcmosin/dsh-wordbox) ⭐4 — Persistent common-word panel beside the composer with global/project buckets and one-click insert. (✅ active)

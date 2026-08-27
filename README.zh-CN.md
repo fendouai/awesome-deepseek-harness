@@ -171,7 +171,7 @@ dsh web
 | 9 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-#### 完整列表（262）
+#### 完整列表（263）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -367,6 +367,7 @@ dsh web
 - [dsh-plugin-deepeye](https://github.com/Favio8/dsh-plugin-deepeye) ⭐4 — DeepEye vision plugin for DeepSeek Harness (DSH): image description, OCR, VQA, UI layout, and clipboard analysis.（✅ 活跃）
 - [dsh-rss](https://github.com/STARDUSTLC666/dsh-rss) ⭐4 — DeepSeek Harness RSS 订阅插件：rss_list/add/remove/fetch/check 五工具，RSS 0.9x/1.0/2.0 与 Atom 归一化解析，订阅列表持久化到 settings，proxyUrl 特殊代理支持；纯 Node 全平台。· RSS/Atom subscription tools for DeepSeek Harness agents.（✅ 活跃）
 - [dsh-skill-hub](https://github.com/cheshireez/dsh-skill-hub) ⭐4 — DSH Web GUI 技能中枢：基于官方 ctx.skills 注册表浏览、搜索、启停、查看、诊断并新建本地技能，附技能市场：来源快照跟踪、一键全量更新。（✅ 活跃）
+- [dsh-solution-explorer](https://github.com/xiaoksio/dsh-solution-explorer) ⭐4 — DSH Web GUI 右侧边栏：VS Code 风格文件浏览器 + 源代码管理（git 状态、暂存/取消暂存/丢弃、提交、diff、提交图、同步、分支/远程管理）+ 可编辑 diff 视图 + 语法高亮编辑器（15 种语言）+ 多标签终端（ConPTY）。（✅ 活跃）
 - [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) ⭐4 — 结构化安全 Git 工具：status/diff/log/branch/stage/commit/stash/show，带破坏性命令防护。（✅ 活跃）
 - [dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) ⭐4 — Privacy-minimal heuristic per-turn verification summaries for DeepSeek Harness（✅ 活跃）
 - [dsh-wordbox](https://github.com/arcmosin/dsh-wordbox) ⭐4 — 输入框旁常用词箱：全局/项目词桶，一键插入。（✅ 活跃）
@@ -1043,7 +1044,7 @@ awesome-deepseek-harness/
 | 9 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-#### 完整列表（262）
+#### 完整列表（263）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1239,6 +1240,7 @@ awesome-deepseek-harness/
 - [dsh-plugin-deepeye](https://github.com/Favio8/dsh-plugin-deepeye) ⭐4 — DeepEye vision plugin for DeepSeek Harness (DSH): image description, OCR, VQA, UI layout, and clipboard analysis.（✅ 活跃）
 - [dsh-rss](https://github.com/STARDUSTLC666/dsh-rss) ⭐4 — DeepSeek Harness RSS 订阅插件：rss_list/add/remove/fetch/check 五工具，RSS 0.9x/1.0/2.0 与 Atom 归一化解析，订阅列表持久化到 settings，proxyUrl 特殊代理支持；纯 Node 全平台。· RSS/Atom subscription tools for DeepSeek Harness agents.（✅ 活跃）
 - [dsh-skill-hub](https://github.com/cheshireez/dsh-skill-hub) ⭐4 — DSH Web GUI 技能中枢：基于官方 ctx.skills 注册表浏览、搜索、启停、查看、诊断并新建本地技能，附技能市场：来源快照跟踪、一键全量更新。（✅ 活跃）
+- [dsh-solution-explorer](https://github.com/xiaoksio/dsh-solution-explorer) ⭐4 — DSH Web GUI 右侧边栏：VS Code 风格文件浏览器 + 源代码管理（git 状态、暂存/取消暂存/丢弃、提交、diff、提交图、同步、分支/远程管理）+ 可编辑 diff 视图 + 语法高亮编辑器（15 种语言）+ 多标签终端（ConPTY）。（✅ 活跃）
 - [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) ⭐4 — 结构化安全 Git 工具：status/diff/log/branch/stage/commit/stash/show，带破坏性命令防护。（✅ 活跃）
 - [dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) ⭐4 — Privacy-minimal heuristic per-turn verification summaries for DeepSeek Harness（✅ 活跃）
 - [dsh-wordbox](https://github.com/arcmosin/dsh-wordbox) ⭐4 — 输入框旁常用词箱：全局/项目词桶，一键插入。（✅ 活跃）

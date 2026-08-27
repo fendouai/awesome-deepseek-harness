@@ -3575,6 +3575,25 @@
     "growth": 1
   },
   {
+    "id": "dsh-solution-explorer",
+    "name": "dsh-solution-explorer",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/xiaoksio/dsh-solution-explorer",
+    "description": "VS Code-style right sidebar for the DSH Web GUI: file explorer plus source control (git status, stage/unstage/discard, commit, diff, commit graph, sync, branch/remote management) with an editable diff view, a syntax-highlighted editor (15 languages) and a multi-tab ConPTY terminal.",
+    "description_zh": "DSH Web GUI 右侧边栏：VS Code 风格文件浏览器 + 源代码管理（git 状态、暂存/取消暂存/丢弃、提交、diff、提交图、同步、分支/远程管理）+ 可编辑 diff 视图 + 语法高亮编辑器（15 种语言）+ 多标签终端（ConPTY）。",
+    "capabilities": [
+      "ui",
+      "files",
+      "git",
+      "terminal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-verification-receipt",
     "name": "dsh-verification-receipt",
     "type": "plugin",

@@ -1,19 +1,19 @@
 ---
 title: "DSH Composer Layout"
-description: "为 DSH Web 提供可选右侧 Composer，让长回答与正在撰写的详细提示词并排可见。"
+description: "让 DSH Web 的长回答与正在撰写的详细提示词并排可见，边读边写。"
 keywords: "DSH Composer Layout, ui, plugin, deepseek harness, dsh"
 ---
 # DSH Composer Layout
 
-> ⭐ 2 · 🧪 实验性 · 插件
+> ⭐ 2 · ✅ 活跃 · 插件
 
 ## 一句话介绍
 
-为 DSH Web 提供可选右侧 Composer，让长回答与正在撰写的详细提示词并排可见。
+让 DSH Web 的长回答与正在撰写的详细提示词并排可见，边读边写。
 
 ## 详细介绍
 
-为 DSH Web 提供可选右侧 Composer，让长回答与正在撰写的详细提示词并排可见。
+让 DSH Web 的长回答与正在撰写的详细提示词并排可见，边读边写。
 
 ## 作者
 **[lavapapa](https://github.com/lavapapa)**

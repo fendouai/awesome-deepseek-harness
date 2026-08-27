@@ -47,7 +47,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-builtin-toggles](resources/dsh-builtin-toggles.md) | ⭐7 | Human-readable catalog of official DSH Web built-ins with safe GUI toggles. | ✅ active |
 | [dsh-split-panes](resources/dsh-split-panes.md) | ⭐5 | Split panes. | ✅ active |
 | [dsh-ultra-ui](resources/dsh-ultra-ui.md) | ⭐3 | Ultra UI plugin (cordis). | ✅ active |
-| [DSH Composer Layout](resources/dsh-composer-layout.md) | ⭐2 | Adds an optional right-side Composer so long answers and detailed drafts remain visible together in DSH Web. | 🧪 experimental |
+| [DSH Composer Layout](resources/dsh-composer-layout.md) | ⭐2 | Lets you read a long answer while drafting the next detailed prompt beside it in DSH Web. | ✅ active |
 | [dsh-plugin-description](resources/dsh-plugin-description.md) | ⭐2 | mount one row in the composition and every plugin card on the Web Settings plugin list page gets a bilingual (zh/en) description; it also publishes the pluginDescriptions service so other plugins can register their own descriptions. | ✅ active |
 | [dsh-plugin-radar](resources/dsh-plugin-radar-bf2.md) | ⭐2 | Find DSH plugins by asking in plain language, then security-scan them before install | ✅ active |
 | [dsh-view-modes](resources/dsh-view-modes.md) | ⭐2 | Output modes with Verbose, Normal and Summary views plus semantic grouping for tool calls and thinking. | ✅ active |

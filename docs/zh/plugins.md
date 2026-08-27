@@ -47,7 +47,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-builtin-toggles](resources/dsh-builtin-toggles.md) | ⭐7 | 官方 DSH Web 内置功能可读目录 + 安全 UI 开关。 | ✅ 活跃 |
 | [dsh-split-panes](resources/dsh-split-panes.md) | ⭐5 | Split panes. | ✅ 活跃 |
 | [dsh-ultra-ui](resources/dsh-ultra-ui.md) | ⭐3 | Ultra UI plugin (cordis). | ✅ 活跃 |
-| [DSH Composer Layout](resources/dsh-composer-layout.md) | ⭐2 | 为 DSH Web 提供可选右侧 Composer，让长回答与正在撰写的详细提示词并排可见。 | 🧪 实验性 |
+| [DSH Composer Layout](resources/dsh-composer-layout.md) | ⭐2 | 让 DSH Web 的长回答与正在撰写的详细提示词并排可见，边读边写。 | ✅ 活跃 |
 | [dsh-plugin-description](resources/dsh-plugin-description.md) | ⭐2 | mount one row in the composition and every plugin card on the Web Settings plugin list page gets a bilingual (zh/en) description; it also publishes the pluginDescriptions service so other plugins can register their own descriptions. | ✅ 活跃 |
 | [dsh-plugin-radar](resources/dsh-plugin-radar-bf2.md) | ⭐2 | Find DSH plugins by asking in plain language, then security-scan them before install | ✅ 活跃 |
 | [dsh-view-modes](resources/dsh-view-modes.md) | ⭐2 | Verbose/Normal/Summary 三种输出模式，工具调用与思考语义分组。 | ✅ 活跃 |

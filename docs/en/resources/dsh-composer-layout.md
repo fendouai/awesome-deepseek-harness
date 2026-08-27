@@ -1,19 +1,19 @@
 ---
 title: "DSH Composer Layout"
-description: "Adds an optional right-side Composer so long answers and detailed drafts remain visible together in DSH Web."
+description: "Lets you read a long answer while drafting the next detailed prompt beside it in DSH Web."
 keywords: "DSH Composer Layout, ui, plugin, deepseek harness, dsh"
 ---
 # DSH Composer Layout
 
-> ⭐ 2 · 🧪 experimental · plugin
+> ⭐ 2 · ✅ active · plugin
 
 ## One-liner
 
-Adds an optional right-side Composer so long answers and detailed drafts remain visible together in DSH Web.
+Lets you read a long answer while drafting the next detailed prompt beside it in DSH Web.
 
 ## About
 
-Adds an optional right-side Composer so long answers and detailed drafts remain visible together in DSH Web.
+Lets you read a long answer while drafting the next detailed prompt beside it in DSH Web.
 
 ## Author
 **[lavapapa](https://github.com/lavapapa)**

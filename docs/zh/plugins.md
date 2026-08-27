@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（262 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（263 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐927 | 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。 | ✅ 活跃 |
 
-## 完整列表（262）
+## 完整列表（263）
 
 
 **界面与体验（56）**
@@ -365,7 +365,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dshp](resources/dshp.md) | ⭐1 | Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. | ✅ 活跃 |
 | [dsh-session-cleaner-cli](resources/dsh-session-cleaner-cli.md) | – | 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces. | ✅ 活跃 |
 
-**娱乐与生活（12）**
+**娱乐与生活（13）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -381,6 +381,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-gomoku](resources/dsh-gomoku.md) | ⭐14 | 在 DSH 中与 AI 下五子棋，也可以让 AI 对局比试模型强弱。 | ✅ 活跃 |
 | [dsh-pet](resources/dsh-pet.md) | ⭐13 | 🐋 DSH 有声桌宠：悬浮桌面的 DeepSeek 小鲸鱼，不打开 DSH 也能实时感知会话状态（需要确认/工作中/完成/空闲/离线），支持音效提醒与零代码定制素材 | ✅ 活跃 |
 | [dsh-plugin-d399](resources/dsh-plugin-d399.md) | ⭐8 | 模型生成时右下角弹出小游戏菜单：Wordle/消消乐/192 款参数化小游戏。 | ✅ 活跃 |
+| [dsh-vibegap](resources/dsh-vibegap.md) | – | 在 DSH Web 会话运行时自动出现的拼写单词卡；本地持久化进度，并可选与 VibeGap 桌面端共享游标。 | 🧪 实验性 |
 
 **输入与编辑（9）**
 

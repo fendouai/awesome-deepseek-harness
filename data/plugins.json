@@ -5156,5 +5156,24 @@
     "stars": 0,
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21"
+  },
+  {
+    "id": "dsh-vibegap",
+    "name": "dsh-vibegap",
+    "type": "plugin",
+    "category": "fun",
+    "repository": "https://github.com/ktao732084-arch/vibegap",
+    "description": "Vocabulary spelling cards in DSH Web that appear during running sessions, persist progress locally, and optionally share the VibeGap desktop cursor.",
+    "description_zh": "在 DSH Web 会话运行时自动出现的拼写单词卡；本地持久化进度，并可选与 VibeGap 桌面端共享游标。",
+    "capabilities": [
+      "ui",
+      "learning",
+      "notifications"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 0,
+    "install": "dsh plugin --profile web add https://github.com/ktao732084-arch/vibegap/releases/download/dsh-vibegap-v0.1.0/dsh-vibegap-0.1.0.tgz",
+    "license": "MIT"
   }
 ]

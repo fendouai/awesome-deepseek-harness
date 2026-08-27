@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 262 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 263 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 | 10 | [dsh-vision-router](resources/dsh-vision-router.md) | ⭐927 | Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). | ✅ active |
 
-## Complete list (262)
+## Complete list (263)
 
 
 **UI & experience (56)**
@@ -365,7 +365,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dshp](resources/dshp.md) | ⭐1 | Manage DeepSeek Harness profiles — list, create, clone, diff, and share a whole dsh setup as one portable file. | ✅ active |
 | [dsh-session-cleaner-cli](resources/dsh-session-cleaner-cli.md) | – | 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces. | ✅ active |
 
-**Fun & lifestyle (12)**
+**Fun & lifestyle (13)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -381,6 +381,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-gomoku](resources/dsh-gomoku.md) | ⭐14 | Play Gomoku with AI inside DSH, or let two AIs battle to compare models. | ✅ active |
 | [dsh-pet](resources/dsh-pet.md) | ⭐13 | 🐋 DSH 有声桌宠：悬浮桌面的 DeepSeek 小鲸鱼，不打开 DSH 也能实时感知会话状态（需要确认/工作中/完成/空闲/离线），支持音效提醒与零代码定制素材 | ✅ active |
 | [dsh-plugin-d399](resources/dsh-plugin-d399.md) | ⭐8 | Mini-game menu (Wordle, match-3, 192 parameterized games) that pops up while the model generates. | ✅ active |
+| [dsh-vibegap](resources/dsh-vibegap.md) | – | Vocabulary spelling cards in DSH Web that appear during running sessions, persist progress locally, and optionally share the VibeGap desktop cursor. | 🧪 experimental |
 
 **Input & editing (9)**
 

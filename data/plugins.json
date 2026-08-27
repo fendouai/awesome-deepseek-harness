@@ -5173,7 +5173,7 @@
     "status": "experimental",
     "verified": false,
     "stars": 0,
-    "install": "dsh plugin --profile web add https://github.com/ktao732084-arch/vibegap/releases/download/dsh-vibegap-v0.1.0/dsh-vibegap-0.1.0.tgz",
+    "install": "dsh plugin --profile web add dsh-vibegap",
     "license": "MIT"
   }
 ]

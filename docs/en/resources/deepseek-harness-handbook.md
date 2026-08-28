@@ -1,15 +1,15 @@
 ---
 title: "deepseek-harness-handbook"
-description: "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks."
+description: "Independent, source-backed, English-canonical and multilingual handbook for DeepSeek Harness: agent runtime, plugins, MCP, sandboxing, sessions, evaluation, and troubleshooting runbooks."
 keywords: "deepseek-harness-handbook, learning, tutorial, coding, multi-agent, deepseek harness, dsh"
 ---
 # deepseek-harness-handbook
 
-> ⭐ 36 · ✅ active · tutorial
+> ⭐ 79 · ✅ active · tutorial
 
 ## One-liner
 
-Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.
+Independent, source-backed, English-canonical and multilingual handbook for DeepSeek Harness: agent runtime, plugins, MCP, sandboxing, sessions, evaluation, and troubleshooting runbooks.
 
 ## About
 

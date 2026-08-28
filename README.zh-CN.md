@@ -782,8 +782,8 @@ dsh web
 | 2 | [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) | ⭐604 | 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）。 | ✅ 活跃 |
 | 3 | [dshfind](https://github.com/hikariming/dshfind) | ⭐200 | DSH 原理学习、插件市场与最佳实践：从 Cordis 论文逐章精读到插件自动聚合市场。 | ✅ 活跃 |
 | 4 | [deepseek-harness-tutorial](https://github.com/ht426/deepseek-harness-tutorial) | ⭐182 | DeepSeek Harness 中文详细学习教程。 | ✅ 活跃 |
-| 5 | [dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) | ⭐54 | DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目） | ✅ 活跃 |
-| 6 | [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) | ⭐36 | Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks. | ✅ 活跃 |
+| 5 | [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) | ⭐79 | 面向 DeepSeek Harness 的独立溯源手册：覆盖 Agent runtime、插件、MCP、沙箱、Session、评估与故障排查，并提供多语言入口。 | ✅ 活跃 |
+| 6 | [dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) | ⭐54 | DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目） | ✅ 活跃 |
 | 7 | [dsh-explain](https://github.com/yuezengwu/dsh-explain) | ⭐11 | 本地优先学习模式：跨会话全局学习线程、按来源讲解、ExplainContext、压缩与可诊断设置。 | ✅ 活跃 |
 | 8 | [deepseek-harness-learning](https://github.com/Lucky2024-pllove/deepseek-harness-learning) | ⭐7 | 基于 deepseek-harness 仓库系统化拆解的学习网站：面向想了解 AI Agent 框架如何工作的开发者。 | ✅ 活跃 |
 | 9 | [deepseek-harness-prompts](https://github.com/demouo/deepseek-harness-prompts) | ⭐6 | 不同模式下的 DeepSeek Harness 提示词集。 | ✅ 活跃 |
@@ -795,8 +795,8 @@ dsh web
 - [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) ⭐604 — 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）。（✅ 活跃）
 - [dshfind](https://github.com/hikariming/dshfind) ⭐200 — DSH 原理学习、插件市场与最佳实践：从 Cordis 论文逐章精读到插件自动聚合市场。（✅ 活跃）
 - [deepseek-harness-tutorial](https://github.com/ht426/deepseek-harness-tutorial) ⭐182 — DeepSeek Harness 中文详细学习教程。（✅ 活跃）
+- [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) ⭐79 — 面向 DeepSeek Harness 的独立溯源手册：覆盖 Agent runtime、插件、MCP、沙箱、Session、评估与故障排查，并提供多语言入口。（✅ 活跃）
 - [dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) ⭐54 — DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目）（✅ 活跃）
-- [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) ⭐36 — Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.（✅ 活跃）
 - [dsh-explain](https://github.com/yuezengwu/dsh-explain) ⭐11 — 本地优先学习模式：跨会话全局学习线程、按来源讲解、ExplainContext、压缩与可诊断设置。（✅ 活跃）
 - [deepseek-harness-learning](https://github.com/Lucky2024-pllove/deepseek-harness-learning) ⭐7 — 基于 deepseek-harness 仓库系统化拆解的学习网站：面向想了解 AI Agent 框架如何工作的开发者。（✅ 活跃）
 - [deepseek-harness-prompts](https://github.com/demouo/deepseek-harness-prompts) ⭐6 — 不同模式下的 DeepSeek Harness 提示词集。（✅ 活跃）
@@ -1654,8 +1654,8 @@ awesome-deepseek-harness/
 | 2 | [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) | ⭐604 | 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）。 | ✅ 活跃 |
 | 3 | [dshfind](https://github.com/hikariming/dshfind) | ⭐200 | DSH 原理学习、插件市场与最佳实践：从 Cordis 论文逐章精读到插件自动聚合市场。 | ✅ 活跃 |
 | 4 | [deepseek-harness-tutorial](https://github.com/ht426/deepseek-harness-tutorial) | ⭐182 | DeepSeek Harness 中文详细学习教程。 | ✅ 活跃 |
-| 5 | [dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) | ⭐54 | DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目） | ✅ 活跃 |
-| 6 | [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) | ⭐36 | Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks. | ✅ 活跃 |
+| 5 | [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) | ⭐79 | 面向 DeepSeek Harness 的独立溯源手册：覆盖 Agent runtime、插件、MCP、沙箱、Session、评估与故障排查，并提供多语言入口。 | ✅ 活跃 |
+| 6 | [dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) | ⭐54 | DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目） | ✅ 活跃 |
 | 7 | [dsh-explain](https://github.com/yuezengwu/dsh-explain) | ⭐11 | 本地优先学习模式：跨会话全局学习线程、按来源讲解、ExplainContext、压缩与可诊断设置。 | ✅ 活跃 |
 | 8 | [deepseek-harness-learning](https://github.com/Lucky2024-pllove/deepseek-harness-learning) | ⭐7 | 基于 deepseek-harness 仓库系统化拆解的学习网站：面向想了解 AI Agent 框架如何工作的开发者。 | ✅ 活跃 |
 | 9 | [deepseek-harness-prompts](https://github.com/demouo/deepseek-harness-prompts) | ⭐6 | 不同模式下的 DeepSeek Harness 提示词集。 | ✅ 活跃 |
@@ -1667,8 +1667,8 @@ awesome-deepseek-harness/
 - [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) ⭐604 — 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）。（✅ 活跃）
 - [dshfind](https://github.com/hikariming/dshfind) ⭐200 — DSH 原理学习、插件市场与最佳实践：从 Cordis 论文逐章精读到插件自动聚合市场。（✅ 活跃）
 - [deepseek-harness-tutorial](https://github.com/ht426/deepseek-harness-tutorial) ⭐182 — DeepSeek Harness 中文详细学习教程。（✅ 活跃）
+- [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) ⭐79 — 面向 DeepSeek Harness 的独立溯源手册：覆盖 Agent runtime、插件、MCP、沙箱、Session、评估与故障排查，并提供多语言入口。（✅ 活跃）
 - [dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) ⭐54 — DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目）（✅ 活跃）
-- [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) ⭐36 — Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.（✅ 活跃）
 - [dsh-explain](https://github.com/yuezengwu/dsh-explain) ⭐11 — 本地优先学习模式：跨会话全局学习线程、按来源讲解、ExplainContext、压缩与可诊断设置。（✅ 活跃）
 - [deepseek-harness-learning](https://github.com/Lucky2024-pllove/deepseek-harness-learning) ⭐7 — 基于 deepseek-harness 仓库系统化拆解的学习网站：面向想了解 AI Agent 框架如何工作的开发者。（✅ 活跃）
 - [deepseek-harness-prompts](https://github.com/demouo/deepseek-harness-prompts) ⭐6 — 不同模式下的 DeepSeek Harness 提示词集。（✅ 活跃）

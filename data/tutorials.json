@@ -102,19 +102,19 @@
     "type": "tutorial",
     "category": "learning",
     "repository": "https://github.com/sandbaseai/deepseek-harness-handbook",
-    "description": "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.",
-    "description_zh": "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.",
+    "description": "Independent, source-backed, English-canonical and multilingual handbook for DeepSeek Harness: agent runtime, plugins, MCP, sandboxing, sessions, evaluation, and troubleshooting runbooks.",
+    "description_zh": "面向 DeepSeek Harness 的独立溯源手册：覆盖 Agent runtime、插件、MCP、沙箱、Session、评估与故障排查，并提供多语言入口。",
     "capabilities": [
       "coding",
       "multi-agent"
     ],
     "status": "active",
     "verified": false,
-    "stars": 36,
-    "_source_description": "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.",
-    "_updated": "2026-08-20",
-    "_stars_prev": 31,
-    "growth": 5
+    "stars": 79,
+    "_source_description": "Independent, source-backed, English-canonical and multilingual handbook for DeepSeek Harness: agent runtime, plugins, MCP, sandboxing, sessions, evaluation, and troubleshooting runbooks.",
+    "_updated": "2026-08-29",
+    "_stars_prev": 36,
+    "growth": 43
   },
   {
     "id": "dsh-explain",

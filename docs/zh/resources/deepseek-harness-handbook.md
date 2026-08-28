@@ -5,7 +5,7 @@ keywords: "deepseek-harness-handbook, learning, tutorial, coding, multi-agent, d
 ---
 # deepseek-harness-handbook
 
-> ⭐ 36 · ✅ 活跃 · 教程
+> ⭐ 76 · ✅ 活跃 · 教程
 
 ## 一句话介绍
 

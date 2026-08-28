@@ -110,11 +110,11 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 36,
+    "stars": 76,
     "_source_description": "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.",
-    "_updated": "2026-08-20",
-    "_stars_prev": 31,
-    "growth": 5
+    "_updated": "2026-08-28",
+    "_stars_prev": 36,
+    "growth": 40
   },
   {
     "id": "dsh-explain",

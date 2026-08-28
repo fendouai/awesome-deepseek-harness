@@ -1,15 +1,15 @@
 ---
 title: "deepseek-harness-handbook"
-description: "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks."
+description: "面向 DeepSeek Harness 的独立溯源手册：覆盖 Agent runtime、插件、MCP、沙箱、Session、评估与故障排查，并提供多语言入口。"
 keywords: "deepseek-harness-handbook, learning, tutorial, coding, multi-agent, deepseek harness, dsh"
 ---
 # deepseek-harness-handbook
 
-> ⭐ 36 · ✅ 活跃 · 教程
+> ⭐ 79 · ✅ 活跃 · 教程
 
 ## 一句话介绍
 
-Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.
+面向 DeepSeek Harness 的独立溯源手册：覆盖 Agent runtime、插件、MCP、沙箱、Session、评估与故障排查，并提供多语言入口。
 
 ## 详细介绍
 

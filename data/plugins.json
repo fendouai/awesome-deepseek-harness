@@ -2180,10 +2180,10 @@
     "id": "dsh-codex-subscription",
     "name": "dsh-codex-subscription",
     "type": "plugin",
-    "category": "search",
+    "category": "vision",
     "repository": "https://github.com/WSL043/dsh-codex-subscription",
     "description": "ChatGPT/Codex subscription provider for DeepSeek Harness with OAuth, models, quota, search, and image tools—no API key or Codex CLI.",
-    "description_zh": "ChatGPT/Codex subscription provider for DeepSeek Harness with OAuth, models, quota, search, and image tools—no API key or Codex CLI.",
+    "description_zh": "通过 ChatGPT OAuth 将 Codex 订阅模型接入 DeepSeek Harness，提供额度、可选联网搜索、图片工具与高速模式；无需 API Key 或 Codex CLI。",
     "capabilities": [
       "coding",
       "multimodal",
@@ -2192,7 +2192,8 @@
     "status": "active",
     "verified": false,
     "stars": 26,
-    "subcategory": "web-search"
+    "subcategory": "vision-tools",
+    "install": "dsh plugin --profile web add dsh-codex-subscription"
   },
   {
     "id": "dsh-theme-cyberpunk2077",

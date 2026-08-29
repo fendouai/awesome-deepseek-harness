@@ -33,9 +33,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ## Complete list (433)
 
 
-**Vision & multimodal (113)**
+**Vision & multimodal (114)**
 
-*👁️ Vision tools (113)*
+*👁️ Vision tools (114)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -72,6 +72,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-files](resources/dsh-files.md) | ⭐28 | DeepSeek Harness dual-face plugin: session-isolated file upload with colorful composer cards + read_document tool (text/PDF/DOCX/XLSX) with content sniffing and LRU caching | ✅ active |
 | [dsh-openmaic](resources/dsh-openmaic.md) | ⭐28 | OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching | ✅ active |
 | [dsh-plugin-guard](resources/dsh-plugin-guard.md) | ⭐28 | Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。 | ✅ active |
+| [dsh-codex-subscription](resources/dsh-codex-subscription.md) | ⭐26 | ChatGPT/Codex subscription provider for DeepSeek Harness with OAuth, models, quota, search, and image tools—no API key or Codex CLI. | ✅ active |
 | [dsh-win32](resources/dsh-win32.md) | ⭐25 | Fix and diagnose DeepSeek Harness on native Windows. Official PowerShell, Workspace Write, shortcuts, and legacy preset repair. No WSL. | ✅ active |
 | [dsh-solo-thinking](resources/dsh-solo-thinking.md) | ⭐21 | Solo-style isolated brainstorm branches and Handoffs for DeepSeek Harness | ✅ active |
 | [dsh-clawrouter](resources/dsh-clawrouter.md) | ⭐20 | A safety gate for DeepSeek Harness: a stronger model reviews dangerous tool calls before they run. Plus vision and BlockRun's full model catalog from one wallet, paid per request over x402. | ✅ active |
@@ -260,9 +261,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-review-loop](resources/dsh-review-loop.md) | ⭐2 | Incremental diff reviewer: checkpoint-based review queue with a Web UI panel and /review command. | ✅ active |
 | [dsh-routed-subagent](resources/dsh-routed-subagent.md) | – | Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. | ✅ active |
 
-**Search & research (76)**
+**Search & research (75)**
 
-*🌐 Web search (74)*
+*🌐 Web search (73)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -280,7 +281,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-claude-ux](resources/dsh-claude-ux.md) | ⭐60 | DSH plugin: Claude-style Chinese risk control & conversation autonomy for DeepSeek Harness web | ✅ active |
 | [dsh-free-search](resources/dsh-free-search.md) | ⭐38 | Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed | ✅ active |
 | [dsh-web-search-pro](resources/dsh-web-search-pro.md) | ⭐29 | Multi-engine persistent search: DeepSeek/Exa/DDG/Bing/Jina + GitHub/Bilibili/YouTube/V2EX/XHS/Twitter/Reddit/RSS, with SQLite+LRU cache and Playwright rendering. | ✅ active |
-| [dsh-codex-subscription](resources/dsh-codex-subscription.md) | ⭐26 | ChatGPT/Codex subscription provider for DeepSeek Harness with OAuth, models, quota, search, and image tools—no API key or Codex CLI. | ✅ active |
 | [dsh-theme-cyberpunk2077](resources/dsh-theme-cyberpunk2077.md) | ⭐26 | Cyberpunk 2077 / Night City theme for the DeepSeek Harness Web UI — CRT scanlines, Kiroshi lock-on, typewriter SFX, Relic glitch & easter eggs | ✅ active |
 | [dsh-web-lan-access](resources/dsh-web-lan-access.md) | ⭐26 | DeepSeek Harness (dsh) Web plugin | ✅ active |
 | [dsh-maid-whale-webui](resources/dsh-maid-whale-webui.md) | ⭐25 | DeepSeek Harness Web UI 鲸鱼女仆主题插件 | ✅ active |

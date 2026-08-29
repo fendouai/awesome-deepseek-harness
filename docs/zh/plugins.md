@@ -33,9 +33,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ## 完整列表（433）
 
 
-**视觉与多模态（113）**
+**视觉与多模态（114）**
 
-*👁️ 视觉工具（113）*
+*👁️ 视觉工具（114）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -72,6 +72,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-files](resources/dsh-files.md) | ⭐28 | DeepSeek Harness dual-face plugin: session-isolated file upload with colorful composer cards + read_document tool (text/PDF/DOCX/XLSX) with content sniffing and LRU caching | ✅ 活跃 |
 | [dsh-openmaic](resources/dsh-openmaic.md) | ⭐28 | OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching | ✅ 活跃 |
 | [dsh-plugin-guard](resources/dsh-plugin-guard.md) | ⭐28 | Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。 | ✅ 活跃 |
+| [dsh-codex-subscription](resources/dsh-codex-subscription.md) | ⭐26 | 通过 ChatGPT OAuth 将 Codex 订阅模型接入 DeepSeek Harness，提供额度、可选联网搜索、图片工具与高速模式；无需 API Key 或 Codex CLI。 | ✅ 活跃 |
 | [dsh-win32](resources/dsh-win32.md) | ⭐25 | Fix and diagnose DeepSeek Harness on native Windows. Official PowerShell, Workspace Write, shortcuts, and legacy preset repair. No WSL. | ✅ 活跃 |
 | [dsh-solo-thinking](resources/dsh-solo-thinking.md) | ⭐21 | Solo-style isolated brainstorm branches and Handoffs for DeepSeek Harness | ✅ 活跃 |
 | [dsh-clawrouter](resources/dsh-clawrouter.md) | ⭐20 | A safety gate for DeepSeek Harness: a stronger model reviews dangerous tool calls before they run. Plus vision and BlockRun's full model catalog from one wallet, paid per request over x402. | ✅ 活跃 |
@@ -260,9 +261,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-review-loop](resources/dsh-review-loop.md) | ⭐2 | 增量代码审查：基于检查点的审查队列 + Web UI 面板 + /review 命令。 | ✅ 活跃 |
 | [dsh-routed-subagent](resources/dsh-routed-subagent.md) | – | 从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。 | ✅ 活跃 |
 
-**搜索与研究（76）**
+**搜索与研究（75）**
 
-*🌐 网页搜索（74）*
+*🌐 网页搜索（73）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -280,7 +281,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-claude-ux](resources/dsh-claude-ux.md) | ⭐60 | DSH plugin: Claude-style Chinese risk control & conversation autonomy for DeepSeek Harness web | ✅ 活跃 |
 | [dsh-free-search](resources/dsh-free-search.md) | ⭐38 | Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed | ✅ 活跃 |
 | [dsh-web-search-pro](resources/dsh-web-search-pro.md) | ⭐29 | 多引擎持久搜索：DeepSeek/Exa/DDG/Bing/Jina + GitHub/B站/YouTube/V2EX/小红书/推特/Reddit/RSS，SQLite+LRU 缓存 + Playwright 渲染。 | ✅ 活跃 |
-| [dsh-codex-subscription](resources/dsh-codex-subscription.md) | ⭐26 | ChatGPT/Codex subscription provider for DeepSeek Harness with OAuth, models, quota, search, and image tools—no API key or Codex CLI. | ✅ 活跃 |
 | [dsh-theme-cyberpunk2077](resources/dsh-theme-cyberpunk2077.md) | ⭐26 | Cyberpunk 2077 / Night City theme for the DeepSeek Harness Web UI — CRT scanlines, Kiroshi lock-on, typewriter SFX, Relic glitch & easter eggs | ✅ 活跃 |
 | [dsh-web-lan-access](resources/dsh-web-lan-access.md) | ⭐26 | DeepSeek Harness (dsh) Web plugin | ✅ 活跃 |
 | [dsh-maid-whale-webui](resources/dsh-maid-whale-webui.md) | ⭐25 | DeepSeek Harness Web UI 鲸鱼女仆主题插件 | ✅ 活跃 |

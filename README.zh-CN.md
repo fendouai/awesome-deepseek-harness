@@ -282,7 +282,7 @@ dsh web
 - [dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) ⭐28 — OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching（✅ 活跃）
 - [dsh-plugin-guard](https://github.com/lxzy-7/dsh-plugin-guard) ⭐28 — Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。（✅ 活跃）
 - [dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) ⭐27 — 插件健康检查：清单协议、patch 格式、构建陷阱与 hub 收录状态，零依赖只读。（✅ 活跃）
-- [dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) ⭐26 — ChatGPT/Codex subscription provider for DeepSeek Harness with OAuth, models, quota, search, and image tools—no API key or Codex CLI.（✅ 活跃）
+- [dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) ⭐26 — 通过 ChatGPT OAuth 将 Codex 订阅模型接入 DeepSeek Harness，提供额度、可选联网搜索、图片工具与高速模式；无需 API Key 或 Codex CLI。（✅ 活跃）
 - [dsh-computer-use](https://github.com/Anionex/dsh-computer-use) ⭐26 — 为 DeepSeek Harness 提供电脑控制插件：新鲜 Accessibility 观测、过期状态拒绝、作用域权限与安全输入（目前支持macos）｜Accessibility-first macOS Computer Use bundle for DSH with fresh observations, stale-state rejection, scoped permissions, and safe input.（✅ 活跃）
 - [dsh-quant](https://github.com/pengpengyi92/dsh-quant) ⭐26 — "🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS "（✅ 活跃）
 - [dsh-theme-cyberpunk2077](https://github.com/Tommy00748/dsh-theme-cyberpunk2077) ⭐26 — Cyberpunk 2077 / Night City theme for the DeepSeek Harness Web UI — CRT scanlines, Kiroshi lock-on, typewriter SFX, Relic glitch & easter eggs（✅ 活跃）
@@ -1406,7 +1406,7 @@ awesome-deepseek-harness/
 - [dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) ⭐28 — OpenMAIC for DeepSeek Harness: classrooms, slides, interactive widgets, and Socratic teaching（✅ 活跃）
 - [dsh-plugin-guard](https://github.com/lxzy-7/dsh-plugin-guard) ⭐28 — Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。（✅ 活跃）
 - [dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) ⭐27 — 插件健康检查：清单协议、patch 格式、构建陷阱与 hub 收录状态，零依赖只读。（✅ 活跃）
-- [dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) ⭐26 — ChatGPT/Codex subscription provider for DeepSeek Harness with OAuth, models, quota, search, and image tools—no API key or Codex CLI.（✅ 活跃）
+- [dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) ⭐26 — 通过 ChatGPT OAuth 将 Codex 订阅模型接入 DeepSeek Harness，提供额度、可选联网搜索、图片工具与高速模式；无需 API Key 或 Codex CLI。（✅ 活跃）
 - [dsh-computer-use](https://github.com/Anionex/dsh-computer-use) ⭐26 — 为 DeepSeek Harness 提供电脑控制插件：新鲜 Accessibility 观测、过期状态拒绝、作用域权限与安全输入（目前支持macos）｜Accessibility-first macOS Computer Use bundle for DSH with fresh observations, stale-state rejection, scoped permissions, and safe input.（✅ 活跃）
 - [dsh-quant](https://github.com/pengpengyi92/dsh-quant) ⭐26 — "🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS "（✅ 活跃）
 - [dsh-theme-cyberpunk2077](https://github.com/Tommy00748/dsh-theme-cyberpunk2077) ⭐26 — Cyberpunk 2077 / Night City theme for the DeepSeek Harness Web UI — CRT scanlines, Kiroshi lock-on, typewriter SFX, Relic glitch & easter eggs（✅ 活跃）

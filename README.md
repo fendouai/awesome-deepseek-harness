@@ -605,6 +605,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-precedent](https://github.com/dshplugin-me/dsh-precedent)  — Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step. (✅ active)
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. (✅ active)
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces. (✅ active)
+- [dsh-explorer-plugin](https://github.com/dgadelha1/dsh-explorer-plugin) ⭐2 — VS Code-style workspace file tree + Monaco editor with real TextMate grammars (28 languages), multi-tab, live watcher, docked into the DSH web GUI. / 工作区文件树 + Monaco 编辑器：多标签、实时文件监听、VS Code 真实 TextMate 语法高亮（28 种语言），直接嵌入 DSH 网页 GUI。
 
 ### Skills
 
@@ -1729,6 +1730,7 @@ awesome-deepseek-harness/
 - [dsh-precedent](https://github.com/dshplugin-me/dsh-precedent)  — Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step. (✅ active)
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. (✅ active)
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces. (✅ active)
+- [dsh-explorer-plugin](https://github.com/dgadelha1/dsh-explorer-plugin) ⭐2 — VS Code-style workspace file tree + Monaco editor with real TextMate grammars (28 languages), multi-tab, live watcher, docked into the DSH web GUI. / 工作区文件树 + Monaco 编辑器：多标签、实时文件监听、VS Code 真实 TextMate 语法高亮（28 种语言），直接嵌入 DSH 网页 GUI。
 
 ### Skills
 

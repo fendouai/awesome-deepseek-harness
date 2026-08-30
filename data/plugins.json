@@ -7981,5 +7981,20 @@
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21",
     "subcategory": "navigation"
+  },
+  {
+    "id": "dsh-vercel-mcp",
+    "name": "dsh-vercel-mcp",
+    "type": "plugin",
+    "category": "mcp",
+    "repository": "https://github.com/zhengjy01/dsh-vercel-mcp",
+    "description": "Vercel MCP connection for DeepSeek Harness: official OAuth 2.0 flow (dynamic client registration + PKCE) against mcp.vercel.com, Vercel API tools under mcp__vercel__*, and a web settings panel.",
+    "description_zh": "DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。",
+    "capabilities": [
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

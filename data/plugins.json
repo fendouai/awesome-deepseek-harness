@@ -7981,5 +7981,24 @@
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21",
     "subcategory": "navigation"
+  },
+  {
+    "id": "dsh-schematic",
+    "name": "dsh-schematic",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Mason-1011/dsh-schematic",
+    "description": "Live plugin-topology and runtime-activity viewer with a guarded composition workbench for previewed, dry-run, backed-up wiring edits.",
+    "description_zh": "实时插件拓扑与运行活动查看器，附带受保护的组合工作台：接线改动先预览、干跑与备份，再写入并支持回滚。",
+    "capabilities": [
+      "ui",
+      "observability",
+      "harness"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "install": "dsh plugin --profile web add dsh-schematic",
+    "license": "MIT"
   }
 ]

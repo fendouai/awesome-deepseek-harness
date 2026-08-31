@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（449 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（450 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
 | 10 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 
-## 完整列表（449）
+## 完整列表（450）
 
 
 **视觉与多模态（114）**
@@ -613,6 +613,13 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | 让 DeepSeek Harness 可以被安全地远程访问：账号密码认证 + MFA（TOTP）登录门禁、签名会话 Cookie、角色权限、浏览器内目录选择器、账号管理设置页。 | 🧪 实验性 |
 | [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。 | ✅ 活跃 |
 
+**自动化（2）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | 为官方 @tencent-connect/dsh-qqbot 提供的可视化配置面板：管理 AppID/AppSecret、私聊/群聊访问模式与白名单、工作区选择、扫码绑定（Web 设置页）。 | ✅ 活跃 |
+| [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。 | ✅ 活跃 |
+
 **研究（1）**
 
 | 项目 | 星数 | 说明 | 状态 |
@@ -630,9 +637,3 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。 | ✅ 活跃 |
-
-**自动化（1）**
-
-| 项目 | 星数 | 说明 | 状态 |
-|---|---|---|---|
-| [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。 | ✅ 活跃 |

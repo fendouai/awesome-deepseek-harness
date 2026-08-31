@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 449 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 450 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | Whale-girl skin series for DSH Web (CC BY-NC-SA 4.0). | ✅ active |
 | 10 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 
-## Complete list (449)
+## Complete list (450)
 
 
 **Vision & multimodal (114)**
@@ -613,6 +613,13 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management. | 🧪 experimental |
 | [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
 
+**Automation (2)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. | ✅ active |
+| [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. | ✅ active |
+
 **Research (1)**
 
 | Project | Stars | Description | Status |
@@ -630,9 +637,3 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | Vercel MCP connection for DeepSeek Harness: official OAuth 2.0 flow (dynamic client registration + PKCE) against mcp.vercel.com, Vercel API tools under mcp__vercel__*, and a web settings panel. | ✅ active |
-
-**Automation (1)**
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. | ✅ active |

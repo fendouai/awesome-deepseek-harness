@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐1,548 | Whale-girl skin series for DSH Web (CC BY-NC-SA 4.0). | ✅ active |
 | 10 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 
-#### Complete list (449)
+#### Complete list (450)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -614,6 +614,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). (✅ active)
 - [dsh-pr-checks](https://github.com/pauloapoloni/dsh-pr-checks)  — DSH plugin (host + web client): status and progress of GitHub Actions checks of the open PRs, grouped by workspace/project, in the sidebar footer. (🧪 experimental)
 - [dsh-precedent](https://github.com/dshplugin-me/dsh-precedent)  — Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step. (✅ active)
+- [dsh-qqbot-panel](https://github.com/zhengjy01/dsh-qqbot-panel)  — Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. (✅ active)
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. (✅ active)
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces. (✅ active)
 - [dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)  — TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. (✅ active)
@@ -1316,7 +1317,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐1,548 | Whale-girl skin series for DSH Web (CC BY-NC-SA 4.0). | ✅ active |
 | 10 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 
-#### Complete list (449)
+#### Complete list (450)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) ⭐5,349 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -1760,6 +1761,7 @@ awesome-deepseek-harness/
 - [dsh-plugin-cost](https://github.com/yweilai77-dev/dsh-plugin-cost)  — Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). (✅ active)
 - [dsh-pr-checks](https://github.com/pauloapoloni/dsh-pr-checks)  — DSH plugin (host + web client): status and progress of GitHub Actions checks of the open PRs, grouped by workspace/project, in the sidebar footer. (🧪 experimental)
 - [dsh-precedent](https://github.com/dshplugin-me/dsh-precedent)  — Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step. (✅ active)
+- [dsh-qqbot-panel](https://github.com/zhengjy01/dsh-qqbot-panel)  — Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. (✅ active)
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. (✅ active)
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces. (✅ active)
 - [dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)  — TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. (✅ active)

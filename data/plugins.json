@@ -7981,5 +7981,20 @@
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21",
     "subcategory": "navigation"
+  },
+  {
+    "id": "dsh-word-docs",
+    "name": "dsh-word-docs",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Ei-Ayw/dsh-word-docs",
+    "description": "Word document toolkit for DeepSeek Harness: generate, edit, extract, stat and convert .docx with a pure-stdlib Python engine (zero dependencies), registering the word_docs tool and word-docs skill. / DeepSeek Harness 的 Word 文档工具:纯 Python 标准库生成、编辑、提取、统计并转换 .docx,零依赖。",
+    "description_zh": "DeepSeek Harness 的 Word 文档工具:纯 Python 标准库实现,生成、编辑、提取、统计并转换 .docx,零依赖,注册 word_docs 工具与 word-docs 技能。",
+    "capabilities": [
+      "files"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

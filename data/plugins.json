@@ -7981,5 +7981,20 @@
     "_source_description": "Fork any DeepSeek Harness session into a different agent preset — a UI button with preset picker in the conversation header.",
     "_updated": "2026-08-21",
     "subcategory": "navigation"
+  },
+  {
+    "id": "dsh-upload",
+    "name": "dsh-upload",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Ei-Ayw/dsh-upload",
+    "description": "Upload button for the DSH web composer: local files land as bytes in the session workspace (.uploads/<sessionId>/), the absolute path is appended to the draft (visible and editable), and the agent reads the file with its own fs tools. Zero dependencies. / DSH Web 的上传按钮:本地文件字节落盘到会话工作区 .uploads/<会话ID>/,绝对路径追加进输入框(可见可编辑),AI 用 fs 工具直接读取。零依赖。",
+    "description_zh": "DSH Web 的上传按钮:点 📎 选本地文件,字节落盘到会话工作区 .uploads/<会话ID>/,绝对路径追加进输入框(可见可编辑),AI 用自带 fs 工具直接读取。零依赖。",
+    "capabilities": [
+      "files"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

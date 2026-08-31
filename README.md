@@ -2313,6 +2313,7 @@ awesome-deepseek-harness/
 - [dsh-plugin-registry](https://github.com/dshplugin-app/dsh-plugin-registry)  — Discover and compare DeepSeek Harness plugins directly inside DSH. (✅ active)
 - [dshthemes](https://github.com/dshworks/dshthemes)  — dshthemes.com — every DeepSeek Harness theme, in its own colours. A reader of dshworks/awesome-dsh-themes. (✅ active)
 - [plugins](https://github.com/dsh-universe/plugins)  — DeepSeek Harness plugin & skill directory — DSH Universe official marketplace (duink.com) (✅ active)
+- [zhibailu/dsh-vsc](https://github.com/zhibailu/dsh-vsc) ⭐0 — Native VS Code sidebar + editor bridge for DeepSeek Harness: ask about a selection, review agent changes, approval & question cards. Pure protocol client. (✅ active)
 
 ### Related Agent Harnesses
 

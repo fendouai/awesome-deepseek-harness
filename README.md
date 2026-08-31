@@ -248,6 +248,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-balance-plugin](https://github.com/yxxbc/dsh-balance-plugin) ⭐57 — deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理 (✅ active)
 - [dsh-open-in-vscode](https://github.com/omdsh-dev/dsh-open-in-vscode) ⭐53 — Open DSH workspace directories/files directly in VS Code from the web GUI. (✅ active)
 - [dsh-navbar](https://github.com/vlln/dsh-navbar) ⭐52 — DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装 (✅ active)
+- [zhibailu/dsh-vsc](https://github.com/zhibailu/dsh-vsc) ⭐0 — Native VS Code sidebar + editor bridge for DeepSeek Harness: ask about a selection, review agent changes, approval & question cards. Pure protocol client. (✅ active)
 - [dsh-codex](https://github.com/Yan-Zero/dsh-codex) ⭐51 — Use your ChatGPT subscription in DeepSeek Harness through OpenAI's Codex sign-in flow (✅ active)
 - [deepseek-harness-skin](https://github.com/HeiGeAi/deepseek-harness-skin) ⭐49 — Skin system with 21 built-in themes plus one-image custom skin generation, contrast-validated at build time. (✅ active)
 - [dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) ⭐48 — Whale-girl desktop pet for the DSH web UI: pat-to-raise growth, work-state poses, 494 dialogue lines, 30 achievements, drag physics, theme sync and a built-in settings panel; local-first, zero telemetry (MIT, 102 unit tests). / 元气鲸鱼娘桌宠：摸头养成、工作状态联动、494 条台词与 30 项成就；全本地零遥测。 (✅ active)
@@ -2313,7 +2314,6 @@ awesome-deepseek-harness/
 - [dsh-plugin-registry](https://github.com/dshplugin-app/dsh-plugin-registry)  — Discover and compare DeepSeek Harness plugins directly inside DSH. (✅ active)
 - [dshthemes](https://github.com/dshworks/dshthemes)  — dshthemes.com — every DeepSeek Harness theme, in its own colours. A reader of dshworks/awesome-dsh-themes. (✅ active)
 - [plugins](https://github.com/dsh-universe/plugins)  — DeepSeek Harness plugin & skill directory — DSH Universe official marketplace (duink.com) (✅ active)
-- [zhibailu/dsh-vsc](https://github.com/zhibailu/dsh-vsc) ⭐0 — Native VS Code sidebar + editor bridge for DeepSeek Harness: ask about a selection, review agent changes, approval & question cards. Pure protocol client. (✅ active)
 
 ### Related Agent Harnesses
 

@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 449 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 446 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | Whale-girl skin series for DSH Web (CC BY-NC-SA 4.0). | ✅ active |
 | 10 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
 
-## Complete list (449)
+## Complete list (446)
 
 
 **Vision & multimodal (114)**
@@ -154,7 +154,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-deepseek-balance](resources/dsh-deepseek-balance-1.md) | – | 面向deepseek harness的余额查看插件 | ✅ active |
 | [dsh-evoforge](resources/dsh-evoforge.md) | – | Evidence-driven, cache-stable extensions for DeepSeek Harness | ✅ active |
 
-**UI & experience (83)**
+**UI & experience (82)**
 
 *Other (20)*
 
@@ -236,7 +236,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-turn-index](resources/dsh-turn-index.md) | ⭐1 | Turn-index sidebar: one entry per user turn, click to jump with scroll-spy highlighting. | ✅ active |
 | [dsh-plugin-cost](resources/dsh-plugin-cost.md) | – | Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). | ✅ active |
 | [dsh-pr-checks](resources/dsh-pr-checks.md) | – | DSH plugin (host + web client): status and progress of GitHub Actions checks of the open PRs, grouped by workspace/project, in the sidebar footer. | 🧪 experimental |
-*🐋 Desktop pets (8)*
+*🐋 Desktop pets (7)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -247,7 +247,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-whale-galgame](resources/dsh-whale-galgame.md) | ⭐19 | 工作推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多位模型娘角色 | ✅ active |
 | [dsh-web-attention-badge](resources/dsh-web-attention-badge.md) | ⭐5 | Attention reminders for the DeepSeek Harness Web UI: frame badge, (N) tab title and whale-favicon recolor for sessions waiting for input or finished unopened. | ✅ active |
 | [dsh-pet-corner](resources/dsh-pet-corner.md) | ⭐3 | DSH Pet Corner: a floating pet, keyless pet-image proxy, favorites, and plugin-owned settings API | ✅ active |
-| [mistymoon-dsh](resources/mistymoon-dsh.md) | ⭐3 | Local-first long-term companion plugin suite for DeepSeek Harness | ✅ active |
 *🧭 Navigation (5)*
 
 | Project | Stars | Description | Status |
@@ -272,7 +271,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-file-upload](resources/dsh-file-upload.md) | ⭐20 | DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining, read_document tool for agents. | ✅ active |
 
-**Developer tools (83)**
+**Developer tools (82)**
 
 *💰 Cost & billing (17)*
 
@@ -334,7 +333,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-telemetry-redactor](resources/dsh-telemetry-redactor.md) | ⭐3 | Fail-closed export-copy redaction for DeepSeek Harness session telemetry | ✅ active |
 | [dsh-workspace-menu](resources/dsh-workspace-menu.md) | ⭐2 | DSH workspace/chat enhancement menu: pin, rename, open in file explorer, archive, fork, copy, new window. Settings integrated into General. | ✅ active |
 | [dsh-routines](resources/dsh-routines.md) | ⭐1 | dsh-routines — scheduled agents for DSH: run a prompt on a cron, get the digest where you already are (file digests, chatnode delivery, unattended-safe) | ✅ active |
-*🧪 Code, tests & review (14)*
+*🧪 Code, tests & review (13)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -348,7 +347,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-tool-diff](resources/dsh-tool-diff.md) | ⭐4 | DSH Diff 工具插件：文本/JSON/CSV/Markdown 结构化比较与 unified diff，零依赖只读，注册 diff 工具 | ✅ active |
 | [dsh-prompt-studio](resources/dsh-prompt-studio.md) | ⭐3 | Edit user and built-in system-prompt sections with live preview. | ✅ active |
 | [dsh-test-runner](resources/dsh-test-runner.md) | ⭐2 | Structured test runner tool: auto-detect vitest/jest/pytest/node:test, run tests and parse failure summaries for the model. | ✅ active |
-| [dsh-what-changed](resources/dsh-what-changed.md) | ⭐2 | Session-wide file change review in the session header. Lists every file the agent wrote this session with its hunks, counts refused writes separately from changes, and folds from a session projection rather than the on-disk log. | ✅ active |
 | [dsh-plugin-evaluation-standards](resources/dsh-plugin-evaluation-standards.md) | ⭐1 | Open evaluation datasets, test cases, and metrics for DSH plugins. | ✅ active |
 | [dsh-repo-setup](resources/dsh-repo-setup.md) | ⭐1 | Read-only repo bootstrap scanner (repo_setup_scan tool): detects stack/tests/docs/git/db and recommends plugins, MCP servers and hygiene files (claude-code-setup counterpart). | ✅ active |
 | [dsh-git-branch-switcher](resources/dsh-git-branch-switcher.md) | – | Session-header git branch pill: shows the workspace branch and switches it from the Web UI. | ✅ active |
@@ -382,9 +380,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-review-loop](resources/dsh-review-loop.md) | ⭐2 | Incremental diff reviewer: checkpoint-based review queue with a Web UI panel and /review command. | ✅ active |
 | [dsh-routed-subagent](resources/dsh-routed-subagent.md) | – | Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. | ✅ active |
 
-**Search & research (75)**
+**Search & research (74)**
 
-*🌐 Web search (73)*
+*🌐 Web search (72)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -408,7 +406,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-xiaoyao-skins](resources/dsh-xiaoyao-skins.md) | ⭐23 | 夕小瑶 × DeepSeek Harness Web 皮肤合集、安装器与社区创作工具链 | ✅ active |
 | [dsh-catppuccin-theme](resources/dsh-catppuccin-theme.md) | ⭐22 | DeepSeek Harness Web GUI 的 Catppuccin 主题插件：Latte / Frappé / Macchiato / Mocha 四种主题一键切换，内置可开关的玻璃质感（Glassmorphism） | ✅ active |
 | [dsh-agy](resources/dsh-agy.md) | ⭐19 | Google Antigravity (agy) OAuth auth + model access plugin for DeepSeek Harness: multi-account pool, 429 rotation, device fingerprinting, CLI and web login. | ✅ active |
-| [dsh-outline](resources/dsh-outline.md) | ⭐18 | DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas | ✅ active |
 | [touhou-hakurei](resources/touhou-hakurei.md) | ⭐18 | 灵梦（Reimu）·博丽神社（东方Project）美化版皮肤：神社昼夜实景背景、灵梦立绘、画框侧边栏与输入框、纸白透明界面 — DeepSeek Harness Web GUI skin | ✅ active |
 | [webdsh](resources/webdsh.md) | ⭐18 | Running DeepSeek Harness on web | ✅ active |
 | [DeepSeek-Harness-Web-Tools](resources/deepseek-harness-web-tools.md) | ⭐17 | Free, keyless web_search and web_fetch for DSH, DuckDuckGo-backed with no signup. | ✅ active |

@@ -2939,23 +2939,6 @@
     "growth": 1
   },
   {
-    "id": "dsh-outline",
-    "name": "dsh-outline",
-    "type": "plugin",
-    "category": "search",
-    "repository": "https://github.com/urzeye/dsh-outline",
-    "description": "DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas",
-    "description_zh": "DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas",
-    "capabilities": [
-      "coding",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 18,
-    "subcategory": "web-search"
-  },
-  {
     "id": "dsh-provider-model-configurator",
     "name": "dsh-provider-model-configurator",
     "type": "plugin",
@@ -6496,25 +6479,6 @@
     "subcategory": "memory-systems"
   },
   {
-    "id": "mistymoon-dsh",
-    "name": "mistymoon-dsh",
-    "type": "plugin",
-    "category": "ui",
-    "repository": "https://github.com/mianyoubiaoqing/MistyMoon-DSH",
-    "description": "Local-first long-term companion plugin suite for DeepSeek Harness",
-    "description_zh": "Local-first long-term companion plugin suite for DeepSeek Harness",
-    "capabilities": [
-      "coding",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 3,
-    "subcategory": "desktop-pets",
-    "_source_description": "Local-first long-term companion plugin suite for DeepSeek Harness",
-    "_updated": "2026-08-20"
-  },
-  {
     "id": "dsh-docker",
     "name": "dsh-docker",
     "type": "plugin",
@@ -7265,26 +7229,6 @@
     "subcategory": "vision-tools",
     "_source_description": "dsh 插件，可以支持图像上传，图像识别。将ds的使用体验变为多模态",
     "_updated": "2026-08-18"
-  },
-  {
-    "id": "dsh-what-changed",
-    "name": "dsh-what-changed",
-    "type": "plugin",
-    "category": "developer",
-    "repository": "https://github.com/sjh9714/dsh-what-changed",
-    "description": "Session-wide file change review in the session header. Lists every file the agent wrote this session with its hunks, counts refused writes separately from changes, and folds from a session projection rather than the on-disk log.",
-    "description_zh": "会话顶栏的整会话改动审阅。列出本次会话 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动，数据来自 session projection 而非磁盘日志。",
-    "capabilities": [
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2,
-    "subcategory": "code-testing",
-    "_stars_prev": 1,
-    "growth": 1,
-    "_source_description": "看得见 Agent 到底改了什么。一个会话里所有文件改动，一屏看完再决定要不要提交 | See what the agent actually changed. Every file it wrote this session, in one review panel.",
-    "_updated": "2026-08-19"
   },
   {
     "id": "dsh-memoria",

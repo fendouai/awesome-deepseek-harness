@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "Top 10 and full list of 82 curated awesome lists & registries for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 81 curated awesome lists & registries for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-deepseek-harness (0xsline)](resources/awesome-deepseek-harness-0xsline-1.md) | ⭐788 | Curated DSH ecosystem directory: plugins, tools and infrastructure from dsh-external/hub and the public dsh-plugin topic. | ✅ active |
 | 10 | [awesome-dsh-plugin (bruc3van)](resources/awesome-dsh-plugin-bruc3van-1.md) | ⭐261 | Find the right DSH plugin in 30 seconds: what problem each plugin solves, who it is for and where to start. | ✅ active |
 
-## Complete list (82)
+## Complete list (81)
 
 
-**Registries (82)**
+**Registries (81)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -118,4 +118,3 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [awesome-deepseek-harness](resources/awesome-deepseek-harness-awesome-deepseekharness-1.md) | – | Awesome DeepSeek Harness (dsh) — curated plugins, tools, skills & resources. Everything is a plugin. | ✅ active |
 | [dsh-plugin-registry](resources/dsh-plugin-registry.md) | – | Discover and compare DeepSeek Harness plugins directly inside DSH. | ✅ active |
 | [dshthemes](resources/dshthemes.md) | – | dshthemes.com — every DeepSeek Harness theme, in its own colours. A reader of dshworks/awesome-dsh-themes. | ✅ active |
-| [plugins](resources/plugins.md) | – | DeepSeek Harness plugin & skill directory — DSH Universe official marketplace (duink.com) | ✅ active |

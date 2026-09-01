@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（82 条）。"
+description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（81 条）。"
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-deepseek-harness (0xsline)](resources/awesome-deepseek-harness-0xsline-1.md) | ⭐788 | DSH 生态目录：来自 dsh-external/hub 与公开 dsh-plugin 主题的插件、工具与基础设施精选。 | ✅ 活跃 |
 | 10 | [awesome-dsh-plugin (bruc3van)](resources/awesome-dsh-plugin-bruc3van-1.md) | ⭐261 | 用 30 秒找到适合你的 DSH 插件：不仅列仓库，还说明插件解决什么问题、适合谁、从哪开始。 | ✅ 活跃 |
 
-## 完整列表（82）
+## 完整列表（81）
 
 
-**注册表（82）**
+**注册表（81）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -118,4 +118,3 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [awesome-deepseek-harness](resources/awesome-deepseek-harness-awesome-deepseekharness-1.md) | – | DSH 社区目录 | ✅ 活跃 |
 | [dsh-plugin-registry](resources/dsh-plugin-registry.md) | – | Discover and compare DeepSeek Harness plugins directly inside DSH. | ✅ 活跃 |
 | [dshthemes](resources/dshthemes.md) | – | dshthemes.com — every DeepSeek Harness theme, in its own colours. A reader of dshworks/awesome-dsh-themes. | ✅ 活跃 |
-| [plugins](resources/plugins.md) | – | DeepSeek Harness plugin & skill directory — DSH Universe official marketplace (duink.com) | ✅ 活跃 |

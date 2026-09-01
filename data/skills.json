@@ -489,22 +489,6 @@
     "_updated": "2026-08-16"
   },
   {
-    "id": "dsh-humanize",
-    "name": "dsh-humanize",
-    "type": "skill",
-    "category": "coding",
-    "repository": "https://github.com/zevorn/dsh-humanize",
-    "description": "De-AI writing skill: rewrite agent output to sound more human.",
-    "description_zh": "去 AI 味写作技能：让 Agent 输出更自然。",
-    "capabilities": [
-      "research"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 3,
-    "_updated": "2026-08-13"
-  },
-  {
     "id": "dsh-memoryhub",
     "name": "dsh-memoryhub",
     "type": "skill",

@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（449 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（446 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
 | 10 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
 
-## 完整列表（449）
+## 完整列表（446）
 
 
 **视觉与多模态（114）**
@@ -154,7 +154,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-deepseek-balance](resources/dsh-deepseek-balance-1.md) | – | 面向deepseek harness的余额查看插件 | ✅ 活跃 |
 | [dsh-evoforge](resources/dsh-evoforge.md) | – | Evidence-driven, cache-stable extensions for DeepSeek Harness | ✅ 活跃 |
 
-**界面与体验（83）**
+**界面与体验（82）**
 
 *其他（20）*
 
@@ -236,7 +236,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-turn-index](resources/dsh-turn-index.md) | ⭐1 | 回合索引侧栏：每个用户回合一条，点击跳转，滚动监听高亮。 | ✅ 活跃 |
 | [dsh-plugin-cost](resources/dsh-plugin-cost.md) | – | Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). | ✅ 活跃 |
 | [dsh-pr-checks](resources/dsh-pr-checks.md) | – | DSH 插件（宿主端 + Web 客户端）：在侧边栏底部按工作区/项目分组展示各打开 PR 的 GitHub Actions 检查状态与进度。 | 🧪 实验性 |
-*🐋 桌面宠物（8）*
+*🐋 桌面宠物（7）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -247,7 +247,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-whale-galgame](resources/dsh-whale-galgame.md) | ⭐19 | 工作推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多位模型娘角色 | ✅ 活跃 |
 | [dsh-web-attention-badge](resources/dsh-web-attention-badge.md) | ⭐5 | Attention reminders for the DeepSeek Harness Web UI: frame badge, (N) tab title and whale-favicon recolor for sessions waiting for input or finished unopened. | ✅ 活跃 |
 | [dsh-pet-corner](resources/dsh-pet-corner.md) | ⭐3 | DSH Pet Corner: a floating pet, keyless pet-image proxy, favorites, and plugin-owned settings API | ✅ 活跃 |
-| [mistymoon-dsh](resources/mistymoon-dsh.md) | ⭐3 | Local-first long-term companion plugin suite for DeepSeek Harness | ✅ 活跃 |
 *🧭 导航与跳转（5）*
 
 | 项目 | 星数 | 说明 | 状态 |
@@ -272,7 +271,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-file-upload](resources/dsh-file-upload.md) | ⭐20 | DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining, read_document tool for agents. | ✅ 活跃 |
 
-**开发者工具（83）**
+**开发者工具（82）**
 
 *💰 费用与统计（17）*
 
@@ -334,7 +333,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-telemetry-redactor](resources/dsh-telemetry-redactor.md) | ⭐3 | Fail-closed export-copy redaction for DeepSeek Harness session telemetry | ✅ 活跃 |
 | [dsh-workspace-menu](resources/dsh-workspace-menu.md) | ⭐2 | DSH workspace/chat enhancement menu: pin, rename, open in file explorer, archive, fork, copy, new window. Settings integrated into General. | ✅ 活跃 |
 | [dsh-routines](resources/dsh-routines.md) | ⭐1 | dsh-routines — scheduled agents for DSH: run a prompt on a cron, get the digest where you already are (file digests, chatnode delivery, unattended-safe) | ✅ 活跃 |
-*🧪 代码·测试·审查（14）*
+*🧪 代码·测试·审查（13）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -348,7 +347,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-tool-diff](resources/dsh-tool-diff.md) | ⭐4 | DSH Diff 工具插件：文本/JSON/CSV/Markdown 结构化比较与 unified diff，零依赖只读，注册 diff 工具 | ✅ 活跃 |
 | [dsh-prompt-studio](resources/dsh-prompt-studio.md) | ⭐3 | 带实时预览编辑用户与内置系统提示词片段。 | ✅ 活跃 |
 | [dsh-test-runner](resources/dsh-test-runner.md) | ⭐2 | 结构化测试运行工具：自动识别 vitest/jest/pytest/node:test，运行并解析失败摘要。 | ✅ 活跃 |
-| [dsh-what-changed](resources/dsh-what-changed.md) | ⭐2 | 会话顶栏的整会话改动审阅。列出本次会话 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动，数据来自 session projection 而非磁盘日志。 | ✅ 活跃 |
 | [dsh-plugin-evaluation-standards](resources/dsh-plugin-evaluation-standards.md) | ⭐1 | Open evaluation datasets, test cases, and metrics for DSH plugins. | ✅ 活跃 |
 | [dsh-repo-setup](resources/dsh-repo-setup.md) | ⭐1 | 只读仓库体检引导工具（repo_setup_scan）：识别技术栈/测试/文档/git/数据库线索，给出插件、MCP 与卫生文件的安装建议（claude-code-setup 对应版）。 | ✅ 活跃 |
 | [dsh-git-branch-switcher](resources/dsh-git-branch-switcher.md) | – | 会话头部 git 分支胶囊：显示并在 Web UI 中切换工作区分支。 | ✅ 活跃 |
@@ -382,9 +380,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-review-loop](resources/dsh-review-loop.md) | ⭐2 | 增量代码审查：基于检查点的审查队列 + Web UI 面板 + /review 命令。 | ✅ 活跃 |
 | [dsh-routed-subagent](resources/dsh-routed-subagent.md) | – | 从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。 | ✅ 活跃 |
 
-**搜索与研究（75）**
+**搜索与研究（74）**
 
-*🌐 网页搜索（73）*
+*🌐 网页搜索（72）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -408,7 +406,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-xiaoyao-skins](resources/dsh-xiaoyao-skins.md) | ⭐23 | 夕小瑶 × DeepSeek Harness Web 皮肤合集、安装器与社区创作工具链 | ✅ 活跃 |
 | [dsh-catppuccin-theme](resources/dsh-catppuccin-theme.md) | ⭐22 | DeepSeek Harness Web GUI 的 Catppuccin 主题插件：Latte / Frappé / Macchiato / Mocha 四种主题一键切换，内置可开关的玻璃质感（Glassmorphism） | ✅ 活跃 |
 | [dsh-agy](resources/dsh-agy.md) | ⭐19 | Google Antigravity (agy) OAuth auth + model access plugin for DeepSeek Harness: multi-account pool, 429 rotation, device fingerprinting, CLI and web login. | ✅ 活跃 |
-| [dsh-outline](resources/dsh-outline.md) | ⭐18 | DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas | ✅ 活跃 |
 | [touhou-hakurei](resources/touhou-hakurei.md) | ⭐18 | 灵梦（Reimu）·博丽神社（东方Project）美化版皮肤：神社昼夜实景背景、灵梦立绘、画框侧边栏与输入框、纸白透明界面 — DeepSeek Harness Web GUI skin | ✅ 活跃 |
 | [webdsh](resources/webdsh.md) | ⭐18 | Running DeepSeek Harness on web | ✅ 活跃 |
 | [DeepSeek-Harness-Web-Tools](resources/deepseek-harness-web-tools.md) | ⭐17 | 免费免密钥的 web_search/web_fetch，DuckDuckGo 驱动，无需注册。 | ✅ 活跃 |

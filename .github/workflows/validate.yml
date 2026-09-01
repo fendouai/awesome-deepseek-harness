@@ -21,7 +21,7 @@ jobs:
         run: python3 scripts/validate.py --strict
 
       - name: Check repository links
-        run: python3 scripts/check-links.py
+        run: python3 scripts/check-links.py --token "$GH_TOKEN"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

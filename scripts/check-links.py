@@ -9,6 +9,7 @@ Usage:
 """
 import argparse
 import json
+import os
 import sys
 import urllib.error
 import urllib.request
@@ -65,7 +66,8 @@ def check_plain(url):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--token", default=None, help="GitHub token to raise rate limits.")
+    parser.add_argument("--token", default=os.environ.get("GH_TOKEN"),
+                        help="GitHub token to raise rate limits (defaults to $GH_TOKEN).")
     parser.add_argument("--jobs", type=int, default=8)
     args = parser.parse_args()
 

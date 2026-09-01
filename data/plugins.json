@@ -25,7 +25,7 @@
     "name": "dsh-web-ui",
     "type": "plugin",
     "category": "ui",
-    "repository": "https://github.com/zhu1090093659/dsh-web-ui",
+    "repository": "https://github.com/zhu1090093659/dsh-web",
     "description": "Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes.",
     "description_zh": "DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。",
     "capabilities": [
@@ -35,10 +35,10 @@
     ],
     "status": "active",
     "verified": true,
-    "stars": 5349,
+    "stars": 6622,
     "_source_description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
     "_updated": "2026-08-21",
-    "_stars_prev": 5104,
+    "_stars_prev": 5349,
     "growth": 245,
     "subcategory": "skins-themes"
   },
@@ -140,6 +140,21 @@
     "_stars_prev": 2436,
     "growth": 116,
     "subcategory": "generative-ui"
+  },
+  {
+    "id": "memsearch",
+    "name": "memsearch",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/zilliztech/memsearch",
+    "description": "Persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. / 面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus。",
+    "description_zh": "面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus 构建。",
+    "capabilities": [
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2538
   },
   {
     "id": "dsh-market",
@@ -8186,6 +8201,24 @@
     "status": "active",
     "verified": false,
     "stars": 0,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-qqbot-panel",
+    "name": "dsh-qqbot-panel",
+    "type": "plugin",
+    "category": "automation",
+    "repository": "https://github.com/zhengjy01/dsh-qqbot-panel",
+    "description": "Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page.",
+    "description_zh": "为官方 @tencent-connect/dsh-qqbot 提供的可视化配置面板：管理 AppID/AppSecret、私聊/群聊访问模式与白名单、工作区选择、扫码绑定（Web 设置页）。",
+    "capabilities": [
+      "ui",
+      "automation"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "install": "dsh plugin --profile web add github:zhengjy01/dsh-qqbot-panel",
     "license": "MIT"
   }
 ]

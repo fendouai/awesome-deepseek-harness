@@ -38,6 +38,21 @@
     "growth": 503
   },
   {
+    "id": "awesome-mcp-zh",
+    "name": "Awesome-MCP-ZH",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/yzfly/Awesome-MCP-ZH",
+    "description": "Curated Chinese MCP resource list: MCP guide, MCP Servers and MCP Clients. / MCP 资源精选：MCP 指南、MCP Servers、MCP Clients。",
+    "description_zh": "MCP 资源精选，MCP 指南，Claude MCP，MCP Servers，MCP Clients。",
+    "capabilities": [
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7615
+  },
+  {
     "id": "awesome-deepseek-agent",
     "name": "awesome-deepseek-agent (official)",
     "type": "awesome-list",

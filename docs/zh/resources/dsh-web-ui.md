@@ -5,7 +5,7 @@ keywords: "dsh-web-ui, ui, plugin, git, observability, deepseek harness, dsh"
 ---
 # dsh-web-ui
 
-> ⭐ 5,349 · ✅ 活跃 · 插件
+> ⭐ 6,622 · ✅ 活跃 · 插件
 
 ## 一句话介绍
 
@@ -20,6 +20,6 @@ dsh-web-ui 是 DeepSeek Harness（DSH）Web UI 的插件与皮肤集合：任务
 
 ## 链接
 
-- [GitHub 仓库](https://github.com/zhu1090093659/dsh-web-ui)
-- [完整 README](https://github.com/zhu1090093659/dsh-web-ui#readme)
+- [GitHub 仓库](https://github.com/zhu1090093659/dsh-web)
+- [完整 README](https://github.com/zhu1090093659/dsh-web#readme)
 - [返回dsh-web-ui所在分类](../plugins.md)

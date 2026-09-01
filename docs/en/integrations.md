@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "Top 10 and full list of 86 curated mcp & integrations for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 87 curated mcp & integrations for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [dsh-qqbot](resources/dsh-qqbot.md) | ⭐70 | 让 QQ 机器人接入 DeepSeek Harness（dsh）的官方插件 | ✅ active |
 | 10 | [dsh-lark](resources/dsh-lark.md) | ⭐41 | Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness 插件 | ✅ active |
 
-## Complete list (86)
+## Complete list (87)
 
 
 **Developer tools (21)**
@@ -124,7 +124,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-docker](resources/dsh-docker-bf2.md) | – | 隔离的 DeepSeek Harness 插件安装沙箱，并对本机 MCP 口做防御性探测。 | ✅ active |
 | [URL Manager MCP](resources/url-manager-mcp.md) | – | MCP companion for URL Manager: 21 tools for save/search/categorize/share with magic-link delivery. | ✅ active |
 
-**IDE & editors (13)**
+**IDE & editors (14)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -140,6 +140,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh4vscode](resources/dsh4vscode.md) | ⭐5 | VS Code chat windows backed by the DSH agent: OpenCode-style independent sessions with model auto-routing. | ✅ active |
 | [kimi-tide](resources/kimi-tide.md) | ⭐4 | 月汐 — Kimi Code (Moonshot) 接入 DeepSeek Harness 的完整方案：标准 DSH 插件 + Kimi CLI 桥接维护 fork + Agent 协作闭环方法论 | ✅ active |
 | [vscode-deepseek-harness](resources/vscode-deepseek-harness.md) | ⭐3 | Unofficial: drive your own dsh as a native VS Code chat agent. | ✅ active |
+| [dsh-vsc](resources/dsh-vsc.md) | – | Native VS Code extension for DeepSeek Harness: sidebar panel + editor bridge (ask about a selection, review agent changes, approval & question cards). Built as a pure protocol client — consumes DSH's wire contract, never starts a second server. / 面向 DeepSeek Harness 的原生 VS Code 扩展：侧边栏面板 + 编辑器桥接（选中提问、审查 Agent 改动、审批与提问卡片）。纯协议客户端，不重写 DSH。 | ✅ active |
 | [opendsh](resources/opendsh.md) | – | Open the DeepSeek Harness Web UI inside VS Code with one-command start/stop. | ✅ active |
 
 **Browser control (10)**

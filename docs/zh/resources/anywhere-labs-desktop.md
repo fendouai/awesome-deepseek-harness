@@ -5,7 +5,7 @@ keywords: "deepseek-harness-desktop (Anywhere Labs), desktop, client, ui, deepse
 ---
 # deepseek-harness-desktop (Anywhere Labs)
 
-> ⭐ 17,280 · ✅ 活跃 · 客户端
+> ⭐ 22,589 · ✅ 活跃 · 客户端
 
 ## 一句话介绍
 
@@ -20,6 +20,6 @@ keywords: "deepseek-harness-desktop (Anywhere Labs), desktop, client, ui, deepse
 
 ## 链接
 
-- [GitHub 仓库](https://github.com/anywhere-labs/deepseek-harness-desktop)
-- [完整 README](https://github.com/anywhere-labs/deepseek-harness-desktop#readme)
+- [GitHub 仓库](https://github.com/anywhere-labs/dsh-desktop)
+- [完整 README](https://github.com/anywhere-labs/dsh-desktop#readme)
 - [返回deepseek-harness-desktop (Anywhere Labs)所在分类](../clients.md)

@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（81 条）。"
+description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（82 条）。"
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -21,24 +21,25 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 |---|---|---|---|---|
 | 1 | [awesome-deepseek-integration](resources/awesome-deepseek-integration.md) | ⭐38,897 | 官方：DeepSeek 生态集成目录 | ✅ 活跃 |
 | 2 | [awesome-dsh-plugin](resources/awesome-dsh-plugin.md) | ⭐11,012 | 大型 DSH 插件精选目录（双语）。 | ✅ 活跃 |
-| 3 | [awesome-deepseek-agent (official)](resources/awesome-deepseek-agent.md) | ⭐5,966 | 官方精选：将 DeepSeek 模型集成到主流 Agent/编码助手工具的指南（AstrBot、Cherry Studio、Claude Code、Codex、DeepSeek-TUI、Reasonix 等）。 | ✅ 活跃 |
-| 4 | [awesome-harness-engineering](resources/awesome-harness-engineering.md) | ⭐3,887 | Harness 工程精选（跨生态） | ✅ 活跃 |
-| 5 | [awesome-dsh-plugins (Radar)](resources/awesome-dsh-plugins.md) | ⭐1,309 | 雷达索引仓库：自动扫描发现的所有 dsh 插件候选，带证据驱动的兼容性矩阵。 | ✅ 活跃 |
-| 6 | [awesome-deepseek-harness](resources/awesome-deepseek-harness.md) | ⭐966 | Curated guide to DeepSeek Harness (dsh) and its best community plugins | ✅ 活跃 |
-| 7 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ 活跃 |
-| 8 | [awesome-deepseek-coder](resources/awesome-deepseek-coder.md) | ⭐811 | 官方：DeepSeek 编码资源 | ✅ 活跃 |
-| 9 | [awesome-deepseek-harness (0xsline)](resources/awesome-deepseek-harness-0xsline-1.md) | ⭐788 | DSH 生态目录：来自 dsh-external/hub 与公开 dsh-plugin 主题的插件、工具与基础设施精选。 | ✅ 活跃 |
-| 10 | [awesome-dsh-plugin (bruc3van)](resources/awesome-dsh-plugin-bruc3van-1.md) | ⭐261 | 用 30 秒找到适合你的 DSH 插件：不仅列仓库，还说明插件解决什么问题、适合谁、从哪开始。 | ✅ 活跃 |
+| 3 | [Awesome-MCP-ZH](resources/awesome-mcp-zh.md) | ⭐7,615 | MCP 资源精选，MCP 指南，Claude MCP，MCP Servers，MCP Clients。 | ✅ 活跃 |
+| 4 | [awesome-deepseek-agent (official)](resources/awesome-deepseek-agent.md) | ⭐5,966 | 官方精选：将 DeepSeek 模型集成到主流 Agent/编码助手工具的指南（AstrBot、Cherry Studio、Claude Code、Codex、DeepSeek-TUI、Reasonix 等）。 | ✅ 活跃 |
+| 5 | [awesome-harness-engineering](resources/awesome-harness-engineering.md) | ⭐3,887 | Harness 工程精选（跨生态） | ✅ 活跃 |
+| 6 | [awesome-dsh-plugins (Radar)](resources/awesome-dsh-plugins.md) | ⭐1,309 | 雷达索引仓库：自动扫描发现的所有 dsh 插件候选，带证据驱动的兼容性矩阵。 | ✅ 活跃 |
+| 7 | [awesome-deepseek-harness](resources/awesome-deepseek-harness.md) | ⭐966 | Curated guide to DeepSeek Harness (dsh) and its best community plugins | ✅ 活跃 |
+| 8 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ 活跃 |
+| 9 | [awesome-deepseek-coder](resources/awesome-deepseek-coder.md) | ⭐811 | 官方：DeepSeek 编码资源 | ✅ 活跃 |
+| 10 | [awesome-deepseek-harness (0xsline)](resources/awesome-deepseek-harness-0xsline-1.md) | ⭐788 | DSH 生态目录：来自 dsh-external/hub 与公开 dsh-plugin 主题的插件、工具与基础设施精选。 | ✅ 活跃 |
 
-## 完整列表（81）
+## 完整列表（82）
 
 
-**注册表（81）**
+**注册表（82）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [awesome-deepseek-integration](resources/awesome-deepseek-integration.md) | ⭐38,897 | 官方：DeepSeek 生态集成目录 | ✅ 活跃 |
 | [awesome-dsh-plugin](resources/awesome-dsh-plugin.md) | ⭐11,012 | 大型 DSH 插件精选目录（双语）。 | ✅ 活跃 |
+| [Awesome-MCP-ZH](resources/awesome-mcp-zh.md) | ⭐7,615 | MCP 资源精选，MCP 指南，Claude MCP，MCP Servers，MCP Clients。 | ✅ 活跃 |
 | [awesome-deepseek-agent (official)](resources/awesome-deepseek-agent.md) | ⭐5,966 | 官方精选：将 DeepSeek 模型集成到主流 Agent/编码助手工具的指南（AstrBot、Cherry Studio、Claude Code、Codex、DeepSeek-TUI、Reasonix 等）。 | ✅ 活跃 |
 | [awesome-harness-engineering](resources/awesome-harness-engineering.md) | ⭐3,887 | Harness 工程精选（跨生态） | ✅ 活跃 |
 | [awesome-dsh-plugins (Radar)](resources/awesome-dsh-plugins.md) | ⭐1,309 | 雷达索引仓库：自动扫描发现的所有 dsh 插件候选，带证据驱动的兼容性矩阵。 | ✅ 活跃 |

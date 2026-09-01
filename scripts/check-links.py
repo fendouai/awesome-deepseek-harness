@@ -5,7 +5,10 @@ Uses the GitHub API (unauthenticated, subject to rate limits) when available,
 falling back to plain HTTP status checks.
 
 Usage:
-    python3 scripts/check-links.py [--token gho_xxx]
+    python3 scripts/check-links.py [--token gho_xxx] [data/plugins.json ...]
+
+Files listed on the command line limit the check to those registries
+(useful for PR-scoped runs); with no files, every registry is checked.
 """
 import argparse
 import json
@@ -20,10 +23,14 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 
 
-def load_entries():
+def load_entries(files):
+    if files:
+        names = {Path(f).name for f in files}
     entries = []
     for f in sorted(DATA_DIR.glob("*.json")):
         if f.name == "candidates.json":
+            continue
+        if files and f.name not in names:
             continue
         for e in json.loads(f.read_text()):
             if not isinstance(e, dict) or "repository" not in e:
@@ -48,6 +55,11 @@ def check_github(repo, token):
         with urllib.request.urlopen(req, timeout=15) as resp:
             return resp.status == 200, ""
     except urllib.error.HTTPError as e:
+        if e.code in (403, 429):
+            # Rate-limited (shared GITHUB_TOKEN quota): fall back to a plain
+            # HEAD request against the public page, which is not rate-limited
+            # the same way and still distinguishes 404 from existing repos.
+            return check_plain("https://github.com/" + repo)
         return False, f"HTTP {e.code}"
     except Exception as e:  # noqa: BLE001
         return False, str(e)
@@ -69,9 +81,10 @@ def main():
     parser.add_argument("--token", default=os.environ.get("GH_TOKEN"),
                         help="GitHub token to raise rate limits (defaults to $GH_TOKEN).")
     parser.add_argument("--jobs", type=int, default=8)
+    parser.add_argument("files", nargs="*", help="Only check these data files (default: all).")
     args = parser.parse_args()
 
-    entries = load_entries()
+    entries = load_entries(args.files)
     failures = []
     with ThreadPoolExecutor(max_workers=args.jobs) as pool:
         futures = {pool.submit(check_github, repo_fullname(e["repository"]), args.token): e for e in entries}

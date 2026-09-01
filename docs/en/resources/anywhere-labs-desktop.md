@@ -5,7 +5,7 @@ keywords: "deepseek-harness-desktop (Anywhere Labs), desktop, client, ui, deepse
 ---
 # deepseek-harness-desktop (Anywhere Labs)
 
-> ⭐ 17,280 · ✅ active · client
+> ⭐ 22,589 · ✅ active · client
 
 ## One-liner
 
@@ -20,6 +20,6 @@ Modern desktop experience built for the DeepSeek Harness ecosystem (plugin).
 
 ## Links
 
-- [GitHub Repository](https://github.com/anywhere-labs/deepseek-harness-desktop)
-- [Full README](https://github.com/anywhere-labs/deepseek-harness-desktop#readme)
+- [GitHub Repository](https://github.com/anywhere-labs/dsh-desktop)
+- [Full README](https://github.com/anywhere-labs/dsh-desktop#readme)
 - [Back to the Clients (Desktop & TUI) list](../clients.md)

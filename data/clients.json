@@ -26,7 +26,7 @@
     "name": "deepseek-harness-desktop (Anywhere Labs)",
     "type": "client",
     "category": "desktop",
-    "repository": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "repository": "https://github.com/anywhere-labs/dsh-desktop",
     "description": "Modern desktop experience built for the DeepSeek Harness ecosystem (plugin).",
     "description_zh": "为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）。",
     "capabilities": [
@@ -35,10 +35,10 @@
     ],
     "status": "active",
     "verified": true,
-    "stars": 17280,
+    "stars": 22589,
     "_source_description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
     "_updated": "2026-08-21",
-    "_stars_prev": 16221,
+    "_stars_prev": 17280,
     "growth": 1059
   },
   {

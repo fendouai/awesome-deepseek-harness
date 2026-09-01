@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（446 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（448 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -9,7 +9,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 
 | # | 项目 | 增长 | 星数 | 说明 |
 |---|---|---|---|---|
-| 1 | [dsh-web-ui](resources/dsh-web-ui.md) | ⬆️ +245 | ⭐5,349 | DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。 |
+| 1 | [dsh-web-ui](resources/dsh-web-ui.md) | ⬆️ +245 | ⭐6,622 | DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。 |
 | 2 | [dsh-market](resources/dsh-market.md) | ⬆️ +187 | ⭐1,582 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 |
 | 3 | [modlens](resources/modlens.md) | ⬆️ +119 | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 |
 | 4 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⬆️ +116 | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 |
@@ -20,17 +20,17 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | # | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|---|
 | 1 | [voyager](resources/voyager.md) | ⭐19,755 | Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 | ✅ 活跃 |
-| 2 | [dsh-web-ui](resources/dsh-web-ui.md) | ⭐5,349 | DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。 | ✅ 活跃 |
+| 2 | [dsh-web-ui](resources/dsh-web-ui.md) | ⭐6,622 | DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。 | ✅ 活跃 |
 | 3 | [petdex](resources/petdex.md) | ⭐3,945 | A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. | ✅ 活跃 |
 | 4 | [dsh-anchored-standard](resources/dsh-anchored-standard.md) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 | 5 | [modlens](resources/modlens.md) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 6 | [dashi-taskboard](resources/dashi-taskboard.md) | ⭐2,813 | 现代化可灵活嵌入的任务面板，支持 Codex 与 DeepSeek Harness，一个面板统一管理跨会话任务。 | ✅ 活跃 |
 | 7 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
-| 8 | [dsh-market](resources/dsh-market.md) | ⭐1,582 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
-| 9 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
-| 10 | [TokenTracker](resources/tokentracker.md) | ⭐1,395 | 本地优先的 AI Token 用量与费用追踪器，支持 31 款编码工具（含 Claude Code、Codex、Cursor、Gemini 与 DeepSeek Harness）。 | ✅ 活跃 |
+| 8 | [memsearch](resources/memsearch.md) | ⭐2,538 | 面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus 构建。 | ✅ 活跃 |
+| 9 | [dsh-market](resources/dsh-market.md) | ⭐1,582 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
+| 10 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
 
-## 完整列表（446）
+## 完整列表（448）
 
 
 **视觉与多模态（114）**
@@ -184,7 +184,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
-| [dsh-web-ui](resources/dsh-web-ui.md) | ⭐5,349 | DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。 | ✅ 活跃 |
+| [dsh-web-ui](resources/dsh-web-ui.md) | ⭐6,622 | DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。 | ✅ 活跃 |
 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
 | [dsh-transparent-ui-plugin](resources/dsh-transparent-ui-plugin.md) | ⭐355 | 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。 | ✅ 活跃 |
 | [Open Sea Skin](resources/open-sea-skin.md) | ⭐185 | 实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。 | ✅ 活跃 |
@@ -465,7 +465,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-rss](resources/dsh-rss.md) | ⭐4 | DeepSeek Harness RSS 订阅插件：rss_list/add/remove/fetch/check 五工具，RSS 0.9x/1.0/2.0 与 Atom 归一化解析，订阅列表持久化到 settings，proxyUrl 特殊代理支持；纯 Node 全平台。· RSS/Atom subscription tools for DeepSeek Harness agents. | ✅ 活跃 |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。 | ✅ 活跃 |
 
-**记忆与上下文（31）**
+**记忆与上下文（32）**
 
 *🧠 记忆系统（19）*
 
@@ -509,10 +509,11 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-session-health](resources/dsh-session-health.md) | ⭐8 | 多帧 zstd 会话文件的帧级扫描诊断：撕裂/损坏/空会话检测，零依赖只读。 | ✅ 活跃 |
 | [dsh-cue-plugin](resources/dsh-cue-plugin.md) | ⭐6 | DeepSeek Harness 的跨会话引用(cue)插件 | ✅ 活跃 |
 | [dsh-payload-capture](resources/dsh-payload-capture.md) | ⭐1 | 捕捉每次上行模型 API payload，JSON 落盘，用于调试与可观测性。 | ✅ 活跃 |
-*其他（1）*
+*其他（2）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
+| [memsearch](resources/memsearch.md) | ⭐2,538 | 面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus 构建。 | ✅ 活跃 |
 | [dsh-file-mount](resources/dsh-file-mount.md) | ⭐11 | 增量文件挂载 + 行区间去重：相同文件内容不再重复发送给模型。 | ✅ 活跃 |
 
 **插件发现（22）**
@@ -610,6 +611,13 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | 让 DeepSeek Harness 可以被安全地远程访问：账号密码认证 + MFA（TOTP）登录门禁、签名会话 Cookie、角色权限、浏览器内目录选择器、账号管理设置页。 | 🧪 实验性 |
 | [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。 | ✅ 活跃 |
 
+**自动化（2）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | 为官方 @tencent-connect/dsh-qqbot 提供的可视化配置面板：管理 AppID/AppSecret、私聊/群聊访问模式与白名单、工作区选择、扫码绑定（Web 设置页）。 | ✅ 活跃 |
+| [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。 | ✅ 活跃 |
+
 **研究（1）**
 
 | 项目 | 星数 | 说明 | 状态 |
@@ -627,9 +635,3 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。 | ✅ 活跃 |
-
-**自动化（1）**
-
-| 项目 | 星数 | 说明 | 状态 |
-|---|---|---|---|
-| [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。 | ✅ 活跃 |

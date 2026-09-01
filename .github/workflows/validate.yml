@@ -21,7 +21,13 @@ jobs:
         run: python3 scripts/validate.py --strict
 
       - name: Check repository links
-        run: python3 scripts/check-links.py --token "$GH_TOKEN"
+        run: |
+          FILES=""
+          if [ -n "${{ github.event.pull_request.base.sha }}" ]; then
+            git fetch origin ${{ github.event.pull_request.base.sha }} --depth 1
+            FILES=$(git diff --name-only FETCH_HEAD HEAD | grep '^data/' || true)
+          fi
+          python3 scripts/check-links.py --token "$GH_TOKEN" $FILES
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

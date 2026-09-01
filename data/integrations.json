@@ -1541,5 +1541,21 @@
     "stars": 0,
     "_source_description": "隔离的 DeepSeek Harness 插件安装沙箱，并对本机 MCP 口做防御性探测。",
     "_updated": "2026-08-19"
+  },
+  {
+    "id": "dsh-vsc",
+    "name": "dsh-vsc",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/zhibailu/dsh-vsc",
+    "description": "Native VS Code extension for DeepSeek Harness: sidebar panel + editor bridge (ask about a selection, review agent changes, approval & question cards). Built as a pure protocol client — consumes DSH's wire contract, never starts a second server. / 面向 DeepSeek Harness 的原生 VS Code 扩展：侧边栏面板 + 编辑器桥接（选中提问、审查 Agent 改动、审批与提问卡片）。纯协议客户端，不重写 DSH。",
+    "description_zh": "面向 DeepSeek Harness 的原生 VS Code 扩展：侧边栏面板 + 编辑器桥接（选中提问、审查 Agent 改动、审批与提问卡片）。纯协议客户端，基于 DSH 线协议构建，不启动第二个服务。",
+    "capabilities": [
+      "ide"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "license": "MIT"
   }
 ]

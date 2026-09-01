@@ -8220,5 +8220,21 @@
     "stars": 0,
     "install": "dsh plugin --profile web add github:zhengjy01/dsh-qqbot-panel",
     "license": "MIT"
+  },
+  {
+    "id": "dsh-message-navigator",
+    "name": "dsh-message-navigator",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/miaomiao636/dsh-message-navigator",
+    "description": "Codex-style message navigator for the DeepSeek Harness Web UI: a tick per user message along the conversation edge, hover or click to preview and smooth-jump to it, with full history auto-loading.",
+    "description_zh": "为 DeepSeek Harness Web UI 提供 Codex 风格的消息导航器：对话边缘为每条用户消息生成刻度，悬停或点击即可预览并平滑跳转，自动加载完整历史记录。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": true,
+    "install": "dsh plugin --profile web add github:miaomiao636/dsh-message-navigator",
+    "license": "MIT"
   }
 ]

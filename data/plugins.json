@@ -1,5 +1,21 @@
 [
   {
+    "id": "dsh-wps",
+    "name": "dsh-wps",
+    "type": "plugin",
+    "category": "automation",
+    "repository": "https://github.com/zhengjy01/dsh-wps",
+    "description": "WPS / Kingsoft cloud-docs integration for DSH: official SkillHub MCP, custom browser authorization, cloud-drive ops + text/sheet/presentation/PDF content under mcp__wps__*.",
+    "description_zh": "WPS / 金山文档云文档集成插件：官方 SkillHub MCP，自定义浏览器授权，云盘操作 + 文字/表格/演示/PDF 内容读写，工具以 mcp__wps__* 在会话中可用。",
+    "capabilities": [
+      "automation",
+      "docs"
+    ],
+    "status": "active",
+    "verified": true,
+    "stars": 0
+  },
+  {
     "id": "voyager",
     "name": "voyager",
     "type": "plugin",

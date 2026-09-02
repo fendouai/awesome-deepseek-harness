@@ -8220,5 +8220,20 @@
     "stars": 0,
     "install": "dsh plugin --profile web add github:zhengjy01/dsh-qqbot-panel",
     "license": "MIT"
+  },
+  {
+    "id": "dsh-tavily",
+    "name": "dsh-tavily",
+    "type": "plugin",
+    "category": "search",
+    "subcategory": "web-search",
+    "repository": "https://github.com/moguiyu/dsh-tavily",
+    "description": "Opt-in advanced Tavily search for DeepSeek Harness: tavily_search plus extract/map/crawl model tools with multi-key rotation and 401/429 failover, a live usage gauge, and a keyed settings card; one version serves DSH 0.1.0-rc.7 - 0.1.1-rc.x and 0.1.2-alpha.x hosts (seam detected at runtime); the built-in web_search is never replaced.",
+    "description_zh": "面向 DeepSeek Harness 的可选 Tavily 搜索增强：tavily_search 及 extract/map/crawl 模型工具，多密钥轮换与 401/429 故障转移、实时用量仪表盘与 keyed 设置卡片；同一版本覆盖 DSH 0.1.0-rc.7 - 0.1.1-rc.x 与 0.1.2-alpha.x 宿主（运行时自动探测）；绝不替换内置 web_search。",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false
   }
 ]

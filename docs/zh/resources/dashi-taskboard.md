@@ -13,7 +13,7 @@ keywords: "dashi-taskboard, ui, plugin, workflow, deepseek harness, dsh"
 
 ## 详细介绍
 
-现代化可灵活嵌入的任务面板，支持 Codex 与 DeepSeek Harness，一个面板统一管理跨会话任务。
+A local-first issue board that runs in a browser and can be embedded in Codex through the standalone CDP launcher or its injection script. The same HTTP API powers the React UI and the `taskctl` CLI used by the bundled Codex Skill.
 
 ## 作者
 **[chuspeeism](https://github.com/chuspeeism)**

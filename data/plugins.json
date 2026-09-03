@@ -116,7 +116,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 2813
+    "stars": 2813,
+    "subcategory": "sidebar-panels"
   },
   {
     "id": "dsh-better-sidebar",
@@ -154,7 +155,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 2538
+    "stars": 2538,
+    "subcategory": "memory-systems"
   },
   {
     "id": "dsh-market",
@@ -6217,7 +6219,8 @@
     "verified": false,
     "stars": 4,
     "install": "dsh plugin --profile web add dsh-composer-layout@latest",
-    "license": "MIT"
+    "license": "MIT",
+    "subcategory": "input-enhancement"
   },
   {
     "id": "dsh-webbridge",
@@ -7027,7 +7030,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 3
+    "stars": 3,
+    "subcategory": "sidebar-panels"
   },
   {
     "id": "dsh-think-translate",
@@ -7042,7 +7046,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 3
+    "stars": 3,
+    "subcategory": "sidebar-panels"
   },
   {
     "id": "dsh-jesse-memory",
@@ -7497,7 +7502,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 2
+    "stars": 2,
+    "subcategory": "generative-ui"
   },
   {
     "id": "dsh-better-stats",
@@ -7513,7 +7519,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 2
+    "stars": 2,
+    "subcategory": "cost-billing"
   },
   {
     "id": "dsh-explorer-plugin",
@@ -7529,7 +7536,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 2
+    "stars": 2,
+    "subcategory": "sidebar-panels"
   },
   {
     "id": "dsh-voice-webspeech",
@@ -7880,7 +7888,8 @@
     "status": "active",
     "verified": false,
     "stars": 1,
-    "license": "MIT"
+    "license": "MIT",
+    "subcategory": "generative-ui"
   },
   {
     "id": "dsh-product-subagent-console",
@@ -8131,7 +8140,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 0
+    "stars": 0,
+    "subcategory": "files-import"
   },
   {
     "id": "dsh-word-docs",
@@ -8146,7 +8156,8 @@
     ],
     "status": "active",
     "verified": false,
-    "stars": 0
+    "stars": 0,
+    "subcategory": "cost-billing"
   },
   {
     "id": "dsh-vibegap",
@@ -8220,5 +8231,267 @@
     "stars": 0,
     "install": "dsh plugin --profile web add github:zhengjy01/dsh-qqbot-panel",
     "license": "MIT"
+  },
+  {
+    "id": "dsh-outline",
+    "name": "dsh-outline",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/urzeye/dsh-outline",
+    "description": "DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas",
+    "description_zh": "DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 18,
+    "subcategory": "web-search"
+  },
+  {
+    "id": "mistymoon-dsh",
+    "name": "mistymoon-dsh",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/mianyoubiaoqing/MistyMoon-DSH",
+    "description": "Local-first long-term companion plugin suite for DeepSeek Harness",
+    "description_zh": "Local-first long-term companion plugin suite for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "subcategory": "desktop-pets",
+    "_source_description": "Local-first long-term companion plugin suite for DeepSeek Harness",
+    "_updated": "2026-08-20"
+  },
+  {
+    "id": "dsh-what-changed",
+    "name": "dsh-what-changed",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/sjh9714/dsh-what-changed",
+    "description": "Session-wide file change review in the session header. Lists every file the agent wrote this session with its hunks, counts refused writes separately from changes, and folds from a session projection rather than the on-disk log.",
+    "description_zh": "会话顶栏的整会话改动审阅。列出本次会话 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动，数据来自 session projection 而非磁盘日志。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "subcategory": "code-testing",
+    "_stars_prev": 1,
+    "growth": 1,
+    "_source_description": "看得见 Agent 到底改了什么。一个会话里所有文件改动，一屏看完再决定要不要提交 | See what the agent actually changed. Every file it wrote this session, in one review panel.",
+    "_updated": "2026-08-19"
+  },
+  {
+    "id": "dsh-message-navigator",
+    "name": "dsh-message-navigator",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/miaomiao636/dsh-message-navigator",
+    "description": "Codex-style message navigator for the DeepSeek Harness Web UI: a tick per user message along the conversation edge, hover or click to preview and smooth-jump to it, with full history auto-loading.",
+    "description_zh": "为 DeepSeek Harness Web UI 提供 Codex 风格的消息导航器：对话边缘为每条用户消息生成刻度，悬停或点击即可预览并平滑跳转，自动加载完整历史记录。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": true,
+    "install": "dsh plugin --profile web add github:miaomiao636/dsh-message-navigator",
+    "license": "MIT",
+    "stars": 0,
+    "subcategory": "generative-ui"
+  },
+  {
+    "id": "dsh-wps",
+    "name": "dsh-wps",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/zhengjy01/dsh-wps",
+    "description": "WPS / Kingsoft cloud-docs integration for DSH: official SkillHub MCP, custom browser authorization, cloud-drive ops + text/sheet/presentation/PDF content under mcp__wps__*.",
+    "description_zh": "WPS / 金山文档云文档集成插件：官方 SkillHub MCP，自定义浏览器授权，云盘操作 + 文字/表格/演示/PDF 内容读写，工具以 mcp__wps__* 在会话中可用。",
+    "capabilities": [
+      "files",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": true,
+    "stars": 0
+  },
+  {
+    "id": "dsh-tavily",
+    "name": "dsh-tavily",
+    "type": "plugin",
+    "category": "search",
+    "subcategory": "web-search",
+    "repository": "https://github.com/moguiyu/dsh-tavily",
+    "description": "Opt-in advanced Tavily search for DeepSeek Harness: tavily_search plus extract/map/crawl model tools with multi-key rotation and 401/429 failover, a live usage gauge, and a keyed settings card; one version serves DSH 0.1.0-rc.7 - 0.1.1-rc.x and 0.1.2-alpha.x hosts (seam detected at runtime); the built-in web_search is never replaced.",
+    "description_zh": "面向 DeepSeek Harness 的可选 Tavily 搜索增强：tavily_search 及 extract/map/crawl 模型工具，多密钥轮换与 401/429 故障转移、实时用量仪表盘与 keyed 设置卡片；同一版本覆盖 DSH 0.1.0-rc.7 - 0.1.1-rc.x 与 0.1.2-alpha.x 宿主（运行时自动探测）；绝不替换内置 web_search。",
+    "capabilities": [
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
+  },
+  {
+    "id": "dsh-industry-research",
+    "name": "dsh-industry-research",
+    "type": "plugin",
+    "category": "research",
+    "repository": "https://github.com/PerryLink/dsh-industry-research",
+    "description": "Industry and company research domain pack: methodology skills, an industry-chain structure model, public-source policy/news tracking, and company scan cards with auditable output.",
+    "description_zh": "行业与公司研究域包：方法论技能、产业链结构模型、公开源政策/新闻跟踪与公司扫描卡，输出可审计。",
+    "capabilities": [
+      "research"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 46
+  },
+  {
+    "id": "dsh-research-report",
+    "name": "dsh-research-report",
+    "type": "plugin",
+    "category": "research",
+    "repository": "https://github.com/PerryLink/dsh-research-report",
+    "description": "Verifiable research-report engine with a content-addressed evidence ledger and versioned sealed reports carrying per-claim verification verdicts.",
+    "description_zh": "可验证研究报告引擎：内容寻址证据台账 + 版本化封存报告，逐条声明带核验结论。",
+    "capabilities": [
+      "research"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 44
+  },
+  {
+    "id": "dsh-fund-research",
+    "name": "dsh-fund-research",
+    "type": "plugin",
+    "category": "research",
+    "repository": "https://github.com/PerryLink/dsh-fund-research",
+    "description": "Chinese public mutual fund research: public-source data collection and deterministic manager/portfolio metrics.",
+    "description_zh": "中国公募基金研究：公开源数据采集 + 确定性经理/组合指标计算。",
+    "capabilities": [
+      "research"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 18
+  },
+  {
+    "id": "dsh-data-quality",
+    "name": "dsh-data-quality",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/PerryLink/dsh-data-quality",
+    "description": "Deterministic data profiling, cleaning and verification with data_profile, data_clean and data_verify tools.",
+    "description_zh": "确定性数据画像、清洗与核验，提供 data_profile/data_clean/data_verify 工具。",
+    "capabilities": [
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 11,
+    "subcategory": "files-import"
+  },
+  {
+    "id": "dsh-score",
+    "name": "dsh-score",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/PerryLink/dsh-score",
+    "description": "Multi-dimensional quality scoring for DSH plugins across install success, maintenance activity, documentation, security and protocol compliance.",
+    "description_zh": "DSH 插件多维质量评分：安装成功率、维护活跃度、文档完整度、安全与协议合规。",
+    "capabilities": [
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "subcategory": "security-ops"
+  },
+  {
+    "id": "dsh-click",
+    "name": "dsh-click",
+    "type": "plugin",
+    "category": "automation",
+    "repository": "https://github.com/PerryLink/dsh-click",
+    "description": "Cross-platform native desktop control (Windows first): screenshot, screen read, click/type/scroll/key, app list and launch.",
+    "description_zh": "跨平台原生桌面控制（Windows 优先）：截图、读屏、点击/输入/滚动/按键、应用列表与启动。",
+    "capabilities": [
+      "automation"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
+    "id": "dsh-draw",
+    "name": "dsh-draw",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/PerryLink/dsh-draw",
+    "description": "Unified text-to-image router with config-driven OpenAI-compatible engine routing and health-aware fallback.",
+    "description_zh": "统一文生图路由：配置驱动 OpenAI 兼容引擎路由 + 健康感知回退。",
+    "capabilities": [
+      "vision"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "subcategory": "vision-tools"
+  },
+  {
+    "id": "dsh-fast",
+    "name": "dsh-fast",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/PerryLink/dsh-fast",
+    "description": "Read-only performance diagnostics: session load timing, spill/compaction stats, context volume and LLM cache hit rate.",
+    "description_zh": "只读性能诊断：会话加载耗时、spill/压缩统计、上下文注入量与 LLM 缓存命中率。",
+    "capabilities": [
+      "observability"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "subcategory": "cost-billing"
+  },
+  {
+    "id": "dsh-personal-directive",
+    "name": "dsh-personal-directive",
+    "type": "plugin",
+    "category": "input-editing",
+    "repository": "https://github.com/PerryLink/dsh-personal-directive",
+    "description": "Personal directives with system-prompt injection, tools and a top-bar runtime toggle (framework version with replaceable neutral placeholders).",
+    "description_zh": "个人指令插件：系统提示词注入、工具与顶部运行时开关（框架版，中性占位可替换）。",
+    "capabilities": [
+      "context"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 0
+  },
+  {
+    "id": "dsh-super-pm",
+    "name": "dsh-super-pm",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Lohaslee/dsh-super-pm",
+    "description": "Product-thinking companion for DeepSeek Harness: clarifies negative boundaries first, separates facts from assumptions, routes through seven product lenses, and persists confirmed decisions to project memory.",
+    "description_zh": "DeepSeek Harness 的产品思考助手：先明确负向边界，拆开事实与假设，经七套产品视角讨论取舍，并将确认的决策沉淀到项目记忆中。",
+    "capabilities": [
+      "context",
+      "research",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

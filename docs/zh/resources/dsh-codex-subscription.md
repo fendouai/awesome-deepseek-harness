@@ -13,7 +13,7 @@ keywords: "dsh-codex-subscription, vision, plugin, coding, multimodal, search, d
 
 ## 详细介绍
 
-dsh-codex-subscription adds a ChatGPT OAuth-backed Codex model provider to DSH, with quota display, optional subscription search, Fast mode, image generation and editing, and model-aware context controls. / dsh-codex-subscription 通过 ChatGPT OAuth 将 Codex 订阅模型接入 DSH，并提供额度显示、可选订阅搜索、高速模式、图片生成与编辑及模型感知上下文控制。
+**Use your ChatGPT / Codex subscription directly in DeepSeek Harness** No OpenAI API key or Codex CLI. Models, search, quota, and image generation stay inside DSH. [Three-step start](#three-step-start) · [Install](#install) · [Update and uninstall](#update-and-uninstall) · [简体中文](https://github.com/WSL043/dsh-codex-subscription/blob/main/README.zh-CN.md) </div> <p align="center"> </p>
 
 ## 作者
 **[WSL043](https://github.com/WSL043)**

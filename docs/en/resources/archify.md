@@ -13,7 +13,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ## About
 
-Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams — self-contained and reviewable.
+**Turn a codebase or system description into a polished, interactive system map — directly in chat.** Archify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce typed JSON IR; Archify deterministically compiles it into HTML/SVG. - **Open it and present** — five diagram types, four presets, dark/light themes, built-in brand marks, and finite motion - **Review architecture changes before merge** — compare two validated snapshots as Before 
 
 ## Author
 **[tt-a1i](https://github.com/tt-a1i)**

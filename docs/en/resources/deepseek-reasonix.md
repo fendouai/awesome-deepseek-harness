@@ -13,7 +13,7 @@ DeepSeek-native AI coding agent for your terminal, engineered around prefix-cach
 
 ## About
 
-DeepSeek-native AI coding agent for your terminal, engineered around prefix-cache stability — leave it running.
+- **Config-driven.** Providers, the agent, enabled tools, and plugins are all declared in `reasonix.toml`. No hardcoded models. - **Multi-model & composable.** DeepSeek ships as a preset; any OpenAI-compatible endpoint is a config entry, not new code. Optionally run two models together (executor + planner) in separate, cache-stable sessions. - **Plugin-driven.** MCP servers contribute tools, prompts, and resources; Extension Protocol v1 sidecars can also intercept runtime events, contribute Prov
 
 ## Author
 **[esengine](https://github.com/esengine)**

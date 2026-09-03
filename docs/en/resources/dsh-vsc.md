@@ -13,7 +13,7 @@ Native VS Code extension for DeepSeek Harness: sidebar panel + editor bridge (as
 
 ## About
 
-Native VS Code extension for DeepSeek Harness: sidebar panel + editor bridge (ask about a selection, review agent changes, approval & question cards). Built as a pure protocol client — consumes DSH's wire contract, never starts a second server. / 面向 DeepSeek Harness 的原生 VS Code 扩展：侧边栏面板 + 编辑器桥接（选中提问、审查 Agent 改动、审批与提问卡片）。纯协议客户端，不重写 DSH。
+**Run [DeepSeek Harness](https://github.com/deepseek-ai/dsh) — the local AI agent — inside VS Code.** A native sidebar panel plus an editor bridge that connects to DSH as a **protocol client**, without rewriting it and without starting a second server. Read this in: **English** · [简体中文](README.zh.md) --- ---
 
 ## Author
 **[zhibailu](https://github.com/zhibailu)**

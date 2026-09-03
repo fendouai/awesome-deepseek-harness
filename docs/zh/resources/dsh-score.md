@@ -1,0 +1,25 @@
+---
+title: "dsh-score"
+description: "DSH 插件多维质量评分：安装成功率、维护活跃度、文档完整度、安全与协议合规。"
+keywords: "dsh-score, developer, plugin, workflow, deepseek harness, dsh"
+---
+# dsh-score
+
+> ⭐ 4 · ✅ 活跃 · 插件
+
+## 一句话介绍
+
+DSH 插件多维质量评分：安装成功率、维护活跃度、文档完整度、安全与协议合规。
+
+## 详细介绍
+
+- **1024 store channel**: `npm i -g dsh1024` once, then `dsh1024 plugin --profile web add dsh-score` (counts toward the [deepseek1024.com](https://deepseek1024.com) install ranking). **Multi-dimensional quality scoring for DeepSeek Harness plugins.** *Five dimensions, real `gh`/`npm` evidence, one weighted risk card and leaderboard.* [English](README.md) · [简体中文](README.zh.md) · [Español](README.es.md) · [Português](README.pt.md) · [हिन्दी](README.hi.md) </div> ---
+
+## 作者
+**[PerryLink](https://github.com/PerryLink)**
+
+## 链接
+
+- [GitHub 仓库](https://github.com/PerryLink/dsh-score)
+- [完整 README](https://github.com/PerryLink/dsh-score#readme)
+- [返回dsh-score所在分类](../plugins.md)

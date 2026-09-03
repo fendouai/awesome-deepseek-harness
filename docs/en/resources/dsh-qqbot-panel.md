@@ -13,7 +13,7 @@ Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: ma
 
 ## About
 
-Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page.
+A visual settings panel for the official [@tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) plugin for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (dsh). The official QQ bot plugin is a pure CLI plugin with no Web UI; this companion plugin adds a **Settings → QQ Bot** page so you can configure everything — and even bind your bot by scanning a QR code — right from the web GUI.
 
 ## Author
 **[zhengjy01](https://github.com/zhengjy01)**

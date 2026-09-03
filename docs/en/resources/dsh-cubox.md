@@ -13,7 +13,7 @@ Cubox sync plugin for DeepSeek Harness: scheduled sync of your bookmarks, an AI 
 
 ## About
 
-Cubox sync plugin for DeepSeek Harness: scheduled sync of your bookmarks, an AI daily brief generated from your own prompt template straight into Obsidian, and per-card markdown export — via the /c/api/cli endpoints.
+Cubox sync for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness): scheduled sync of your Cubox collection, with an **AI daily brief** generated from your own prompt template and written straight into Obsidian — via the same `/c/api/cli` endpoints the official cubox-cli uses. Agent tools plus a web settings panel.
 
 ## Author
 **[zhengjy01](https://github.com/zhengjy01)**

@@ -13,7 +13,7 @@ DSH plugin (host + web client): status and progress of GitHub Actions checks of 
 
 ## About
 
-DSH plugin (host + web client): status and progress of GitHub Actions checks of the open PRs, grouped by workspace/project, in the sidebar footer.
+[DSH](https://github.com/deepseek-ai/deepseek-harness) plugin (host + web client) that shows, in the sidebar footer, the **status and progress of the checks** (GitHub Actions) of the open PRs, grouped by **Workspace → Project → PR**. - Progress bar per PR (`done/total`), colored dots per check (tooltip with the name) and a "PR checks" header. - Only PRs with checks **still running** (`IN_PROGRESS`/`QUEUED`/`PENDING`) are shown: when they finish, the PR drops out of the list — and with nothing ru
 
 ## Author
 **[pauloapoloni](https://github.com/pauloapoloni)**

@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "Top 10 and full list of 46 curated skills for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 47 curated skills for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [dsh-save-money](resources/dsh-save-money.md) | ⭐35 | Save-money plugin for DSH (DeepSeek Harness) — define your own "pause / resume" time windows; at pause time running long tasks are paused (not stopped) automatically, and they resume when the window ends. | ✅ active |
 | 10 | [dsh-skill-picker](resources/dsh-skill-picker.md) | ⭐25 | DSH 实现 workbuddy 同款选择 skill 功能 | WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer, insert the official /skill-name gesture, and DSH loads it with your message. | ✅ active |
 
-## Complete list (46)
+## Complete list (47)
 
 
 **Learning (32)**
@@ -70,13 +70,14 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [howto-dsh](resources/howto-dsh.md) | ⭐1 | Verified field notes for DeepSeek Harness (dsh): traps, skills, hooks, profiles. Every claim dated against a dsh version, with source paths to re-verify. Not affiliated with DeepSeek. | ✅ active |
 | [mstar-workflow](resources/mstar-workflow.md) | – | A Skill-driven Harness/Loop Engineering Workflow Agent Plugin | 💤 inactive |
 
-**Coding (7)**
+**Coding (8)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [archify](resources/archify.md) | ⭐36,264 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams — self-contained and reviewable. | ✅ active |
 | [dsh-godot-skill](resources/dsh-godot-skill.md) | ⭐9 | Godot Engine 4.x full-stack game development skill plugin for DSH. | ✅ active |
 | [dsh-ecc](resources/dsh-ecc.md) | ⭐3 | 273 ECC skills (95.8% of the 227k-star operator system) ported to DSH in four batches. | ✅ active |
+| [dsh-humanize](resources/dsh-humanize.md) | ⭐3 | De-AI writing skill: rewrite agent output to sound more human. | ✅ active |
 | [dsh-ponytail](resources/dsh-ponytail.md) | ⭐2 | Ponytail lazy senior dev mode: 6 skills (ponytail, ponytail-audit, ponytail-debt, ponytail-gain, ponytail-help, ponytail-review) adapted from DietrichGebert/ponytail. | ✅ active |
 | [dsh-review-skills](resources/dsh-review-skills.md) | ⭐2 | Code review skill pack for DeepSeek Harness. | ✅ active |
 | [mattpocock-skills-dsh](resources/mattpocock-skills-dsh.md) | ⭐2 | Matt Pocock full promoted skill set (25 SKILL.md: grilling, writing-for-agents, wait-what, TDD, code review, wayfinder, ask-matt router) ported to DSH. | ✅ active |

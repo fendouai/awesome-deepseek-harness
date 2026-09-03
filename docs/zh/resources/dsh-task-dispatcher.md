@@ -13,7 +13,7 @@ DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任
 
 ## 详细介绍
 
-DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。
+Use TickTick (滴答清单) as DSH's daily task dispatcher: a cordis timer pulls each morning (default 08:30) today's due tasks from the 5️⃣AI list, writes them to today's task file, and notifies via **flomo + macOS**. The agent reads the file, works through the items, and writes results back to TickTick with `ticktick_complete`.
 
 ## 作者
 **[zhengjy01](https://github.com/zhengjy01)**

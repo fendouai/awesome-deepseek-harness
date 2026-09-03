@@ -13,7 +13,7 @@ TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-bas
 
 ## About
 
-TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board.
+Use TickTick (滴答清单) as DSH's daily task dispatcher: a cordis timer pulls each morning (default 08:30) today's due tasks from the 5️⃣AI list, writes them to today's task file, and notifies via **flomo + macOS**. The agent reads the file, works through the items, and writes results back to TickTick with `ticktick_complete`.
 
 ## Author
 **[zhengjy01](https://github.com/zhengjy01)**

@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "DeepSeek Harness (dsh) 精选 skills：🔥 Top 10 与完整列表（46 条）。"
+description: "DeepSeek Harness (dsh) 精选 skills：🔥 Top 10 与完整列表（47 条）。"
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [dsh-save-money](resources/dsh-save-money.md) | ⭐35 | Save-money plugin for DSH (DeepSeek Harness) — define your own "pause / resume" time windows; at pause time running long tasks are paused (not stopped) automatically, and they resume when the window ends. | ✅ 活跃 |
 | 10 | [dsh-skill-picker](resources/dsh-skill-picker.md) | ⭐25 | DSH 实现 workbuddy 同款选择 skill 功能 | WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer, insert the official /skill-name gesture, and DSH loads it with your message. | ✅ 活跃 |
 
-## 完整列表（46）
+## 完整列表（47）
 
 
 **学习（32）**
@@ -70,13 +70,14 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [howto-dsh](resources/howto-dsh.md) | ⭐1 | Verified field notes for DeepSeek Harness (dsh): traps, skills, hooks, profiles. Every claim dated against a dsh version, with source paths to re-verify. Not affiliated with DeepSeek. | ✅ 活跃 |
 | [mstar-workflow](resources/mstar-workflow.md) | – | A Skill-driven Harness/Loop Engineering Workflow Agent Plugin | 💤 停更 |
 
-**编码（7）**
+**编码（8）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [archify](resources/archify.md) | ⭐36,264 | Agent 技能：生成漂亮、可验证的架构图、流程图、时序图、数据流与生命周期图——自包含、可审查。 | ✅ 活跃 |
 | [dsh-godot-skill](resources/dsh-godot-skill.md) | ⭐9 | Godot Engine 4.x 全栈游戏开发技能插件。 | ✅ 活跃 |
 | [dsh-ecc](resources/dsh-ecc.md) | ⭐3 | ECC（227k⭐ 操作员系统）273 个技能（95.8%）分四批移植到 DSH。 | ✅ 活跃 |
+| [dsh-humanize](resources/dsh-humanize.md) | ⭐3 | 去 AI 味写作技能：让 Agent 输出更自然。 | ✅ 活跃 |
 | [dsh-ponytail](resources/dsh-ponytail.md) | ⭐2 | Ponytail 最懒资深工程师模式：6 个技能，改编自 DietrichGebert/ponytail。 | ✅ 活跃 |
 | [dsh-review-skills](resources/dsh-review-skills.md) | ⭐2 | DSH 代码评审技能集。 | ✅ 活跃 |
 | [mattpocock-skills-dsh](resources/mattpocock-skills-dsh.md) | ⭐2 | Matt Pocock 完整发布技能集（25 个 SKILL.md：grilling、writing-for-agents、wait-what、TDD、code-review、wayfinder、ask-matt 路由等）的 DSH 移植。 | ✅ 活跃 |

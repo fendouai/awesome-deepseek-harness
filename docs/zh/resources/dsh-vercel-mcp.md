@@ -13,7 +13,7 @@ DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程�
 
 ## 详细介绍
 
-DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。
+Vercel MCP connection for DeepSeek Harness (DSH): the official Vercel API MCP server ([mcp.vercel.com](https://mcp.vercel.com)) with the full OAuth 2.0 client dance — dynamic client registration, PKCE S256, loopback callback on the GUI's own web server, refresh-token grant — plus a web settings panel. Once authorized, the Vercel platform tools (deployments, projects, domains, environment variables, DNS records, deploy code, and more) become available in agent sessions as `mcp__vercel__*`, auto-r
 
 ## 作者
 **[zhengjy01](https://github.com/zhengjy01)**

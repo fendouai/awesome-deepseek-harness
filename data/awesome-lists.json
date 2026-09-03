@@ -1489,5 +1489,23 @@
     "stars": 0,
     "_source_description": "Discover and compare DeepSeek Harness plugins directly inside DSH.",
     "_updated": "2026-08-17"
+  },
+  {
+    "id": "plugins",
+    "name": "plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/dsh-universe/plugins",
+    "description": "DeepSeek Harness plugin & skill directory — DSH Universe official marketplace (duink.com)",
+    "description_zh": "DeepSeek Harness plugin & skill directory — DSH Universe official marketplace (duink.com)",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "_source_description": "DeepSeek Harness plugin & skill directory — DSH Universe official marketplace (duink.com)",
+    "_updated": "2026-08-20"
   }
 ]

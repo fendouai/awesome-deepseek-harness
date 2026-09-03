@@ -5,20 +5,55 @@ keywords: "dsh-auto-memory, memory, plugin, coding, ui, deepseek harness, dsh"
 ---
 # dsh-auto-memory
 
-> ⭐ 25 · ✅ 活跃 · 插件
+> ⭐ **25** · ✅ 活跃 · 插件 · 近期 ⬆️ +4
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 记忆与上下文 |
+| 星数 | ⭐ 25 | 状态 | ✅ 活跃 |
+| 作者 | [Aik358](https://github.com/Aik358) | 更新时间 | 2026-08-21 |
+| 子分类 | 🧠 记忆系统 | 能力 | coding, memory, ui |
 
 ## 一句话介绍
 
-DSH 自动记忆插件:三层记忆(用户级/项目笔记/每日日志)自动注入与检索、每日反思、可视化面板与设置页,支持继承其他 AI 工具的历史记忆。An auto-memory plugin for the DeepSeek Harness Web GUI: three-layer memory (user-level / project notes / daily logs) with automatic injection and retrieval, daily reflections, a visual panel and settings page, and inheritance of memories from other AI tools.
+> DSH 自动记忆插件:三层记忆(用户级/项目笔记/每日日志)自动注入与检索、每日反思、可视化面板与设置页,支持继承其他 AI 工具的历史记忆。An auto-memory plugin for the DeepSeek Harness Web GUI: three-layer memory (user-level / project notes / daily logs) with automatic injection and retrieval, daily reflections, a visual panel and settings page, and inheritance of memories from other AI tools.
 
 ## 详细介绍
 
-<p align="center"> </p> An auto-memory plugin for the DeepSeek Harness Web GUI: three-layer memory (user-level / project notes / daily logs) with automatic injection and retrieval, daily reflections, AI period greetings with three-level drawers, auto-consolidation after every turn, smart search, a calendar view and settings page, and inheritance of memories from other AI tools. DSH Web GUI 的记忆插件：三层记忆自动注入与检索、每日反思、AI 时段问候与三级抽屉、每轮自动沉淀、智能检索、日历视图与设置页，支持继承其他 AI 工具的历史记忆。 [**English**](README.md) | [中文版
+🌐 Landing page (full feature tour · data flow · papers · screenshots) Promo gallery · six frames · click any thumbnail to view full size Promo gallery, frame by frame (expand and flip through)
 
-## 作者
-**[Aik358](https://github.com/Aik358)**
+## 📦 安装
 
-## 链接
+```bash
+cd ~/.dsh/profiles/web
+pnpm add @a9i5k4/dsh-auto-memory
+```
+
+## 🚀 快速开始
+
+```bash
+"@a9i5k4/dsh-auto-memory"
+```
+
+## 📚 更多信息
+
+**Install (one command)**
+
+> Prerequisite: install [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) and start `dsh web` at least once. Run in the **profile directory** (`~/.dsh/profiles/web`): cd ~/.dsh/profiles/web pnpm add @a9i5k4/dsh-auto-memory Then edit `package.json` in that directory and append to the `dsh.profile.bundles` array: "@a9i5k4/dsh-auto-memory" Restart **dsh web** (the 「Memory」entry appe
+
+**approve the onnxruntime-node / sharp native install scripts,**
+
+pnpm approve-builds pnpm add @huggingface/transformers Restart `dsh web` — the welcome tour's semantic-engine step auto-detects readiness (SHA256 verify + inference self-test). Lexical BM25 (0GB) always works as a fallback; skipping the engine only lowers recall precision. > No pnpm? `npm install @a9i5k4/dsh-auto-memory` works the same. > pnpm v11 blocks packages published <1 day ago: set `minimum
+
+**AI-era installation**
+
+Copy this to the AI assistant you're already using: Install the npm package @a9i5k4/dsh-auto-memory in the DeepSeek Harness web profile directory ~/.dsh/profiles/web (pnpm add or npm install), append "@a9i5k4/dsh-auto-memory" to the dsh.profile.bundles array in package.json, then restart dsh web to activate the plugin.
+
+**Configuration**
+
+Config file `~/.dsh/dsh-auto-memory.json` (everything adjustable in the Settings GUI, zh/en UI and panel font size included): { "userMemoryDir": "~/.dsh/memory", "memoryRoot": "~/.dsh/memory/workspaces", "injectEnabled": true, "injectBudgetChars": 2400, "recentDaysInjected": 1, "reflectEnabled": true, "autoConsolidate": true, "autoConsolidateCooldownMinutes": 30, "autoConsolidateDailyMax": 8, "una
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/Aik358/dsh-auto-memory)
 - [完整 README](https://github.com/Aik358/dsh-auto-memory#readme)

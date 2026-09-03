@@ -1,25 +1,35 @@
 ---
 title: "dsh-companion"
-description: "Resident desktop assistant: global hotkey, scheduled automation, quick replies and a plugin market."
-keywords: "dsh-companion, automation, workflow, desktop, ui, deepseek harness, dsh"
+description: "DeepSeek 陪伴模式插件 —— 人设、记忆、聊得下去：SOUL 人格 + Hermes 长期记忆，可选 QQ 通道"
+keywords: "dsh-companion, memory, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-companion
 
-> ⭐ 5 · 💤 inactive · workflow
+> ⭐ **3** · ✅ active · plugin
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | Memory & context |
+| Stars | ⭐ 3 | Status | ✅ active |
+| Author | [yyh-001](https://github.com/yyh-001) | Updated | — |
+| Subcategory | 🧠 Memory systems | Capabilities | coding |
 
 ## One-liner
 
-Resident desktop assistant: global hotkey, scheduled automation, quick replies and a plugin market.
+> DeepSeek 陪伴模式插件 —— 人设、记忆、聊得下去：SOUL 人格 + Hermes 长期记忆，可选 QQ 通道
 
 ## About
 
 Cetus is the unified desktop agent application for Claude Code, Codex, and other agent runtimes. Please use the main repository for current source code, downloads, documentation, and issue reports. - Repository: https://github.com/drewnekota/cetus - Latest release: https://github.com/drewnekota/cetus/releases/latest - New issues: https://github.com/drewnekota/cetus/issues This repository is preserved as a read-only archive for historical reference.
 
-## Author
-**[william-jin-cmu](https://github.com/william-jin-cmu)**
+## ✨ Key Features
 
-## Links
+- Repository: https://github.com/drewnekota/cetus
+- Latest release: https://github.com/drewnekota/cetus/releases/latest
+- New issues: https://github.com/drewnekota/cetus/issues
 
-- [GitHub Repository](https://github.com/william-jin-cmu/dsh-companion)
-- [Full README](https://github.com/william-jin-cmu/dsh-companion#readme)
-- [Back to the Workflows & Automation list](../workflows.md)
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/yyh-001/dsh-companion)
+- [Full README](https://github.com/yyh-001/dsh-companion#readme)
+- [Back to the Plugins list](../plugins.md)

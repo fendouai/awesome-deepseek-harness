@@ -5,20 +5,42 @@ keywords: "dsh-verification-receipt, developer, plugin, coding, deepseek harness
 ---
 # dsh-verification-receipt
 
-> ⭐ 4 · ✅ active · plugin
+> ⭐ **4** · ✅ active · plugin
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | Developer tools |
+| Stars | ⭐ 4 | Status | ✅ active |
+| Author | [030611](https://github.com/030611) | Updated | 2026-08-14 |
 
 ## One-liner
 
-Privacy-minimal heuristic per-turn verification summaries for DeepSeek Harness
+> Privacy-minimal heuristic per-turn verification summaries for DeepSeek Harness
 
 ## About
 
-[中文](README.zh.md) dsh plugin --profile web add dsh-verification-receipt The receipt summarizes recorded tool counts and lexical verification-shaped signals. It does **not** prove that tests ran or that code is correct. DSH Verification Receipt is a small, passive Profile Bundle for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness). After each durable `turn/end`, it appends one privacy-minimal, heuristic execution summary to a local JSONL file. It records execution traces, not 
+[中文](README.zh.md) dsh plugin --profile web add dsh-verification-receipt The receipt summarizes recorded tool counts and lexical verification-shaped signals. It does **not** prove that tests ran or that code is correct. DSH Verification Receipt is a small, passive Profile Bundle for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness). After each durable `turn/end`, it appends one privacy-minimal, heuristic execution summary to a local JSONL file. It records execution traces, not semantic correctness. A receipt shows only that DSH logged tool calls and that a lexical heuristic found a possible verification signal. It never proves that a test ran. It cannot show that the right command executed, that assertions were sufficient, that output was truthful, or that the assistant's
 
-## Author
-**[030611](https://github.com/030611)**
+## 📦 Install
 
-## Links
+```bash
+dsh plugin --profile web add dsh-verification-receipt
+```
+
+## 🚀 Quick Start
+
+```bash
+dsh plugin --profile web add dsh-verification-receipt
+dsh --profile web --dump-config
+```
+
+## 📚 Learn more
+
+**Install**
+
+Add the published package to every profile that should emit receipts: dsh plugin --profile web add dsh-verification-receipt dsh --profile web --dump-config Repeat the first command with another profile name (for example, `headless`) when that profile also needs receipts. For local development, clone this repository, run `pnpm install --frozen-lockfile && pnpm run check`, and pass the checkout path
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/030611/dsh-verification-receipt)
 - [Full README](https://github.com/030611/dsh-verification-receipt#readme)

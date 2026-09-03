@@ -5,20 +5,52 @@ keywords: "dsh-memory-evolve, memory, plugin, context, automation, deepseek harn
 ---
 # dsh-memory-evolve
 
-> ⭐ 211 · ✅ active · plugin
+> ⭐ **211** · ✅ active · plugin · ⬆️ +6 recently
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | Memory & context |
+| Stars | ⭐ 211 | Status | ✅ active |
+| Author | [csyangwen](https://github.com/csyangwen) | Updated | 2026-08-19 |
+| Subcategory | 🧠 Memory systems | Capabilities | memory, context, automation |
 
 ## One-liner
 
-Cross-session long-term memory + background self-evolution: five-track memory, git-branch awareness, in-turn self-review and skill evolution.
+> Cross-session long-term memory + background self-evolution: five-track memory, git-branch awareness, in-turn self-review and skill evolution.
 
 ## About
 
-装上插件后，打开任意会话，你会多出一排能力标签：**记忆 · 技能 · 待办 · 无限画板 · COI 调度 · 会话广播 · 提示词 · 记忆同步 · 模型设置 · 书签 · 会话评审 · Web UI 设置 · Memory Evolve 设置**。AI 侧则多了一批工具：记忆读写、待办、技能管理、本地文件搜索、会话编排、会话广播、外部 AI 派单、提示词注入、模型查询…… 一句话概括这些能力：**让 AI 记住你、替你管、替你做、互相配合做。** ---
+插件包内自带 `cordis.patch.yml`（`dsh.bundle.patch` 声明），`dsh plugin add` 安装后 **host 端自动注册，无需任何手动配置**。以 web profile 为例，两步装好：
 
-## Author
-**[csyangwen](https://github.com/csyangwen)**
+## 📦 Install
 
-## Links
+```bash
+# 1. 安装到 profile（本地目录用 link:，也可用 git/registry 包地址）
+dsh plugin --profile web add github:csyangwen/dsh-memory-evolve
+
+# 2. 重启 dsh web 即生效
+```
+
+## 🚀 Quick Start
+
+```bash
+- id: dsh-memory-evolve
+  config:
+    reviewEnabled: true      # 开启回合内记忆审查（默认关）
+    reviewInterval: 10       # 每 10 个用户回合审查一次
+```
+
+## 📚 Learn more
+
+**dsh-memory-evolve 使用场景指南**
+
+> **一句话**：让 DSH 里的 AI 拥有跨会话的长期记忆、帮你管理待办与技能、还能拉起一群 AI 会话和外部 AI 代理协同干活——**越用越懂你，换会话不丢上下文**。 > > 本指南按真实工作流组织，每个场景讲「适合谁、能做什么、怎么用、会得到什么」。 > > 相关文档：[详细功能说明](README-详细说明.md) · [记忆同步](docs/记忆同步.md) · [更新日志](docs/CHANGELOG.md) · [English](README.en.md) ---
+
+**快速开始（安装）**
+
+插件包内自带 `cordis.patch.yml`（`dsh.bundle.patch` 声明），`dsh plugin add` 安装后 **host 端自动注册，无需任何手动配置**。以 web profile 为例，两步装好：
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/csyangwen/dsh-memory-evolve)
 - [Full README](https://github.com/csyangwen/dsh-memory-evolve#readme)

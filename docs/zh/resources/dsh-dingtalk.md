@@ -5,20 +5,45 @@ keywords: "dsh-dingtalk, channel, integration, coding, multi-agent, deepseek har
 ---
 # dsh-dingtalk
 
-> ⭐ 3 · ✅ 活跃 · 集成
+> ⭐ **3** · ✅ 活跃 · 集成
+
+| | | | |
+|---|---|---|---|
+| 类型 | 集成 | 分类 | 渠道 |
+| 星数 | ⭐ 3 | 状态 | ✅ 活跃 |
+| 作者 | [STARDUSTLC666](https://github.com/STARDUSTLC666) | 更新时间 | 2026-08-18 |
 
 ## 一句话介绍
 
-DeepSeek Harness 钉钉群机器人通知插件：dingtalk_notify/dingtalk_text 两工具，自定义机器人 webhook + HMAC 加签安全模式，手写签名实现、零运行时依赖；纯 Node 全平台。· DingTalk group-robot notifications for DeepSeek Harness agents.
+> DeepSeek Harness 钉钉群机器人通知插件：dingtalk_notify/dingtalk_text 两工具，自定义机器人 webhook + HMAC 加签安全模式，手写签名实现、零运行时依赖；纯 Node 全平台。· DingTalk group-robot notifications for DeepSeek Harness agents.
 
 ## 详细介绍
 
 DeepSeek Harness 钉钉群机器人通知插件：让 agent 能**单向推送 Markdown / 纯文本消息到钉钉群**。纯插件实现，零核心改动，安装即可用。 纯 Node 实现，**全平台通用**（Windows / macOS / Linux 同一份代码），只依赖 `node:crypto` 与内置 `fetch`，无运行时依赖、无原生二进制。
 
-## 作者
-**[STARDUSTLC666](https://github.com/STARDUSTLC666)**
+## 📦 安装
 
-## 链接
+```bash
+dsh plugin --profile web add dsh-dingtalk
+```
+
+## 🚀 快速开始
+
+```bash
+dsh plugin --profile web remove dsh-dingtalk
+```
+
+## 📚 更多信息
+
+**安装**
+
+dsh plugin --profile web add dsh-dingtalk 装好后重启 `dsh web`。插件自带空配置，**不会弄崩启动**；配置前调用任何 `dingtalk_*` 工具都会返回明确的中文配置提示。
+
+**配置**
+
+在你 profile 的 `cordis.patch.yml` 里覆盖 `tool-dingtalk` 行（在 `$DSH_HOME/profiles/<name>/` 下），然后重启： config: webhook: https://oapi.dingtalk.com/robot/send?access_token=你的token secret: SEC你的加签密钥 # 可选，但强烈建议；也可用环境变量 DSH_DINGTALK_SECRET
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/STARDUSTLC666/dsh-dingtalk)
 - [完整 README](https://github.com/STARDUSTLC666/dsh-dingtalk#readme)

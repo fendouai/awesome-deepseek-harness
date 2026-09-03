@@ -1,0 +1,29 @@
+---
+title: "dsh-tool-hackernews"
+description: "Hacker News tool suite (hn_top_stories, hn_search, hn_item) for DeepSeek Harness agents"
+keywords: "dsh-tool-hackernews, search, plugin, coding, multi-agent, ui, deepseek harness, dsh"
+---
+# dsh-tool-hackernews
+
+> ⭐ **1** · ✅ 活跃 · 插件
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 搜索与研究 |
+| 星数 | ⭐ 1 | 状态 | ✅ 活跃 |
+| 作者 | [tanf1ng](https://github.com/tanf1ng) | 更新时间 | — |
+| 子分类 | 🌐 网页搜索 | 能力 | coding, multi-agent, search, ui |
+
+## 一句话介绍
+
+> Hacker News tool suite (hn_top_stories, hn_search, hn_item) for DeepSeek Harness agents
+
+## 详细介绍
+
+Hacker News tool suite (hn_top_stories, hn_search, hn_item) for DeepSeek Harness agents
+
+## 🔗 链接
+
+- [GitHub 仓库](https://github.com/tanf1ng/dsh-tool-hackernews)
+- [完整 README](https://github.com/tanf1ng/dsh-tool-hackernews#readme)
+- [返回dsh-tool-hackernews所在分类](../plugins.md)

@@ -5,20 +5,29 @@ keywords: "dsh-harness-tutorial, learning, tutorial, coding, multi-agent, deepse
 ---
 # dsh-harness-tutorial
 
-> ⭐ 54 · ✅ active · tutorial
+> ⭐ **54** · ✅ active · tutorial · ⬆️ +2 recently
+
+| | | | |
+|---|---|---|---|
+| Type | tutorial | Category | Learning |
+| Stars | ⭐ 54 | Status | ✅ active |
+| Author | [yanhua1010](https://github.com/yanhua1010) | Updated | 2026-08-13 |
 
 ## One-liner
 
-DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目）
+> DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目）
 
 ## About
 
 一个完整可运行的 VitePress 中文教学站点，把 DeepSeek Harness（「一切皆插件」的 Agent 框架）拆解成一套适合计算机本科毕业生的渐进式教程：先懂原理，再用 8 个真实可运行的 Demo 掌握机制，最后亲手实现一个教学版目标项目（React 前端 + Node.js TypeScript 后端）。
 
-## Author
-**[yanhua1010](https://github.com/yanhua1010)**
+## 📚 Learn more
 
-## Links
+**DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent**
+
+一个完整可运行的 VitePress 中文教学站点，把 DeepSeek Harness（「一切皆插件」的 Agent 框架）拆解成一套适合计算机本科毕业生的渐进式教程：先懂原理，再用 8 个真实可运行的 Demo 掌握机制，最后亲手实现一个教学版目标项目（React 前端 + Node.js TypeScript 后端）。
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/yanhua1010/dsh-harness-tutorial)
 - [Full README](https://github.com/yanhua1010/dsh-harness-tutorial#readme)

@@ -1,25 +1,63 @@
 ---
 title: "dsh-science"
-description: "Claude Science-style research workbench: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics/pathogens/bioinformatics."
-keywords: "dsh-science, learning, skill, search, deepseek harness, dsh"
+description: "Reproducible Python and R work on DeepSeek Harness, built as plugins."
+keywords: "dsh-science, ui, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-science
 
-> ⭐ 24 · ✅ active · skill
+> ⭐ **9** · ✅ active · plugin
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | UI & experience |
+| Stars | ⭐ 9 | Status | ✅ active |
+| Author | [omdsh-dev](https://github.com/omdsh-dev) | Updated | — |
 
 ## One-liner
 
-Claude Science-style research workbench: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics/pathogens/bioinformatics.
+> Reproducible Python and R work on DeepSeek Harness, built as plugins.
 
 ## About
 
---- **A Claude Science–style research workbench for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — for genomics / pathogens / human health / bioinformatics projects.** - **ReAct research loop engine** — `research_init` / `research_state` / `research_hypothesis` / `research_experiment` / `research_findings` / `research_phase` / `research_review` / `research_report`, persisted in a `research-manifest.json` state machine (Question → Hypothesis → Experiment → Observe → Analyze
+--- **A Claude Science–style research workbench for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — for genomics / pathogens / human health / bioinformatics projects.** - **ReAct research loop engine** — `research_init` / `research_state` / `research_hypothesis` / `research_experiment` / `research_findings` / `research_phase` / `research_review` / `research_report`, persisted in a `research-manifest.json` state machine (Question → Hypothesis → Experiment → Observe → Analyze → Conclude → Next Question). - **Versioned artifacts with provenance** — `artifact_save` / `artifact_list` / `artifact_show` / `artifact_diff` / `artifact_verify` / `artifact_deprecate` / `artifact_reproduce`: every result saved as `artifacts//v/` with per-file SHA-256, `artifact.json` provenance (
 
-## Author
-**[biociao](https://github.com/biociao)**
+## ✨ Key Features
 
-## Links
+- **ReAct research loop engine** — `research_init` / `research_state` / `research_hypothesis` / `research_experiment` / `research_findings` / `research_phase` / `
+- **Versioned artifacts with provenance** — `artifact_save` / `artifact_list` / `artifact_show` / `artifact_diff` / `artifact_verify` / `artifact_deprecate` / `ar
+- **Remote compute engine (SSH / HPC clusters)** — 16 tools: `remote_host_add` / `remote_host_probe` / `remote_host_notes` / `remote_run` / `remote_status` / `rem
+- **Remote Hosts config UI (bundle/profile-level)** — a Settings > 远程主机 page (the analog of Claude Science's Settings > Compute > SSH hosts): list/add/probe/edit/
+- **Model Tier router (tiered, cross-provider)** — via the companion bundle [`dsh-model-tier`](packages/dsh-model-tier/): within one session, automatically routes
+- **11 science skills** — research-loop, science-project-setup, artifact-provenance, scientific-reviewer, literature-connector, parallel-delegation, manuscript-wr
 
-- [GitHub Repository](https://github.com/biociao/dsh-science)
-- [Full README](https://github.com/biociao/dsh-science#readme)
-- [Back to the Skills list](../skills.md)
+## 📦 Install
+
+```bash
+dsh plugin --profile web add dsh-science            # after npm publish
+# or straight from GitHub:
+dsh plugin --profile web add "github:biociao/dsh-science"
+```
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/biociao/dsh-science ~/.dsh/.agent-presets/science
+# or from a local checkout:
+bash scripts/install.sh          # copy   (or: bash scripts/install.sh link)
+```
+
+## 📚 Learn more
+
+**Quick start (first session)**
+
+1. `research_init` — create `research-manifest.json` + the project skeleton (`experiments/ literature/ artifacts/ analyses/ figures/ manuscript/ reviews/ data/ envs/`). 2. Read `research_state` at the start of every session; the loop state persists across sessions. 3. Run the loop: `research_hypothesis` (H1/H2/…) → `research_experiment` (E01/…, creates `experiments/<id>/{design.md,log.md,code/,res
+
+**FAQ**
+
+**Why subpath exports and not relative paths in the bundle?** `dsh plugin add` installs the package into the profile and its `cordis.patch.yml` rows join the profile composition. The profile loader resolves a row `name` relative to the **profile directory** (not the package), so `./engines/x.mjs` fails with `ERR_MODULE_NOT_FOUND`. Referencing `dsh-science/engines/x.mjs` (subpath export, `exports` 
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/omdsh-dev/dsh-science)
+- [Full README](https://github.com/omdsh-dev/dsh-science#readme)
+- [Back to the Plugins list](../plugins.md)

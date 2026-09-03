@@ -1,25 +1,35 @@
 ---
 title: "dsh-companion"
-description: "常驻桌面助手：全局唤起、定时自动化、快捷回复、插件市场。"
-keywords: "dsh-companion, automation, workflow, desktop, ui, deepseek harness, dsh"
+description: "DeepSeek 陪伴模式插件 —— 人设、记忆、聊得下去：SOUL 人格 + Hermes 长期记忆，可选 QQ 通道"
+keywords: "dsh-companion, memory, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-companion
 
-> ⭐ 5 · 💤 停更 · 工作流
+> ⭐ **3** · ✅ 活跃 · 插件
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 记忆与上下文 |
+| 星数 | ⭐ 3 | 状态 | ✅ 活跃 |
+| 作者 | [yyh-001](https://github.com/yyh-001) | 更新时间 | — |
+| 子分类 | 🧠 记忆系统 | 能力 | coding |
 
 ## 一句话介绍
 
-常驻桌面助手：全局唤起、定时自动化、快捷回复、插件市场。
+> DeepSeek 陪伴模式插件 —— 人设、记忆、聊得下去：SOUL 人格 + Hermes 长期记忆，可选 QQ 通道
 
 ## 详细介绍
 
 Cetus is the unified desktop agent application for Claude Code, Codex, and other agent runtimes. Please use the main repository for current source code, downloads, documentation, and issue reports. - Repository: https://github.com/drewnekota/cetus - Latest release: https://github.com/drewnekota/cetus/releases/latest - New issues: https://github.com/drewnekota/cetus/issues This repository is preserved as a read-only archive for historical reference.
 
-## 作者
-**[william-jin-cmu](https://github.com/william-jin-cmu)**
+## ✨ 核心特性
 
-## 链接
+- Repository: https://github.com/drewnekota/cetus
+- Latest release: https://github.com/drewnekota/cetus/releases/latest
+- New issues: https://github.com/drewnekota/cetus/issues
 
-- [GitHub 仓库](https://github.com/william-jin-cmu/dsh-companion)
-- [完整 README](https://github.com/william-jin-cmu/dsh-companion#readme)
-- [返回dsh-companion所在分类](../workflows.md)
+## 🔗 链接
+
+- [GitHub 仓库](https://github.com/yyh-001/dsh-companion)
+- [完整 README](https://github.com/yyh-001/dsh-companion#readme)
+- [返回dsh-companion所在分类](../plugins.md)

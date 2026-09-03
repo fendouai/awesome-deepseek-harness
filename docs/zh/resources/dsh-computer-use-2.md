@@ -1,25 +1,44 @@
 ---
 title: "dsh-computer-use"
-description: "Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。"
-keywords: "dsh-computer-use, browser, integration, coding, deepseek harness, dsh"
+description: "Native Windows Computer Use and configurable vision tools for DeepSeek Harness."
+keywords: "dsh-computer-use, vision, plugin, browser, coding, multimodal, deepseek harness, dsh"
 ---
 # dsh-computer-use
 
-> ⭐ 24 · ✅ 活跃 · 集成
+> ⭐ **1** · ✅ 活跃 · 插件
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 视觉与多模态 |
+| 星数 | ⭐ 1 | 状态 | ✅ 活跃 |
+| 作者 | [ThreeBody6666](https://github.com/ThreeBody6666) | 更新时间 | — |
+| 子分类 | 👁️ 视觉工具 | 能力 | browser, coding, multimodal |
 
 ## 一句话介绍
 
-Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。
+> Native Windows Computer Use and configurable vision tools for DeepSeek Harness.
 
 ## 详细介绍
 
 brew tap zrui-c/tap brew trust zrui-c/tap brew install --cask dsh-computer-use open -a "DSH Computer Use"
 
-## 作者
-**[ZRui-C](https://github.com/ZRui-C)**
+## 📦 安装
 
-## 链接
+```bash
+brew tap zrui-c/tap
+brew trust zrui-c/tap
+brew install --cask dsh-computer-use
+open -a "DSH Computer Use"
+```
 
-- [GitHub 仓库](https://github.com/ZRui-C/dsh-computer-use)
-- [完整 README](https://github.com/ZRui-C/dsh-computer-use#readme)
-- [返回dsh-computer-use所在分类](../integrations.md)
+## 🚀 快速开始
+
+```bash
+dsh plugin --profile web add --save-exact file:/path/to/DSH\ Computer\ Use.app/Contents/Resources/Plugin
+```
+
+## 🔗 链接
+
+- [GitHub 仓库](https://github.com/ThreeBody6666/dsh-computer-use)
+- [完整 README](https://github.com/ThreeBody6666/dsh-computer-use#readme)
+- [返回dsh-computer-use所在分类](../plugins.md)

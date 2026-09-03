@@ -69,11 +69,11 @@ def sections(text):
 
 def parse(text):
     text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
-    result = {"intro": "", "features": [], "install": "", "usage": "", "license": ""}
+    result = {"intro": "", "features": [], "install": "", "usage": "", "license": "", "sections": []}
 
     secs = sections(text)
 
-    # --- intro: first meaningful paragraphs (skip title, toc, badges) ---
+    # --- intro: first meaningful paragraphs ---
     para, seen_title = [], False
     for head, body in secs:
         if not head:
@@ -85,29 +85,45 @@ def parse(text):
         joined = [l for l in joined if l and not l.startswith(("|", ">", "```"))
                   and not re.match(r"^[^|]{0,15}\|\s*\[?(English|中文|简体)", l)]
         text_block = " ".join(joined)
+        text_block = re.sub(r"<[^>]+>", "", text_block)  # strip residual HTML
+        text_block = re.sub(r"&nbsp;?", " ", text_block)
+        text_block = re.sub(r"\s+", " ", text_block).strip()
         if len(text_block) > 60:
             para.append(text_block)
         if len(para) >= 1:
             break
     if para:
-        result["intro"] = para[0][:500]
+        result["intro"] = para[0][:800]
 
     # --- features: bullets under feature-ish headings (or any section's bullets) ---
     for head, body in secs:
         if not FEATURE_HEAD.search(head or ""):
             continue
         bullets = [clean_line(BULLET.match(l).group(1)) for l in body if BULLET.match(l)]
-        result["features"] = [b[:140] for b in bullets if b][:6]
+        result["features"] = [b[:160] for b in bullets if b][:8]
         if result["features"]:
             break
     if not result["features"]:
         for head, body in secs[:4]:
             bullets = [clean_line(BULLET.match(l).group(1)) for l in body if BULLET.match(l)]
-            result["features"] = [b[:140] for b in bullets if b][:4]
+            result["features"] = [b[:160] for b in bullets if b][:6]
             if result["features"]:
                 break
 
-    # --- install: first short code block containing an install command ---
+    # --- extra key sections (config/usage/notes/faq/架构/配置/使用/说明) ---
+    KEY_HEAD = re.compile(r"(config|setting|usage|install|quick|example|demo|faq|architecture|原理|配置|使用|安装|示例|说明|特性|roadmap|路线图|screenshot|预览|设计)", re.I)
+    for head, body in secs:
+        if not head or not KEY_HEAD.search(head):
+            continue
+        txt = " ".join(clean_line(l) for l in body if l.strip() and not l.startswith(("```", "|", "!")) and not BULLET.match(l))
+        txt = txt.strip()
+        if len(txt) < 80:
+            continue
+        result["sections"].append({"h": head[:60], "t": txt[:400]})
+        if len(result["sections"]) >= 4:
+            break
+
+# --- install: first short code block containing an install command ---
     blocks = BLOCK.findall(text)
     for lang, code in blocks:
         code = code.strip()

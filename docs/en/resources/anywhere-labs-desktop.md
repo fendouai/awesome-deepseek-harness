@@ -5,20 +5,37 @@ keywords: "deepseek-harness-desktop (Anywhere Labs), desktop, client, ui, deepse
 ---
 # deepseek-harness-desktop (Anywhere Labs)
 
-> ⭐ 22,589 · ✅ active · client
+> ⭐ **22,589** · ✅ active · client · ⬆️ +1,059 recently
+
+| | | | |
+|---|---|---|---|
+| Type | client | Category | Desktop |
+| Stars | ⭐ 22,589 | Status | ✅ active |
+| Author | [anywhere-labs](https://github.com/anywhere-labs) | Updated | 2026-08-21 |
 
 ## One-liner
 
-Modern desktop experience built for the DeepSeek Harness ecosystem (plugin).
+> Modern desktop experience built for the DeepSeek Harness ecosystem (plugin).
 
 ## About
 
-<table> <tr> <td width="50%" valign="top"> <h3>Desktop</h3> <p>把官方 DeepSeek Harness 的本地 Web UI 带到原生桌面。应用自动启动和管理本地 Harness 服务，集成系统托盘与桌面窗口，无需安装 Node.js 或执行命令。</p> </td> <td width="50%" valign="top"> <h3>手机远程控制 </h3> <p>通过 iOS 和 Android 远程连接 Desktop，在手机上发起任务、查看 Agent 进度，并在需要时继续跟进。</p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>插件市场 </h3> <p>Harness 遵循“一切皆插件”的架构。桌面端插件市场将提供插件的发现、安装、更新和管理，让模型、工具、界面与工作流能力按需组合。</p> </td> <td width="50%" valign="top"> <h3>Channels </h3> <p>接入微信、飞书、Discord、WhatsAp
+当前正式安装包支持 Windows x64 和 macOS Universal。无需额外环境，下载安装，一键使用。 详细步骤、插件命令和故障排查见[用户指南](docs/user-guide.md)与[常见问题](docs/faq.md)。 我们希望和所有插件作者一起，构建一个开放、可组合、可持续的 DSH 插件生态，让每个插件都能与其他插件共同进步：[DSH 插件生态倡议书](docs/plugin-ecosystem.md)。 ❤️ 赞助商
 
-## Author
-**[anywhere-labs](https://github.com/anywhere-labs)**
+## 🚀 Quick Start
 
-## Links
+```bash
+git submodule update --init --recursive
+corepack yarn install --immutable
+corepack yarn dev
+```
+
+## 📚 Learn more
+
+**下载与安装**
+
+当前正式安装包支持 Windows x64 和 macOS Universal。无需额外环境，下载安装，一键使用。 详细步骤、插件命令和故障排查见[用户指南](docs/user-guide.md)与[常见问题](docs/faq.md)。 我们希望和所有插件作者一起，构建一个开放、可组合、可持续的 DSH 插件生态，让每个插件都能与其他插件共同进步：[DSH 插件生态倡议书](docs/plugin-ecosystem.md)。 <details open> <summary>❤️ 赞助商</summary> </details>
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/anywhere-labs/dsh-desktop)
 - [Full README](https://github.com/anywhere-labs/dsh-desktop#readme)

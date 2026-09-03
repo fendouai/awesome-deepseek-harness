@@ -5,20 +5,54 @@ keywords: "dsh-tui, terminal, client, coding, multi-agent, ui, deepseek harness,
 ---
 # dsh-tui
 
-> ⭐ 24 · ✅ active · client
+> ⭐ **24** · ✅ active · client
+
+| | | | |
+|---|---|---|---|
+| Type | client | Category | Terminal |
+| Stars | ⭐ 24 | Status | ✅ active |
+| Author | [dsh-tui](https://github.com/dsh-tui) | Updated | 2026-08-14 |
 
 ## One-liner
 
-Claude Code-style terminal UI for DeepSeek Harness agents, as an out-of-tree dsh plugin bundle
+> Claude Code-style terminal UI for DeepSeek Harness agents, as an out-of-tree dsh plugin bundle
 
 ## About
 
-本插件被 **DeepSeek Harness 官方公众号** 推文收录，作为"内测用户精选插件"展示： <p align="center"> </p>
+An interactive terminal (TUI) front door for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) agents — a Claude Code / Codex-style chat interface in your terminal, installed as an out-of-tree dsh plugin bundle. Built on [`@earendil-works/pi-tui`](https://www.npmjs.com/package/@earendil-works/pi-tui). It composes over the official `@deepseek-ai/dsh-base` bundle, so the whole plugin ecosystem — shell and filesystem tools, skills, subagents, workflows, sandbox approvals — is the same one the official web surface uses. Nothing is forked.
 
-## Author
-**[dsh-tui](https://github.com/dsh-tui)**
+## ✨ Key Features
 
-## Links
+- Streaming model output and reasoning, rendered as Markdown
+- Tool-call cards with terminal / diff / generic render intents; Ctrl+O cycles collapsed → expanded → hidden
+- Approval and `ask_user_question` dialogs, plan-mode review included
+- `@file` path autocomplete and `@session` reference cards
+- Slash commands: `/model` (with reasoning-effort selection), `/resume`, `/compact`, `/details`, `/help`, and every command other plugins register
+- Standing todo panel, token usage and context-pressure status line, session titles
+- Configurable theme; truecolor detected from `COLORTERM`
+
+## 📦 Install
+
+```bash
+dsh plugin --profile tui add @dsh-tui/dsh-tui
+dsh --profile tui                                      # start a session in the current directory
+dsh --profile tui --resume <session-id>                # resume a persisted session
+```
+
+## 🚀 Quick Start
+
+```bash
+allowBuilds:
+  "@dsh-tui/dsh-tui": true
+```
+
+## 📚 Learn more
+
+**Install**
+
+Requires Node `^22.19 || >=24` and the `dsh` CLI (`npm i -g @deepseek-ai/dsh@next`). dsh plugin --profile tui add @dsh-tui/dsh-tui dsh --profile tui # start a session in the current directory dsh --profile tui --resume <session-id> # resume a persisted session To track the repo instead of the npm release, use `add github:dsh-tui/dsh-tui`. Git-hosted plugins build on install via their `prepare` scr
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/dsh-tui/dsh-tui)
 - [Full README](https://github.com/dsh-tui/dsh-tui#readme)

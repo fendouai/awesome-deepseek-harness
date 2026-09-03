@@ -5,20 +5,54 @@ keywords: "dsh-vision, vision, plugin, coding, multimodal, deepseek harness, dsh
 ---
 # dsh-vision
 
-> ⭐ 88 · ✅ active · plugin
+> ⭐ **88** · ✅ active · plugin
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | Vision & multimodal |
+| Stars | ⭐ 88 | Status | ✅ active |
+| Author | [oil-oil](https://github.com/oil-oil) | Updated | — |
+| Subcategory | 👁️ Vision tools | Capabilities | coding, multimodal |
 
 ## One-liner
 
-Near-native image understanding for DeepSeek Harness
+> Near-native image understanding for DeepSeek Harness
 
 ## About
 
-给纯文本的 DeepSeek 加上眼睛。Vision for text-only DeepSeek. deepseek-v4 看不了图。本插件注册一个 `view_image` 工具：模型带着问题调用它（OCR、数数、读图表、看 UI 布局……任意视觉问题），插件把图片和问题转发给任意 **OpenAI 兼容的 VLM 端点**，答案以文本返回。装上之后，dsh 的所有入口（web、TUI、远程通道）同时获得视觉。 用户: 看下 ~/Desktop/error.png 是什么报错 模型 → view_image(source="/Users/me/Desktop/error.png", question="这个报错的完整文本是什么？") ← "TypeError: Cannot read properties of undefined (reading 'map') at …" 模型: 这是一个 … 建议 …
+The plugin does not replace the main model selected in Harness. Multiple image attachments are analyzed together, so comparisons and combined evidence work naturally. The user's task is forwarded unchanged instead of being wrapped in a fixed report template.
 
-## Author
-**[oil-oil](https://github.com/oil-oil)**
+## 📦 Install
 
-## Links
+```bash
+npx @deepseek-ai/dsh plugin --profile web add github:oil-oil/dsh-vision
+```
+
+## 🚀 Quick Start
+
+```bash
+llm-deepseek:
+  visionBackend: zenmux
+  visionBackendModel: qwen/qwen3.7-plus
+  visionBackendBaseURL: https://zenmux.ai/api/v1
+  maxImages: 8
+```
+
+## 📚 Learn more
+
+**Install**
+
+Use the plugin manager built into DeepSeek Harness: npx @deepseek-ai/dsh plugin --profile web add github:oil-oil/dsh-vision Restart Harness, then paste or drag images into the composer as usual. The plugin replaces the official `deepseek-official` adapter while preserving its model catalog, settings, and credentials. It also adds a **Vision Recognition** card to **Settings → Plugins → Plugin confi
+
+**Configure Vision Recognition**
+
+Open **Settings → Plugins → Plugin configuration → Vision Recognition**. Select ZenMux, Alibaba Cloud Model Studio, TokenDance, or OpenRouter, then enter its API key. The same card lets you change the model ID, API endpoint, and image limit. The API key is stored through Harness's official credential service. It is write-only in the browser: the plugin can report whether a key exists, but never re
+
+**Advanced file configuration**
+
+Most setups should use the UI. The equivalent non-secret fields live in the existing `llm-deepseek` section of `$DSH_HOME/settings.yaml`: llm-deepseek: visionBackend: zenmux visionBackendModel: qwen/qwen3.7-plus visionBackendBaseURL: https://zenmux.ai/api/v1 maxImages: 8 Do not put API keys in this file. Save them in the Vision Recognition card or provide the matching environment variable. Changes
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/oil-oil/dsh-vision)
 - [Full README](https://github.com/oil-oil/dsh-vision#readme)

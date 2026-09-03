@@ -1,25 +1,44 @@
 ---
 title: "dsh-computer-use"
-description: "Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。"
-keywords: "dsh-computer-use, browser, integration, coding, deepseek harness, dsh"
+description: "Native Windows Computer Use and configurable vision tools for DeepSeek Harness."
+keywords: "dsh-computer-use, vision, plugin, browser, coding, multimodal, deepseek harness, dsh"
 ---
 # dsh-computer-use
 
-> ⭐ 24 · ✅ active · integration
+> ⭐ **1** · ✅ active · plugin
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | Vision & multimodal |
+| Stars | ⭐ 1 | Status | ✅ active |
+| Author | [ThreeBody6666](https://github.com/ThreeBody6666) | Updated | — |
+| Subcategory | 👁️ Vision tools | Capabilities | browser, coding, multimodal |
 
 ## One-liner
 
-Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。
+> Native Windows Computer Use and configurable vision tools for DeepSeek Harness.
 
 ## About
 
 brew tap zrui-c/tap brew trust zrui-c/tap brew install --cask dsh-computer-use open -a "DSH Computer Use"
 
-## Author
-**[ZRui-C](https://github.com/ZRui-C)**
+## 📦 Install
 
-## Links
+```bash
+brew tap zrui-c/tap
+brew trust zrui-c/tap
+brew install --cask dsh-computer-use
+open -a "DSH Computer Use"
+```
 
-- [GitHub Repository](https://github.com/ZRui-C/dsh-computer-use)
-- [Full README](https://github.com/ZRui-C/dsh-computer-use#readme)
-- [Back to the MCP & Integrations list](../integrations.md)
+## 🚀 Quick Start
+
+```bash
+dsh plugin --profile web add --save-exact file:/path/to/DSH\ Computer\ Use.app/Contents/Resources/Plugin
+```
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/ThreeBody6666/dsh-computer-use)
+- [Full README](https://github.com/ThreeBody6666/dsh-computer-use#readme)
+- [Back to the Plugins list](../plugins.md)

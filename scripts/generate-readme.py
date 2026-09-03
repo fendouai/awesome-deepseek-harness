@@ -88,7 +88,7 @@ def replace_block(text, new_body):
     pattern = re.compile(re.escape(MARK_START) + r".*?" + re.escape(MARK_END), re.S)
     if not pattern.search(text):
         raise RuntimeError(f"markers {MARK_START}...{MARK_END} not found in file")
-    return pattern.sub(MARK_START + "\n" + new_body.rstrip() + "\n" + MARK_END, text)
+    return pattern.sub(lambda m: MARK_START + "\n" + new_body.rstrip() + "\n" + MARK_END, text)
 
 
 def build_body(render_fn):

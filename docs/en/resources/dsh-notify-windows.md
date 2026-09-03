@@ -5,20 +5,54 @@ keywords: "dsh-notify-windows, notifications, plugin, deepseek harness, dsh"
 ---
 # dsh-notify-windows
 
-> ⭐ 5 · ✅ active · plugin
+> ⭐ **5** · ✅ active · plugin · ⬆️ +1 recently
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | Notifications |
+| Stars | ⭐ 5 | Status | ✅ active |
+| Author | [SeverusZh](https://github.com/SeverusZh) | Updated | 2026-08-20 |
 
 ## One-liner
 
-Windows notifications for DSH, zero dependencies.
+> Windows notifications for DSH, zero dependencies.
 
 ## About
 
-<p align="center"> </p> **任务完成** ✅ ｜ **等待审批** 🔐 ｜ **等待回答** ❓ —— 离开屏幕也不错过任何需要你处理的事。
+- **任务完成提醒**：监听会话 `turn/end` 事件，任务完成 / 出错 / 输出超限时立即弹窗，标题自动使用会话标题，正文显示原因与轮次； - **权限审批提醒**：监听 `approval/asked` 事件，有操作等待你的审批时立即提醒；会话审批策略为 `never` 时自动跳过（此时没有东西在等你）； - **提问确认提醒**：Agent 调用 `ask_user_question` 向你提问时提醒；本部署下所有工具都经 `run_code` 调用，插件会扫描 `run_code` 程序源码中的 `tools.ask_user_question(` 调用并提取问题文本； - **防打扰**：默认忽略子代理（subagent）会话，只提醒主会话； - **零依赖**：通知通过 Windows PowerShell 5.1 的 WinRT Toast API 发送，自动注册 HKCU 的 AppUserModelId（无需管理员权限）； - **可诊断**：可选日志（`%TEMP%\dsh-notify\notify.log`）与 debug 事件日志。
 
-## Author
-**[SeverusZh](https://github.com/SeverusZh)**
+## ✨ Key Features
 
-## Links
+- **任务完成提醒**：监听会话 `turn/end` 事件，任务完成 / 出错 / 输出超限时立即弹窗，标题自动使用会话标题，正文显示原因与轮次；
+- **权限审批提醒**：监听 `approval/asked` 事件，有操作等待你的审批时立即提醒；会话审批策略为 `never` 时自动跳过（此时没有东西在等你）；
+- **提问确认提醒**：Agent 调用 `ask_user_question` 向你提问时提醒；本部署下所有工具都经 `run_code` 调用，插件会扫描 `run_code` 程序源码中的 `tools.ask_user_question(` 调用并提取问题文本；
+- **防打扰**：默认忽略子代理（subagent）会话，只提醒主会话；
+- **零依赖**：通知通过 Windows PowerShell 5.1 的 WinRT Toast API 发送，自动注册 HKCU 的 AppUserModelId（无需管理员权限）；
+- **可诊断**：可选日志（`%TEMP%\dsh-notify\notify.log`）与 debug 事件日志。
+
+## 📦 Install
+
+```bash
+dsh plugin --profile web add dsh-notify-windows
+```
+
+## 🚀 Quick Start
+
+```bash
+dsh --profile web
+```
+
+## 📚 Learn more
+
+**🚀 安装**
+
+项目通过 **`dsh.bundle`** 机制安装：npm 包自带的 `cordis.patch.yml` 会在 `dsh plugin add` 后自动挂载 `dsh-notify` 入口，**不需要**再手动 `- insert:`。 dsh plugin --profile web add dsh-notify-windows 重启 DSH 并刷新浏览器后生效： dsh --profile web > 注意：不要再用 `- insert:` 手动添加 `dsh-notify`，否则启动会报 > `duplicate loader entry id: dsh-notify`。想调整配置，在 profile 的 > `cordis.patch.yml` 里按 id 覆盖即可（见下节）。
+
+**⚙️ 配置项**
+
+插件行 `config` 全字段可选，未填按默认值。需要调整时，在 `$DSH_HOME/profiles/web/cordis.patch.yml` 里按 id 覆盖主条目即可 （该文件被运行中的 DSH 热监视，改动立即生效，无需重启）： name: dsh-notify-windows config: enabled: true reasons: [completed, error, max-tokens] notifyOnStart: true notifyOnApproval: true log: true
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/SeverusZh/dsh-notify-windows)
 - [Full README](https://github.com/SeverusZh/dsh-notify-windows#readme)

@@ -5,20 +5,46 @@ keywords: "dsh_workflow, workflow, multi-agent, deepseek harness, dsh"
 ---
 # dsh_workflow
 
-> ⭐ 92 · ✅ 活跃 · 工作流
+> ⭐ **92** · ✅ 活跃 · 工作流 · 近期 ⬆️ +3
+
+| | | | |
+|---|---|---|---|
+| 类型 | 工作流 | 分类 | 工作流 |
+| 星数 | ⭐ 92 | 状态 | ✅ 活跃 |
+| 作者 | [icetomoyo](https://github.com/icetomoyo) | 更新时间 | 2026-08-13 |
 
 ## 一句话介绍
 
-把 Claude Code 的 UltraCode 模式带给 DSH：将一次性多 Agent 调度升级为可生成、可保存、可治理、可观察、可恢复的 Workflow 层。
+> 把 Claude Code 的 UltraCode 模式带给 DSH：将一次性多 Agent 调度升级为可生成、可保存、可治理、可观察、可恢复的 Workflow 层。
 
 ## 详细介绍
 
 DSH 已经有很强的 Harness 基础设施：模型路由、子 Agent provider、工具权限、审批、Session 日志、后台 jobs 与 UI 事件。但仅有这些“执行原语”，团队仍需在每次会话里重新描述如何拆解、并发、验证和汇总。 对 DSH 项目本身，这个插件的价值是把已有 Harness 能力串成完整闭环： flowchart LR A["DSH providers / models"] --> W["DSH Workflow"] B["tool filters / approval"] --> W C["Session / jobs / commands"] --> W W --> D["reusable capsules"] W --> E["durable run graph"] W --> F["resume / governance / evidence"] 因此，DSH 不只会“调用 Agent”，还可以承载长期维护的 Agent 工作流库。
 
-## 作者
-**[icetomoyo](https://github.com/icetomoyo)**
+## 📦 安装
 
-## 链接
+```bash
+# 构建产物已提交，git 源安装不需要在用户侧编译
+dsh plugin --profile web add "github:dsh-external/dsh_workflow#main"
+
+# 验证 bundle 已进入 profile 合成树
+dsh --profile web --dump-config
+```
+
+## 🚀 快速开始
+
+```bash
+- id: dsh-external-workflow
+  name: '@dsh-external/workflow'
+```
+
+## 📚 更多信息
+
+**配置**
+
+常见配置如下；完整字段和治理建议见 [配置参考](docs/CONFIGURATION.md)。 name: '@dsh-external/workflow' config: approvalMode: generated-and-local # never | generated-and-local | always maxAgents: 64 maxConcurrency: 8 maxRetainedRuns: 500 fastProvider: spawn # ctx.subagents transport fastModelProvider: deepseek-official fastMaxTokens: 4096 balancedProvider: spawn # ctx.subagents transport balancedModelProvider: deepseek-o
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/icetomoyo/dsh_workflow)
 - [完整 README](https://github.com/icetomoyo/dsh_workflow#readme)

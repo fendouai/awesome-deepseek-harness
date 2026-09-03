@@ -5,20 +5,29 @@ keywords: "v4-flash-godmode-opencode-go, vision, plugin, coding, multi-agent, de
 ---
 # v4-flash-godmode-opencode-go
 
-> ⭐ 494 · ✅ 活跃 · 插件
+> ⭐ **494** · ✅ 活跃 · 插件
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 视觉与多模态 |
+| 星数 | ⭐ 494 | 状态 | ✅ 活跃 |
+| 作者 | [SheberDavid](https://github.com/SheberDavid) | 更新时间 | 2026-08-17 |
+| 子分类 | 👁️ 视觉工具 | 能力 | coding, multi-agent |
 
 ## 一句话介绍
 
-V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset
+> V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset
 
 ## 详细介绍
 
-一个 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（dsh）的 agent preset。它把 [dsh-router-standard](https://github.com/yjh051108/dsh-router-standard) 研究里为 **Flash** 标定的最优引导（w7 persona + 深度思考锚）适配到 **opencode-go provider 的 `deepseek-v4-flash`** 上。 **核心问题**：Flash 在默认（无引导）条件下会进入「鬼模式」——思考浅、草草动手、质量差。这不是 Flash 能力不行，而是**引导条件不对**。补上正确的引导（分类 + 回顾 + 反跑题 + 深度思考 + 决策闭环），Flash 就能进入「神模式」——深度规划、高质量交付、自测零错误。
+原作者已更新，本项目不再演进，建议使用原作者的项目。 原作者：https://github.com/yjh051108/dsh-routing-suite 原作者预设按模型（而非 provider）路由，不含 opencode-go 特有依赖，理论上可用于 opencode-go + DeepSeek V4 Flash。实际效果请以原作者仓库的安装说明为准，如有问题可在其仓库反馈。
 
-## 作者
-**[SheberDavid](https://github.com/SheberDavid)**
+## ✨ 核心特性
 
-## 链接
+- **standard（标准）**：执行型，边行动边修正，适合快速交付的任务
+- **spec（Specification-first）**：规划型，先分析后实施，适合复杂任务
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/SheberDavid/v4-flash-godmode-opencode-go)
 - [完整 README](https://github.com/SheberDavid/v4-flash-godmode-opencode-go#readme)

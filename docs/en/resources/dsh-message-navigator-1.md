@@ -1,0 +1,29 @@
+---
+title: "dsh-message-navigator"
+description: "Codex-style message navigator for the DeepSeek Harness Web UI: a tick per user message along the conversation edge, hover or click to preview and smooth-jump to it, with full history auto-loading."
+keywords: "dsh-message-navigator, ui, plugin, deepseek harness, dsh"
+---
+# dsh-message-navigator
+
+> ⭐ **0** · ✅ active · plugin
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | UI & experience |
+| Stars | ⭐ 0 | Status | ✅ active |
+| Author | [miaomiao636](https://github.com/miaomiao636) | Updated | — |
+| Subcategory | 💡 Generative UI | Capabilities | ui |
+
+## One-liner
+
+> Codex-style message navigator for the DeepSeek Harness Web UI: a tick per user message along the conversation edge, hover or click to preview and smooth-jump to it, with full history auto-loading.
+
+## About
+
+Codex-style message navigator for the DeepSeek Harness Web UI: a tick per user message along the conversation edge, hover or click to preview and smooth-jump to it, with full history auto-loading.
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/miaomiao636/dsh-message-navigator)
+- [Full README](https://github.com/miaomiao636/dsh-message-navigator#readme)
+- [Back to the Plugins list](../plugins.md)

@@ -5,20 +5,40 @@ keywords: "awesome-dsh-plugin, registry, awesome-list, search, deepseek harness,
 ---
 # awesome-dsh-plugin
 
-> ⭐ 11,012 · ✅ 活跃 · 精选列表
+> ⭐ **11,012** · ✅ 活跃 · 精选列表 · 近期 ⬆️ +503
+
+| | | | |
+|---|---|---|---|
+| 类型 | 精选列表 | 分类 | 注册表 |
+| 星数 | ⭐ 11,012 | 状态 | ✅ 活跃 |
+| 作者 | [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin) | 更新时间 | 2026-08-21 |
 
 ## 一句话介绍
 
-大型 DSH 插件精选目录（双语）。
+> 大型 DSH 插件精选目录（双语）。
 
 ## 详细介绍
 
-<p align="center"> <a href="https://awesome.re"></a> <a href="https://beancookie.github.io/awesome-dsh-plugin"></a> </p> <p align="center"> <a href="README.en.md">English</a> | 中文 </p> DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行的 Coding Agent（提供 Web 与 headless 两种形式），底层又是一套「一切皆插件」的框架：模型、工具、沙箱、会话存储、UI、乃至 Agent Loop 本身都是插件。插件既可以扩展官方 Coding Agent，也可以替换其核心部件，甚至组装出完全不同的东西。 **275** 个插件 · 欢迎 [PR](#贡献) 本项目积极支持并感谢 [LINUX DO](https://linux.do) 社区——一个欢迎技术爱好者的温馨空间。
+DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding agent (Web and headless), built on a framework where everything is a plugin: models, tools, sandboxes, session storage, UI, even the agent loop itself. Plugins can extend the official coding agent, swap out its core parts, or assemble something entirely different. This list collects community plugins that are installable via `dsh plugin add` (each declares a `dsh.bundle` manifest). [PRs welcome](#contributing). dsh plugin --profile web add dshmarket The plugin market inside Settings — click to enlarge. What it takes to be listed here An entry is added when the plugin installs with `dsh plugin add`, does what its one-line description says, sits in the right category, and is maintained. Every submission is checked a
 
-## 作者
-**[awesome-dsh-plugin](https://github.com/awesome-dsh-plugin)**
+## ✨ 核心特性
 
-## 链接
+- [0xRabit/dsh-crypto-portfolio](https://github.com/0xRabit/dsh-crypto-portfolio) - Crypto portfolio tracker for DSH: BTC / EVM (DeBank free+paid) / Solana / Hype
+- [1321928757/dsh-mysql](https://github.com/1321928757/dsh-mysql) - MySQL connector for DeepSeek Harness: configure multiple connections in the settings page with
+- [1na-ko/dsh-hdc-bridge](https://github.com/1na-ko/dsh-hdc-bridge) - HarmonyOS device bridge: hdc screenshot/install/log/crash/UI automation loop with read_image
+- [863683348/dsh-plugin-academic-writing](https://github.com/863683348/dsh-plugin-academic-writing) - Academic writing toolkit for DSH agents: paper outlines, tit
+- [863683348/dsh-plugin-education](https://github.com/863683348/dsh-plugin-education) - Education toolkit for DSH agents: lesson-plan skeletons by grade band, qui
+- [863683348/dsh-plugin-finance-data](https://github.com/863683348/dsh-plugin-finance-data) - Finance data toolkit for DSH agents: number and currency formatting 
+- [863683348/dsh-plugin-local-life](https://github.com/863683348/dsh-plugin-local-life) - Local-life toolkit for DSH agents: budget planning, bill splitting, unit
+- [863683348/dsh-plugin-translation](https://github.com/863683348/dsh-plugin-translation) - Translation toolkit for DSH agents: sentence segmentation, term and gl
+
+## 📦 安装
+
+```bash
+dsh plugin --profile web add dshmarket
+```
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 - [完整 README](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin#readme)

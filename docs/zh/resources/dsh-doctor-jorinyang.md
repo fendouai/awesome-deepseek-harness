@@ -5,20 +5,50 @@ keywords: "dsh-doctor, vision, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-doctor
 
-> ⭐ 3 · ✅ 活跃 · 插件
+> ⭐ **3** · ✅ 活跃 · 插件
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 视觉与多模态 |
+| 星数 | ⭐ 3 | 状态 | ✅ 活跃 |
+| 作者 | [astra3294](https://github.com/astra3294) | 更新时间 | 2026-08-21 |
+| 子分类 | 👁️ 视觉工具 | 能力 | coding |
 
 ## 一句话介绍
 
-Deterministic diagnostics and recovery for DeepSeek Harness
+> Deterministic diagnostics and recovery for DeepSeek Harness
 
 ## 详细介绍
 
-Deterministic diagnostics and recovery for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness). DSH Doctor is the safety net for the two ways a Harness usually breaks itself: it **cannot converse** (the Web UI opens but the loop is broken), or it **cannot start** (boot fails after a config, dependency, or plugin change). When the Web UI still opens, the Doctor button calls a loopback-only Host recovery service. When Harness cannot start, the same engine runs as a standalone CLI —
+Deterministic diagnostics and recovery for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness). DSH Doctor is the safety net for the two ways a Harness usually breaks itself: it **cannot converse** (the Web UI opens but the loop is broken), or it **cannot start** (boot fails after a config, dependency, or plugin change). When the Web UI still opens, the Doctor button calls a loopback-only Host recovery service. When Harness cannot start, the same engine runs as a standalone CLI — including a boot probe that captures the failure and a one-click reset to the last healthy checkpoint, so plugin developers can experiment and always get back to a working state. [简体中文](./README.zh-CN.md)
 
-## 作者
-**[astra3294](https://github.com/astra3294)**
+## ✨ 核心特性
 
-## 链接
+- a persistent Doctor action beside Settings in the sidebar;
+- an automatic recovery banner above the composer after a prompt or Agent failure;
+- a full Doctor page in Settings with findings, checkpoints, and rollback;
+- a floating emergency entry that appears in the frame overlay whenever the profile is broken, independent of the sidebar and conversation plugins.
+
+## 📦 安装
+
+```bash
+dsh plugin --profile web add dsh-doctor
+dsh --profile web
+```
+
+## 🚀 快速开始
+
+```bash
+npx dsh-doctor recover --profile web
+```
+
+## 📚 更多信息
+
+**Install**
+
+Add Doctor to the Web profile: dsh plugin --profile web add dsh-doctor dsh --profile web This installs one package with both Host and browser halves. It contributes: If the Web UI cannot start: npx dsh-doctor recover --profile web
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/astra3294/dsh-doctor)
 - [完整 README](https://github.com/astra3294/dsh-doctor#readme)

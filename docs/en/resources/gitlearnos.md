@@ -5,20 +5,34 @@ keywords: "gitlearnos, learning, tutorial, coding, git, memory, ui, deepseek har
 ---
 # gitlearnos
 
-> ⭐ 4 · ✅ active · tutorial
+> ⭐ **4** · ✅ active · tutorial · ⬆️ +1 recently
+
+| | | | |
+|---|---|---|---|
+| Type | tutorial | Category | Learning |
+| Stars | ⭐ 4 | Status | ✅ active |
+| Author | [Guojiz](https://github.com/Guojiz) | Updated | 2026-08-20 |
 
 ## One-liner
 
-Git-native AI learning OS with a GitLearnOS-exclusive DeepSeek Harness panel, targeted practice, local RAG, and learner-owned memory.
+> Git-native AI learning OS with a GitLearnOS-exclusive DeepSeek Harness panel, targeted practice, local RAG, and learner-owned memory.
 
 ## About
 
-<p align="center"> </p> <p align="center"><strong>Learner-owned Git memory · GitLearnOS-exclusive native DeepSeek Harness support</strong></p> **[Open the core-ready Quickstart →](QUICKSTART.md)** [中文](zh-CN/README.md) · [Website](https://guojiz.github.io/gitlearnos/) · [Documentation map](DOCUMENTATION.md) · [Protocol](GITLEARNOS.md)
+Learner-owned Git memory · GitLearnOS-exclusive native DeepSeek Harness support Learning happens anywhere. State belongs to you. Open the official website → · Core-ready Quickstart → [中文](zh-CN/README.md) · [Website](https://guojiz.github.io/gitlearnos/) · [Documentation map](DOCUMENTATION.md) · [Protocol](GITLEARNOS.md) · [Author site](https://guojiz.github.io/) · [X](https://x.com/guojizh) · [Bilibili](https://space.bilibili.com/3493114115263006) · [Sponsor](https://github.com/Guojiz/Sponsors)
 
-## Author
-**[Guojiz](https://github.com/Guojiz)**
+## 🚀 Quick Start
 
-## Links
+```bash
+goal and real input
+→ organize traceable evidence
+→ ask from the current gap
+→ keep the answer or external feedback
+→ recheck independently later
+→ update state with one reversible Git commit
+```
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/Guojiz/gitlearnos)
 - [Full README](https://github.com/Guojiz/gitlearnos#readme)

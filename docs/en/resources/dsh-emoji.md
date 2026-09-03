@@ -5,20 +5,52 @@ keywords: "dsh-emoji, fun, plugin, ui, deepseek harness, dsh"
 ---
 # dsh-emoji
 
-> ⭐ 34 · ✅ active · plugin
+> ⭐ **34** · ✅ active · plugin · ⬆️ +3 recently
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | Fun & lifestyle |
+| Stars | ⭐ 34 | Status | ✅ active |
+| Author | [hellodigua](https://github.com/hellodigua) | Updated | 2026-08-19 |
 
 ## One-liner
 
-Let AI replies add custom emoji reactions.
+> Let AI replies add custom emoji reactions.
 
 ## About
 
 [English](README.en.md) | 简体中文 为 DeepSeek Harness 的回复加入可切换、自定义的行内表情。
 
-## Author
-**[hellodigua](https://github.com/hellodigua)**
+## 📦 Install
 
-## Links
+```bash
+dsh plugin --profile web add dsh-emoji
+```
+
+## 🚀 Quick Start
+
+```bash
+my-whale.zip
+├── pack.json
+└── images/
+    ├── happy.png
+    ├── sad.png
+    ├── thinking.png
+    ├── celebrate.png
+    └── ...其余标准 key
+```
+
+## 📚 Learn more
+
+**效果预览**
+
+默认的大肥鱼表情： 切换到贴吧表情包后，也能使用同一套语义协议展示贴吧表情： 上传并切换到 B 站表情包后，也能保留熟悉的社区表达风格： 同一套语义协议也可用于小红书、抖音、微博等自定义表情包。
+
+**安装**
+
+使用 DSH CLI 把插件加入 Web Profile，然后重启 Web Host： dsh plugin --profile web add dsh-emoji 如需体验预发布版本，将安装命令中的包名替换为 `dsh-emoji@beta`。普通 `npm install dsh-emoji` 只会把包加入当前 Node.js 项目，不会启用 DSH 插件。
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/hellodigua/dsh-emoji)
 - [Full README](https://github.com/hellodigua/dsh-emoji#readme)

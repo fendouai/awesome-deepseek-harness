@@ -5,20 +5,42 @@ keywords: "dsh-undo-plugin, ui, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-undo-plugin
 
-> ⭐ 108 · ✅ active · plugin
+> ⭐ **108** · ✅ active · plugin · ⬆️ +6 recently
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | UI & experience |
+| Stars | ⭐ 108 | Status | ✅ active |
+| Author | [lire1131](https://github.com/lire1131) | Updated | 2026-08-20 |
+| Subcategory | 🎨 Skins & themes | Capabilities | coding, ui |
 
 ## One-liner
 
-DSH plugin: snapshot & rollback your plugin/skin/settings configs. Auto-save on change, undo/redo stack, snapshot manager panel, keyboard shortcuts, plus an offline PowerShell CLI & GUI that work even when DSH won't boot.
+> DSH plugin: snapshot & rollback your plugin/skin/settings configs. Auto-save on change, undo/redo stack, snapshot manager panel, keyboard shortcuts, plus an offline PowerShell CLI & GUI that work even when DSH won't boot.
 
 ## About
 
-**还在为 DSH 崩溃而苦恼?还在担心小改动会带来大灾难?这款工具能帮到你!** 为 [DeepSeek Harness (DSH)](https://github.com/deepseek-ai/deepseek-harness) 打造的撤销/回退系统:**装插件、换皮肤、改设置,自动保存即存档;手动保存随时存档;一键撤销/恢复/回退到任意版本**,DSH 启动不了时还有局外工具(GUI 窗口 + 命令行)兜底。
+**为 [DeepSeek Harness (DSH)](https://github.com/deepseek-ai/deepseek-harness) 打造的撤销/回退系统：装插件、换皮肤、改设置，自动保存即存档；手动保存随时存档；一键撤销 / 恢复 / 回退到任意版本。DSH 启动不了时，还有局外 WebUI / GUI / CLI 兜底。** 还在为 DSH 崩溃而苦恼？还在担心小改动带来大灾难？配置与插件代码一键回滚、快照密钥脱敏、一键安全模式——DSH 挂了也能自救。
 
-## Author
-**[lire1131](https://github.com/lire1131)**
+## 📦 Install
 
-## Links
+```bash
+dsh plugin --profile web add github:lire1131/dsh-undo-savepoint#master
+```
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/lire1131/dsh-undo-savepoint.git D:\dsh\plugins\dsh-undo-savepoint
+```
+
+## 📚 Learn more
+
+**安装插件（自动前后存档，失败自动回退）**
+
+powershell -NoProfile -ExecutionPolicy Bypass -File "tools\dsh-plugin.ps1" add <包名>
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/lire1131/dsh-undo-plugin)
 - [Full README](https://github.com/lire1131/dsh-undo-plugin#readme)

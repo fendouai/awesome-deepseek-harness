@@ -5,20 +5,23 @@ keywords: "Awesome-DeepSeek-Harness-Plugins, registry, awesome-list, search, dee
 ---
 # Awesome-DeepSeek-Harness-Plugins
 
-> ⭐ 240 · ✅ active · awesome-list
+> ⭐ **240** · ✅ active · awesome-list · ⬆️ +25 recently
+
+| | | | |
+|---|---|---|---|
+| Type | awesome-list | Category | Registries |
+| Stars | ⭐ 240 | Status | ✅ active |
+| Author | [Zhiyuan-Fan](https://github.com/Zhiyuan-Fan) | Updated | 2026-08-21 |
 
 ## One-liner
 
-Curated list of DeepSeek Harness plugins.
+> Curated list of DeepSeek Harness plugins.
 
 ## About
 
-[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) is DeepSeek AI's open-source, plugin-first agent harness: models, tools, skills, sessions, sandboxes, filesystems, loops, orchestration, and UI can all be composed as plugins. flowchart LR User["Developer / User"] --> Web["DSH Web UI or CLI"] Web --> Runtime["DeepSeek Harness runtime"] Runtime --> Agent["Agent loop"] Agent --> Model["Model provider"] Agent --> Tools["Tools & skills"] Runtime -. loads .-> Plugins["Plugins"] Plugi
+[English](README.md) | [简体中文](README.zh-CN.md) A concise, daily-curated directory of public plugins and extensions for [DeepSeek Harness](https://www.deepseek.com/harness/en/) (DSH), the open-source DeepSeek agent harness. Explore tools, skills, model providers, memory, automation, runtimes, desktop clients, browser integrations, and developer utilities. Every entry links to its canonical GitHub repository, current star count, and independently verified references.
 
-## Author
-**[Zhiyuan-Fan](https://github.com/Zhiyuan-Fan)**
-
-## Links
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins)
 - [Full README](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins#readme)

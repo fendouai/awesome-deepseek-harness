@@ -5,20 +5,44 @@ keywords: "plugin-template (omdsh-dev), learning, example, coding, deepseek harn
 ---
 # plugin-template (omdsh-dev)
 
-> ⭐ 12 · ✅ active · example
+> ⭐ **12** · ✅ active · example · ⬆️ +1 recently
+
+| | | | |
+|---|---|---|---|
+| Type | example | Category | Learning |
+| Stars | ⭐ 12 | Status | ✅ active |
+| Author | [omdsh-dev](https://github.com/omdsh-dev) | Updated | 2026-08-20 |
 
 ## One-liner
 
-Plugin template repository derived from the original turtle-ui official repo.
+> Plugin template repository derived from the original turtle-ui official repo.
 
 ## About
 
 A self-contained standalone repository template for an ESM Cordis plugin. Every source file, compiler setting, test fixture, contributor instruction, skill, and build helper used by the repository is inside this directory; every development input resolves below this repository root. Normal npm dependencies are resolved from the package registry. A DSH host is a runtime consumer of the finished package, not a source or build input.
 
-## Author
-**[omdsh-dev](https://github.com/omdsh-dev)**
+## 📦 Install
 
-## Links
+```bash
+pnpm install
+pnpm run lint
+pnpm test
+pnpm run build
+```
+
+## 🚀 Quick Start
+
+```bash
+{
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
+```
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/omdsh-dev/plugin-template)
 - [Full README](https://github.com/omdsh-dev/plugin-template#readme)

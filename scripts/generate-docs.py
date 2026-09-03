@@ -188,35 +188,87 @@ def resource_page(e, zh):
     readme = READMES.get(e["id"], {})
     intro = readme.get("intro") or one
     back = "../" + _back_slug(e) + ".md"
-    meta = f"⭐ {e['stars']:,} · {badge(e, zh)}"
+    cat_name = (CATEGORY_ZH if zh else CATEGORY_EN).get(e["category"], e["category"])
     type_label = {"plugin": "插件", "skill": "技能", "workflow": "工作流", "agent": "智能体",
                   "client": "客户端", "tool": "工具", "integration": "集成", "example": "示例",
                   "tutorial": "教程", "awesome-list": "精选列表", "related": "相关"}.get(e["type"], e["type"])
+    subcat = (SUBCAT_ZH if zh else SUBCAT_EN).get(e.get("subcategory", ""), "") if e.get("subcategory") else ""
+    updated = e.get("_updated", "—")
+    growth = e.get("growth", 0)
+    feats = [f for f in readme.get("features", []) if f]
+    sections = [s for s in readme.get("sections", []) if s.get("t")]
 
+    meta_lines = [f"# {name}", ""]
     if zh:
-        lines = [
-            f"# {name}", "",
-            f"> {meta} · {type_label}", "",
-            "## 一句话介绍", "", one, "",
-            "## 详细介绍", "", intro, "",
-            "## 作者", f"**[{owner}](https://github.com/{owner})**", "",
-            "## 链接", "",
-            f"- [GitHub 仓库]({e['repository']})",
-            f"- [完整 README]({e['repository']}#readme)",
-            f"- [返回{e['name']}所在分类]({back})", "",
-        ]
+        meta_lines += [f"> ⭐ **{e['stars']:,}** · {badge(e, zh)} · {type_label}" + (f" · 近期 ⬆️ +{growth:,}" if growth else "") + "", ""]
+        meta_lines += ["| | | | |", "|---|---|---|---|",
+                       f"| 类型 | {type_label} | 分类 | {cat_name} |",
+                       f"| 星数 | ⭐ {e['stars']:,} | 状态 | {badge(e, zh)} |",
+                       f"| 作者 | [{owner}](https://github.com/{owner}) | 更新时间 | {updated} |"]
+        if subcat:
+            meta_lines.append(f"| 子分类 | {subcat} | 能力 | {', '.join(e.get('capabilities', []))} |")
+        meta_lines += [""]
     else:
-        lines = [
-            f"# {name}", "",
-            f"> {meta} · {e['type']}", "",
-            "## One-liner", "", one, "",
-            "## About", "", intro, "",
-            "## Author", f"**[{owner}](https://github.com/{owner})**", "",
-            "## Links", "",
-            f"- [GitHub Repository]({e['repository']})",
-            f"- [Full README]({e['repository']}#readme)",
-            f"- [Back to the {_back_title(e)} list]({back})", "",
-        ]
+        meta_lines += [f"> ⭐ **{e['stars']:,}** · {badge(e, zh)} · {e['type']}" + (f" · ⬆️ +{growth:,} recently" if growth else "") + "", ""]
+        meta_lines += ["| | | | |", "|---|---|---|---|",
+                       f"| Type | {e['type']} | Category | {cat_name} |",
+                       f"| Stars | ⭐ {e['stars']:,} | Status | {badge(e, zh)} |",
+                       f"| Author | [{owner}](https://github.com/{owner}) | Updated | {updated} |"]
+        if subcat:
+            meta_lines.append(f"| Subcategory | {subcat} | Capabilities | {', '.join(e.get('capabilities', []))} |")
+        meta_lines += [""]
+    lines = meta_lines
+
+    # one-liner
+    lines += ["## 一句话介绍" if zh else "## One-liner", "", f"> {one}", ""]
+
+    # about
+    lines += ["## 详细介绍" if zh else "## About", "", intro, ""]
+
+    # features
+    if feats:
+        lines.append("## ✨ 核心特性" if zh else "## ✨ Key Features")
+        lines.append("")
+        lines += [f"- {f}" for f in feats]
+        lines.append("")
+
+    # install + quick start
+    if readme.get("install"):
+        lines.append("## 📦 安装" if zh else "## 📦 Install")
+        lines.append("")
+        lines.append("```bash")
+        lines.append(readme["install"])
+        lines.append("```")
+        lines.append("")
+    if readme.get("usage"):
+        lines.append("## 🚀 快速开始" if zh else "## 🚀 Quick Start")
+        lines.append("")
+        lines.append("```bash")
+        lines.append(readme["usage"])
+        lines.append("```")
+        lines.append("")
+
+    # extra sections from README
+    if sections:
+        lines.append("## 📚 更多信息" if zh else "## 📚 Learn more")
+        lines.append("")
+        for s in sections[:4]:
+            lines.append(f"**{s['h']}**")
+            lines.append("")
+            lines.append(s["t"])
+            lines.append("")
+
+    # links
+    if zh:
+        lines += ["## 🔗 链接", "",
+                  f"- [GitHub 仓库]({e['repository']})",
+                  f"- [完整 README]({e['repository']}#readme)",
+                  f"- [返回{e['name']}所在分类]({back})", ""]
+    else:
+        lines += ["## 🔗 Links", "",
+                  f"- [GitHub Repository]({e['repository']})",
+                  f"- [Full README]({e['repository']}#readme)",
+                  f"- [Back to the {_back_title(e)} list]({back})", ""]
     return "\n".join(lines)
 
 

@@ -5,20 +5,63 @@ keywords: "dsh-hud, developer, plugin, ui, observability, git, deepseek harness,
 ---
 # dsh-hud
 
-> ⭐ 9 · ✅ 活跃 · 插件
+> ⭐ **9** · ✅ 活跃 · 插件 · 近期 ⬆️ +1
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 开发者工具 |
+| 星数 | ⭐ 9 | 状态 | ✅ 活跃 |
+| 作者 | [a903067276-rgb](https://github.com/a903067276-rgb) | 更新时间 | 2026-08-21 |
+| 子分类 | 💰 费用与统计 | 能力 | ui, observability, git |
 
 ## 一句话介绍
 
-HUD 状态面板：浮动侧栏展示 git 状态、MCP 服务器、技能、模型与 token 用量。
+> HUD 状态面板：浮动侧栏展示 git 状态、MCP 服务器、技能、模型与 token 用量。
 
 ## 详细介绍
 
-[English](README.md) | [简体中文](README.zh-CN.md) A **HUD status panel** plugin for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) web. One button in the input toolbar opens a floating panel showing: - **Git** — branch, ahead/behind, unstaged / staged / untracked files (collapsible groups), per-file `+N/-N` summaries, click a file to expand its full diff, last 5 commits - **MCP** — connected MCP servers (derived from `mcp__<server>__<tool>` tool names) - **Skills** — sk
+[English](README.md) | [简体中文](README.zh-CN.md) A **HUD status panel** plugin for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) web: one button in the input toolbar opens a floating panel with git status, MCP servers, skills, official usage info and balance. *Unofficial project: independently developed and maintained by a community member, not an official DeepSeek product.*
 
-## 作者
-**[a903067276-rgb](https://github.com/a903067276-rgb)**
+## ✨ 核心特性
 
-## 链接
+- **Git** — branch, ahead/behind, unstaged / staged / untracked files (collapsible groups),
+- **MCP** — connected MCP servers (derived from `mcp__<server>__<tool>` tool names)
+- **Skills** — skills available to the current agent
+- **Official info** — current model + reasoning effort, plan mode state, token usage
+- **Balance** — official DeepSeek account balance, auto-fetched from
+- **Per-model usage** — current session's token buckets broken down by model
+
+## 📦 安装
+
+```bash
+dsh plugin --profile web add "github:a903067276-rgb/dsh-hud#main"
+```
+
+## 🚀 快速开始
+
+```bash
+lib/index.js        host half — data routes (git / mcp / skills / model)
+lib/client.js       client half — UI (button + panel), final bundle, no build step
+cordis.patch.yml    bundle patch — single package-name mount (official bundle flow)
+docs/               install guide & architecture notes
+examples/           manual double-mount example (fallback install path)
+```
+
+## 📚 更多信息
+
+**Screenshot**
+
+The gauge button in the input toolbar opens the floating panel showing git status, commit history, MCP servers, skills and official usage info (tokens, cache hit rate, turns/steps, LLM & tool time, context usage).
+
+**Install**
+
+This repository is an official **bundle plugin** (`dsh.bundle` + `dsh.client` in the root `package.json`), installed through the official profile manager: dsh plugin --profile web add "github:a903067276-rgb/dsh-hud#main" Then **restart `dsh web`** (bundle layers are composed at startup; HMR does not apply). Requires `pnpm` on PATH (`dsh plugin` forwards to pnpm). Manual mount fallback: see [docs/i
+
+**Usage**
+
+Click the **gauge icon** in the input toolbar (official DSH design tokens, follows dark/light theme). The panel opens on the left side by default (240px wide), clear of the official right-edge turn navigator; **drag its title bar to move it anywhere** (position remembered in `localStorage`, restored on reopen); drag its left edge to resize (200–480px, remembered in `localStorage`). Section headers
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/a903067276-rgb/dsh-hud)
 - [完整 README](https://github.com/a903067276-rgb/dsh-hud#readme)

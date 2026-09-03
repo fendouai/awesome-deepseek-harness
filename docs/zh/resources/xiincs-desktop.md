@@ -5,20 +5,32 @@ keywords: "deepseek-harness-desktop (xiincs), desktop, client, deepseek harness,
 ---
 # deepseek-harness-desktop (xiincs)
 
-> ⭐ 49 · ✅ 活跃 · 客户端
+> ⭐ **49** · ✅ 活跃 · 客户端 · 近期 ⬆️ +1
+
+| | | | |
+|---|---|---|---|
+| 类型 | 客户端 | 分类 | 桌面端 |
+| 星数 | ⭐ 49 | 状态 | ✅ 活跃 |
+| 作者 | [xiincs](https://github.com/xiincs) | 更新时间 | 2026-08-21 |
 
 ## 一句话介绍
 
-基于 Tauri 2 的原生桌面版：内置 Node.js 运行时，托盘常驻，自动更新。
+> 基于 Tauri 2 的原生桌面版：内置 Node.js 运行时，托盘常驻，自动更新。
 
 ## 详细介绍
 
-把 harness 自带的 Web 服务（`dsh web`）装进原生窗口：一键启动、托盘常驻、崩溃自动恢复、自动更新， `~/.dsh` 下的数据与浏览器版完全通用。因为用的是系统自带 WebView2 而不是打包一份 Chromium， 安装包小很多；而且刻意**不**给内嵌页面开 Tauri IPC 权限——它接触不到你的文件系统。 macOS（`.dmg`）和 Linux（`.deb`）也在每个 Release 里提供，Windows 版经过签名并接入自动更新； mac/Linux 版**未签名、未公证**（没有 Apple Developer 账号）——macOS 需要在"系统设置 → 隐私与 安全性"里手动允许打开一次，Linux 直接 `dpkg -i`/系统安装器装即可，两者暂不参与自动更新。 <p align="center"> &nbsp;&nbsp; </p> **[⬇️ 下载最新版本](https://github.com/xiincs/deepseek-harness-desktop/releases/latest)**
+**把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 装进一个真正的桌面应用** 不用再守着浏览器标签页——一个图标，双击打开，关掉窗口它还在后台安静运行。 **[⬇️ 立即下载](https://github.com/xiincs/deepseek-harness-desktop/releases/latest)** · [功能一览](#-这个应用能做什么) · [常见问题](#-常见问题) ---
 
-## 作者
-**[xiincs](https://github.com/xiincs)**
+## ✨ 核心特性
 
-## 链接
+- **双击即用**：打开应用，自动帮你把后台服务准备好，不需要敲命令行、不需要搞懂端口是什么。
+- **关窗不等于退出**：点右上角的关闭按钮只是把窗口藏起来，工作还在继续；托盘图标右键才是真的退出。
+- **数据和网页版完全通用**：所有会话、配置都存在同一个地方，网页版和桌面版随便切换，互不冲突。
+- **文件面板**：右侧一键唤出文件目录树，点开任意文件直接预览、编辑、保存，改动会用颜色标出来，
+- **插件市场**：浏览、搜索、安装社区插件，目录持续更新、条目数以百计——插件来自社区众包目录，
+- **内置终端**：需要跑个命令的时候，不用再额外开一个终端窗口，应用里直接就有。
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/xiincs/deepseek-harness-desktop)
 - [完整 README](https://github.com/xiincs/deepseek-harness-desktop#readme)

@@ -1,25 +1,50 @@
 ---
 title: "dsh-lark"
-description: "Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness 插件"
-keywords: "dsh-lark, channel, integration, coding, deepseek harness, dsh"
+description: "DeepSeek Harness Plugin for Lark Integration"
+keywords: "dsh-lark, vision, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-lark
 
-> ⭐ 41 · ✅ 活跃 · 集成
+> ⭐ **26** · ✅ 活跃 · 插件
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 视觉与多模态 |
+| 星数 | ⭐ 26 | 状态 | ✅ 活跃 |
+| 作者 | [sugarforever](https://github.com/sugarforever) | 更新时间 | — |
+| 子分类 | 👁️ 视觉工具 | 能力 | coding |
 
 ## 一句话介绍
 
-Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness 插件
+> DeepSeek Harness Plugin for Lark Integration
 
 ## 详细介绍
 
-A Lark/Feishu IM bot channel plugin for DeepSeek Harness. Each chat (direct message or group) drives its own DSH agent; the assistant's reasoning and tool calls show as the platform's native thinking process, the answer is sent separately, and host approval questions become interactive cards decided by button clicks. Transport is `@larksuite/channel` over a WebSocket long connection, so no public callback URL is needed. - [Features](#features) - [Requirements](#requirements) - [Quickstart](#quic
+**把你正在使用的 DeepSeek Harness（DSH）接进飞书。** 直接在聊天里给 Agent 派任务、看执行过程、切换工作区和模型。遇到提问、计划确认或工具审批，也不用回到终端，直接在飞书里处理。需要时，还能把多个 Agent 放进同一个群里协作。
 
-## 作者
-**[omdsh-dev](https://github.com/omdsh-dev)**
+## ✨ 核心特性
 
-## 链接
+- **不用守着终端**：从飞书发起任务，随时查看进度和结果。
+- **不只是聊天机器人**：可以切换真实工作区和模型，执行 Harness 已有的命令与工具。
+- **关键决定仍由你控制**：模型提问、计划审阅和工具审批都会回到当前聊天，按钮或文字都能作答。
+- **上下文不会混在一起**：不同聊天、话题和工作区可以保留各自的会话。
+- **Agent 之间也能协作**：一条命令添加更多机器人，让它们在群聊中通过 @ 交接回合，并用轮数上限防止无限对话。
 
-- [GitHub 仓库](https://github.com/omdsh-dev/dsh-lark)
-- [完整 README](https://github.com/omdsh-dev/dsh-lark#readme)
-- [返回dsh-lark所在分类](../integrations.md)
+## 📦 安装
+
+```bash
+npm i -g dsh-lark-channel
+dsh-lark-channel start
+```
+
+## 🚀 快速开始
+
+```bash
+npx dsh-lark-channel@latest start
+```
+
+## 🔗 链接
+
+- [GitHub 仓库](https://github.com/sugarforever/dsh-lark)
+- [完整 README](https://github.com/sugarforever/dsh-lark#readme)
+- [返回dsh-lark所在分类](../plugins.md)

@@ -5,20 +5,52 @@ keywords: "dsh-open-in-vscode, developer, plugin, ide, coding, files, deepseek h
 ---
 # dsh-open-in-vscode
 
-> ⭐ 53 · ✅ active · plugin
+> ⭐ **53** · ✅ active · plugin · ⬆️ +1 recently
+
+| | | | |
+|---|---|---|---|
+| Type | plugin | Category | Developer tools |
+| Stars | ⭐ 53 | Status | ✅ active |
+| Author | [omdsh-dev](https://github.com/omdsh-dev) | Updated | 2026-08-16 |
+| Subcategory | 📁 Files & import | Capabilities | ide, coding, files |
 
 ## One-liner
 
-Open DSH workspace directories/files directly in VS Code from the web GUI.
+> Open DSH workspace directories/files directly in VS Code from the web GUI.
 
 ## About
 
 Open a workspace directory in VS Code straight from the DeepSeek Harness web GUI: every real Workspace row in the sidebar gains an **Open in VSCode** row inside its **…** overflow menu.
 
-## Author
-**[omdsh-dev](https://github.com/omdsh-dev)**
+## ✨ Key Features
 
-## Links
+- The client half uses the harness's `sidebar.workspaces.row-menu` slot when
+- The row's click closes the menu and calls the host over the strict Typert
+- The host half spawns the configured editor CLI on that directory
+
+## 📦 Install
+
+```bash
+dsh plugin --profile web add https://github.com/omdsh-dev/dsh-open-in-vscode/archive/refs/tags/v0.1.6.tar.gz
+```
+
+## 🚀 Quick Start
+
+```bash
+dsh plugin --profile web list dsh-open-in-vscode --depth 0
+```
+
+## 📚 Learn more
+
+**Install**
+
+Add the plugin to your web profile (this runs pnpm inside the profile and reconciles the bundle layer): dsh plugin --profile web add https://github.com/omdsh-dev/dsh-open-in-vscode/archive/refs/tags/v0.1.6.tar.gz Restart the web server (`kill -TERM <pid>` and wait for exit — never `kill -9`, it tears the session zstd log mid-frame), then refresh the page. The host plugin mounts under `dsh-open-in-
+
+**Configuration**
+
+Deployment-varying choices are validated `Config` fields, changeable from cordis.yml: A missing executable fails loud with a fix hint; relative paths are refused.
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/omdsh-dev/dsh-open-in-vscode)
 - [Full README](https://github.com/omdsh-dev/dsh-open-in-vscode#readme)

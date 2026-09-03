@@ -5,20 +5,56 @@ keywords: "dsh-web-lan-access, search, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-web-lan-access
 
-> ⭐ 26 · ✅ 活跃 · 插件
+> ⭐ **26** · ✅ 活跃 · 插件
+
+| | | | |
+|---|---|---|---|
+| 类型 | 插件 | 分类 | 搜索与研究 |
+| 星数 | ⭐ 26 | 状态 | ✅ 活跃 |
+| 作者 | [AcidGr](https://github.com/AcidGr) | 更新时间 | — |
+| 子分类 | 🌐 网页搜索 | 能力 | coding |
 
 ## 一句话介绍
 
-DeepSeek Harness (dsh) Web plugin
+> DeepSeek Harness (dsh) Web plugin
 
 ## 详细介绍
 
 LAN / remote access support for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) Web UI.
 
-## 作者
-**[AcidGr](https://github.com/AcidGr)**
+## ✨ 核心特性
 
-## 链接
+- No product source modified; fully reversible
+- Version-independent (it only transforms the served `index.html`)
+- Platform-independent (Linux / macOS / Windows / Android)
+
+## 📦 安装
+
+```bash
+dsh plugin --profile web add dsh-web-lan-access
+```
+
+## 🚀 快速开始
+
+```bash
+dsh plugin --profile web add github:AcidGr/dsh-web-lan-access
+```
+
+## 📚 更多信息
+
+**Bundle install (recommended)**
+
+Installed from npm: dsh plugin --profile web add dsh-web-lan-access (No npm / local development — point pnpm at the repo instead: dsh plugin --profile web add github:AcidGr/dsh-web-lan-access ) Restart `dsh web`, then hard-refresh the browser.
+
+**Manual install (no pnpm / offline)**
+
+PROFILE="$DSH_HOME/profiles/web" # adjust DSH_HOME and profile name mkdir -p "$PROFILE/plugins" "$PROFILE/node_modules/@dsh-profile" cp -r dsh-web-lan-access "$PROFILE/plugins/lan-access" ln -sfn ../../plugins/lan-access "$PROFILE/node_modules/@dsh-profile/lan-access"
+
+**Usage**
+
+The plugin is **self-contained**: its bundle patch sets the webserver bind host to `0.0.0.0` directly (the CLI flag `--host 0.0.0.0` is hard-rejected for safety on newer harness versions, but the webserver config still accepts it — so **no source changes and no `--host` flag are needed**; the CLI `--port` flag still works). It also widens the `/api` trust fence automatically. 1. **Install the plug
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/AcidGr/dsh-web-lan-access)
 - [完整 README](https://github.com/AcidGr/dsh-web-lan-access#readme)

@@ -92,7 +92,7 @@
     "growth": 1
   },
   {
-    "id": "dsh-memory-1",
+    "id": "dsh-memory-1-1",
     "name": "dsh-memory",
     "type": "tutorial",
     "category": "learning",
@@ -147,6 +147,58 @@
     "growth": 5
   },
   {
+    "id": "dsh",
+    "name": "dsh",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Bin-hy/dsh",
+    "description": "源码级拆解 DeepSeek Harness · 面向 Agent 开发者的中文学习资料",
+    "description_zh": "源码级拆解 DeepSeek Harness · 面向 Agent 开发者的中文学习资料",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 17,
+    "_license": "MIT",
+    "_topics": [
+      "ai-agents",
+      "codis",
+      "deepseek",
+      "dsh",
+      "dsh-plugin",
+      "harness",
+      "learning"
+    ]
+  },
+  {
+    "id": "learn-deepseek-harness",
+    "name": "learn-deepseek-harness",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/NanmiCoder/learn-deepseek-harness",
+    "description": "交互式教程：20 节课，从「模型只会说话」讲到写出能装进真实 DeepSeek Harness 的插件。含可跑 demo 与在线版。",
+    "description_zh": "交互式教程：20 节课，从「模型只会说话」讲到写出能装进真实 DeepSeek Harness 的插件。含可跑 demo 与在线版。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13,
+    "_license": "MIT",
+    "_topics": [
+      "agent-framework",
+      "ai-agent",
+      "deepseek",
+      "deepseek-harness",
+      "llm",
+      "plugin-system",
+      "react",
+      "tutorial"
+    ]
+  },
+  {
     "id": "dsh-explain",
     "name": "dsh-explain",
     "type": "tutorial",
@@ -165,6 +217,61 @@
     "_updated": "2026-08-20",
     "_stars_prev": 10,
     "growth": 1
+  },
+  {
+    "id": "deepseek-harness-whitepaper",
+    "name": "deepseek-harness-whitepaper",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/feicaiclub/deepseek-harness-whitepaper",
+    "description": "DeepSeek Harness 白皮书 · 131 页入门加进阶综合教程：从装上它、看懂它，到自己扩展它。面向想深入研究 agent harness 的开发者，所有结论回源码核对。",
+    "description_zh": "DeepSeek Harness 白皮书 · 131 页入门加进阶综合教程：从装上它、看懂它，到自己扩展它。面向想深入研究 agent harness 的开发者，所有结论回源码核对。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 11,
+    "_license": "MIT",
+    "_topics": [
+      "agent-harness",
+      "ai-agents",
+      "chinese",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm"
+    ]
+  },
+  {
+    "id": "dsh-from-scratch",
+    "name": "dsh-from-scratch",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/tsrigo/dsh-from-scratch",
+    "description": "A runnable TypeScript tutorial that builds a minimal DeepSeek-style agent harness from scratch.",
+    "description_zh": "A runnable TypeScript tutorial that builds a minimal DeepSeek-style agent harness from scratch.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "_license": "MIT",
+    "_topics": [
+      "agent-harness",
+      "agent-loop",
+      "ai-agents",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "long-running-tasks",
+      "session-log"
+    ]
   },
   {
     "id": "deepseek-harness-learning",
@@ -219,6 +326,36 @@
     "_updated": "2026-08-13"
   },
   {
+    "id": "dsh-learning-mode",
+    "name": "dsh-learning-mode",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/CHplus0/dsh-learning-mode",
+    "description": "A DeepSeek Harness (DSH) agent preset that teaches while coding — concrete scenario-grounded explanations, Socratic guidance, and TODO(你) practice blanks, modeled on Claude Code's Learning output style. 学习模式",
+    "description_zh": "A DeepSeek Harness (DSH) agent preset that teaches while coding — concrete scenario-grounded explanations, Socratic guidance, and TODO(你) practice blanks, modeled on Claude Code's Learning output style. 学习模式",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "multimodal",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "_license": "NOASSERTION",
+    "_topics": [
+      "agent-preset",
+      "ai-agent",
+      "claude-code",
+      "coding-tutor",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "learn-by-doing"
+    ]
+  },
+  {
     "id": "dsh-learn-everything",
     "name": "dsh-learn-everything",
     "type": "tutorial",
@@ -236,6 +373,27 @@
     "_updated": "2026-08-13",
     "_stars_prev": 4,
     "growth": 1
+  },
+  {
+    "id": "dsh-docs-panel",
+    "name": "dsh-docs-panel",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/mlosun/dsh-docs-panel",
+    "description": "DSH WebUI 里的「随身手册」：全局 Markdown 笔记，任何工作区随时可读。",
+    "description_zh": "DSH WebUI 里的「随身手册」：全局 Markdown 笔记，任何工作区随时可读。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "_license": "MIT",
+    "_topics": [
+      "dsh-better-sidebar",
+      "dsh-plugin"
+    ]
   },
   {
     "id": "gitlearnos",
@@ -260,6 +418,104 @@
     "growth": 1
   },
   {
+    "id": "dsh-plugin-lookatstudy",
+    "name": "dsh-plugin-lookatstudy",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Kaiji-Z/dsh-plugin-lookatstudy",
+    "description": "dsh community plugin: turn any markdown/folder/GitHub learning repo into a guided AI-tutor course (gated skill tree, BKT mastery, SM-2 reviews) inside DeepSeek Harness",
+    "description_zh": "dsh community plugin: turn any markdown/folder/GitHub learning repo into a guided AI-tutor course (gated skill tree, BKT mastery, SM-2 reviews) inside DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "git",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "_license": "MIT",
+    "_topics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "learning",
+      "spaced-repetition",
+      "tutor"
+    ]
+  },
+  {
+    "id": "mini-deepseek-harness-python",
+    "name": "mini-deepseek-harness-python",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/ZZKeepCurious/mini-deepseek-harness-python",
+    "description": "Educational re-implementation of DeepSeek Harness in pure Python stdlib — event sourcing, plugin bus, agent loop. For learning only.",
+    "description_zh": "Educational re-implementation of DeepSeek Harness in pure Python stdlib — event sourcing, plugin bus, agent loop. For learning only.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "_license": "MIT",
+    "_topics": []
+  },
+  {
+    "id": "dsh-deeptutor",
+    "name": "dsh-deeptutor",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/TecFancy/dsh-deeptutor",
+    "description": "Learning assistant extension for DeepSeek Harness (dsh): brings DeepTutor tutoring to your agent — deep explanations, self-test questions, learning paths, personal knowledge-base search (RAG), and note archiving. | 面向 DeepSeek Harness 的学习辅助扩展:为 agent 接入 DeepTutor 辅导能力 —— 深度讲解、自测题、学习路径规划、个人知识库检索(RAG)与笔记归档。",
+    "description_zh": "Learning assistant extension for DeepSeek Harness (dsh): brings DeepTutor tutoring to your agent — deep explanations, self-test questions, learning paths, personal knowledge-base search (RAG), and note archiving. | 面向 DeepSeek Harness 的学习辅助扩展:为 agent 接入 DeepTutor 辅导能力 —— 深度讲解、自测题、学习路径规划、个人知识库检索(RAG)与笔记归档。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "_license": null,
+    "_topics": [
+      "agent",
+      "deepseek-harness",
+      "deeptutor",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "rag",
+      "tutoring"
+    ]
+  },
+  {
+    "id": "dsh-plugin-tutorial",
+    "name": "dsh-plugin-tutorial",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/DumplingHuman/dsh-plugin-tutorial",
+    "description": "DeepSeek Harness 插件开发教程（中文）：环境搭建、Cordis 基础、Tool 开发、事件系统、LLM 适配器、打包发布",
+    "description_zh": "DeepSeek Harness 插件开发教程（中文）：环境搭建、Cordis 基础、Tool 开发、事件系统、LLM 适配器、打包发布",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "_license": "MIT",
+    "_topics": [
+      "agent",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "documentation",
+      "llm",
+      "plugin",
+      "tutorial"
+    ]
+  },
+  {
     "id": "deepseek-protocol-doctor",
     "name": "deepseek-protocol-doctor",
     "type": "tutorial",
@@ -278,6 +534,202 @@
     "_updated": "2026-08-18"
   },
   {
+    "id": "dsh-prompt-self",
+    "name": "dsh-prompt-self",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Hua1Q1nG/dsh-prompt-self",
+    "description": "个人 Prompt 画像引擎（DSH 双面客户端插件）：消息级 prompt 自动改写 + 自动学习 + 可视化开关与画像 UI",
+    "description_zh": "个人 Prompt 画像引擎（DSH 双面客户端插件）：消息级 prompt 自动改写 + 自动学习 + 可视化开关与画像 UI",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_license": "MIT",
+    "_topics": [
+      "dsh-plugin"
+    ]
+  },
+  {
+    "id": "dsh-habit",
+    "name": "dsh-habit",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Max-Null/dsh-habit",
+    "description": "Self-learning habit engine for DeepSeek Harness: correction signals, threshold judgment, two-level human gate · 自学习习惯引擎：观察纠正信号、阈值判断、两级人工门控",
+    "description_zh": "Self-learning habit engine for DeepSeek Harness: correction signals, threshold judgment, two-level human gate · 自学习习惯引擎：观察纠正信号、阈值判断、两级人工门控",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_license": null,
+    "_topics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "habit",
+      "ssid"
+    ]
+  },
+  {
+    "id": "dsh-raven-research",
+    "name": "dsh-raven-research",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/wxxb789/dsh-raven-research",
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run steering, and citations verified against retrieved sources.",
+    "description_zh": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run steering, and citations verified against retrieved sources.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_license": "MIT",
+    "_topics": [
+      "academic-writing",
+      "agentic-ai",
+      "ai-agent",
+      "ai-research",
+      "citation-verification",
+      "citations",
+      "cordis",
+      "deep-research"
+    ]
+  },
+  {
+    "id": "dsh-agent-memory-3",
+    "name": "dsh-agent-memory",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/findshan/dsh-agent-memory",
+    "description": "Self-evolving memory for DeepSeek Harness: capture → dream consolidation → retrieval injection → evolve. User profile, project memory, correction learning, resume narrative — with provenance back to the replayable session log. 自进化记忆插件。",
+    "description_zh": "Self-evolving memory for DeepSeek Harness: capture → dream consolidation → retrieval injection → evolve. User profile, project memory, correction learning, resume narrative — with provenance back to the replayable session log. 自进化记忆插件。",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "_license": "MIT",
+    "_topics": [
+      "ai-agent",
+      "deepseek-harness",
+      "dsh-plugin",
+      "memory",
+      "self-evolving"
+    ]
+  },
+  {
+    "id": "dsh-preset-scaffold",
+    "name": "dsh-preset-scaffold",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/duyanta123/dsh-preset-scaffold",
+    "description": "DeepSeek Harness Agent 预设：从零搭建标准化、可运行、可验证的项目骨架（架构师人设 + 六套模板资产 + 严格初始化流程）。",
+    "description_zh": "DeepSeek Harness Agent 预设：从零搭建标准化、可运行、可验证的项目骨架（架构师人设 + 六套模板资产 + 严格初始化流程）。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "_license": "MIT",
+    "_topics": [
+      "agent-preset",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsht",
+      "scaffold",
+      "scaffolding"
+    ]
+  },
+  {
+    "id": "dsh-plugin-tutorial-1",
+    "name": "dsh-plugin-tutorial",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/whyihaveyou/dsh-plugin-tutorial",
+    "description": "Hands-on, screenshot-rich bilingual guide to DeepSeek Harness plugin development. DSH 插件开发实战指南（中英双语，全真实截图）。",
+    "description_zh": "Hands-on, screenshot-rich bilingual guide to DeepSeek Harness plugin development. DSH 插件开发实战指南（中英双语，全真实截图）。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "_license": "MIT",
+    "_topics": [
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "dsh-suite",
+      "guide",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "dsh-starter-zh",
+    "name": "dsh-starter-zh",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/863683348/dsh-starter-zh",
+    "description": "DSH 新手入门包：安装即得欢迎语、从 0 到 1 学习路径、按场景推荐插件、新手自查清单，并与 dsh-handbook-zh 中文教程联动。Starter pack for DeepSeek Harness beginners (Chinese).",
+    "description_zh": "DSH 新手入门包：安装即得欢迎语、从 0 到 1 学习路径、按场景推荐插件、新手自查清单，并与 dsh-handbook-zh 中文教程联动。Starter pack for DeepSeek Harness beginners (Chinese).",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "_license": "MIT",
+    "_topics": [
+      "beginner",
+      "chinese",
+      "cordis",
+      "deepseek-harness",
+      "dsh-plugin",
+      "onboarding",
+      "starter",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "dsh-project-knowledge-review",
+    "name": "dsh-project-knowledge-review",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/HeWhenJay/dsh-project-knowledge-review",
+    "description": "中文 DSH 知识复习插件：有证据才回答、资料缺失提醒补充学习视频。",
+    "description_zh": "中文 DSH 知识复习插件：有证据才回答、资料缺失提醒补充学习视频。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "_license": "MIT",
+    "_topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "knowledge-review",
+      "learning",
+      "rag"
+    ]
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",
@@ -293,5 +745,24 @@
     "status": "active",
     "verified": false,
     "stars": 0
+  },
+  {
+    "id": "dsh-plugin-practice",
+    "name": "dsh-plugin-practice",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Ri0n72Y/dsh-plugin-practice",
+    "description": "learn how to write cordis dsh plugin",
+    "description_zh": "learn how to write cordis dsh plugin",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "_license": "MIT",
+    "_topics": [
+      "dsh-plugin"
+    ]
   }
 ]

@@ -5,20 +5,41 @@ keywords: "plugin-registry, registry, awesome-list, workflow, ui, deepseek harne
 ---
 # plugin-registry
 
-> ⭐ 57 · ✅ 活跃 · 精选列表
+> ⭐ **57** · ✅ 活跃 · 精选列表 · 近期 ⬆️ +2
+
+| | | | |
+|---|---|---|---|
+| 类型 | 精选列表 | 分类 | 注册表 |
+| 星数 | ⭐ 57 | 状态 | ✅ 活跃 |
+| 作者 | [vlln](https://github.com/vlln) | 更新时间 | 2026-08-19 |
 
 ## 一句话介绍
 
-DSH 插件生态基建：薄控制台管理官方 repository 插件（0 patch）+ make-dsh-plugin 技能。
+> DSH 插件生态基建：薄控制台管理官方 repository 插件（0 patch）+ make-dsh-plugin 技能。
 
 ## 详细介绍
 
-DeepSeek Harness 官方机制管「插件是什么、怎么跑」；本仓库补两件事（面板结构见 [console README](packages/plugin/console/README.md)，开发引导见下文）： 1. **薄控制台**（`packages/plugin/console`）——管理 profile 插件安装态的浏览器面板 + 4 个 agent 工具 2. **开发规范和引导**——`make-dsh-plugin` skill + cookbook，指导创建官方 bundle / cordis 插件
+DeepSeek Harness's official mechanisms define "what a plugin is and how it runs"; this repository adds two things (panel structure: [console README](packages/plugin/console/README.md); guidance: below): 1. **Thin console** (`packages/plugin/console`) — browser panel managing a profile's plugin install state + 4 agent tools 2. **Development spec and guidance** — `make-dsh-plugin` skill + cookbook for creating official bundle/cordis plugins
 
-## 作者
-**[vlln](https://github.com/vlln)**
+## 📦 安装
 
-## 链接
+```bash
+dsh plugin --profile web add "github:vlln/plugin-registry#path:/packages/plugin/console"
+```
+
+## 🚀 快速开始
+
+```bash
+dsh plugin --profile web add @vlln/plugin-console@0.1.0
+```
+
+## 📚 更多信息
+
+**Installation**
+
+**Option 1: git source, direct install (recommended, one line)** dsh plugin --profile web add "github:vlln/plugin-registry#path:/packages/plugin/console" Build artifacts are committed (git source skips the build); one command installs directly (~15 s). > **Windows note**: this uses the `#path:` form (no `&`) on purpose — on win32 `dsh plugin` forwards > args through cmd.exe, where `&` is a command
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/vlln/plugin-registry)
 - [完整 README](https://github.com/vlln/plugin-registry#readme)

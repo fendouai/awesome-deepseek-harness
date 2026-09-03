@@ -5,20 +5,52 @@ keywords: "dsh-claude-move, learning, skill, coding, deepseek harness, dsh"
 ---
 # dsh-claude-move
 
-> ⭐ 11 · ✅ 活跃 · 技能
+> ⭐ **11** · ✅ 活跃 · 技能
+
+| | | | |
+|---|---|---|---|
+| 类型 | 技能 | 分类 | 学习 |
+| 星数 | ⭐ 11 | 状态 | ✅ 活跃 |
+| 作者 | [PerryLink](https://github.com/PerryLink) | 更新时间 | — |
 
 ## 一句话介绍
 
-Four-source migration wizard for DeepSeek Harness: move Claude Code, Codex, OpenCode and Hermes sessions, memories, skills, instructions and slash commands into DSH (/move wizard + resumable sessions, approval-gated, idempotent).
+> Four-source migration wizard for DeepSeek Harness: move Claude Code, Codex, OpenCode and Hermes sessions, memories, skills, instructions and slash commands into DSH (/move wizard + resumable sessions, approval-gated, idempotent).
 
 ## 详细介绍
 
-- **1024 store channel**: `npm i -g dsh1024` once, then `dsh1024 plugin --profile web add dsh-claude-move` (counts toward the [deepseek1024.com](https://deepseek1024.com) install ranking). **Migrate Claude Code, Codex, OpenCode and Hermes into DeepSeek Harness — copy sessions, memories, skills, instructions and slash commands as resumable DSH sessions, copy-only and approval-gated.** *Keep your Claude Code history when you move: one install, resumable sessions, live sync with a running Claude Co
+- **1024 store channel**: `npm i -g dsh1024` once, then `dsh1024 plugin --profile web add dsh-claude-move` (counts toward the [deepseek1024.com](https://deepseek1024.com) install ranking). **Migrate Claude Code, Codex, OpenCode and Hermes into DeepSeek Harness — copy sessions, memories, skills, instructions and slash commands as resumable DSH sessions, copy-only and approval-gated.** *Keep your Claude Code history when you move: one install, resumable sessions, live sync with a running Claude Code, and a four-source migration wizard.* [English](README.md) · [简体中文](README.zh.md) · [Español](README.es.md) · [Português](README.pt.md) · [हिन्दी](README.hi.md) ---
 
-## 作者
-**[PerryLink](https://github.com/PerryLink)**
+## ✨ 核心特性
 
-## 链接
+- **1024 store channel**: `npm i -g dsh1024` once, then `dsh1024 plugin --profile web add dsh-claude-move` (counts toward the [deepseek1024.com](https://deepseek1
+
+## 📦 安装
+
+```bash
+# 1. install the bundle into your profile
+dsh plugin --profile web add "github:PerryLink/dsh-claude-move#master"
+
+# or from npm (published releases)
+dsh plugin --profile web add dsh-claude-move
+
+# 2. restart and verify the row
+dsh --profile web --dump-config | grep -A4 'id: claude-move'
+```
+
+## 🚀 快速开始
+
+```bash
+/claude-import-all      # scan → copy every Claude session → report
+```
+
+## 📚 更多信息
+
+**Usage**
+
+Call the tools in any session with the plugin mounted: claude_scan # full scan (incremental cache) claude_scan { path: "~/.claude/projects/<slug>" } # partial scan claude_scan { refresh: true } # skip cache, rescan everything claude_scan { projectsLimit: 10, sessionsLimit: 5, fields: "brief" } # trim output import_claude { path: "~/.claude/projects/<slug>/<sessionId>.jsonl" } # one session import_
+
+## 🔗 链接
 
 - [GitHub 仓库](https://github.com/PerryLink/dsh-claude-move)
 - [完整 README](https://github.com/PerryLink/dsh-claude-move#readme)

@@ -5,20 +5,67 @@ keywords: "dsh-vsc, ide, integration, deepseek harness, dsh"
 ---
 # dsh-vsc
 
-> ⭐ 0 · ✅ active · integration
+> ⭐ **0** · ✅ active · integration
+
+| | | | |
+|---|---|---|---|
+| Type | integration | Category | IDE & editors |
+| Stars | ⭐ 0 | Status | ✅ active |
+| Author | [zhibailu](https://github.com/zhibailu) | Updated | — |
 
 ## One-liner
 
-Native VS Code extension for DeepSeek Harness: sidebar panel + editor bridge (ask about a selection, review agent changes, approval & question cards). Built as a pure protocol client — consumes DSH's wire contract, never starts a second server. / 面向 DeepSeek Harness 的原生 VS Code 扩展：侧边栏面板 + 编辑器桥接（选中提问、审查 Agent 改动、审批与提问卡片）。纯协议客户端，不重写 DSH。
+> Native VS Code extension for DeepSeek Harness: sidebar panel + editor bridge (ask about a selection, review agent changes, approval & question cards). Built as a pure protocol client — consumes DSH's wire contract, never starts a second server. / 面向 DeepSeek Harness 的原生 VS Code 扩展：侧边栏面板 + 编辑器桥接（选中提问、审查 Agent 改动、审批与提问卡片）。纯协议客户端，不重写 DSH。
 
 ## About
 
 **Run [DeepSeek Harness](https://github.com/deepseek-ai/dsh) — the local AI agent — inside VS Code.** A native sidebar panel plus an editor bridge that connects to DSH as a **protocol client**, without rewriting it and without starting a second server. Read this in: **English** · [简体中文](README.zh.md) --- ---
 
-## Author
-**[zhibailu](https://github.com/zhibailu)**
+## ✨ Key Features
 
-## Links
+- Streaming agent replies, collapsible **reasoning** and per-turn **timing**.
+- Adjacent tool calls merged into **"⚙ Actions"** collapsible blocks; **`+N-M`** change stats per turn.
+- **Approval cards** when the agent asks to run a privileged operation — allow once / deny.
+- **Question cards** for agent questions: single-choice (number keys), multi-select checkboxes, recommended badge, custom answer with ↑↓ recall, skip — answered v
+- **Session modes** (standard / PTC / minimal / creative), **reasoning-effort** switch, and **permission-preset** switch (read-only / workspace-write / full-acces
+- **Composer takeover**: the input bar hides while the agent is asking, so you can't accidentally send a message mid-question.
+- **Ask DSH about a selection** — select code → right-click → *DSH: Ask about selection*, with a structured context card (file / selection / workspace / branch) i
+- **Review Agent Changes** — watches `write` / `edit` / `str_replace_editor` tool calls, reports changed files per turn, opens the native VS Code **git diff** in 
+
+## 📦 Install
+
+```bash
+git clone https://github.com/zhibailu/dsh-vsc.git
+cd dsh-vsc
+npm install
+npm run package        # esbuild build + vsce package → dsh-vsc-<version>.vsix
+code --install-extension dsh-vsc-<version>.vsix --force
+```
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run typecheck   # tsc --noEmit (both configs)
+npm run build       # esbuild → dist/extension.js + dist/media
+npm run package     # build + package vsix
+```
+
+## 📚 Learn more
+
+**Screenshots**
+
+**Sidebar & chat** — the native DSH panel: session list, streaming reply, collapsible "⚙ Actions", per-turn timing, `+N-M` stats <p align="center"></p> **Ask about selection** — select code in the editor, right-click → *DSH: Ask about selection* <p align="center"></p> **Ask card** — structured context card (file / selection / workspace / branch) shown in the panel <p align="center"></p> **Approval
+
+**Installation**
+
+> Requires Windows / macOS / Linux + VS Code `^1.90.0`. DSH itself does not need to be installed separately — the extension auto-starts one when none is running. **Option A — Release package (recommended)** 1. Download the latest `dsh-vsc-<version>.vsix` from [Releases](https://github.com/zhibailu/dsh-vsc/releases). 2. Install it (VS Code `Ctrl+Shift+P` → **Install from VSIX**, or command line): `
+
+**Quick start**
+
+1. **Reload the window** — required after install. 2. Click the **DSH** icon in the left activity bar to open the sidebar. 3. If no harness is running, the extension silently starts one (no window pops up); if one is running, it reuses it. 4. Send a message and watch the agent work. **No API key needed in the extension.** Your key stays on the DSH side (configured the first time you run `dsh web`)
+
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/zhibailu/dsh-vsc)
 - [Full README](https://github.com/zhibailu/dsh-vsc#readme)

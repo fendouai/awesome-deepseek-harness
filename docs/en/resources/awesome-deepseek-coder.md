@@ -5,20 +5,23 @@ keywords: "awesome-deepseek-coder, registry, awesome-list, search, deepseek harn
 ---
 # awesome-deepseek-coder
 
-> ⭐ 811 · ✅ active · awesome-list
+> ⭐ **811** · ✅ active · awesome-list · ⬆️ +1 recently
+
+| | | | |
+|---|---|---|---|
+| Type | awesome-list | Category | Registries |
+| Stars | ⭐ 811 | Status | ✅ active |
+| Author | [deepseek-ai](https://github.com/deepseek-ai) | Updated | 2025-11-11 |
 
 ## One-liner
 
-A curated list of open-source projects related to DeepSeek Coder
+> A curated list of open-source projects related to DeepSeek Coder
 
 ## About
 
 A curated list of open-source projects related to DeepSeek Coder.
 
-## Author
-**[deepseek-ai](https://github.com/deepseek-ai)**
-
-## Links
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/deepseek-ai/awesome-deepseek-coder)
 - [Full README](https://github.com/deepseek-ai/awesome-deepseek-coder#readme)

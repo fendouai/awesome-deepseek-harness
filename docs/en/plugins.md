@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 464 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 465 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐1,582 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | Whale-girl skin series for DSH Web (CC BY-NC-SA 4.0). | ✅ active |
 
-## Complete list (464)
+## Complete list (465)
 
 
 **Vision & multimodal (115)**
@@ -625,6 +625,14 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | Chinese public mutual fund research: public-source data collection and deterministic manager/portfolio metrics. | ✅ active |
 | [dsh-trading](resources/dsh-trading.md) | ⭐12 | Research-only trading workbench for DSH: typed market-data seam (BYO provider), multi-timeframe indicator snapshots, interactive chart cards with provenance-gated annotations, and a risk-guard denying execution-shaped tool calls. No execution seam by construction. | ✅ active |
 
+**Security (3)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management. | 🧪 experimental |
+| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
+| [dsh-plugin-auto-review](resources/dsh-plugin-auto-review.md) | ⭐1 | Automatically reviews native DSH tool approval requests through a configured DSH LLM route, with Web controls and fail-closed handling. | ✅ active |
+
 **Automation (3)**
 
 | Project | Stars | Description | Status |
@@ -632,13 +640,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-click](resources/dsh-click.md) | ⭐4 | Cross-platform native desktop control (Windows first): screenshot, screen read, click/type/scroll/key, app list and launch. | ✅ active |
 | [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. | ✅ active |
 | [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. | ✅ active |
-
-**Security (2)**
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management. | 🧪 experimental |
-| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
 
 **Multi-agent (1)**
 

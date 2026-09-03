@@ -8493,5 +8493,24 @@
     "status": "active",
     "verified": false,
     "stars": 0
+  },
+  {
+    "id": "dsh-plugin-auto-review",
+    "name": "dsh-plugin-auto-review",
+    "type": "plugin",
+    "category": "security",
+    "repository": "https://github.com/delef/dsh-plugin-auto-review",
+    "description": "Automatically reviews native DSH tool approval requests through a configured DSH LLM route, with Web controls and fail-closed handling.",
+    "description_zh": "通过已配置的 DSH LLM 路由自动审核原生工具审批请求，并提供 Web 控件与故障关闭处理。",
+    "capabilities": [
+      "security",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "install": "dsh plugin --profile web add dsh-plugin-auto-review",
+    "license": "Apache-2.0"
   }
 ]

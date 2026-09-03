@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,582 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
 
-#### 完整列表（464）
+#### 完整列表（465）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web) ⭐6,622 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -601,6 +601,7 @@ dsh web
 - [dsh-humanizer](https://github.com/lynote-ai/dsh-humanizer) ⭐1 — 写作工具：去除 AI 腔并贴合个人文风。8 个确定性工具扫描文本、从样本提取文风指纹，并返回改写 brief。（🧪 实验性）
 - [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin) ⭐1 — RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。（✅ 活跃）
 - [dsh-payload-capture](https://github.com/Moeblack/dsh-payload-capture) ⭐1 — 捕捉每次上行模型 API payload，JSON 落盘，用于调试与可观测性。（✅ 活跃）
+- [dsh-plugin-auto-review](https://github.com/delef/dsh-plugin-auto-review) ⭐1 — 通过已配置的 DSH LLM 路由自动审核原生工具审批请求，并提供 Web 控件与故障关闭处理。（✅ 活跃）
 - [dsh-plugin-evaluation-standards](https://github.com/dsh-plugin-evaluation/dsh-plugin-evaluation-standards) ⭐1 — Open evaluation datasets, test cases, and metrics for DSH plugins.（✅ 活跃）
 - [dsh-plugin-image-tools](https://github.com/Pasumao/dsh-plugin-image-tools) ⭐1 — DSH 图片插件：图片选择卡 + 回复内嵌图片 + 盲模型收图（✅ 活跃）
 - [dsh-plugin-manager-registry](https://github.com/Jesse-njx/dsh-plugin-manager-registry) ⭐1 — @dsh-pm/registry — discover dsh plugins by merging the awesome-dsh-plugin list, GitHub dsh-plugin-topic search, and npm keyword search into one deduped, offline-tolerant registry (the discovery engine of dsh pm)（✅ 活跃）
@@ -1334,7 +1335,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,582 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
 
-#### 完整列表（464）
+#### 完整列表（465）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web) ⭐6,622 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1764,6 +1765,7 @@ awesome-deepseek-harness/
 - [dsh-humanizer](https://github.com/lynote-ai/dsh-humanizer) ⭐1 — 写作工具：去除 AI 腔并贴合个人文风。8 个确定性工具扫描文本、从样本提取文风指纹，并返回改写 brief。（🧪 实验性）
 - [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin) ⭐1 — RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。（✅ 活跃）
 - [dsh-payload-capture](https://github.com/Moeblack/dsh-payload-capture) ⭐1 — 捕捉每次上行模型 API payload，JSON 落盘，用于调试与可观测性。（✅ 活跃）
+- [dsh-plugin-auto-review](https://github.com/delef/dsh-plugin-auto-review) ⭐1 — 通过已配置的 DSH LLM 路由自动审核原生工具审批请求，并提供 Web 控件与故障关闭处理。（✅ 活跃）
 - [dsh-plugin-evaluation-standards](https://github.com/dsh-plugin-evaluation/dsh-plugin-evaluation-standards) ⭐1 — Open evaluation datasets, test cases, and metrics for DSH plugins.（✅ 活跃）
 - [dsh-plugin-image-tools](https://github.com/Pasumao/dsh-plugin-image-tools) ⭐1 — DSH 图片插件：图片选择卡 + 回复内嵌图片 + 盲模型收图（✅ 活跃）
 - [dsh-plugin-manager-registry](https://github.com/Jesse-njx/dsh-plugin-manager-registry) ⭐1 — @dsh-pm/registry — discover dsh plugins by merging the awesome-dsh-plugin list, GitHub dsh-plugin-topic search, and npm keyword search into one deduped, offline-tolerant registry (the discovery engine of dsh pm)（✅ 活跃）

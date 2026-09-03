@@ -8220,5 +8220,140 @@
     "stars": 0,
     "install": "dsh plugin --profile web add github:zhengjy01/dsh-qqbot-panel",
     "license": "MIT"
+  },
+  {
+    "id": "dsh-industry-research",
+    "name": "dsh-industry-research",
+    "type": "plugin",
+    "category": "research",
+    "repository": "https://github.com/PerryLink/dsh-industry-research",
+    "description": "Industry and company research domain pack: methodology skills, an industry-chain structure model, public-source policy/news tracking, and company scan cards with auditable output.",
+    "description_zh": "行业与公司研究域包：方法论技能、产业链结构模型、公开源政策/新闻跟踪与公司扫描卡，输出可审计。",
+    "capabilities": [
+      "research"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 46
+  },
+  {
+    "id": "dsh-research-report",
+    "name": "dsh-research-report",
+    "type": "plugin",
+    "category": "research",
+    "repository": "https://github.com/PerryLink/dsh-research-report",
+    "description": "Verifiable research-report engine with a content-addressed evidence ledger and versioned sealed reports carrying per-claim verification verdicts.",
+    "description_zh": "可验证研究报告引擎：内容寻址证据台账 + 版本化封存报告，逐条声明带核验结论。",
+    "capabilities": [
+      "research"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 44
+  },
+  {
+    "id": "dsh-fund-research",
+    "name": "dsh-fund-research",
+    "type": "plugin",
+    "category": "research",
+    "repository": "https://github.com/PerryLink/dsh-fund-research",
+    "description": "Chinese public mutual fund research: public-source data collection and deterministic manager/portfolio metrics.",
+    "description_zh": "中国公募基金研究：公开源数据采集 + 确定性经理/组合指标计算。",
+    "capabilities": [
+      "research"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 18
+  },
+  {
+    "id": "dsh-data-quality",
+    "name": "dsh-data-quality",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/PerryLink/dsh-data-quality",
+    "description": "Deterministic data profiling, cleaning and verification with data_profile, data_clean and data_verify tools.",
+    "description_zh": "确定性数据画像、清洗与核验，提供 data_profile/data_clean/data_verify 工具。",
+    "capabilities": [
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 11
+  },
+  {
+    "id": "dsh-score",
+    "name": "dsh-score",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/PerryLink/dsh-score",
+    "description": "Multi-dimensional quality scoring for DSH plugins across install success, maintenance activity, documentation, security and protocol compliance.",
+    "description_zh": "DSH 插件多维质量评分：安装成功率、维护活跃度、文档完整度、安全与协议合规。",
+    "capabilities": [
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
+    "id": "dsh-click",
+    "name": "dsh-click",
+    "type": "plugin",
+    "category": "automation",
+    "repository": "https://github.com/PerryLink/dsh-click",
+    "description": "Cross-platform native desktop control (Windows first): screenshot, screen read, click/type/scroll/key, app list and launch.",
+    "description_zh": "跨平台原生桌面控制（Windows 优先）：截图、读屏、点击/输入/滚动/按键、应用列表与启动。",
+    "capabilities": [
+      "automation"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
+    "id": "dsh-draw",
+    "name": "dsh-draw",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/PerryLink/dsh-draw",
+    "description": "Unified text-to-image router with config-driven OpenAI-compatible engine routing and health-aware fallback.",
+    "description_zh": "统一文生图路由：配置驱动 OpenAI 兼容引擎路由 + 健康感知回退。",
+    "capabilities": [
+      "vision"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5
+  },
+  {
+    "id": "dsh-fast",
+    "name": "dsh-fast",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/PerryLink/dsh-fast",
+    "description": "Read-only performance diagnostics: session load timing, spill/compaction stats, context volume and LLM cache hit rate.",
+    "description_zh": "只读性能诊断：会话加载耗时、spill/压缩统计、上下文注入量与 LLM 缓存命中率。",
+    "capabilities": [
+      "observability"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-personal-directive",
+    "name": "dsh-personal-directive",
+    "type": "plugin",
+    "category": "input-editing",
+    "repository": "https://github.com/PerryLink/dsh-personal-directive",
+    "description": "Personal directives with system-prompt injection, tools and a top-bar runtime toggle (framework version with replaceable neutral placeholders).",
+    "description_zh": "个人指令插件：系统提示词注入、工具与顶部运行时开关（框架版，中性占位可替换）。",
+    "capabilities": [
+      "context"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 0
   }
 ]

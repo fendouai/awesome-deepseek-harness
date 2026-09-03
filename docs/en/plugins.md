@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 448 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 449 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-market](resources/dsh-market.md) | ⭐1,582 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-deep-whale](resources/dsh-deep-whale.md) | ⭐1,548 | Whale-girl skin series for DSH Web (CC BY-NC-SA 4.0). | ✅ active |
 
-## Complete list (448)
+## Complete list (449)
 
 
 **Vision & multimodal (114)**
@@ -154,6 +154,116 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-deepseek-balance](resources/dsh-deepseek-balance-1.md) | – | 面向deepseek harness的余额查看插件 | ✅ active |
 | [dsh-evoforge](resources/dsh-evoforge.md) | – | Evidence-driven, cache-stable extensions for DeepSeek Harness | ✅ active |
 
+**Developer tools (83)**
+
+*💰 Cost & billing (17)*
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [TokenTracker](resources/tokentracker.md) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
+| [dsh-usage-stats](resources/dsh-usage-stats.md) | ⭐98 | Token usage heatmap, per-model breakdowns, and DeepSeek account balance for the DeepSeek Harness Web GUI (dsh web). | ✅ active |
+| [dsh-remote](resources/dsh-remote-1.md) | ⭐31 | DSH Remote · 口袋里的 DSH 控制台 会话 · 审批 · 提问 · 文件传输，局域网 / Tailscale 直连 多服务器自动选优，聊天记录离线可看 带 Token 鉴权，数据只在你的设备之间流动 Sessions · approvals · questions · file transfer over LAN / Tailscale. Automatic fastest-server selection. Chat history available offline. Token-authenticated — your data flows only between your devices. | ✅ active |
+| [dsh-balance](resources/dsh-balance.md) | ⭐23 | DeepSeek Harness balance plugin for the Settings page. | ✅ active |
+| [dsh-balance-meter](resources/dsh-balance-meter.md) | ⭐19 | DeepSeek account balance and session cost readout for the DeepSeek Harness Web GUI | ✅ active |
+| [dsh-opencode-go-usage](resources/dsh-opencode-go-usage.md) | ⭐13 | DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) | ✅ active |
+| [dsh-sdk-platform-rs](resources/dsh-sdk-platform-rs.md) | ⭐11 | A Rust SDK to interact with the DSH Platform. This library provides convenient building blocks for services that need to connect to DSH Kafka, fetch tokens for various protocols, manage Prometheus metrics, and more. | ✅ active |
+| [DeepSeek-Harness-billing-plugin](resources/dsh-deepseek-billing.md) | ⭐9 | Account balance plus per-model remaining-task estimator with a session cost ledger. | ✅ active |
+| [dsh-hud](resources/dsh-hud.md) | ⭐9 | HUD status panel: git status, MCP servers, skills, model and token usage in a floating side panel. | ✅ active |
+| [dsh-tool-stat](resources/dsh-tool-stat.md) | ⭐6 | DSH 统计工具插件：描述统计/百分位数/频数分布/相关性，零依赖纯函数确定性 | ✅ active |
+| [dsh-calculator](resources/dsh-calculator.md) | ⭐5 | Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness. | ✅ active |
+| [dsh-cost-plugin](resources/dsh-cost-plugin.md) | ⭐5 | DSH 费用/余额读数插件：在输入框统计行旁实时显示「本次 ≈¥x · 会话 ≈¥x · 余额 ¥x」，内置 DeepSeek 官方价目表，支持 2026-08-17 起生效的峰谷定价（按节点时间戳自动选档），余额经官方 /user/balance 实时查询，失败静默降级。 | ✅ active |
+| [dsh-tool-csv](resources/dsh-tool-csv.md) | ⭐4 | DSH CSV 数据工具插件：解析/查询/统计/转换 CSV 文本（RFC 4180），零依赖状态机解析器，注册 csv 工具 | ✅ active |
+| [dsh-usage-plugin](resources/dsh-usage-plugin.md) | ⭐3 | DeepSeek Harness (DSH) plugins. First: dsh-usage-report — per-session token usage & estimated cost (/usage + usage_report), priced from the DeepSeek pricing table. | ✅ active |
+| [dsh-agent-budget](resources/dsh-agent-budget.md) | ⭐2 | Native Harness agent-tree token budget plugin | ✅ active |
+| [dsh-client-auto-retry](resources/dsh-client-auto-retry.md) | – | Auto-resumes interrupted DSH turns: sends a queued 继续 after error/interrupted/max-tokens turn-end, with grace period, cooldown, consecutive cap, boot scan and a settings card; never switches models or providers. | ✅ active |
+| [dsh-llm-local-token](resources/dsh-llm-local-token.md) | – | DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. | ✅ active |
+*Other (17)*
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-toy](resources/dsh-toy.md) | ⭐64 | Toy Control Protocol for DSH | ✅ active |
+| [dsh-quant](resources/dsh-quant.md) | ⭐26 | "🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS " | ✅ active |
+| [dsh-scholar](resources/dsh-scholar.md) | ⭐25 | dsh-scholar | ✅ active |
+| [dsh-llm-fallbacks](resources/dsh-llm-fallbacks.md) | ⭐20 | An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件 | ✅ active |
+| [compass](resources/compass.md) | ⭐18 | 🧭 Let your coding agent off the leash — not off the rails. Guardrails, a hard budget cap & a self-fixing PR loop for Claude Code / Codex / Gemini. Eval-gated 100/100, you always merge. | ✅ active |
+| [weshop-dsh-plugin](resources/weshop-dsh-plugin.md) | ⭐12 | Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills. | ✅ active |
+| [dsh-plugin-auto-blame](resources/dsh-plugin-auto-blame.md) | ⭐9 | 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips | ✅ active |
+| [dsh-ohos-patch](resources/dsh-ohos-patch.md) | ⭐6 | 让deepseek harness能在 ohos上跑！ | ✅ active |
+| [dsh-llm-verifier](resources/dsh-llm-verifier.md) | ⭐4 | Runs 3 or 5 isolated coding-agent candidates, validates their patches, ranks passing candidates with an LLM verifier, and applies the winner only after approval. | ✅ active |
+| [dsh-verification-receipt](resources/dsh-verification-receipt.md) | ⭐4 | Privacy-minimal heuristic per-turn verification summaries for DeepSeek Harness | ✅ active |
+| [dsh-plugins-raincode](resources/dsh-plugins-raincode.md) | ⭐3 | dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览 | ✅ active |
+| [dsh-better-stats](resources/dsh-better-stats.md) | ⭐2 | Enhanced stats strip for the DeepSeek Harness Web UI: official CNY pricing (peak/off-peak tiers, auto price sync), per-model accounting, live timers, agent-team tree merging, direct balance, budget alerts and streaming cost estimation. | ✅ active |
+| [dsh-session-search](resources/dsh-session-search.md) | ⭐2 | Index-free cross-agent session search for DeepSeek Harness. | ✅ active |
+| [dsh-tps](resources/dsh-tps.md) | ⭐1 | 只是一个 tps 插件 | ✅ active |
+| [dsh-super-pm](resources/dsh-super-pm.md) | – | Product-thinking companion for DeepSeek Harness: clarifies negative boundaries first, separates facts from assumptions, routes through seven product lenses, and persists confirmed decisions to project memory. | ✅ active |
+| [dsh-upload](resources/dsh-upload.md) | – | Upload button for the DSH web composer: local files land as bytes in the session workspace (.uploads/<sessionId>/), the absolute path is appended to the draft (visible and editable), and the agent reads the file with its own fs tools. Zero dependencies. / DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。 | ✅ active |
+| [dsh-word-docs](resources/dsh-word-docs.md) | – | Word document toolkit for DeepSeek Harness: generate, edit, extract, stat and convert .docx with a pure-stdlib Python engine (zero dependencies), registering the word_docs tool and word-docs skill. / DeepSeek Harness 的 Word 文档工具：纯 Python 标准库生成、编辑、提取、统计并转换 .docx，零依赖。 | ✅ active |
+*📁 Files & import (15)*
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-at-file](resources/dsh-at-file.md) | ⭐445 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
+| [dsh-turn-rewind](resources/dsh-turn-rewind.md) | ⭐94 | Rewind conversation and workspace state, powered by a persistent change ledger. | ✅ active |
+| [dsh-chat-import](resources/dsh-chat-import.md) | ⭐87 | Import conversation history from Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix and OpenCode into resumable DSH sessions. | ✅ active |
+| [dsh-open-in-vscode](resources/dsh-open-in-vscode.md) | ⭐53 | Open DSH workspace directories/files directly in VS Code from the web GUI. | ✅ active |
+| [dsh-deepread](resources/dsh-deepread.md) | ⭐41 | Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs. | ✅ active |
+| [dsh-plugin-mineru](resources/dsh-plugin-mineru.md) | ⭐38 | Expose MinerU document parsing to the model: PDF/images/DOCX/PPTX/XLSX to structured Markdown/JSON. | ✅ active |
+| [dsh-remote](resources/dsh-remote.md) | ⭐31 | Remote workspace: connect a host over SSH and operate a remote directory with rw_* tools. | ✅ active |
+| [dsh-evolve](resources/dsh-evolve.md) | ⭐12 | 自进化插件：agent 在 session 内随对话给自己长出/剪掉能力 —— evolve_add 热挂载持久化 cordis 插件（下一 step 工具即可见），evolve_remove 可逆卸载，重启自动恢复 | ✅ active |
+| [dsh-file-mentions](resources/dsh-file-mentions.md) | ⭐11 | Clickable file paths in DSH replies: inline open, reveal in file manager and a mentioned-files chip list. | ✅ active |
+| [dsh-pdf](resources/dsh-pdf.md) | ⭐7 | PDF toolbox: extract text, metadata and page ranges via pdfjs-dist, local with no API key. | ✅ active |
+| [dsh-file-claim](resources/dsh-file-claim.md) | ⭐6 | File ownership/claim system for parallel agent sessions on the same project: claim/release, heartbeat stale takeover and async 3-way merge. | ✅ active |
+| [dsh-conversation-share](resources/dsh-conversation-share.md) | ⭐3 | 分享任意段落的 DSH 对话 | ✅ active |
+| [dsh-telemetry-redactor](resources/dsh-telemetry-redactor.md) | ⭐3 | Fail-closed export-copy redaction for DeepSeek Harness session telemetry | ✅ active |
+| [dsh-workspace-menu](resources/dsh-workspace-menu.md) | ⭐2 | DSH workspace/chat enhancement menu: pin, rename, open in file explorer, archive, fork, copy, new window. Settings integrated into General. | ✅ active |
+| [dsh-routines](resources/dsh-routines.md) | ⭐1 | dsh-routines — scheduled agents for DSH: run a prompt on a cron, get the digest where you already are (file digests, chatnode delivery, unattended-safe) | ✅ active |
+*🧪 Code, tests & review (13)*
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-message-edit](resources/dsh-message-edit.md) | ⭐35 | Branch-based message editing, reroll, retry and version timeline. | ✅ active |
+| [dsh-toolkit](resources/dsh-toolkit.md) | ⭐24 | Zero-dependency tool suite: calculator, CSV, diff, encoding, JSON, Markdown, regex and time utilities. | ✅ active |
+| [dsh-plugin-better-sidebar-plugin-office](resources/dsh-annotation-office.md) | ⭐23 | Office-suite preview (.docx/.xlsx/.pptx) for the Better Sidebar, as a standalone slim bundle. | ✅ active |
+| [dsh-advisor](resources/dsh-advisor.md) | ⭐16 | Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。 | ✅ active |
+| [dsh-git-identity](resources/dsh-git-identity.md) | ⭐7 | DSH 插件：git 提交固定使用环境自身作者身份（优先 gh CLI 登录账号，GitHub noreply 邮箱），GIT_AUTHOR_*/GIT_COMMITTER_* 环境变量注入压过一切 git config | ✅ active |
+| [dsh-plugin-anydoc](resources/dsh-anydoc.md) | ⭐6 | Convert Word, PPT, Excel, PDF, EPUB and CSV documents to GitHub-Flavored Markdown via @firecrawl/anydoc. | ✅ active |
+| [dsh-git-status](resources/dsh-git-status.md) | ⭐4 | Git status (Git Graph) plugin for DSH: commit DAG lane graph + uncommitted changes/stash + inline diffs + branch operations. DSH 插件：Git 状态浮窗（泳道图/未提交/stash/diff/分支操作）。 | ✅ active |
+| [dsh-tool-diff](resources/dsh-tool-diff.md) | ⭐4 | DSH Diff 工具插件：文本/JSON/CSV/Markdown 结构化比较与 unified diff，零依赖只读，注册 diff 工具 | ✅ active |
+| [dsh-prompt-studio](resources/dsh-prompt-studio.md) | ⭐3 | Edit user and built-in system-prompt sections with live preview. | ✅ active |
+| [dsh-test-runner](resources/dsh-test-runner.md) | ⭐2 | Structured test runner tool: auto-detect vitest/jest/pytest/node:test, run tests and parse failure summaries for the model. | ✅ active |
+| [dsh-plugin-evaluation-standards](resources/dsh-plugin-evaluation-standards.md) | ⭐1 | Open evaluation datasets, test cases, and metrics for DSH plugins. | ✅ active |
+| [dsh-repo-setup](resources/dsh-repo-setup.md) | ⭐1 | Read-only repo bootstrap scanner (repo_setup_scan tool): detects stack/tests/docs/git/db and recommends plugins, MCP servers and hygiene files (claude-code-setup counterpart). | ✅ active |
+| [dsh-git-branch-switcher](resources/dsh-git-branch-switcher.md) | – | Session-header git branch pill: shows the workspace branch and switches it from the Web UI. | ✅ active |
+*🧰 Toolkits (12)*
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-custom-tool](resources/dsh-custom-tool.md) | ⭐24 | Create and manage sandboxed JavaScript tools for DSH with a Monaco editor and model-driven tool lists. | ✅ active |
+| [dsh-side-chat](resources/dsh-side-chat.md) | ⭐12 | 一个 DSH 网页插件，Codex 式侧边聊天的强化版本： 在右侧面板提供按主会话隔离的独立聊天，具备 Codex 式的智能体能力——继承主会话的 工具集、模型、思考难度与权限预设，能感知所在工作目录；选中对话内容即可提问，AI 回复 也能带回主会话（直接带回或摘要后带回，写入草稿或注入为折叠提示行）。  在 Codex 式能力之上，它额外支持：当主会话的智能体弹出问题弹框向你提问时，可以 把问题与各个选项带入侧边聊天、让 AI 帮你分析，不必打断当前流程——想清楚后把答案 带回，再回答弹框即可。 | ✅ active |
+| [dsh-plugin-interpreters](resources/dsh-interpreters.md) | ⭐9 | Expose run_python/run_node tools that execute code via stdin and return stdout/stderr/exit code. | ✅ active |
+| [dsh-bash-encoding](resources/dsh-bash-encoding.md) | ⭐8 | DSH bash 输出编码自动识别插件：替换 ctx.bash，自管 spawn 收集原始字节，自动检测 UTF-16LE/UTF-8/GBK 等编码并正确解码，修复 WSL/Windows 下 bash 工具的中文乱码。 | ✅ active |
+| [dsh-director-toolkit](resources/dsh-director-toolkit.md) | ⭐7 | DSH Director Toolkit is a DeepSeek Harness plugin for 3D artists, technical designers, and creative coders. Paste a half-formed idea, a reference note, or a portfolio caption and get a compact direction pack for Blender, Three.js, Houdini, or C4D. | ✅ active |
+| [dsh-weather](resources/dsh-weather.md) | ⭐7 | Weather tool: current conditions and multi-day forecasts via Open-Meteo, free with no API key. | ✅ active |
+| [dsh-revive](resources/dsh-revive.md) | ⭐4 | DSH 一键复活：重启后给所有被打断的会话自动发送「继续」指令（/revive 命令 + revive_sessions 工具 + 浏览器一键按钮） | ✅ active |
+| [dsh-tool-markdown](resources/dsh-tool-markdown.md) | ⭐4 | DSH Markdown 工具插件：HTML↔Markdown 转换、GFM 表格规范化、目录生成，零依赖轻量解析器，注册 markdown 工具 | ✅ active |
+| [dsh-tool-json](resources/dsh-tool-json.md) | ⭐3 | DSH JSON 查询工具插件：JMESPath 子集查询，零依赖递归下降解析器 | ✅ active |
+| [dsh-tool-schema](resources/dsh-tool-schema.md) | ⭐3 | DSH JSON Schema 验证工具插件：validate/paths/explain/normalize，零网络零动态执行 | ✅ active |
+| [dsh-tool-search](resources/dsh-tool-search.md) | ⭐3 | Per-agent on-demand tool discovery and progressive schema disclosure. | ✅ active |
+| [dsh-humanizer](resources/dsh-humanizer.md) | ⭐1 | Writing tool for the agent: removes AI-sounding patterns and clones your personal voice. 8 deterministic tools scan text, build a style fingerprint from your samples, and return rewrite briefs. | 🧪 experimental |
+*🛡️ Security & ops (9)*
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-plugin-check](resources/dsh-plugin-check.md) | ⭐27 | Plugin health checks: manifest protocol, patch format, build pitfalls and hub listing status, zero-dependency read-only. | ✅ active |
+| [dsh-security-audit](resources/dsh-security-audit.md) | ⭐13 | DSH 本机安全审计插件：配置/插件来源/会话/网络暴露面，只读脱敏风险报告 | ✅ active |
+| [dsh-tool-calculator](resources/dsh-tool-calculator.md) | ⭐8 | DSH 计算器工具插件：安全的数学表达式求值器，零依赖递归下降解析器 | ✅ active |
+| [dsh-approval-gate](resources/dsh-approval-gate.md) | ⭐4 | Risk-gated approval automation for DeepSeek Harness: flash pre-classifies whether a write/command is irreversible — safe operations are auto-approved, dangerous ones are escalated to human approval (fail-safe). | ✅ active |
+| [dsh-tool-git](resources/dsh-tool-git.md) | ⭐4 | Structured safe Git tools: status/diff/log/branch/stage/commit/stash/show with a destructive-command guard. | ✅ active |
+| [dsh-llm-inspector](resources/dsh-llm-inspector.md) | ⭐3 | Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis. | ✅ active |
+| [dsh-tool-regex](resources/dsh-tool-regex.md) | ⭐3 | DSH 正则工具插件：测试匹配/提取捕获组/安全替换/静态解释正则（不执行代码），零依赖，注册 regex 工具 | ✅ active |
+| [dsh-review-loop](resources/dsh-review-loop.md) | ⭐2 | Incremental diff reviewer: checkpoint-based review queue with a Web UI panel and /review command. | ✅ active |
+| [dsh-routed-subagent](resources/dsh-routed-subagent.md) | – | Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. | ✅ active |
+
 **UI & experience (82)**
 
 *Other (20)*
@@ -270,115 +380,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [dsh-file-upload](resources/dsh-file-upload.md) | ⭐20 | DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining, read_document tool for agents. | ✅ active |
-
-**Developer tools (82)**
-
-*💰 Cost & billing (17)*
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [TokenTracker](resources/tokentracker.md) | ⭐1,395 | Local-first AI token usage & cost tracker for 31 coding tools including Claude Code, Codex, Cursor, Gemini & DeepSeek Harness. | ✅ active |
-| [dsh-usage-stats](resources/dsh-usage-stats.md) | ⭐98 | Token usage heatmap, per-model breakdowns, and DeepSeek account balance for the DeepSeek Harness Web GUI (dsh web). | ✅ active |
-| [dsh-remote](resources/dsh-remote-1.md) | ⭐31 | DSH Remote · 口袋里的 DSH 控制台 会话 · 审批 · 提问 · 文件传输，局域网 / Tailscale 直连 多服务器自动选优，聊天记录离线可看 带 Token 鉴权，数据只在你的设备之间流动 Sessions · approvals · questions · file transfer over LAN / Tailscale. Automatic fastest-server selection. Chat history available offline. Token-authenticated — your data flows only between your devices. | ✅ active |
-| [dsh-balance](resources/dsh-balance.md) | ⭐23 | DeepSeek Harness balance plugin for the Settings page. | ✅ active |
-| [dsh-balance-meter](resources/dsh-balance-meter.md) | ⭐19 | DeepSeek account balance and session cost readout for the DeepSeek Harness Web GUI | ✅ active |
-| [dsh-opencode-go-usage](resources/dsh-opencode-go-usage.md) | ⭐13 | DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) | ✅ active |
-| [dsh-sdk-platform-rs](resources/dsh-sdk-platform-rs.md) | ⭐11 | A Rust SDK to interact with the DSH Platform. This library provides convenient building blocks for services that need to connect to DSH Kafka, fetch tokens for various protocols, manage Prometheus metrics, and more. | ✅ active |
-| [DeepSeek-Harness-billing-plugin](resources/dsh-deepseek-billing.md) | ⭐9 | Account balance plus per-model remaining-task estimator with a session cost ledger. | ✅ active |
-| [dsh-hud](resources/dsh-hud.md) | ⭐9 | HUD status panel: git status, MCP servers, skills, model and token usage in a floating side panel. | ✅ active |
-| [dsh-tool-stat](resources/dsh-tool-stat.md) | ⭐6 | DSH 统计工具插件：描述统计/百分位数/频数分布/相关性，零依赖纯函数确定性 | ✅ active |
-| [dsh-calculator](resources/dsh-calculator.md) | ⭐5 | Calculate the real-time cost of DeepSeek API calls made by DeepSeek Harness. | ✅ active |
-| [dsh-cost-plugin](resources/dsh-cost-plugin.md) | ⭐5 | DSH 费用/余额读数插件：在输入框统计行旁实时显示「本次 ≈¥x · 会话 ≈¥x · 余额 ¥x」，内置 DeepSeek 官方价目表，支持 2026-08-17 起生效的峰谷定价（按节点时间戳自动选档），余额经官方 /user/balance 实时查询，失败静默降级。 | ✅ active |
-| [dsh-tool-csv](resources/dsh-tool-csv.md) | ⭐4 | DSH CSV 数据工具插件：解析/查询/统计/转换 CSV 文本（RFC 4180），零依赖状态机解析器，注册 csv 工具 | ✅ active |
-| [dsh-usage-plugin](resources/dsh-usage-plugin.md) | ⭐3 | DeepSeek Harness (DSH) plugins. First: dsh-usage-report — per-session token usage & estimated cost (/usage + usage_report), priced from the DeepSeek pricing table. | ✅ active |
-| [dsh-agent-budget](resources/dsh-agent-budget.md) | ⭐2 | Native Harness agent-tree token budget plugin | ✅ active |
-| [dsh-client-auto-retry](resources/dsh-client-auto-retry.md) | – | Auto-resumes interrupted DSH turns: sends a queued 继续 after error/interrupted/max-tokens turn-end, with grace period, cooldown, consecutive cap, boot scan and a settings card; never switches models or providers. | ✅ active |
-| [dsh-llm-local-token](resources/dsh-llm-local-token.md) | – | DeepSeek Harness provider routes that reuse local Codex CLI and Claude Code OAuth tokens instead of API keys. | ✅ active |
-*Other (16)*
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-toy](resources/dsh-toy.md) | ⭐64 | Toy Control Protocol for DSH | ✅ active |
-| [dsh-quant](resources/dsh-quant.md) | ⭐26 | "🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS " | ✅ active |
-| [dsh-scholar](resources/dsh-scholar.md) | ⭐25 | dsh-scholar | ✅ active |
-| [dsh-llm-fallbacks](resources/dsh-llm-fallbacks.md) | ⭐20 | An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件 | ✅ active |
-| [compass](resources/compass.md) | ⭐18 | 🧭 Let your coding agent off the leash — not off the rails. Guardrails, a hard budget cap & a self-fixing PR loop for Claude Code / Codex / Gemini. Eval-gated 100/100, you always merge. | ✅ active |
-| [weshop-dsh-plugin](resources/weshop-dsh-plugin.md) | ⭐12 | Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills. | ✅ active |
-| [dsh-plugin-auto-blame](resources/dsh-plugin-auto-blame.md) | ⭐9 | 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips | ✅ active |
-| [dsh-ohos-patch](resources/dsh-ohos-patch.md) | ⭐6 | 让deepseek harness能在 ohos上跑！ | ✅ active |
-| [dsh-llm-verifier](resources/dsh-llm-verifier.md) | ⭐4 | Runs 3 or 5 isolated coding-agent candidates, validates their patches, ranks passing candidates with an LLM verifier, and applies the winner only after approval. | ✅ active |
-| [dsh-verification-receipt](resources/dsh-verification-receipt.md) | ⭐4 | Privacy-minimal heuristic per-turn verification summaries for DeepSeek Harness | ✅ active |
-| [dsh-plugins-raincode](resources/dsh-plugins-raincode.md) | ⭐3 | dsh plugin: DeepSeek Harness 的模型层 = raincode(模型池/缓存/重试) + /skills 浏览 | ✅ active |
-| [dsh-better-stats](resources/dsh-better-stats.md) | ⭐2 | Enhanced stats strip for the DeepSeek Harness Web UI: official CNY pricing (peak/off-peak tiers, auto price sync), per-model accounting, live timers, agent-team tree merging, direct balance, budget alerts and streaming cost estimation. | ✅ active |
-| [dsh-session-search](resources/dsh-session-search.md) | ⭐2 | Index-free cross-agent session search for DeepSeek Harness. | ✅ active |
-| [dsh-tps](resources/dsh-tps.md) | ⭐1 | 只是一个 tps 插件 | ✅ active |
-| [dsh-upload](resources/dsh-upload.md) | – | Upload button for the DSH web composer: local files land as bytes in the session workspace (.uploads/<sessionId>/), the absolute path is appended to the draft (visible and editable), and the agent reads the file with its own fs tools. Zero dependencies. / DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。 | ✅ active |
-| [dsh-word-docs](resources/dsh-word-docs.md) | – | Word document toolkit for DeepSeek Harness: generate, edit, extract, stat and convert .docx with a pure-stdlib Python engine (zero dependencies), registering the word_docs tool and word-docs skill. / DeepSeek Harness 的 Word 文档工具：纯 Python 标准库生成、编辑、提取、统计并转换 .docx，零依赖。 | ✅ active |
-*📁 Files & import (15)*
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-at-file](resources/dsh-at-file.md) | ⭐445 | Codex-style @file mentions inside the DSH composer: search workspace files and attach their contents to prompts. | ✅ active |
-| [dsh-turn-rewind](resources/dsh-turn-rewind.md) | ⭐94 | Rewind conversation and workspace state, powered by a persistent change ledger. | ✅ active |
-| [dsh-chat-import](resources/dsh-chat-import.md) | ⭐87 | Import conversation history from Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix and OpenCode into resumable DSH sessions. | ✅ active |
-| [dsh-open-in-vscode](resources/dsh-open-in-vscode.md) | ⭐53 | Open DSH workspace directories/files directly in VS Code from the web GUI. | ✅ active |
-| [dsh-deepread](resources/dsh-deepread.md) | ⭐41 | Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs. | ✅ active |
-| [dsh-plugin-mineru](resources/dsh-plugin-mineru.md) | ⭐38 | Expose MinerU document parsing to the model: PDF/images/DOCX/PPTX/XLSX to structured Markdown/JSON. | ✅ active |
-| [dsh-remote](resources/dsh-remote.md) | ⭐31 | Remote workspace: connect a host over SSH and operate a remote directory with rw_* tools. | ✅ active |
-| [dsh-evolve](resources/dsh-evolve.md) | ⭐12 | 自进化插件：agent 在 session 内随对话给自己长出/剪掉能力 —— evolve_add 热挂载持久化 cordis 插件（下一 step 工具即可见），evolve_remove 可逆卸载，重启自动恢复 | ✅ active |
-| [dsh-file-mentions](resources/dsh-file-mentions.md) | ⭐11 | Clickable file paths in DSH replies: inline open, reveal in file manager and a mentioned-files chip list. | ✅ active |
-| [dsh-pdf](resources/dsh-pdf.md) | ⭐7 | PDF toolbox: extract text, metadata and page ranges via pdfjs-dist, local with no API key. | ✅ active |
-| [dsh-file-claim](resources/dsh-file-claim.md) | ⭐6 | File ownership/claim system for parallel agent sessions on the same project: claim/release, heartbeat stale takeover and async 3-way merge. | ✅ active |
-| [dsh-conversation-share](resources/dsh-conversation-share.md) | ⭐3 | 分享任意段落的 DSH 对话 | ✅ active |
-| [dsh-telemetry-redactor](resources/dsh-telemetry-redactor.md) | ⭐3 | Fail-closed export-copy redaction for DeepSeek Harness session telemetry | ✅ active |
-| [dsh-workspace-menu](resources/dsh-workspace-menu.md) | ⭐2 | DSH workspace/chat enhancement menu: pin, rename, open in file explorer, archive, fork, copy, new window. Settings integrated into General. | ✅ active |
-| [dsh-routines](resources/dsh-routines.md) | ⭐1 | dsh-routines — scheduled agents for DSH: run a prompt on a cron, get the digest where you already are (file digests, chatnode delivery, unattended-safe) | ✅ active |
-*🧪 Code, tests & review (13)*
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-message-edit](resources/dsh-message-edit.md) | ⭐35 | Branch-based message editing, reroll, retry and version timeline. | ✅ active |
-| [dsh-toolkit](resources/dsh-toolkit.md) | ⭐24 | Zero-dependency tool suite: calculator, CSV, diff, encoding, JSON, Markdown, regex and time utilities. | ✅ active |
-| [dsh-plugin-better-sidebar-plugin-office](resources/dsh-annotation-office.md) | ⭐23 | Office-suite preview (.docx/.xlsx/.pptx) for the Better Sidebar, as a standalone slim bundle. | ✅ active |
-| [dsh-advisor](resources/dsh-advisor.md) | ⭐16 | Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。 | ✅ active |
-| [dsh-git-identity](resources/dsh-git-identity.md) | ⭐7 | DSH 插件：git 提交固定使用环境自身作者身份（优先 gh CLI 登录账号，GitHub noreply 邮箱），GIT_AUTHOR_*/GIT_COMMITTER_* 环境变量注入压过一切 git config | ✅ active |
-| [dsh-plugin-anydoc](resources/dsh-anydoc.md) | ⭐6 | Convert Word, PPT, Excel, PDF, EPUB and CSV documents to GitHub-Flavored Markdown via @firecrawl/anydoc. | ✅ active |
-| [dsh-git-status](resources/dsh-git-status.md) | ⭐4 | Git status (Git Graph) plugin for DSH: commit DAG lane graph + uncommitted changes/stash + inline diffs + branch operations. DSH 插件：Git 状态浮窗（泳道图/未提交/stash/diff/分支操作）。 | ✅ active |
-| [dsh-tool-diff](resources/dsh-tool-diff.md) | ⭐4 | DSH Diff 工具插件：文本/JSON/CSV/Markdown 结构化比较与 unified diff，零依赖只读，注册 diff 工具 | ✅ active |
-| [dsh-prompt-studio](resources/dsh-prompt-studio.md) | ⭐3 | Edit user and built-in system-prompt sections with live preview. | ✅ active |
-| [dsh-test-runner](resources/dsh-test-runner.md) | ⭐2 | Structured test runner tool: auto-detect vitest/jest/pytest/node:test, run tests and parse failure summaries for the model. | ✅ active |
-| [dsh-plugin-evaluation-standards](resources/dsh-plugin-evaluation-standards.md) | ⭐1 | Open evaluation datasets, test cases, and metrics for DSH plugins. | ✅ active |
-| [dsh-repo-setup](resources/dsh-repo-setup.md) | ⭐1 | Read-only repo bootstrap scanner (repo_setup_scan tool): detects stack/tests/docs/git/db and recommends plugins, MCP servers and hygiene files (claude-code-setup counterpart). | ✅ active |
-| [dsh-git-branch-switcher](resources/dsh-git-branch-switcher.md) | – | Session-header git branch pill: shows the workspace branch and switches it from the Web UI. | ✅ active |
-*🧰 Toolkits (12)*
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-custom-tool](resources/dsh-custom-tool.md) | ⭐24 | Create and manage sandboxed JavaScript tools for DSH with a Monaco editor and model-driven tool lists. | ✅ active |
-| [dsh-side-chat](resources/dsh-side-chat.md) | ⭐12 | 一个 DSH 网页插件，Codex 式侧边聊天的强化版本： 在右侧面板提供按主会话隔离的独立聊天，具备 Codex 式的智能体能力——继承主会话的 工具集、模型、思考难度与权限预设，能感知所在工作目录；选中对话内容即可提问，AI 回复 也能带回主会话（直接带回或摘要后带回，写入草稿或注入为折叠提示行）。  在 Codex 式能力之上，它额外支持：当主会话的智能体弹出问题弹框向你提问时，可以 把问题与各个选项带入侧边聊天、让 AI 帮你分析，不必打断当前流程——想清楚后把答案 带回，再回答弹框即可。 | ✅ active |
-| [dsh-plugin-interpreters](resources/dsh-interpreters.md) | ⭐9 | Expose run_python/run_node tools that execute code via stdin and return stdout/stderr/exit code. | ✅ active |
-| [dsh-bash-encoding](resources/dsh-bash-encoding.md) | ⭐8 | DSH bash 输出编码自动识别插件：替换 ctx.bash，自管 spawn 收集原始字节，自动检测 UTF-16LE/UTF-8/GBK 等编码并正确解码，修复 WSL/Windows 下 bash 工具的中文乱码。 | ✅ active |
-| [dsh-director-toolkit](resources/dsh-director-toolkit.md) | ⭐7 | DSH Director Toolkit is a DeepSeek Harness plugin for 3D artists, technical designers, and creative coders. Paste a half-formed idea, a reference note, or a portfolio caption and get a compact direction pack for Blender, Three.js, Houdini, or C4D. | ✅ active |
-| [dsh-weather](resources/dsh-weather.md) | ⭐7 | Weather tool: current conditions and multi-day forecasts via Open-Meteo, free with no API key. | ✅ active |
-| [dsh-revive](resources/dsh-revive.md) | ⭐4 | DSH 一键复活：重启后给所有被打断的会话自动发送「继续」指令（/revive 命令 + revive_sessions 工具 + 浏览器一键按钮） | ✅ active |
-| [dsh-tool-markdown](resources/dsh-tool-markdown.md) | ⭐4 | DSH Markdown 工具插件：HTML↔Markdown 转换、GFM 表格规范化、目录生成，零依赖轻量解析器，注册 markdown 工具 | ✅ active |
-| [dsh-tool-json](resources/dsh-tool-json.md) | ⭐3 | DSH JSON 查询工具插件：JMESPath 子集查询，零依赖递归下降解析器 | ✅ active |
-| [dsh-tool-schema](resources/dsh-tool-schema.md) | ⭐3 | DSH JSON Schema 验证工具插件：validate/paths/explain/normalize，零网络零动态执行 | ✅ active |
-| [dsh-tool-search](resources/dsh-tool-search.md) | ⭐3 | Per-agent on-demand tool discovery and progressive schema disclosure. | ✅ active |
-| [dsh-humanizer](resources/dsh-humanizer.md) | ⭐1 | Writing tool for the agent: removes AI-sounding patterns and clones your personal voice. 8 deterministic tools scan text, build a style fingerprint from your samples, and return rewrite briefs. | 🧪 experimental |
-*🛡️ Security & ops (9)*
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-plugin-check](resources/dsh-plugin-check.md) | ⭐27 | Plugin health checks: manifest protocol, patch format, build pitfalls and hub listing status, zero-dependency read-only. | ✅ active |
-| [dsh-security-audit](resources/dsh-security-audit.md) | ⭐13 | DSH 本机安全审计插件：配置/插件来源/会话/网络暴露面，只读脱敏风险报告 | ✅ active |
-| [dsh-tool-calculator](resources/dsh-tool-calculator.md) | ⭐8 | DSH 计算器工具插件：安全的数学表达式求值器，零依赖递归下降解析器 | ✅ active |
-| [dsh-approval-gate](resources/dsh-approval-gate.md) | ⭐4 | Risk-gated approval automation for DeepSeek Harness: flash pre-classifies whether a write/command is irreversible — safe operations are auto-approved, dangerous ones are escalated to human approval (fail-safe). | ✅ active |
-| [dsh-tool-git](resources/dsh-tool-git.md) | ⭐4 | Structured safe Git tools: status/diff/log/branch/stage/commit/stash/show with a destructive-command guard. | ✅ active |
-| [dsh-llm-inspector](resources/dsh-llm-inspector.md) | ⭐3 | Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis. | ✅ active |
-| [dsh-tool-regex](resources/dsh-tool-regex.md) | ⭐3 | DSH 正则工具插件：测试匹配/提取捕获组/安全替换/静态解释正则（不执行代码），零依赖，注册 regex 工具 | ✅ active |
-| [dsh-review-loop](resources/dsh-review-loop.md) | ⭐2 | Incremental diff reviewer: checkpoint-based review queue with a Web UI panel and /review command. | ✅ active |
-| [dsh-routed-subagent](resources/dsh-routed-subagent.md) | – | Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. | ✅ active |
 
 **Search & research (74)**
 

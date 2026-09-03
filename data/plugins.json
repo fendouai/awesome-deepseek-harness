@@ -8220,5 +8220,22 @@
     "stars": 0,
     "install": "dsh plugin --profile web add github:zhengjy01/dsh-qqbot-panel",
     "license": "MIT"
+  },
+  {
+    "id": "dsh-super-pm",
+    "name": "dsh-super-pm",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Lohaslee/dsh-super-pm",
+    "description": "Product-thinking companion for DeepSeek Harness: clarifies negative boundaries first, separates facts from assumptions, routes through seven product lenses, and persists confirmed decisions to project memory.",
+    "description_zh": "DeepSeek Harness 的产品思考助手：先明确负向边界，拆开事实与假设，经七套产品视角讨论取舍，并将确认的决策沉淀到项目记忆中。",
+    "capabilities": [
+      "context",
+      "research",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

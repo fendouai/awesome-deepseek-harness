@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,582 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐1,548 | Whale-girl skin series for DSH Web (CC BY-NC-SA 4.0). | ✅ active |
 
-#### Complete list (448)
+#### Complete list (449)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web) ⭐6,622 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -615,6 +615,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-qqbot-panel](https://github.com/zhengjy01/dsh-qqbot-panel)  — Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. (✅ active)
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. (✅ active)
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces. (✅ active)
+- [dsh-super-pm](https://github.com/Lohaslee/dsh-super-pm)  — Product-thinking companion for DeepSeek Harness: clarifies negative boundaries first, separates facts from assumptions, routes through seven product lenses, and persists confirmed decisions to project memory. (✅ active)
 - [dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)  — TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. (✅ active)
 - [dsh-upload](https://github.com/Ei-Ayw/dsh-upload)  — Upload button for the DSH web composer: local files land as bytes in the session workspace (.uploads/<sessionId>/), the absolute path is appended to the draft (visible and editable), and the agent reads the file with its own fs tools. Zero dependencies. / DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。 (✅ active)
 - [dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)  — Vercel MCP connection for DeepSeek Harness: official OAuth 2.0 flow (dynamic client registration + PKCE) against mcp.vercel.com, Vercel API tools under mcp__vercel__*, and a web settings panel. (✅ active)
@@ -1315,7 +1316,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,582 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 | 10 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐1,548 | Whale-girl skin series for DSH Web (CC BY-NC-SA 4.0). | ✅ active |
 
-#### Complete list (448)
+#### Complete list (449)
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web) ⭐6,622 — Large plugin and skin collection for DSH Web: task board, git graph, side panels, remote/mobile UI, pets, token stats and themes. (✅ active)
@@ -1760,6 +1761,7 @@ awesome-deepseek-harness/
 - [dsh-qqbot-panel](https://github.com/zhengjy01/dsh-qqbot-panel)  — Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. (✅ active)
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, a model-availability pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions. (✅ active)
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces. (✅ active)
+- [dsh-super-pm](https://github.com/Lohaslee/dsh-super-pm)  — Product-thinking companion for DeepSeek Harness: clarifies negative boundaries first, separates facts from assumptions, routes through seven product lenses, and persists confirmed decisions to project memory. (✅ active)
 - [dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)  — TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. (✅ active)
 - [dsh-upload](https://github.com/Ei-Ayw/dsh-upload)  — Upload button for the DSH web composer: local files land as bytes in the session workspace (.uploads/<sessionId>/), the absolute path is appended to the draft (visible and editable), and the agent reads the file with its own fs tools. Zero dependencies. / DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。 (✅ active)
 - [dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)  — Vercel MCP connection for DeepSeek Harness: official OAuth 2.0 flow (dynamic client registration + PKCE) against mcp.vercel.com, Vercel API tools under mcp__vercel__*, and a web settings panel. (✅ active)

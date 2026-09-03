@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,582 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
 
-#### 完整列表（448）
+#### 完整列表（449）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web) ⭐6,622 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -616,6 +616,7 @@ dsh web
 - [dsh-qqbot-panel](https://github.com/zhengjy01/dsh-qqbot-panel)  — 为官方 @tencent-connect/dsh-qqbot 提供的可视化配置面板：管理 AppID/AppSecret、私聊/群聊访问模式与白名单、工作区选择、扫码绑定（Web 设置页）。（✅ 活跃）
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — 从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。（✅ 活跃）
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces.（✅ 活跃）
+- [dsh-super-pm](https://github.com/Lohaslee/dsh-super-pm)  — DeepSeek Harness 的产品思考助手：先明确负向边界，拆开事实与假设，经七套产品视角讨论取舍，并将确认的决策沉淀到项目记忆中。（✅ 活跃）
 - [dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)  — DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。（✅ 活跃）
 - [dsh-upload](https://github.com/Ei-Ayw/dsh-upload)  — DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。（✅ 活跃）
 - [dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)  — DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。（✅ 活跃）
@@ -1316,7 +1317,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,582 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 | 10 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐1,548 | DSH Web 鲸鱼娘皮肤系列（CC BY-NC-SA 4.0）。 | ✅ 活跃 |
 
-#### 完整列表（448）
+#### 完整列表（449）
 
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web) ⭐6,622 — DSH Web 大型插件与皮肤集合：任务看板、Git 图、侧栏、远程/移动 UI、宠物、Token 统计与主题。（✅ 活跃）
@@ -1761,6 +1762,7 @@ awesome-deepseek-harness/
 - [dsh-qqbot-panel](https://github.com/zhengjy01/dsh-qqbot-panel)  — 为官方 @tencent-connect/dsh-qqbot 提供的可视化配置面板：管理 AppID/AppSecret、私聊/群聊访问模式与白名单、工作区选择、扫码绑定（Web 设置页）。（✅ 活跃）
 - [dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent)  — 从任意会话派发一个完整挂载到任意 agent preset 的一次性子代理，支持按次指定模型/provider、模型可用性预检，以及外部 CLI 引擎（codex / claude / codebuddy），支持后台任务、实时进度、终止与可续会话。（✅ 活跃）
 - [dsh-session-cleaner-cli](https://github.com/ChenChen913/dsh-session-cleaner-cli)  — 深度清理 DeepSeek Harness (DSH) 工作区会话的离线 CLI：按工作区列出/删除/恢复会话，自动同步工作区账目与投影缓存。Offline session cleaner for DeepSeek Harness: list, delete (trash+restore) and prune ghost sessions across workspaces.（✅ 活跃）
+- [dsh-super-pm](https://github.com/Lohaslee/dsh-super-pm)  — DeepSeek Harness 的产品思考助手：先明确负向边界，拆开事实与假设，经七套产品视角讨论取舍，并将确认的决策沉淀到项目记忆中。（✅ 活跃）
 - [dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)  — DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。（✅ 活跃）
 - [dsh-upload](https://github.com/Ei-Ayw/dsh-upload)  — DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。（✅ 活跃）
 - [dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)  — DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。（✅ 活跃）

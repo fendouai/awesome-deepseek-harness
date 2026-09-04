@@ -18396,7 +18396,7 @@
     "id": "dsh-tool-policy",
     "name": "dsh-tool-policy",
     "type": "plugin",
-    "category": "vision",
+    "category": "security",
     "repository": "https://github.com/Drifter-yh/dsh-tool-policy",
     "description": "Declarative deny-by-default tool policy plugin for DeepSeek Harness",
     "description_zh": "Declarative deny-by-default tool policy plugin for DeepSeek Harness",
@@ -18413,8 +18413,7 @@
       "deepseek-harness",
       "dsh-plugin",
       "tool-policy"
-    ],
-    "subcategory": "vision-tools"
+    ]
   },
   {
     "id": "dsh-mobile-control",

@@ -1,7 +1,7 @@
 ---
 title: "dsh-tool-policy"
 description: "Declarative deny-by-default tool policy plugin for DeepSeek Harness"
-keywords: "dsh-tool-policy, vision, plugin, coding, deepseek harness, dsh"
+keywords: "dsh-tool-policy, security, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-tool-policy
 
@@ -9,10 +9,9 @@ keywords: "dsh-tool-policy, vision, plugin, coding, deepseek harness, dsh"
 
 | | | | |
 |---|---|---|---|
-| Type | plugin | Category | Vision & multimodal |
+| Type | plugin | Category | Security |
 | Stars | ⭐ 4 | Status | ✅ active |
 | Author | [Drifter-yh](https://github.com/Drifter-yh) | Updated | — |
-| Subcategory | 👁️ Vision tools | Capabilities | coding |
 
 ## One-liner
 

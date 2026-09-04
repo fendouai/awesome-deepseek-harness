@@ -33,9 +33,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ## 完整列表（2814）
 
 
-**视觉与多模态（1025）**
+**视觉与多模态（1024）**
 
-*👁️ 视觉工具（1025）*
+*👁️ 视觉工具（1024）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -368,7 +368,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ssh-remote](resources/dsh-ssh-remote.md) | ⭐4 | SSH remote workspaces for DeepSeek Harness: browse/read/write remote files, run remote commands, with connection status dots. | ✅ 活跃 |
 | [dsh-survey](resources/dsh-survey.md) | ⭐4 | Questionnaire-style batch questioning plugin for DeepSeek Harness: 10+ questions at once (single/multi/yes-no toggle/compare/open), per-question skip, fullscreen overlay, two-column recap after submit | ✅ 活跃 |
 | [dsh-swarmdrop](resources/dsh-swarmdrop.md) | ⭐4 | Send files from your DeepSeek Harness agent straight to your phone, and reference what your phone sent back — no account, no public IP, end-to-end encrypted. | ✅ 活跃 |
-| [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ 活跃 |
 | [dsh-traffic-light](resources/dsh-traffic-light.md) | ⭐4 | Multi-session agent status monitor for DeepSeek Harness. | ✅ 活跃 |
 | [dsh-usage-dashboard-plus](resources/dsh-usage-dashboard-plus.md) | ⭐4 | DeepSeek Harness usage dashboard with API balance, daily spend, external vision-call accounting, per-model stats, call logs, cache rate, TTFT, and CSV export. | ✅ 活跃 |
 | [dsh-usage-monitor](resources/dsh-usage-monitor.md) | ⭐4 | Session-log usage dashboard for DeepSeek Harness | ✅ 活跃 |
@@ -2975,6 +2974,14 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | 中国公募基金研究：公开源数据采集 + 确定性经理/组合指标计算。 | ✅ 活跃 |
 | [dsh-trading](resources/dsh-trading.md) | ⭐12 | 纯研究型交易工作台插件：类型化行情数据缝（自带 provider）、多周期指标快照、带溯源门控标注的交互图表卡片，以及拒绝执行型工具调用的风险护栏——架构上不提供执行能力。 | ✅ 活跃 |
 
+**安全（3）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | 让 DeepSeek Harness 可以被安全地远程访问：账号密码认证 + MFA（TOTP）登录门禁、签名会话 Cookie、角色权限、浏览器内目录选择器、账号管理设置页。 | 🧪 实验性 |
+| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。 | ✅ 活跃 |
+| [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ 活跃 |
+
 **自动化（3）**
 
 | 项目 | 星数 | 说明 | 状态 |
@@ -2982,13 +2989,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-click](resources/dsh-click.md) | ⭐4 | 跨平台原生桌面控制（Windows 优先）：截图、读屏、点击/输入/滚动/按键、应用列表与启动。 | ✅ 活跃 |
 | [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | 为官方 @tencent-connect/dsh-qqbot 提供的可视化配置面板：管理 AppID/AppSecret、私聊/群聊访问模式与白名单、工作区选择、扫码绑定（Web 设置页）。 | ✅ 活跃 |
 | [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。 | ✅ 活跃 |
-
-**安全（2）**
-
-| 项目 | 星数 | 说明 | 状态 |
-|---|---|---|---|
-| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | 让 DeepSeek Harness 可以被安全地远程访问：账号密码认证 + MFA（TOTP）登录门禁、签名会话 Cookie、角色权限、浏览器内目录选择器、账号管理设置页。 | 🧪 实验性 |
-| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。 | ✅ 活跃 |
 
 **多智能体（1）**
 

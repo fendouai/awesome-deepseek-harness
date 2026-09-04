@@ -33,9 +33,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ## Complete list (2814)
 
 
-**Vision & multimodal (1025)**
+**Vision & multimodal (1024)**
 
-*👁️ Vision tools (1025)*
+*👁️ Vision tools (1024)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -368,7 +368,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ssh-remote](resources/dsh-ssh-remote.md) | ⭐4 | SSH remote workspaces for DeepSeek Harness: browse/read/write remote files, run remote commands, with connection status dots. | ✅ active |
 | [dsh-survey](resources/dsh-survey.md) | ⭐4 | Questionnaire-style batch questioning plugin for DeepSeek Harness: 10+ questions at once (single/multi/yes-no toggle/compare/open), per-question skip, fullscreen overlay, two-column recap after submit | ✅ active |
 | [dsh-swarmdrop](resources/dsh-swarmdrop.md) | ⭐4 | Send files from your DeepSeek Harness agent straight to your phone, and reference what your phone sent back — no account, no public IP, end-to-end encrypted. | ✅ active |
-| [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ active |
 | [dsh-traffic-light](resources/dsh-traffic-light.md) | ⭐4 | Multi-session agent status monitor for DeepSeek Harness. | ✅ active |
 | [dsh-usage-dashboard-plus](resources/dsh-usage-dashboard-plus.md) | ⭐4 | DeepSeek Harness usage dashboard with API balance, daily spend, external vision-call accounting, per-model stats, call logs, cache rate, TTFT, and CSV export. | ✅ active |
 | [dsh-usage-monitor](resources/dsh-usage-monitor.md) | ⭐4 | Session-log usage dashboard for DeepSeek Harness | ✅ active |
@@ -2975,6 +2974,14 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | Chinese public mutual fund research: public-source data collection and deterministic manager/portfolio metrics. | ✅ active |
 | [dsh-trading](resources/dsh-trading.md) | ⭐12 | Research-only trading workbench for DSH: typed market-data seam (BYO provider), multi-timeframe indicator snapshots, interactive chart cards with provenance-gated annotations, and a risk-guard denying execution-shaped tool calls. No execution seam by construction. | ✅ active |
 
+**Security (3)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management. | 🧪 experimental |
+| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
+| [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ active |
+
 **Automation (3)**
 
 | Project | Stars | Description | Status |
@@ -2982,13 +2989,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-click](resources/dsh-click.md) | ⭐4 | Cross-platform native desktop control (Windows first): screenshot, screen read, click/type/scroll/key, app list and launch. | ✅ active |
 | [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. | ✅ active |
 | [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. | ✅ active |
-
-**Security (2)**
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management. | 🧪 experimental |
-| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
 
 **Multi-agent (1)**
 

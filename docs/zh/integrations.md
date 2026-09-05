@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "DeepSeek Harness (dsh) 精选 mcp & integrations：🔥 Top 10 与完整列表（493 条）。"
+description: "DeepSeek Harness (dsh) 精选 mcp & integrations：🔥 Top 10 与完整列表（495 条）。"
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [dsh-super-injector](resources/dsh-super-injector.md) | ⭐133 | 上下文注入增强插件（cordis）。 | ✅ 活跃 |
 | 10 | [dsh-crew](resources/dsh-crew-1.md) | ⭐119 | DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation. | ✅ 活跃 |
 
-## 完整列表（493）
+## 完整列表（495）
 
 
-**MCP（121）**
+**MCP（122）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -151,6 +151,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-plugins](resources/dsh-plugins-22.md) | ⭐1 | DeepSeek Harness (DSH) 插件合集：协作编排、跨会话、团队模式、计划引擎、话题时间轴、语音、MCP 管理、提示词增强 | ✅ 活跃 |
 | [dsh-upgrade-kit](resources/dsh-upgrade-kit.md) | ⭐1 | DSH 装备升级套件：看钱（dsh-cost 费用面板）、看文件（file-preview 预览）、搜外网（research-mcp）、看图片（vision-bridge）。一条命令全装。 | ✅ 活跃 |
 | [mcp_guard](resources/mcp-guard.md) | ⭐1 | 本机 MCP / Agent 口扫描、监视与审计（loopback 未鉴权 tools/list、CORS）。DeepSeek Honeys. | ✅ 活跃 |
+| [dsh-cert-mcp](resources/dsh-cert-mcp.md) | – | 暴露 DSH 插件认证注册表的 MCP 服务器：查询认证、列出已认证插件、读取认证规范 | ✅ 活跃 |
 | [dsh-docker](resources/dsh-docker-bf2.md) | – | 隔离的 DeepSeek Harness 插件安装沙箱，并对本机 MCP 口做防御性探测。 | ✅ 活跃 |
 | [dsh-feed](resources/dsh-feed.md) | – | Cross-ecosystem aggregation base (聚合的聚合): syncs GitHub dsh-plugin topic + npm into one open JSON index, queried by model tools, CLI (dsh-feed) and a minimal stdio MCP server | ✅ 活跃 |
 | [dsh-image-bridge](resources/dsh-image-bridge-2.md) | – | 让文本模型（如 DeepSeek）也能正常发送图片：图片落盘到工作区，消息转成仅模型可见的路径文本，由模型调用视觉/MCP 工具识别。 | ✅ 活跃 |
@@ -159,7 +160,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-streaming-mcp-bridge](resources/dsh-streaming-mcp-bridge.md) | – | DeepSeek Harness streaming MCP bridge: live session events as MCP progress, plus ACP adapter for cc-connect/Feishu. | ✅ 活跃 |
 | [URL Manager MCP](resources/url-manager-mcp.md) | – | URL Manager 的 MCP 伴生服务器：21 个工具用于保存/搜索/分类/共享与魔法链接投递。 | ✅ 活跃 |
 
-**渠道（115）**
+**渠道（116）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -275,6 +276,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-chat-window-fold](resources/dsh-chat-window-fold.md) | – | DSH web GUI plugin: auto fold/expand the chat window — bottom checkpoints hide old pages, top-scroll expands earlier messages with the viewport anchored. | ✅ 活跃 |
 | [dsh-composer-fix](resources/dsh-composer-fix.md) | – | DSH Web GUI layout fix: composer (input bar + bottom status bar) leaves the scroll region — message scrolling stops above the input bar, the scrollbar no longer covers the input area | ✅ 活跃 |
 | [dsh-queue-director](resources/dsh-queue-director.md) | – | DSH web plugin: reorder queued messages (up / down / top / bottom) before the agent processes them. | ✅ 活跃 |
+| [dsh-reach](resources/dsh-reach.md) | – | 把 DSH 的审批卡与提问卡推送到 IM 渠道（先微信），可在聊天中直接作答，带会话控制台、逐渠道安全与开放推送服务 | ✅ 活跃 |
 | [dsh-realtime-voice](resources/dsh-realtime-voice.md) | – | Realtime full-duplex voice Agent plugin for DeepSeek Harness WebUI and future WeChat Mini Program clients | ✅ 活跃 |
 | [dsh-ssh-hub](resources/dsh-ssh-hub.md) | – | Multi-server SSH terminal panel for DeepSeek Harness Web GUI — multiple SSH terminals in a bottom panel | ✅ 活跃 |
 | [dsh-wechat-bridge](resources/dsh-wechat-bridge-2.md) | – | 个人微信桥接插件：扫码绑定后直接在微信里与本机 DeepSeek Harness Agent 对话（文字/图片/语音/文件、流式回复、会话持久化、三端通用）。 | ✅ 活跃 |

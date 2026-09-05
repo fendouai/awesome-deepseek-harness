@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "Top 10 and full list of 493 curated mcp & integrations for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 495 curated mcp & integrations for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [dsh-super-injector](resources/dsh-super-injector.md) | ⭐133 | Super-injector plugin (cordis) for context injection. | ✅ active |
 | 10 | [dsh-crew](resources/dsh-crew-1.md) | ⭐119 | DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation. | ✅ active |
 
-## Complete list (493)
+## Complete list (495)
 
 
-**MCP (121)**
+**MCP (122)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -151,6 +151,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-plugins](resources/dsh-plugins-22.md) | ⭐1 | DeepSeek Harness (DSH) 插件合集：协作编排、跨会话、团队模式、计划引擎、话题时间轴、语音、MCP 管理、提示词增强 | ✅ active |
 | [dsh-upgrade-kit](resources/dsh-upgrade-kit.md) | ⭐1 | DSH 装备升级套件：看钱（dsh-cost 费用面板）、看文件（file-preview 预览）、搜外网（research-mcp）、看图片（vision-bridge）。一条命令全装。 | ✅ active |
 | [mcp_guard](resources/mcp-guard.md) | ⭐1 | 本机 MCP / Agent 口扫描、监视与审计（loopback 未鉴权 tools/list、CORS）。DeepSeek Honeys. | ✅ active |
+| [dsh-cert-mcp](resources/dsh-cert-mcp.md) | – | MCP server exposing the DSH plugin certification registry: get a certification, list certified plugins, and read the certification spec | ✅ active |
 | [dsh-docker](resources/dsh-docker-bf2.md) | – | 隔离的 DeepSeek Harness 插件安装沙箱，并对本机 MCP 口做防御性探测。 | ✅ active |
 | [dsh-feed](resources/dsh-feed.md) | – | Cross-ecosystem aggregation base (聚合的聚合): syncs GitHub dsh-plugin topic + npm into one open JSON index, queried by model tools, CLI (dsh-feed) and a minimal stdio MCP server | ✅ active |
 | [dsh-image-bridge](resources/dsh-image-bridge-2.md) | – | 让文本模型（如 DeepSeek）也能正常发送图片：图片落盘到工作区，消息转成仅模型可见的路径文本，由模型调用视觉/MCP 工具识别。 | ✅ active |
@@ -159,7 +160,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-streaming-mcp-bridge](resources/dsh-streaming-mcp-bridge.md) | – | DeepSeek Harness streaming MCP bridge: live session events as MCP progress, plus ACP adapter for cc-connect/Feishu. | ✅ active |
 | [URL Manager MCP](resources/url-manager-mcp.md) | – | MCP companion for URL Manager: 21 tools for save/search/categorize/share with magic-link delivery. | ✅ active |
 
-**Channels (115)**
+**Channels (116)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -275,6 +276,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-chat-window-fold](resources/dsh-chat-window-fold.md) | – | DSH web GUI plugin: auto fold/expand the chat window — bottom checkpoints hide old pages, top-scroll expands earlier messages with the viewport anchored. | ✅ active |
 | [dsh-composer-fix](resources/dsh-composer-fix.md) | – | DSH Web GUI layout fix: composer (input bar + bottom status bar) leaves the scroll region — message scrolling stops above the input bar, the scrollbar no longer covers the input area | ✅ active |
 | [dsh-queue-director](resources/dsh-queue-director.md) | – | DSH web plugin: reorder queued messages (up / down / top / bottom) before the agent processes them. | ✅ active |
+| [dsh-reach](resources/dsh-reach.md) | – | Pushes DSH approval and question cards to IM channels (WeChat first) and answers them from chat, with a session console, per-channel security, and an open push service | ✅ active |
 | [dsh-realtime-voice](resources/dsh-realtime-voice.md) | – | Realtime full-duplex voice Agent plugin for DeepSeek Harness WebUI and future WeChat Mini Program clients | ✅ active |
 | [dsh-ssh-hub](resources/dsh-ssh-hub.md) | – | Multi-server SSH terminal panel for DeepSeek Harness Web GUI — multiple SSH terminals in a bottom panel | ✅ active |
 | [dsh-wechat-bridge](resources/dsh-wechat-bridge-2.md) | – | Personal WeChat bridge for DeepSeek Harness: scan QR to bind, then chat with your local DSH agent directly inside WeChat (text/image/voice/file, streamed replies, persisted sessions). | ✅ active |

@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [memsearch](https://github.com/zilliztech/memsearch) | ⭐2,538 | Persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. / 面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus。 | ✅ active |
 | 10 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,582 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 
-#### Complete list (2814)
+#### Complete list (2815)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -2962,6 +2962,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-terminal](https://github.com/lanshuye123/DSH-Terminal)  — DSH WebUI 终端(Terminal)插件。可以在WebUI中获得终端模拟器。 (✅ active)
 - [dsh-think-chinese](https://github.com/lingtima/dsh-think-chinese)  — DSH 插件：让模型始终用中文进行内部推理与思考（think in Chinese）。 (✅ active)
 - [dsh-thinkmeter](https://github.com/dmz2922990/dsh-thinkmeter)  — DeepSeek Harness（DSH）客户端插件：将聊天视图中流式的 Think 思考预览替换为 实时 Token 数量显示。 (✅ active)
+- [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick)  — TickTick (Dida365) task bridge: a session-header task panel and curated agent tools over the official TickTick MCP endpoint (✅ active)
 - [dsh-tool-backtest](https://github.com/dmsobtl/dsh-tool-backtest)  — DSH 插件：策略回测引擎 — 定义买卖信号，跑历史数据，输出绩效指标。 (✅ active)
 - [dsh-tool-playwright](https://github.com/cheng-nan01/dsh-tool-playwright)  — 一个给 DeepSeek Harness 用的插件：让 AI 能真的打开浏览器上网——打开网页、点按钮、填表单、翻页、看页面内容，就像人一样操作浏览器。 (✅ active)
 - [dsh-trace-repeat](https://github.com/p2coder/dsh-trace-repeat)  — 会话任务 Trace 原子记录/回放：把每次推理完成与工具执行记为不可变版本（含可复现元数据），支持版本时间线回放与从任意版本经 git worktree 恢复执行。 (✅ active)
@@ -3934,7 +3935,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) | ⭐133 | Super-injector plugin (cordis) for context injection. | ✅ active |
 | 10 | [dsh-crew](https://github.com/ZSeven-W/dsh-crew) | ⭐119 | DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation. | ✅ active |
 
-#### Complete list (493)
+#### Complete list (495)
 
 - [Coding Tools MCP](https://github.com/xyTom/coding-tools-mcp) ⭐846 — Coding-oriented MCP tool collection that appears in the emerging DSH ecosystem: give any AI agent the ability to code. (✅ active)
 - [memtrace-public](https://github.com/syncable-dev/memtrace-public) ⭐459 — Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf. (✅ active)
@@ -4397,6 +4398,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-zen](https://github.com/zealot00/dsh-zen) ⭐1 — Zen mode for DeepSeek Harness Web UI: one-click immersive focus (hide sidebar/topbar), Ctrl+Shift+Z, pet auto-hide linkage (✅ active)
 - [mcp_guard](https://github.com/dshoneys/mcp_guard) ⭐1 — 本机 MCP / Agent 口扫描、监视与审计（loopback 未鉴权 tools/list、CORS）。DeepSeek Honeys. (✅ active)
 - [dsh-bib](https://github.com/youyli03/dsh-bib)  — Embed a controllable real-browser viewport inside DeepSeek Harness — shared by humans and AI agents via an Edge extension + local relay bridge. (✅ active)
+- [dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp)  — MCP server exposing the DSH plugin certification registry: get a certification, list certified plugins, and read the certification spec (✅ active)
 - [dsh-chat-width](https://github.com/AnakinCao/dsh-chat-width)  — DSH Web GUI plugin: adaptive chat content width — the middle area expands with screen resolution (1080p/2K/4K) when side panels are collapsed (injects CSS overriding --dsh-chat-content-width) (✅ active)
 - [dsh-chat-window-fold](https://github.com/dove-a/dsh-chat-window-fold)  — DSH web GUI plugin: auto fold/expand the chat window — bottom checkpoints hide old pages, top-scroll expands earlier messages with the viewport anchored. (✅ active)
 - [dsh-codex-side-outline](https://github.com/EnkiduGilgamesh/dsh-codex-side-outline)  — Codex style side outline for Deepseek Harness (✅ active)
@@ -4416,6 +4418,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-plugin-web-notify](https://github.com/vilicvane/dsh-plugin-web-notify)  — Browser notifications for the DeepSeek Harness Web GUI. (✅ active)
 - [dsh-queue-director](https://github.com/loklamlok/dsh-queue-director)  — DSH web plugin: reorder queued messages (up / down / top / bottom) before the agent processes them. (✅ active)
 - [dsh-qwen-multimodal](https://github.com/wuwangmao/dsh-qwen-multimodal)  — DSH bundle: Qwen multimodal bridge — vision (qwen3-vl), speech-to-text (qwen3-asr), text-to-image (qwen-image), for DeepSeek Harness (✅ active)
+- [dsh-reach](https://github.com/PerryLink/dsh-reach)  — Pushes DSH approval and question cards to IM channels (WeChat first) and answers them from chat, with a session console, per-channel security, and an open push service (✅ active)
 - [dsh-realtime-voice](https://github.com/martinbear1/dsh-realtime-voice)  — Realtime full-duplex voice Agent plugin for DeepSeek Harness WebUI and future WeChat Mini Program clients (✅ active)
 - [dsh-session-bridge](https://github.com/FuWenLianggit/dsh-session-bridge)  — Session-level multi-thread orchestration for DeepSeek Harness: create ordinary sessions, send queued or interrupt prompts to any session by id, and enumerate sessions. Installs globally, independent of any agent preset. (✅ active)
 - [dsh-side-chat](https://github.com/willwang0098/dsh-side-chat)  — Codex-style independent side chat for DeepSeek Harness Better Sidebar (✅ active)
@@ -4876,7 +4879,7 @@ awesome-deepseek-harness/
 | 9 | [memsearch](https://github.com/zilliztech/memsearch) | ⭐2,538 | Persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. / 面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus。 | ✅ active |
 | 10 | [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐1,582 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 
-#### Complete list (2814)
+#### Complete list (2815)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -7668,6 +7671,7 @@ awesome-deepseek-harness/
 - [dsh-terminal](https://github.com/lanshuye123/DSH-Terminal)  — DSH WebUI 终端(Terminal)插件。可以在WebUI中获得终端模拟器。 (✅ active)
 - [dsh-think-chinese](https://github.com/lingtima/dsh-think-chinese)  — DSH 插件：让模型始终用中文进行内部推理与思考（think in Chinese）。 (✅ active)
 - [dsh-thinkmeter](https://github.com/dmz2922990/dsh-thinkmeter)  — DeepSeek Harness（DSH）客户端插件：将聊天视图中流式的 Think 思考预览替换为 实时 Token 数量显示。 (✅ active)
+- [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick)  — TickTick (Dida365) task bridge: a session-header task panel and curated agent tools over the official TickTick MCP endpoint (✅ active)
 - [dsh-tool-backtest](https://github.com/dmsobtl/dsh-tool-backtest)  — DSH 插件：策略回测引擎 — 定义买卖信号，跑历史数据，输出绩效指标。 (✅ active)
 - [dsh-tool-playwright](https://github.com/cheng-nan01/dsh-tool-playwright)  — 一个给 DeepSeek Harness 用的插件：让 AI 能真的打开浏览器上网——打开网页、点按钮、填表单、翻页、看页面内容，就像人一样操作浏览器。 (✅ active)
 - [dsh-trace-repeat](https://github.com/p2coder/dsh-trace-repeat)  — 会话任务 Trace 原子记录/回放：把每次推理完成与工具执行记为不可变版本（含可复现元数据），支持版本时间线回放与从任意版本经 git worktree 恢复执行。 (✅ active)
@@ -8640,7 +8644,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) | ⭐133 | Super-injector plugin (cordis) for context injection. | ✅ active |
 | 10 | [dsh-crew](https://github.com/ZSeven-W/dsh-crew) | ⭐119 | DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation. | ✅ active |
 
-#### Complete list (493)
+#### Complete list (495)
 
 - [Coding Tools MCP](https://github.com/xyTom/coding-tools-mcp) ⭐846 — Coding-oriented MCP tool collection that appears in the emerging DSH ecosystem: give any AI agent the ability to code. (✅ active)
 - [memtrace-public](https://github.com/syncable-dev/memtrace-public) ⭐459 — Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf. (✅ active)
@@ -9103,6 +9107,7 @@ awesome-deepseek-harness/
 - [dsh-zen](https://github.com/zealot00/dsh-zen) ⭐1 — Zen mode for DeepSeek Harness Web UI: one-click immersive focus (hide sidebar/topbar), Ctrl+Shift+Z, pet auto-hide linkage (✅ active)
 - [mcp_guard](https://github.com/dshoneys/mcp_guard) ⭐1 — 本机 MCP / Agent 口扫描、监视与审计（loopback 未鉴权 tools/list、CORS）。DeepSeek Honeys. (✅ active)
 - [dsh-bib](https://github.com/youyli03/dsh-bib)  — Embed a controllable real-browser viewport inside DeepSeek Harness — shared by humans and AI agents via an Edge extension + local relay bridge. (✅ active)
+- [dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp)  — MCP server exposing the DSH plugin certification registry: get a certification, list certified plugins, and read the certification spec (✅ active)
 - [dsh-chat-width](https://github.com/AnakinCao/dsh-chat-width)  — DSH Web GUI plugin: adaptive chat content width — the middle area expands with screen resolution (1080p/2K/4K) when side panels are collapsed (injects CSS overriding --dsh-chat-content-width) (✅ active)
 - [dsh-chat-window-fold](https://github.com/dove-a/dsh-chat-window-fold)  — DSH web GUI plugin: auto fold/expand the chat window — bottom checkpoints hide old pages, top-scroll expands earlier messages with the viewport anchored. (✅ active)
 - [dsh-codex-side-outline](https://github.com/EnkiduGilgamesh/dsh-codex-side-outline)  — Codex style side outline for Deepseek Harness (✅ active)
@@ -9122,6 +9127,7 @@ awesome-deepseek-harness/
 - [dsh-plugin-web-notify](https://github.com/vilicvane/dsh-plugin-web-notify)  — Browser notifications for the DeepSeek Harness Web GUI. (✅ active)
 - [dsh-queue-director](https://github.com/loklamlok/dsh-queue-director)  — DSH web plugin: reorder queued messages (up / down / top / bottom) before the agent processes them. (✅ active)
 - [dsh-qwen-multimodal](https://github.com/wuwangmao/dsh-qwen-multimodal)  — DSH bundle: Qwen multimodal bridge — vision (qwen3-vl), speech-to-text (qwen3-asr), text-to-image (qwen-image), for DeepSeek Harness (✅ active)
+- [dsh-reach](https://github.com/PerryLink/dsh-reach)  — Pushes DSH approval and question cards to IM channels (WeChat first) and answers them from chat, with a session console, per-channel security, and an open push service (✅ active)
 - [dsh-realtime-voice](https://github.com/martinbear1/dsh-realtime-voice)  — Realtime full-duplex voice Agent plugin for DeepSeek Harness WebUI and future WeChat Mini Program clients (✅ active)
 - [dsh-session-bridge](https://github.com/FuWenLianggit/dsh-session-bridge)  — Session-level multi-thread orchestration for DeepSeek Harness: create ordinary sessions, send queued or interrupt prompts to any session by id, and enumerate sessions. Installs globally, independent of any agent preset. (✅ active)
 - [dsh-side-chat](https://github.com/willwang0098/dsh-side-chat)  — Codex-style independent side chat for DeepSeek Harness Better Sidebar (✅ active)

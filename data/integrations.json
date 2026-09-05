@@ -11363,5 +11363,37 @@
       "jujutsu",
       "mcp"
     ]
+  },
+  {
+    "id": "dsh-reach",
+    "name": "dsh-reach",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/PerryLink/dsh-reach",
+    "description": "Pushes DSH approval and question cards to IM channels (WeChat first) and answers them from chat, with a session console, per-channel security, and an open push service",
+    "description_zh": "把 DSH 的审批卡与提问卡推送到 IM 渠道（先微信），可在聊天中直接作答，带会话控制台、逐渠道安全与开放推送服务",
+    "capabilities": [
+      "channels",
+      "notifications"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
+  },
+  {
+    "id": "dsh-cert-mcp",
+    "name": "dsh-cert-mcp",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/PerryLink/dsh-cert-mcp",
+    "description": "MCP server exposing the DSH plugin certification registry: get a certification, list certified plugins, and read the certification spec",
+    "description_zh": "暴露 DSH 插件认证注册表的 MCP 服务器：查询认证、列出已认证插件、读取认证规范",
+    "capabilities": [
+      "mcp",
+      "security"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

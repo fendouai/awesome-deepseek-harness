@@ -64264,5 +64264,21 @@
     "_topics": [
       "dsh-plugin"
     ]
+  },
+  {
+    "id": "dsh-ticktick",
+    "name": "dsh-ticktick",
+    "type": "plugin",
+    "category": "automation",
+    "repository": "https://github.com/PerryLink/dsh-ticktick",
+    "description": "TickTick (Dida365) task bridge: a session-header task panel and curated agent tools over the official TickTick MCP endpoint",
+    "description_zh": "TickTick（滴答清单）任务桥：会话页头部任务面板与精选代理工具，走官方 TickTick MCP 端点",
+    "capabilities": [
+      "ui",
+      "automation"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

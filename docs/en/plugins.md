@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 2814 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 2815 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [memsearch](resources/memsearch.md) | ⭐2,538 | Persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. / 面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus。 | ✅ active |
 | 10 | [dsh-market](resources/dsh-market.md) | ⭐1,582 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 
-## Complete list (2814)
+## Complete list (2815)
 
 
 **Vision & multimodal (1025)**
@@ -2975,13 +2975,14 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | Chinese public mutual fund research: public-source data collection and deterministic manager/portfolio metrics. | ✅ active |
 | [dsh-trading](resources/dsh-trading.md) | ⭐12 | Research-only trading workbench for DSH: typed market-data seam (BYO provider), multi-timeframe indicator snapshots, interactive chart cards with provenance-gated annotations, and a risk-guard denying execution-shaped tool calls. No execution seam by construction. | ✅ active |
 
-**Automation (3)**
+**Automation (4)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [dsh-click](resources/dsh-click.md) | ⭐4 | Cross-platform native desktop control (Windows first): screenshot, screen read, click/type/scroll/key, app list and launch. | ✅ active |
 | [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. | ✅ active |
 | [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. | ✅ active |
+| [dsh-ticktick](resources/dsh-ticktick.md) | – | TickTick (Dida365) task bridge: a session-header task panel and curated agent tools over the official TickTick MCP endpoint | ✅ active |
 
 **Security (2)**
 

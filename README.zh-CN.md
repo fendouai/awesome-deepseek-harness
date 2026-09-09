@@ -3517,7 +3517,7 @@ dsh web
 | 9 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | ⭐610 | DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts. | ✅ 活跃 |
 | 10 | [dsh-work](https://github.com/vibeinging/dsh-work) | ⭐610 | Local-first AI workbench for DSH Plugins, combining Agent sessions, project files, data analysis, web research, MCP, and Office artifacts in an Electron desktop app. | ✅ 活跃 |
 
-#### 完整列表（397）
+#### 完整列表（398）
 
 - [open-design](https://github.com/nexu-io/open-design) ⭐90,033 — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode / Hermes & 20+ CLIs via BYOK.（✅ 活跃）
 - [deepseek-harness-desktop (Anywhere Labs)](https://github.com/anywhere-labs/dsh-desktop) ⭐22,589 — 为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）。（✅ 活跃）
@@ -3560,6 +3560,7 @@ dsh web
 - [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐53 — 在 Multica 上支持 dsh 运行时。（✅ 活跃）
 - [beauticode](https://github.com/starsstreaming/beautiCode) ⭐51 — 面向 AI 编程客户端的动态、可响应环境——视频背景、氛围场景与主题，适用于 DeepSeek Harness 与 Codex Desktop。（✅ 活跃）
 - [deepseek-harness-desktop (xiincs)](https://github.com/xiincs/deepseek-harness-desktop) ⭐49 — 基于 Tauri 2 的原生桌面版：内置 Node.js 运行时，托盘常驻，自动更新。（✅ 活跃）
+- [PaperMachine](https://github.com/SuperJJ007/papermachine) ⭐48 — 基于 DeepSeek Harness 的桌面数据分析应用，在本机运行 Python 和 R，支持检查执行步骤及追溯图表和表格的来源。（🧪 实验性）
 - [DeepSeek Harness TUI (openma-ai)](https://github.com/openma-ai/deepseek-harness-tui) ⭐46 — Rust/Ratatui 终端客户端，直接与 DSH 的 SDK JSON-RPC 协议通信。（✅ 活跃）
 - [dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) ⭐44 — 非官方 DeepSeek Harness 插件：Matt Pocock 技能套件（mattpocock/skills）的 DSH 控制面板（Deck）——将 wayfinder 地图/票务/进度、triage / grilling / handoff 动作注入带进 DSH；配套 25 个工程与效率技能。打开形式仅右侧 details 列（无 PiP/悬浮）。安装：dsh plugin --profile <name> add 一条命令即装好，无需手动注册（DSH Desktop 桌面应用用 --profile desktop，自启 web 服务用 --profile web；profile 装错不生效，多个入口需分别安装）。（✅ 活跃）
 - [dsh-tether](https://github.com/zexadev/dsh-tether) ⭐41 — Mobile client for the DeepSeek Harness — use the dsh on your dev machine from your Android or iOS phone, remotely across networks, peer-to-peer with no server in between (iroh)（✅ 活跃）
@@ -8223,7 +8224,7 @@ awesome-deepseek-harness/
 | 9 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | ⭐610 | DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts. | ✅ 活跃 |
 | 10 | [dsh-work](https://github.com/vibeinging/dsh-work) | ⭐610 | Local-first AI workbench for DSH Plugins, combining Agent sessions, project files, data analysis, web research, MCP, and Office artifacts in an Electron desktop app. | ✅ 活跃 |
 
-#### 完整列表（397）
+#### 完整列表（398）
 
 - [open-design](https://github.com/nexu-io/open-design) ⭐90,033 — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode / Hermes & 20+ CLIs via BYOK.（✅ 活跃）
 - [deepseek-harness-desktop (Anywhere Labs)](https://github.com/anywhere-labs/dsh-desktop) ⭐22,589 — 为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）。（✅ 活跃）
@@ -8266,6 +8267,7 @@ awesome-deepseek-harness/
 - [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐53 — 在 Multica 上支持 dsh 运行时。（✅ 活跃）
 - [beauticode](https://github.com/starsstreaming/beautiCode) ⭐51 — 面向 AI 编程客户端的动态、可响应环境——视频背景、氛围场景与主题，适用于 DeepSeek Harness 与 Codex Desktop。（✅ 活跃）
 - [deepseek-harness-desktop (xiincs)](https://github.com/xiincs/deepseek-harness-desktop) ⭐49 — 基于 Tauri 2 的原生桌面版：内置 Node.js 运行时，托盘常驻，自动更新。（✅ 活跃）
+- [PaperMachine](https://github.com/SuperJJ007/papermachine) ⭐48 — 基于 DeepSeek Harness 的桌面数据分析应用，在本机运行 Python 和 R，支持检查执行步骤及追溯图表和表格的来源。（🧪 实验性）
 - [DeepSeek Harness TUI (openma-ai)](https://github.com/openma-ai/deepseek-harness-tui) ⭐46 — Rust/Ratatui 终端客户端，直接与 DSH 的 SDK JSON-RPC 协议通信。（✅ 活跃）
 - [dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) ⭐44 — 非官方 DeepSeek Harness 插件：Matt Pocock 技能套件（mattpocock/skills）的 DSH 控制面板（Deck）——将 wayfinder 地图/票务/进度、triage / grilling / handoff 动作注入带进 DSH；配套 25 个工程与效率技能。打开形式仅右侧 details 列（无 PiP/悬浮）。安装：dsh plugin --profile <name> add 一条命令即装好，无需手动注册（DSH Desktop 桌面应用用 --profile desktop，自启 web 服务用 --profile web；profile 装错不生效，多个入口需分别安装）。（✅ 活跃）
 - [dsh-tether](https://github.com/zexadev/dsh-tether) ⭐41 — Mobile client for the DeepSeek Harness — use the dsh on your dev machine from your Android or iOS phone, remotely across networks, peer-to-peer with no server in between (iroh)（✅ 活跃）

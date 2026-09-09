@@ -849,6 +849,25 @@
     "growth": 1
   },
   {
+    "id": "papermachine",
+    "name": "PaperMachine",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/SuperJJ007/papermachine",
+    "description": "Desktop data-analysis app built on DeepSeek Harness, running local Python and R with inspectable execution steps and chart/table provenance.",
+    "description_zh": "基于 DeepSeek Harness 的桌面数据分析应用，在本机运行 Python 和 R，支持检查执行步骤及追溯图表和表格的来源。",
+    "capabilities": [
+      "desktop",
+      "research",
+      "ui"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 48,
+    "install": "Download the macOS installer or experimental Windows x64 installer from https://github.com/SuperJJ007/papermachine/releases/latest; first launch installs Python and R, and model calls require your own DeepSeek API key.",
+    "license": "MIT"
+  },
+  {
     "id": "openma-tui",
     "name": "DeepSeek Harness TUI (openma-ai)",
     "type": "client",

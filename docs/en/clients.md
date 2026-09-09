@@ -1,6 +1,6 @@
 ---
 title: "Clients (Desktop & TUI)"
-description: "Top 10 and full list of 397 curated clients (desktop & tui) for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 398 curated clients (desktop & tui) for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, clients, plugin, awesome"
 ---
 # Clients (Desktop & TUI)
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | 9 | [deepseek-harness-desktop-app](resources/deepseek-harness-desktop-app.md) | ⭐610 | DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts. | ✅ active |
 | 10 | [dsh-work](resources/dsh-work.md) | ⭐610 | Local-first AI workbench for DSH Plugins, combining Agent sessions, project files, data analysis, web research, MCP, and Office artifacts in an Electron desktop app. | ✅ active |
 
-## Complete list (397)
+## Complete list (398)
 
 
-**Desktop (327)**
+**Desktop (328)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -68,6 +68,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-multica-runtime](resources/dsh-multica-runtime.md) | ⭐53 | Support the dsh runtime on Multica. | ✅ active |
 | [beauticode](resources/beauticode.md) | ⭐51 | 面向 AI 编程客户端的动态、可响应环境——视频背景、氛围场景与主题，适用于 DeepSeek Harness 与 Codex Desktop。 | ✅ active |
 | [deepseek-harness-desktop (xiincs)](resources/xiincs-desktop.md) | ⭐49 | Native desktop built on Tauri 2 with bundled Node.js runtime, tray residency and auto-update. | ✅ active |
+| [PaperMachine](resources/papermachine.md) | ⭐48 | Desktop data-analysis app built on DeepSeek Harness, running local Python and R with inspectable execution steps and chart/table provenance. | 🧪 experimental |
 | [dsh-mattpocock-skills-deck](resources/dsh-mattpocock-skills-deck.md) | ⭐44 | 非官方 DeepSeek Harness 插件：Matt Pocock 技能套件（mattpocock/skills）的 DSH 控制面板（Deck）——将 wayfinder 地图/票务/进度、triage / grilling / handoff 动作注入带进 DSH；配套 25 个工程与效率技能。打开形式仅右侧 details 列（无 PiP/悬浮）。安装：dsh plugin --profile <name> add 一条命令即装好，无需手动注册（DSH Desktop 桌面应用用 --profile desktop，自启 web 服务用 --profile web；profile 装错不生效，多个入口需分别安装）。 | ✅ active |
 | [dsh-plugin-dev-skills](resources/dsh-plugin-dev-skills.md) | ⭐38 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent. | ✅ active |
 | [deepseek-harness-desktop (hongfeiyucode)](resources/hongfeiyucode-desktop.md) | ⭐37 | Desktop wrapper for DeepSeek Harness. | ✅ active |

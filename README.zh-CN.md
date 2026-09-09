@@ -4570,6 +4570,7 @@ dsh web
 - [awesome-deepseek-harness-plugins](https://github.com/web-casa/Awesome-DeepSeek-Harness-Plugins) ⭐33 — DeepSeek Harness 插件精选（✅ 活跃）
 - [sandbase-skills](https://github.com/sandbaseai/sandbase-skills) ⭐31 — 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.（✅ 活跃）
 - [dsh-meme-hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub) ⭐30 — 社区整活插件导航（皮肤、桌宠、小游戏），双语。（✅ 活跃）
+- [dsh-task-flow](https://github.com/wqy-cell/dsh-task-flow) — 任务星图：一句话长出星图（AI 拆解）、Agent 干活星图实时点亮（执行流）、Goal 主线星联动，MIT 开源
 - [dsh-plugin-marketplace](https://github.com/AwesomeHou/dsh-plugin-marketplace) ⭐27 — Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).（✅ 活跃）
 - [deepseek-plugin-store](https://github.com/Ericwong5021/deepseek-plugin-store) ⭐24 — DeepSeek Harness 独立社区插件商店：发现、安装并提交经过验证的插件、工具与扩展。 | Independent community plugin directory.（✅ 活跃）
 - [dsh-plugin-directory](https://github.com/alexchenzl/dsh-plugin-directory) ⭐23 — Community-driven DeekSeek Harness Plugin Directory（✅ 活跃）

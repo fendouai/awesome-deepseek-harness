@@ -4017,6 +4017,24 @@
     "_updated": "2026-08-17"
   },
   {
+    "id": "dsh-plugin-registry-vbarter",
+    "name": "dsh-plugin-registry",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/vbarter/dsh-plugin-registry",
+    "description": "Unofficial community DeepSeek Harness plugin registry powering https://dsplugin.app/ — browse, publish, and auto-discover dsh-plugin repos (Manifest/dsh.bundle).",
+    "description_zh": "非官方社区 DeepSeek Harness 插件注册表，驱动 https://dsplugin.app/：浏览、发布与自动发现 dsh-plugin 仓库（Manifest/dsh.bundle）。",
+    "capabilities": [
+      "search",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "_source_description": "DeepSeek Harness community plugin registry: browse, publish, and auto-discover dsh-plugin repos.",
+    "_updated": "2026-09-10"
+  },
+  {
     "id": "plugins",
     "name": "plugins",
     "type": "awesome-list",

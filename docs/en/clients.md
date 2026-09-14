@@ -1,6 +1,6 @@
 ---
 title: "Clients (Desktop & TUI)"
-description: "Top 10 and full list of 399 curated clients (desktop & tui) for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 400 curated clients (desktop & tui) for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, clients, plugin, awesome"
 ---
 # Clients (Desktop & TUI)
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | 9 | [deepseek-harness-desktop (hairyf)](resources/hairyf-desktop.md) | ⭐814 | One-click desktop app: fully local with self-healing core updates, zero environment setup. Windows/macOS/Linux. | ✅ active |
 | 10 | [deepseek-harness-desktop-app](resources/deepseek-harness-desktop-app.md) | ⭐610 | DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts. | ✅ active |
 
-## Complete list (399)
+## Complete list (400)
 
 
 **Desktop (329)**
@@ -446,3 +446,9 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-remote-gateway](resources/dsh-remote-gateway.md) | ⭐1 | DeepSeek Harness 远程控制套件：网页、Windows 桌面端、Android App 三形态，安全网关 + 实时推送 + 多端会话管理，出门在外也能监控、回复、答题。 | ✅ active |
 | [dsh-shell-termux](resources/dsh-shell-termux.md) | ⭐1 | dsh 的安卓/Termux bash 能力提供者——显式 Termux 环境注入、探测诊断、诚实的应用域沙箱声明。 | ✅ active |
 | [dsh-tool-adb](resources/dsh-tool-adb.md) | ⭐1 | DeepSeek Harness (DSH) plugin exposing Android Debug Bridge (adb) operations as model-facing tools: devices, shell, install, uninstall, screenshot, push/pull, logcat | ✅ active |
+
+**UI & experience (1)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [MOVO](resources/movo.md) | ⭐35 | Self-hosted enterprise Agent platform built on DeepSeek Harness, with a Web workspace, knowledge, research, content generation, administration and governed execution. | ✅ active |

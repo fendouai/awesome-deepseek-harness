@@ -9289,5 +9289,30 @@
     "verified": false,
     "stars": 27181,
     "license": "MIT"
+  },
+  {
+    "id": "movo",
+    "name": "MOVO",
+    "type": "client",
+    "category": "ui",
+    "repository": "https://github.com/himovo/movo",
+    "description": "Self-hosted enterprise Agent platform built on DeepSeek Harness, with a Web workspace, knowledge, research, content generation, administration and governed execution.",
+    "description_zh": "基于 DeepSeek Harness 构建的自托管企业级 Agent 平台，提供 Web 工作空间、知识库、深度研究、内容生成、管理与治理执行能力。",
+    "capabilities": [
+      "harness",
+      "ui",
+      "research",
+      "workflow",
+      "multi-agent",
+      "mcp",
+      "files",
+      "automation",
+      "security",
+      "observability"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 35,
+    "install": "git clone https://github.com/himovo/movo.git && cd movo && ./movo up"
   }
 ]

@@ -3536,7 +3536,7 @@ dsh web
 | 9 | [deepseek-harness-desktop (hairyf)](https://github.com/hairyf/deepseek-harness-desktop) | ⭐814 | 一键桌面应用：全本地运行，核心自愈更新，零环境配置。Win/macOS/Linux。 | ✅ 活跃 |
 | 10 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | ⭐610 | DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts. | ✅ 活跃 |
 
-#### 完整列表（399）
+#### 完整列表（400）
 
 - [open-design](https://github.com/nexu-io/open-design) ⭐90,033 — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode / Hermes & 20+ CLIs via BYOK.（✅ 活跃）
 - [PicGo](https://github.com/Molunerfinn/PicGo) ⭐27,181 — 跨平台图片上传桌面应用，支持 60+ 图床，可配合 DeepSeek Harness 工作流使用。（✅ 活跃）
@@ -3590,6 +3590,7 @@ dsh web
 - [deepseek-harness-termux](https://github.com/Vengisk/deepseek-harness-termux) ⭐37 — 在 Android/Termux 上运行 DeepSeek Harness。（✅ 活跃）
 - [dsh-personal-center](https://github.com/PolinniZhong/dsh-personal-center) ⭐37 — DSH 个人配置:Token 用量统计 / 成本估算 / 自定义指令 / 外观全局字号 / 桌面宠物(含会话状态概览),纯本地不联网。Personal center for DSH: usage stats, cost estimation, custom instructions, global font size & desktop pet with session overview — all local & offline.（✅ 活跃）
 - [dsh-meow-smooth](https://github.com/Phant0Meow/dsh-meow-smooth) ⭐36 — 手机电脑dsh通知功能！移动端可用的通知！手机端ui交互优化！让手机端dsh真正可用。DSH notification support for both mobile and desktop! Mobile notifications are now live, with a refined mobile UI/UX to make DSH genuinely functional on phones.（✅ 活跃）
+- [MOVO](https://github.com/himovo/movo) ⭐35 — 基于 DeepSeek Harness 构建的自托管企业级 Agent 平台，提供 Web 工作空间、知识库、深度研究、内容生成、管理与治理执行能力。（✅ 活跃）
 - [deepseek-harness-desktop](https://github.com/Links2008/DeepSeek-Harness-Desktop) ⭐34 — Windows 桌面版 DeepSeek Harness 发行版，支持原生通知、流畅的窗口控制、捆绑运行时和自动更新。追踪官方主分支。针对官方版本进行了桌面美化和功能补充（✅ 活跃）
 - [dsh-code](https://github.com/UNLINEARITY/dsh-code) ⭐33 — Claude-Code-style TUI bundle for DeepSeek Harness. 充分结合 DSH 的核心机制和高级特性与Codex CLI 、Claude Code 等主流交互机制，打造的 DSH-Code. （对齐DSH官方上游最新版本！持续更新中！支持DSH 特殊模式，插件系统，模型管理，子代理管理，切换模型特殊动画）（✅ 活跃）
 - [dsh-usage-plugin](https://github.com/feiyang-dev/dsh-usage-plugin) ⭐33 — DeepSeek Harness 用量与消耗插件（dsh-usage）—— 每次调用的 token 用量/缓存命中统计、峰谷计费、余额查询、CSV/JSON/PNG 导出，可经桌面端一键安装或命令行 dsh plugin add 安装。（✅ 活跃）
@@ -8278,7 +8279,7 @@ awesome-deepseek-harness/
 | 9 | [deepseek-harness-desktop (hairyf)](https://github.com/hairyf/deepseek-harness-desktop) | ⭐814 | 一键桌面应用：全本地运行，核心自愈更新，零环境配置。Win/macOS/Linux。 | ✅ 活跃 |
 | 10 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | ⭐610 | DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts. | ✅ 活跃 |
 
-#### 完整列表（399）
+#### 完整列表（400）
 
 - [open-design](https://github.com/nexu-io/open-design) ⭐90,033 — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode / Hermes & 20+ CLIs via BYOK.（✅ 活跃）
 - [PicGo](https://github.com/Molunerfinn/PicGo) ⭐27,181 — 跨平台图片上传桌面应用，支持 60+ 图床，可配合 DeepSeek Harness 工作流使用。（✅ 活跃）
@@ -8332,6 +8333,7 @@ awesome-deepseek-harness/
 - [deepseek-harness-termux](https://github.com/Vengisk/deepseek-harness-termux) ⭐37 — 在 Android/Termux 上运行 DeepSeek Harness。（✅ 活跃）
 - [dsh-personal-center](https://github.com/PolinniZhong/dsh-personal-center) ⭐37 — DSH 个人配置:Token 用量统计 / 成本估算 / 自定义指令 / 外观全局字号 / 桌面宠物(含会话状态概览),纯本地不联网。Personal center for DSH: usage stats, cost estimation, custom instructions, global font size & desktop pet with session overview — all local & offline.（✅ 活跃）
 - [dsh-meow-smooth](https://github.com/Phant0Meow/dsh-meow-smooth) ⭐36 — 手机电脑dsh通知功能！移动端可用的通知！手机端ui交互优化！让手机端dsh真正可用。DSH notification support for both mobile and desktop! Mobile notifications are now live, with a refined mobile UI/UX to make DSH genuinely functional on phones.（✅ 活跃）
+- [MOVO](https://github.com/himovo/movo) ⭐35 — 基于 DeepSeek Harness 构建的自托管企业级 Agent 平台，提供 Web 工作空间、知识库、深度研究、内容生成、管理与治理执行能力。（✅ 活跃）
 - [deepseek-harness-desktop](https://github.com/Links2008/DeepSeek-Harness-Desktop) ⭐34 — Windows 桌面版 DeepSeek Harness 发行版，支持原生通知、流畅的窗口控制、捆绑运行时和自动更新。追踪官方主分支。针对官方版本进行了桌面美化和功能补充（✅ 活跃）
 - [dsh-code](https://github.com/UNLINEARITY/dsh-code) ⭐33 — Claude-Code-style TUI bundle for DeepSeek Harness. 充分结合 DSH 的核心机制和高级特性与Codex CLI 、Claude Code 等主流交互机制，打造的 DSH-Code. （对齐DSH官方上游最新版本！持续更新中！支持DSH 特殊模式，插件系统，模型管理，子代理管理，切换模型特殊动画）（✅ 活跃）
 - [dsh-usage-plugin](https://github.com/feiyang-dev/dsh-usage-plugin) ⭐33 — DeepSeek Harness 用量与消耗插件（dsh-usage）—— 每次调用的 token 用量/缓存命中统计、峰谷计费、余额查询、CSV/JSON/PNG 导出，可经桌面端一键安装或命令行 dsh plugin add 安装。（✅ 活跃）

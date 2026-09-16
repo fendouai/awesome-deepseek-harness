@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3773,6 +3773,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-update-radar](https://github.com/Equinox7379/dsh-update-radar)  — Update radar for DSH: checks installed plugins against git upstreams. (✅ active)
 - [dsh-updater](https://github.com/zhengjy01/dsh-updater)  — Track DeepSeek Harness's own releases and update in one click: reads the npm dist-tags and the GitHub changelog, shows every change between the running build and the target, grades the risk (prerelease, breaking-change wording, duplicate installs, plugin range compatibility, backup and rollback readiness), then hands the install to a detached helper that backs the current install up with an atomic rename, runs npm, verifies what landed, relaunches, and rolls back when the new build does not come up. (✅ active)
 - [dsh-upload](https://github.com/Ei-Ayw/dsh-upload)  — Upload button for the DSH web composer: local files land as bytes in the session workspace (.uploads/<sessionId>/), the absolute path is appended to the draft (visible and editable), and the agent reads the file with its own fs tools. Zero dependencies. / DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。 (✅ active)
+- [dsh-url-trace](https://github.com/wqy-cell/dsh-url-trace)  — URL footprint for DeepSeek Harness: automatically records every link opened from the DSH page (click or window.open), with frequency-sorted, recent, starred and searchable views in a panel beside the chat input, optional local Edge history merge, and all data kept in local storage. (✅ active)
 - [dsh-usage](https://github.com/pycjava/dsh-usage)  — DSH 跨会话 token 记账插件：进程内每一次模型调用都记入本地 SQLite 账本，设置面板一眼看全、agent 一问即答。只做 token,不做钱。 (✅ active)
 - [dsh-usb](https://github.com/yuloong07-star/dsh-usb)  — DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible) (✅ active)
 - [dsh-user-language](https://github.com/DoiiarX/dsh-user-language)  — DeepSeek Harness 应答语言插件：Web 设置页「用户语言」小节 + 系统提示词语言注入，避免中文提问得英文回复 (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9936,6 +9937,7 @@ awesome-deepseek-harness/
 - [dsh-update-radar](https://github.com/Equinox7379/dsh-update-radar)  — Update radar for DSH: checks installed plugins against git upstreams. (✅ active)
 - [dsh-updater](https://github.com/zhengjy01/dsh-updater)  — Track DeepSeek Harness's own releases and update in one click: reads the npm dist-tags and the GitHub changelog, shows every change between the running build and the target, grades the risk (prerelease, breaking-change wording, duplicate installs, plugin range compatibility, backup and rollback readiness), then hands the install to a detached helper that backs the current install up with an atomic rename, runs npm, verifies what landed, relaunches, and rolls back when the new build does not come up. (✅ active)
 - [dsh-upload](https://github.com/Ei-Ayw/dsh-upload)  — Upload button for the DSH web composer: local files land as bytes in the session workspace (.uploads/<sessionId>/), the absolute path is appended to the draft (visible and editable), and the agent reads the file with its own fs tools. Zero dependencies. / DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。 (✅ active)
+- [dsh-url-trace](https://github.com/wqy-cell/dsh-url-trace)  — URL footprint for DeepSeek Harness: automatically records every link opened from the DSH page (click or window.open), with frequency-sorted, recent, starred and searchable views in a panel beside the chat input, optional local Edge history merge, and all data kept in local storage. (✅ active)
 - [dsh-usage](https://github.com/pycjava/dsh-usage)  — DSH 跨会话 token 记账插件：进程内每一次模型调用都记入本地 SQLite 账本，设置面板一眼看全、agent 一问即答。只做 token,不做钱。 (✅ active)
 - [dsh-usb](https://github.com/yuloong07-star/dsh-usb)  — DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible) (✅ active)
 - [dsh-user-language](https://github.com/DoiiarX/dsh-user-language)  — DeepSeek Harness 应答语言插件：Web 设置页「用户语言」小节 + 系统提示词语言注入，避免中文提问得英文回复 (✅ active)

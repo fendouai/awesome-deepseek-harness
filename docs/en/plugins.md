@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3616 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3617 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-## Complete list (3616)
+## Complete list (3617)
 
 
 **Vision & multimodal (1298)**
@@ -2788,9 +2788,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | One-click restart for DeepSeek Harness: a web button (plus a dsh_restart agent tool) hands the relaunch to a detached helper that waits for the port to free, relaunches the same command, auto-reconnects the page, and shows boot errors in a recovery console when the new host fails. | ✅ active |
 
-**UI & experience (467)**
+**UI & experience (468)**
 
-*Other (179)*
+*Other (180)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -2973,6 +2973,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-task-flow](resources/dsh-task-flow.md) | – | Task Star Map for DeepSeek Harness: type a goal and the DSH model expands it into a branching flow with acceptance criteria, every agent tool call lights up a live execution star, with Goal-status linkage, a draggable star-map view and a visual editor. | ✅ active |
 | [dsh-ui-enhance](resources/dsh-ui-enhance.md) | – | Deepseek Harness 增强工具 | ✅ active |
 | [dsh-updater](resources/dsh-updater-3.md) | – | Track DeepSeek Harness's own releases and update in one click: reads the npm dist-tags and the GitHub changelog, shows every change between the running build and the target, grades the risk (prerelease, breaking-change wording, duplicate installs, plugin range compatibility, backup and rollback readiness), then hands the install to a detached helper that backs the current install up with an atomic rename, runs npm, verifies what landed, relaunches, and rolls back when the new build does not come up. | ✅ active |
+| [dsh-url-trace](resources/dsh-url-trace.md) | – | URL footprint for DeepSeek Harness: automatically records every link opened from the DSH page (click or window.open), with frequency-sorted, recent, starred and searchable views in a panel beside the chat input, optional local Edge history merge, and all data kept in local storage. | ✅ active |
 *🖥️ Sidebars & panels (90)*
 
 | Project | Stars | Description | Status |

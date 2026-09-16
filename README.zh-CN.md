@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3774,6 +3774,7 @@ dsh web
 - [dsh-update-radar](https://github.com/Equinox7379/dsh-update-radar)  — Update radar for DSH: checks installed plugins against git upstreams.（✅ 活跃）
 - [dsh-updater](https://github.com/zhengjy01/dsh-updater)  — 跟踪 DSH 官方版本并一键更新：读取 npm dist-tags 与 GitHub 更新说明，列出当前版本到目标版本之间每一个版本的更新点，给出分级风险清单（预发布、破坏性变更措辞、本机多份安装与 PATH 不一致、插件 dsh.engines.dsh 兼容性、备份与回滚可用性），再把安装交给分离助手——用 rename 原子备份当前安装、执行 npm、校验落地结果、用原命令重启，新版本起不来就自动回滚。（✅ 活跃）
 - [dsh-upload](https://github.com/Ei-Ayw/dsh-upload)  — DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。（✅ 活跃）
+- [dsh-url-trace](https://github.com/wqy-cell/dsh-url-trace)  — 网址足迹：自动记录从 DSH 页面打开过的每个网址（点击 / window.open），在聊天输入栏提供常用排序、最近、收藏、即时搜索面板，可选合并本机 Edge 历史，数据只存本机。（✅ 活跃）
 - [dsh-usage](https://github.com/pycjava/dsh-usage)  — DSH 跨会话 token 记账插件：进程内每一次模型调用都记入本地 SQLite 账本，设置面板一眼看全、agent 一问即答。只做 token,不做钱。（✅ 活跃）
 - [dsh-usb](https://github.com/yuloong07-star/dsh-usb)  — DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible)（✅ 活跃）
 - [dsh-user-language](https://github.com/DoiiarX/dsh-user-language)  — DeepSeek Harness 应答语言插件：Web 设置页「用户语言」小节 + 系统提示词语言注入，避免中文提问得英文回复（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9937,6 +9938,7 @@ awesome-deepseek-harness/
 - [dsh-update-radar](https://github.com/Equinox7379/dsh-update-radar)  — Update radar for DSH: checks installed plugins against git upstreams.（✅ 活跃）
 - [dsh-updater](https://github.com/zhengjy01/dsh-updater)  — 跟踪 DSH 官方版本并一键更新：读取 npm dist-tags 与 GitHub 更新说明，列出当前版本到目标版本之间每一个版本的更新点，给出分级风险清单（预发布、破坏性变更措辞、本机多份安装与 PATH 不一致、插件 dsh.engines.dsh 兼容性、备份与回滚可用性），再把安装交给分离助手——用 rename 原子备份当前安装、执行 npm、校验落地结果、用原命令重启，新版本起不来就自动回滚。（✅ 活跃）
 - [dsh-upload](https://github.com/Ei-Ayw/dsh-upload)  — DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。（✅ 活跃）
+- [dsh-url-trace](https://github.com/wqy-cell/dsh-url-trace)  — 网址足迹：自动记录从 DSH 页面打开过的每个网址（点击 / window.open），在聊天输入栏提供常用排序、最近、收藏、即时搜索面板，可选合并本机 Edge 历史，数据只存本机。（✅ 活跃）
 - [dsh-usage](https://github.com/pycjava/dsh-usage)  — DSH 跨会话 token 记账插件：进程内每一次模型调用都记入本地 SQLite 账本，设置面板一眼看全、agent 一问即答。只做 token,不做钱。（✅ 活跃）
 - [dsh-usb](https://github.com/yuloong07-star/dsh-usb)  — DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible)（✅ 活跃）
 - [dsh-user-language](https://github.com/DoiiarX/dsh-user-language)  — DeepSeek Harness 应答语言插件：Web 设置页「用户语言」小节 + 系统提示词语言注入，避免中文提问得英文回复（✅ 活跃）

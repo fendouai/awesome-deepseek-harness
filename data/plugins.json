@@ -77473,5 +77473,22 @@
     "verified": false,
     "stars": 0,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-url-trace",
+    "name": "dsh-url-trace",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/wqy-cell/dsh-url-trace",
+    "description": "URL footprint for DeepSeek Harness: automatically records every link opened from the DSH page (click or window.open), with frequency-sorted, recent, starred and searchable views in a panel beside the chat input, optional local Edge history merge, and all data kept in local storage.",
+    "description_zh": "网址足迹：自动记录从 DSH 页面打开过的每个网址（点击 / window.open），在聊天输入栏提供常用排序、最近、收藏、即时搜索面板，可选合并本机 Edge 历史，数据只存本机。",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "install": "dsh plugin --profile web add github:wqy-cell/dsh-url-trace",
+    "license": "MIT"
   }
 ]

@@ -2168,6 +2168,22 @@
     "license": "MIT"
   },
   {
+    "id": "deepseek-harness-genui",
+    "name": "deepseek-harness-genui",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/pengyue-polaron/deepseek-harness-genui",
+    "description": "Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn",
+    "description_zh": "为 DeepSeek Harness 当前任务生成 React 交互界面，保存用户选择供下一轮 Agent 继续处理",
+    "capabilities": [
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 107,
+    "subcategory": "generative-ui"
+  },
+  {
     "id": "fairy-dsh",
     "name": "Fairy-DSH",
     "type": "plugin",

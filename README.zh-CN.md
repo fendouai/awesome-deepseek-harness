@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -290,6 +290,7 @@ dsh web
 - [dsh-network-settings](https://github.com/kanneiren/dsh-network-settings) ⭐108 — DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS（✅ 活跃）
 - [dsh-undo-plugin](https://github.com/lire1131/dsh-undo-plugin) ⭐108 — DSH plugin: snapshot & rollback your plugin/skin/settings configs. Auto-save on change, undo/redo stack, snapshot manager panel, keyboard shortcuts, plus an offline PowerShell CLI & GUI that work even when DSH won't boot.（✅ 活跃）
 - [aikito](https://github.com/lsaint/aikito) ⭐107 — Your durable workspace across AI agents.（✅ 活跃）
+- [deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) ⭐107 — 为 DeepSeek Harness 当前任务生成 React 交互界面，保存用户选择供下一轮 Agent 继续处理（✅ 活跃）
 - [dsh-turn-delete](https://github.com/hanshenmesen/dsh-turn-delete) ⭐107 — Delete one complete turn from a DeepSeek Harness session without deleting the session（✅ 活跃）
 - [Fairy-DSH](https://github.com/Chengzhibense/Fairy-DSH) ⭐106 — Fairy personality and visual plugin suite for DeepSeek Harness（✅ 活跃）
 - [dsh-authinone](https://github.com/Stormycry-cryp/dsh-AuthInOne) ⭐105 — Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps.（✅ 活跃）
@@ -3808,7 +3809,7 @@ dsh web
 | 9 | [vox-director](https://github.com/Alisa0808/vox-director) | ⭐1,862 | 把一个主题变成完整的 Vox 风格纸拼贴讲解/广告视频，端到端自动化。 | ✅ 活跃 |
 | 10 | [last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn) | ⭐1,778 | AI Agent 技能：自动搜索中国 8 大主流平台最近 30 天内容，生成有据可查的研究报告。 | ✅ 活跃 |
 
-#### 完整列表（319）
+#### 完整列表（318）
 
 - [archify](https://github.com/tt-a1i/archify) ⭐36,264 — Agent 技能：生成漂亮、可验证的架构图、流程图、时序图、数据流与生命周期图——自包含、可审查。（✅ 活跃）
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ⭐31,449 — GPT Image 的提示词即代码库：530+ 逆向工程案例、20+ 工业级模板与可复用 Skills。（✅ 活跃）
@@ -3837,7 +3838,6 @@ dsh web
 - [dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill) ⭐126 — 帮助插件自动随着dsh版本升级的skill（✅ 活跃）
 - [xskill](https://github.com/SkillNerds/xskill) ⭐126 — Self-evolving skills lib for coding agents（✅ 活跃）
 - [dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) ⭐114 — Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.（✅ 活跃）
-- [deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) ⭐107 — Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn（✅ 活跃）
 - [photo-abstract-editorial](https://github.com/kwhi6693-web/photo-abstract-editorial) ⭐101 — Turn photos into source-faithful editorial artworks with an Agent Skill — adaptive layouts, controlled abstraction, and a Strict Fidelity composition path.（✅ 活跃）
 - [dsh-skill-viewer](https://github.com/Fishquito7/dsh-skill-viewer) ⭐88 — DSH Web 技能设置区：热启停、删除与新增。（✅ 活跃）
 - [Aria](https://github.com/dqsjqian/Aria) ⭐86 — Modern MVVM framework supporting C++23 (C++20 minimum) — cross-platform, layered, coroutine-first. Reactive DAG (Property/Computed/Effect), Task<T>, and pluggable adapters.（✅ 活跃）
@@ -6334,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -6453,6 +6453,7 @@ awesome-deepseek-harness/
 - [dsh-network-settings](https://github.com/kanneiren/dsh-network-settings) ⭐108 — DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS（✅ 活跃）
 - [dsh-undo-plugin](https://github.com/lire1131/dsh-undo-plugin) ⭐108 — DSH plugin: snapshot & rollback your plugin/skin/settings configs. Auto-save on change, undo/redo stack, snapshot manager panel, keyboard shortcuts, plus an offline PowerShell CLI & GUI that work even when DSH won't boot.（✅ 活跃）
 - [aikito](https://github.com/lsaint/aikito) ⭐107 — Your durable workspace across AI agents.（✅ 活跃）
+- [deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) ⭐107 — 为 DeepSeek Harness 当前任务生成 React 交互界面，保存用户选择供下一轮 Agent 继续处理（✅ 活跃）
 - [dsh-turn-delete](https://github.com/hanshenmesen/dsh-turn-delete) ⭐107 — Delete one complete turn from a DeepSeek Harness session without deleting the session（✅ 活跃）
 - [Fairy-DSH](https://github.com/Chengzhibense/Fairy-DSH) ⭐106 — Fairy personality and visual plugin suite for DeepSeek Harness（✅ 活跃）
 - [dsh-authinone](https://github.com/Stormycry-cryp/dsh-AuthInOne) ⭐105 — Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps.（✅ 活跃）
@@ -9971,7 +9972,7 @@ awesome-deepseek-harness/
 | 9 | [vox-director](https://github.com/Alisa0808/vox-director) | ⭐1,862 | 把一个主题变成完整的 Vox 风格纸拼贴讲解/广告视频，端到端自动化。 | ✅ 活跃 |
 | 10 | [last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn) | ⭐1,778 | AI Agent 技能：自动搜索中国 8 大主流平台最近 30 天内容，生成有据可查的研究报告。 | ✅ 活跃 |
 
-#### 完整列表（319）
+#### 完整列表（318）
 
 - [archify](https://github.com/tt-a1i/archify) ⭐36,264 — Agent 技能：生成漂亮、可验证的架构图、流程图、时序图、数据流与生命周期图——自包含、可审查。（✅ 活跃）
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ⭐31,449 — GPT Image 的提示词即代码库：530+ 逆向工程案例、20+ 工业级模板与可复用 Skills。（✅ 活跃）
@@ -10000,7 +10001,6 @@ awesome-deepseek-harness/
 - [dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill) ⭐126 — 帮助插件自动随着dsh版本升级的skill（✅ 活跃）
 - [xskill](https://github.com/SkillNerds/xskill) ⭐126 — Self-evolving skills lib for coding agents（✅ 活跃）
 - [dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) ⭐114 — Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.（✅ 活跃）
-- [deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) ⭐107 — Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn（✅ 活跃）
 - [photo-abstract-editorial](https://github.com/kwhi6693-web/photo-abstract-editorial) ⭐101 — Turn photos into source-faithful editorial artworks with an Agent Skill — adaptive layouts, controlled abstraction, and a Strict Fidelity composition path.（✅ 活跃）
 - [dsh-skill-viewer](https://github.com/Fishquito7/dsh-skill-viewer) ⭐88 — DSH Web 技能设置区：热启停、删除与新增。（✅ 活跃）
 - [Aria](https://github.com/dqsjqian/Aria) ⭐86 — Modern MVVM framework supporting C++23 (C++20 minimum) — cross-platform, layered, coroutine-first. Reactive DAG (Property/Computed/Effect), Task<T>, and pluggable adapters.（✅ 活跃）

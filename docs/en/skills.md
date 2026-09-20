@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "Top 10 and full list of 319 curated skills for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 318 curated skills for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [vox-director](resources/vox-director.md) | ⭐1,862 | Turn one topic into a finished Vox-style paper-collage explainer/ad video, automated end to end. | ✅ active |
 | 10 | [last30days-skill-cn](resources/last30days-skill-cn.md) | ⭐1,778 | Agent skill that searches 8 major Chinese platforms for the last 30 days of content and produces a sourced research report. | ✅ active |
 
-## Complete list (319)
+## Complete list (318)
 
 
-**Learning (302)**
+**Learning (301)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -61,7 +61,6 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-plugin-upgrade-skill](resources/dsh-plugin-upgrade-skill.md) | ⭐126 | 帮助插件自动随着dsh版本升级的skill | ✅ active |
 | [xskill](resources/xskill.md) | ⭐126 | Self-evolving skills lib for coding agents | ✅ active |
 | [dsh-run2skill](resources/dsh-run2skill.md) | ⭐114 | Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills. | ✅ active |
-| [deepseek-harness-genui](resources/deepseek-harness-genui.md) | ⭐107 | Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn | ✅ active |
 | [photo-abstract-editorial](resources/photo-abstract-editorial.md) | ⭐101 | Turn photos into source-faithful editorial artworks with an Agent Skill — adaptive layouts, controlled abstraction, and a Strict Fidelity composition path. | ✅ active |
 | [Aria](resources/aria.md) | ⭐86 | Modern MVVM framework supporting C++23 (C++20 minimum) — cross-platform, layered, coroutine-first. Reactive DAG (Property/Computed/Effect), Task<T>, and pluggable adapters. | ✅ active |
 | [sealos-skills](resources/sealos-skills.md) | ⭐79 | AI agent skills for Sealos — deploy any project, provision databases, object storage & more with one command. Works with Claude Code, Gemini CLI, Codex. | ✅ active |

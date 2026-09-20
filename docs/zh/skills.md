@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "DeepSeek Harness (dsh) 精选 skills：🔥 Top 10 与完整列表（319 条）。"
+description: "DeepSeek Harness (dsh) 精选 skills：🔥 Top 10 与完整列表（318 条）。"
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [vox-director](resources/vox-director.md) | ⭐1,862 | 把一个主题变成完整的 Vox 风格纸拼贴讲解/广告视频，端到端自动化。 | ✅ 活跃 |
 | 10 | [last30days-skill-cn](resources/last30days-skill-cn.md) | ⭐1,778 | AI Agent 技能：自动搜索中国 8 大主流平台最近 30 天内容，生成有据可查的研究报告。 | ✅ 活跃 |
 
-## 完整列表（319）
+## 完整列表（318）
 
 
-**学习（302）**
+**学习（301）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -61,7 +61,6 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-plugin-upgrade-skill](resources/dsh-plugin-upgrade-skill.md) | ⭐126 | 帮助插件自动随着dsh版本升级的skill | ✅ 活跃 |
 | [xskill](resources/xskill.md) | ⭐126 | Self-evolving skills lib for coding agents | ✅ 活跃 |
 | [dsh-run2skill](resources/dsh-run2skill.md) | ⭐114 | Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills. | ✅ 活跃 |
-| [deepseek-harness-genui](resources/deepseek-harness-genui.md) | ⭐107 | Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn | ✅ 活跃 |
 | [photo-abstract-editorial](resources/photo-abstract-editorial.md) | ⭐101 | Turn photos into source-faithful editorial artworks with an Agent Skill — adaptive layouts, controlled abstraction, and a Strict Fidelity composition path. | ✅ 活跃 |
 | [Aria](resources/aria.md) | ⭐86 | Modern MVVM framework supporting C++23 (C++20 minimum) — cross-platform, layered, coroutine-first. Reactive DAG (Property/Computed/Effect), Task<T>, and pluggable adapters. | ✅ 活跃 |
 | [sealos-skills](resources/sealos-skills.md) | ⭐79 | AI agent skills for Sealos — deploy any project, provision databases, object storage & more with one command. Works with Claude Code, Gemini CLI, Codex. | ✅ 活跃 |

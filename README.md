@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -289,6 +289,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-network-settings](https://github.com/kanneiren/dsh-network-settings) ⭐108 — DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS (✅ active)
 - [dsh-undo-plugin](https://github.com/lire1131/dsh-undo-plugin) ⭐108 — DSH plugin: snapshot & rollback your plugin/skin/settings configs. Auto-save on change, undo/redo stack, snapshot manager panel, keyboard shortcuts, plus an offline PowerShell CLI & GUI that work even when DSH won't boot. (✅ active)
 - [aikito](https://github.com/lsaint/aikito) ⭐107 — Your durable workspace across AI agents. (✅ active)
+- [deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) ⭐107 — Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn (✅ active)
 - [dsh-turn-delete](https://github.com/hanshenmesen/dsh-turn-delete) ⭐107 — Delete one complete turn from a DeepSeek Harness session without deleting the session (✅ active)
 - [Fairy-DSH](https://github.com/Chengzhibense/Fairy-DSH) ⭐106 — Fairy personality and visual plugin suite for DeepSeek Harness (✅ active)
 - [dsh-authinone](https://github.com/Stormycry-cryp/dsh-AuthInOne) ⭐105 — Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps. (✅ active)
@@ -3807,7 +3808,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [vox-director](https://github.com/Alisa0808/vox-director) | ⭐1,862 | Turn one topic into a finished Vox-style paper-collage explainer/ad video, automated end to end. | ✅ active |
 | 10 | [last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn) | ⭐1,778 | Agent skill that searches 8 major Chinese platforms for the last 30 days of content and produces a sourced research report. | ✅ active |
 
-#### Complete list (319)
+#### Complete list (318)
 
 - [archify](https://github.com/tt-a1i/archify) ⭐36,264 — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams — self-contained and reviewable. (✅ active)
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ⭐31,449 — Prompt-as-code library for GPT Image: 530+ reverse-engineered cases, 20+ industrial templates and reusable skills. (✅ active)
@@ -3836,7 +3837,6 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill) ⭐126 — 帮助插件自动随着dsh版本升级的skill (✅ active)
 - [xskill](https://github.com/SkillNerds/xskill) ⭐126 — Self-evolving skills lib for coding agents (✅ active)
 - [dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) ⭐114 — Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills. (✅ active)
-- [deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) ⭐107 — Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn (✅ active)
 - [photo-abstract-editorial](https://github.com/kwhi6693-web/photo-abstract-editorial) ⭐101 — Turn photos into source-faithful editorial artworks with an Agent Skill — adaptive layouts, controlled abstraction, and a Strict Fidelity composition path. (✅ active)
 - [dsh-skill-viewer](https://github.com/Fishquito7/dsh-skill-viewer) ⭐88 — DSH Web UI plugin: Skills settings section with hot enable/disable, delete and add. (✅ active)
 - [Aria](https://github.com/dqsjqian/Aria) ⭐86 — Modern MVVM framework supporting C++23 (C++20 minimum) — cross-platform, layered, coroutine-first. Reactive DAG (Property/Computed/Effect), Task<T>, and pluggable adapters. (✅ active)
@@ -6333,7 +6333,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -6452,6 +6452,7 @@ awesome-deepseek-harness/
 - [dsh-network-settings](https://github.com/kanneiren/dsh-network-settings) ⭐108 — DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS (✅ active)
 - [dsh-undo-plugin](https://github.com/lire1131/dsh-undo-plugin) ⭐108 — DSH plugin: snapshot & rollback your plugin/skin/settings configs. Auto-save on change, undo/redo stack, snapshot manager panel, keyboard shortcuts, plus an offline PowerShell CLI & GUI that work even when DSH won't boot. (✅ active)
 - [aikito](https://github.com/lsaint/aikito) ⭐107 — Your durable workspace across AI agents. (✅ active)
+- [deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) ⭐107 — Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn (✅ active)
 - [dsh-turn-delete](https://github.com/hanshenmesen/dsh-turn-delete) ⭐107 — Delete one complete turn from a DeepSeek Harness session without deleting the session (✅ active)
 - [Fairy-DSH](https://github.com/Chengzhibense/Fairy-DSH) ⭐106 — Fairy personality and visual plugin suite for DeepSeek Harness (✅ active)
 - [dsh-authinone](https://github.com/Stormycry-cryp/dsh-AuthInOne) ⭐105 — Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps. (✅ active)
@@ -9970,7 +9971,7 @@ awesome-deepseek-harness/
 | 9 | [vox-director](https://github.com/Alisa0808/vox-director) | ⭐1,862 | Turn one topic into a finished Vox-style paper-collage explainer/ad video, automated end to end. | ✅ active |
 | 10 | [last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn) | ⭐1,778 | Agent skill that searches 8 major Chinese platforms for the last 30 days of content and produces a sourced research report. | ✅ active |
 
-#### Complete list (319)
+#### Complete list (318)
 
 - [archify](https://github.com/tt-a1i/archify) ⭐36,264 — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams — self-contained and reviewable. (✅ active)
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ⭐31,449 — Prompt-as-code library for GPT Image: 530+ reverse-engineered cases, 20+ industrial templates and reusable skills. (✅ active)
@@ -9999,7 +10000,6 @@ awesome-deepseek-harness/
 - [dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill) ⭐126 — 帮助插件自动随着dsh版本升级的skill (✅ active)
 - [xskill](https://github.com/SkillNerds/xskill) ⭐126 — Self-evolving skills lib for coding agents (✅ active)
 - [dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) ⭐114 — Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills. (✅ active)
-- [deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) ⭐107 — Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn (✅ active)
 - [photo-abstract-editorial](https://github.com/kwhi6693-web/photo-abstract-editorial) ⭐101 — Turn photos into source-faithful editorial artworks with an Agent Skill — adaptive layouts, controlled abstraction, and a Strict Fidelity composition path. (✅ active)
 - [dsh-skill-viewer](https://github.com/Fishquito7/dsh-skill-viewer) ⭐88 — DSH Web UI plugin: Skills settings section with hot enable/disable, delete and add. (✅ active)
 - [Aria](https://github.com/dqsjqian/Aria) ⭐86 — Modern MVVM framework supporting C++23 (C++20 minimum) — cross-platform, layered, coroutine-first. Reactive DAG (Property/Computed/Effect), Task<T>, and pluggable adapters. (✅ active)

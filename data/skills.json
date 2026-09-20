@@ -467,22 +467,6 @@
     "license": "MIT"
   },
   {
-    "id": "deepseek-harness-genui",
-    "name": "deepseek-harness-genui",
-    "type": "skill",
-    "category": "learning",
-    "repository": "https://github.com/pengyue-polaron/deepseek-harness-genui",
-    "description": "Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn",
-    "description_zh": "Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn",
-    "capabilities": [
-      "coding",
-      "multi-agent"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 107
-  },
-  {
     "id": "photo-abstract-editorial",
     "name": "photo-abstract-editorial",
     "type": "skill",

@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3616 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3617 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-## 完整列表（3616）
+## 完整列表（3617）
 
 
 **视觉与多模态（1298）**
@@ -3711,9 +3711,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-file-upload](resources/dsh-file-upload-3.md) | – | dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。 | ✅ 活跃 |
 | [dsh-personal-directive](resources/dsh-personal-directive.md) | – | 个人指令插件：系统提示词注入、工具与顶部运行时开关（框架版，中性占位可替换）。 | 🧪 实验性 |
 
-**娱乐与生活（19）**
+**娱乐与生活（20）**
 
-*其他（18）*
+*其他（19）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -3734,6 +3734,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-fun-ticker](resources/dsh-fun-ticker.md) | ⭐5 | DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存 | ✅ 活跃 |
 | [dsh-achievements](resources/dsh-achievements.md) | ⭐4 | 为了探索dsh 让vibecoding像游戏一样有趣 | ✅ 活跃 |
 | [dsh-plugin-text-translation](resources/dsh-plugin-text-translation.md) | ⭐3 | DSH plugin: text & document localization with tag-protected extraction, batch slicing and lossless assembly (game scripts + long documents) | ✅ 活跃 |
+| [dsh-fireworks](resources/dsh-fireworks.md) | – | 烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组随机抽取，token 用量决定烟花的大小、高度与绚烂程度。 | 🧪 实验性 |
 | [dsh-vibegap](resources/dsh-vibegap.md) | – | 在 DSH Web 会话运行时自动出现的拼写单词卡；本地持久化进度，并可选与 VibeGap 桌面端共享游标。 | 🧪 实验性 |
 *desktop-pet（1）*
 

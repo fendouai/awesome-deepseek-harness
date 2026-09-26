@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3618,6 +3618,7 @@ dsh web
 - [dsh-file-picker](https://github.com/JackeyWilder/dsh-file-picker)  — dsh web plugin: native Windows file picker that injects @path: refs into the draft（✅ 活跃）
 - [dsh-file-rename](https://github.com/uckkk/dsh-file-rename)  — 批量重命名：查找/替换、前后缀、大小写规则，支持 dry-run 预览（✅ 活跃）
 - [dsh-file-upload](https://github.com/kamilhzn/dsh-file-upload)  — dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。（✅ 活跃）
+- [dsh-fireworks](https://github.com/weibaohui/dsh-fireworks)  — 烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组随机抽取，token 用量决定烟花的大小、高度与绚烂程度。（🧪 实验性）
 - [dsh-floor-nav](https://github.com/thirsty5034/dsh-floor-nav)  — LiveAgent-style floor navigation rail for DeepSeek Harness (collapsed ticks, hover panel, jump)（✅ 活跃）
 - [dsh-fold](https://github.com/Yancey2023/dsh-fold)  — Adds clean, flexible folding to keep content compact, organized, and easy to navigate.（✅ 活跃）
 - [dsh-for-wsl](https://github.com/Rycar1/dsh-for-wsl)  — WSL workspace integration and shell routing plugin for DeepSeek Harness（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9781,6 +9782,7 @@ awesome-deepseek-harness/
 - [dsh-file-picker](https://github.com/JackeyWilder/dsh-file-picker)  — dsh web plugin: native Windows file picker that injects @path: refs into the draft（✅ 活跃）
 - [dsh-file-rename](https://github.com/uckkk/dsh-file-rename)  — 批量重命名：查找/替换、前后缀、大小写规则，支持 dry-run 预览（✅ 活跃）
 - [dsh-file-upload](https://github.com/kamilhzn/dsh-file-upload)  — dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。（✅ 活跃）
+- [dsh-fireworks](https://github.com/weibaohui/dsh-fireworks)  — 烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组随机抽取，token 用量决定烟花的大小、高度与绚烂程度。（🧪 实验性）
 - [dsh-floor-nav](https://github.com/thirsty5034/dsh-floor-nav)  — LiveAgent-style floor navigation rail for DeepSeek Harness (collapsed ticks, hover panel, jump)（✅ 活跃）
 - [dsh-fold](https://github.com/Yancey2023/dsh-fold)  — Adds clean, flexible folding to keep content compact, organized, and easy to navigate.（✅ 活跃）
 - [dsh-for-wsl](https://github.com/Rycar1/dsh-for-wsl)  — WSL workspace integration and shell routing plugin for DeepSeek Harness（✅ 活跃）

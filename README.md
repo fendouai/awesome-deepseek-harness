@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3142,6 +3142,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-file-mention](https://github.com/sunshaobei/dsh-file-mention) ⭐1 — 支持dsh @引用文件及文件夹 (✅ active)
 - [dsh-file-mention](https://github.com/ohoyour/dsh-file-mention) ⭐1 — 在 Harness 输入框中输入 `@` 加文件名或目录名即可搜索并插入引用。 (✅ active)
 - [dsh-file-review](https://github.com/ylw-a/dsh-file-review) ⭐1 — dsh的文件浏览侧边栏 (✅ active)
+- [dsh-file-share](https://github.com/weibaohui/dsh-file-share) ⭐1 — Session workspace file manager: adds a "Files" tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process. (✅ active)
 - [dsh-files-tab](https://github.com/dzwalker/dsh-files-tab) ⭐1 — A DeepSeek Harness (DSH) conversation 'Files' tab plugin: open, read (Markdown + TOC) and edit (Monaco) workspace files without leaving the chat. (✅ active)
 - [dsh-flomo](https://github.com/zhengjy01/dsh-flomo) ⭐1 — Send notes and memos to flomo (浮墨笔记) from DeepSeek Harness: flomo_send / flomo_config / flomo_status agent tools (✅ active)
 - [dsh-fmt](https://github.com/ZhijiangTang/dsh-fmt) ⭐1 — DSH plugin: JSON/YAML/TOML/SQL formatter with error line/column locations (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9305,6 +9306,7 @@ awesome-deepseek-harness/
 - [dsh-file-mention](https://github.com/sunshaobei/dsh-file-mention) ⭐1 — 支持dsh @引用文件及文件夹 (✅ active)
 - [dsh-file-mention](https://github.com/ohoyour/dsh-file-mention) ⭐1 — 在 Harness 输入框中输入 `@` 加文件名或目录名即可搜索并插入引用。 (✅ active)
 - [dsh-file-review](https://github.com/ylw-a/dsh-file-review) ⭐1 — dsh的文件浏览侧边栏 (✅ active)
+- [dsh-file-share](https://github.com/weibaohui/dsh-file-share) ⭐1 — Session workspace file manager: adds a "Files" tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process. (✅ active)
 - [dsh-files-tab](https://github.com/dzwalker/dsh-files-tab) ⭐1 — A DeepSeek Harness (DSH) conversation 'Files' tab plugin: open, read (Markdown + TOC) and edit (Monaco) workspace files without leaving the chat. (✅ active)
 - [dsh-flomo](https://github.com/zhengjy01/dsh-flomo) ⭐1 — Send notes and memos to flomo (浮墨笔记) from DeepSeek Harness: flomo_send / flomo_config / flomo_status agent tools (✅ active)
 - [dsh-fmt](https://github.com/ZhijiangTang/dsh-fmt) ⭐1 — DSH plugin: JSON/YAML/TOML/SQL formatter with error line/column locations (✅ active)

@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3143,6 +3143,7 @@ dsh web
 - [dsh-file-mention](https://github.com/sunshaobei/dsh-file-mention) ⭐1 — 支持dsh @引用文件及文件夹（✅ 活跃）
 - [dsh-file-mention](https://github.com/ohoyour/dsh-file-mention) ⭐1 — 在 Harness 输入框中输入 `@` 加文件名或目录名即可搜索并插入引用。（✅ 活跃）
 - [dsh-file-review](https://github.com/ylw-a/dsh-file-review) ⭐1 — dsh的文件浏览侧边栏（✅ 活跃）
+- [dsh-file-share](https://github.com/weibaohui/dsh-file-share) ⭐1 — 会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理。（✅ 活跃）
 - [dsh-files-tab](https://github.com/dzwalker/dsh-files-tab) ⭐1 — A DeepSeek Harness (DSH) conversation 'Files' tab plugin: open, read (Markdown + TOC) and edit (Monaco) workspace files without leaving the chat.（✅ 活跃）
 - [dsh-flomo](https://github.com/zhengjy01/dsh-flomo) ⭐1 — Send notes and memos to flomo (浮墨笔记) from DeepSeek Harness: flomo_send / flomo_config / flomo_status agent tools（✅ 活跃）
 - [dsh-fmt](https://github.com/ZhijiangTang/dsh-fmt) ⭐1 — DSH plugin: JSON/YAML/TOML/SQL formatter with error line/column locations（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9306,6 +9307,7 @@ awesome-deepseek-harness/
 - [dsh-file-mention](https://github.com/sunshaobei/dsh-file-mention) ⭐1 — 支持dsh @引用文件及文件夹（✅ 活跃）
 - [dsh-file-mention](https://github.com/ohoyour/dsh-file-mention) ⭐1 — 在 Harness 输入框中输入 `@` 加文件名或目录名即可搜索并插入引用。（✅ 活跃）
 - [dsh-file-review](https://github.com/ylw-a/dsh-file-review) ⭐1 — dsh的文件浏览侧边栏（✅ 活跃）
+- [dsh-file-share](https://github.com/weibaohui/dsh-file-share) ⭐1 — 会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理。（✅ 活跃）
 - [dsh-files-tab](https://github.com/dzwalker/dsh-files-tab) ⭐1 — A DeepSeek Harness (DSH) conversation 'Files' tab plugin: open, read (Markdown + TOC) and edit (Monaco) workspace files without leaving the chat.（✅ 活跃）
 - [dsh-flomo](https://github.com/zhengjy01/dsh-flomo) ⭐1 — Send notes and memos to flomo (浮墨笔记) from DeepSeek Harness: flomo_send / flomo_config / flomo_status agent tools（✅ 活跃）
 - [dsh-fmt](https://github.com/ZhijiangTang/dsh-fmt) ⭐1 — DSH plugin: JSON/YAML/TOML/SQL formatter with error line/column locations（✅ 活跃）

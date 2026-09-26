@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3616 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3617 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-## 完整列表（3616）
+## 完整列表（3617）
 
 
 **视觉与多模态（1298）**
@@ -2788,9 +2788,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | DeepSeek Harness 一键重启：网页按钮（外加 dsh_restart Agent 工具）把重启交给独立 helper，等端口释放后以完全相同的命令拉起新宿主，页面自动重连；新宿主启动失败时由恢复控制台显示启动错误。 | ✅ 活跃 |
 
-**界面与体验（467）**
+**界面与体验（468）**
 
-*其他（179）*
+*其他（180）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -2964,6 +2964,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-llm-compat-healer](resources/dsh-llm-compat-healer.md) | ⭐1 | LLM 兼容自愈插件：自动检测并修复中转/网关未正确声明模型能力导致的请求失败（thinking/reasoning 兼容），提供设置页 UI 配置全部 pi-ai 字段 | ✅ 活跃 |
 | [dsh-plugins](resources/dsh-plugins-14.md) | ⭐1 | Open-source community plugins for DeepSeek Harness, built with TypeScript and Cordis. | ✅ 活跃 |
 | [dsh-preset-minimal-pwsh](resources/dsh-preset-minimal-pwsh.md) | ⭐1 | DeepSeek Harness Windows minimal-mode agent preset: two tools (pwsh + str_replace_editor), built-in plugins only | ✅ 活跃 |
+| [dsh-settings-ui](resources/dsh-settings-ui.md) | ⭐1 | 设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义宽高）、背景透明度与背景（主题/颜色/图片），悬浮球即开即调，存本机浏览器。 | ✅ 活跃 |
 | [dsh-weather-sky](resources/dsh-weather-sky.md) | ⭐1 | 在 DeepSeek Harness 界面叠加一层实时天气与天空动画——白天显示太阳，夜晚显示带真实月相的月亮，并按天气呈现云、雨、雪、雾，以及周期性的闪电。Overlay a live weather & sky animation on the DeepSeek Harness UI: sun by day, moon with real phases by night, plus clouds, rain, snow, fog, and periodic lightning. | ✅ 活跃 |
 | [dsh-zh-commands](resources/dsh-zh-commands.md) | ⭐1 | DSH plugin: Chinese slash commands & built-in command description localization — 中文斜杠命令增强 | ✅ 活跃 |
 | [dsh-client-ui-filesystem-manager](resources/dsh-client-ui-filesystem-manager.md) | – | A customized DeepSeek Harness filetree manager UI plugin. | ✅ 活跃 |

@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3419,6 +3419,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-session-s3](https://github.com/gengmao/dsh-session-s3) ⭐1 — Community DSH plugin: S3-backed SessionPersistence (wal3-Lite). Immutable JSONL fragments + CAS manifest. (✅ active)
 - [dsh-session-stars](https://github.com/malevrigns/dsh-session-stars) ⭐1 — Favorite DeepSeek Harness Sessions and reopen them from a global cross-Workspace center. (✅ active)
 - [dsh-settings-tuner](https://github.com/Semidia/dsh-settings-tuner) ⭐1 — DSH 系统参数调整插件：设置页调整超时/并行/重试/模型/Web搜索/权限参数，全中文 UI (✅ active)
+- [dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) ⭐1 — Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser. (✅ active)
 - [dsh-shared-memory](https://github.com/futongxu9-maker/dsh-shared-memory) ⭐1 — 跨对话记忆系统：Hermes 式共享记忆（MEMORY.md + USER.md 注入每个会话系统提示词），memory 工具 + 可视化记忆面板 (✅ active)
 - [dsh-shield](https://github.com/x2802490130-prog/dsh-shield) ⭐1 — DSH 脱手模式安全网：删除目录先进回收站、删除链接绝不跟随，零审批。 (✅ active)
 - [dsh-sidebar-balance](https://github.com/zhouchengke2046/dsh-sidebar-balance) ⭐1 — 极简原生风 DSH 余额插件:侧边栏常驻 DeepSeek 余额 + OpenCode Go 套餐消耗圆环,磨砂玻璃悬浮卡,一键重启。Minimalist native-adaptive DeepSeek Harness balance widget. (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9582,6 +9583,7 @@ awesome-deepseek-harness/
 - [dsh-session-s3](https://github.com/gengmao/dsh-session-s3) ⭐1 — Community DSH plugin: S3-backed SessionPersistence (wal3-Lite). Immutable JSONL fragments + CAS manifest. (✅ active)
 - [dsh-session-stars](https://github.com/malevrigns/dsh-session-stars) ⭐1 — Favorite DeepSeek Harness Sessions and reopen them from a global cross-Workspace center. (✅ active)
 - [dsh-settings-tuner](https://github.com/Semidia/dsh-settings-tuner) ⭐1 — DSH 系统参数调整插件：设置页调整超时/并行/重试/模型/Web搜索/权限参数，全中文 UI (✅ active)
+- [dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) ⭐1 — Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser. (✅ active)
 - [dsh-shared-memory](https://github.com/futongxu9-maker/dsh-shared-memory) ⭐1 — 跨对话记忆系统：Hermes 式共享记忆（MEMORY.md + USER.md 注入每个会话系统提示词），memory 工具 + 可视化记忆面板 (✅ active)
 - [dsh-shield](https://github.com/x2802490130-prog/dsh-shield) ⭐1 — DSH 脱手模式安全网：删除目录先进回收站、删除链接绝不跟随，零审批。 (✅ active)
 - [dsh-sidebar-balance](https://github.com/zhouchengke2046/dsh-sidebar-balance) ⭐1 — 极简原生风 DSH 余额插件:侧边栏常驻 DeepSeek 余额 + OpenCode Go 套餐消耗圆环,磨砂玻璃悬浮卡,一键重启。Minimalist native-adaptive DeepSeek Harness balance widget. (✅ active)

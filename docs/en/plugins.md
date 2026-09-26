@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3616 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3617 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-## Complete list (3616)
+## Complete list (3617)
 
 
 **Vision & multimodal (1298)**
@@ -2788,9 +2788,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | One-click restart for DeepSeek Harness: a web button (plus a dsh_restart agent tool) hands the relaunch to a detached helper that waits for the port to free, relaunches the same command, auto-reconnects the page, and shows boot errors in a recovery console when the new host fails. | ✅ active |
 
-**UI & experience (467)**
+**UI & experience (468)**
 
-*Other (179)*
+*Other (180)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -2964,6 +2964,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-llm-compat-healer](resources/dsh-llm-compat-healer.md) | ⭐1 | LLM 兼容自愈插件：自动检测并修复中转/网关未正确声明模型能力导致的请求失败（thinking/reasoning 兼容），提供设置页 UI 配置全部 pi-ai 字段 | ✅ active |
 | [dsh-plugins](resources/dsh-plugins-14.md) | ⭐1 | Open-source community plugins for DeepSeek Harness, built with TypeScript and Cordis. | ✅ active |
 | [dsh-preset-minimal-pwsh](resources/dsh-preset-minimal-pwsh.md) | ⭐1 | DeepSeek Harness Windows minimal-mode agent preset: two tools (pwsh + str_replace_editor), built-in plugins only | ✅ active |
+| [dsh-settings-ui](resources/dsh-settings-ui.md) | ⭐1 | Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser. | ✅ active |
 | [dsh-weather-sky](resources/dsh-weather-sky.md) | ⭐1 | 在 DeepSeek Harness 界面叠加一层实时天气与天空动画——白天显示太阳，夜晚显示带真实月相的月亮，并按天气呈现云、雨、雪、雾，以及周期性的闪电。Overlay a live weather & sky animation on the DeepSeek Harness UI: sun by day, moon with real phases by night, plus clouds, rain, snow, fog, and periodic lightning. | ✅ active |
 | [dsh-zh-commands](resources/dsh-zh-commands.md) | ⭐1 | DSH plugin: Chinese slash commands & built-in command description localization — 中文斜杠命令增强 | ✅ active |
 | [dsh-client-ui-filesystem-manager](resources/dsh-client-ui-filesystem-manager.md) | – | A customized DeepSeek Harness filetree manager UI plugin. | ✅ active |

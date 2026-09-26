@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3420,6 +3420,7 @@ dsh web
 - [dsh-session-s3](https://github.com/gengmao/dsh-session-s3) ⭐1 — Community DSH plugin: S3-backed SessionPersistence (wal3-Lite). Immutable JSONL fragments + CAS manifest.（✅ 活跃）
 - [dsh-session-stars](https://github.com/malevrigns/dsh-session-stars) ⭐1 — Favorite DeepSeek Harness Sessions and reopen them from a global cross-Workspace center.（✅ 活跃）
 - [dsh-settings-tuner](https://github.com/Semidia/dsh-settings-tuner) ⭐1 — DSH 系统参数调整插件：设置页调整超时/并行/重试/模型/Web搜索/权限参数，全中文 UI（✅ 活跃）
+- [dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) ⭐1 — 设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义宽高）、背景透明度与背景（主题/颜色/图片），悬浮球即开即调，存本机浏览器。（✅ 活跃）
 - [dsh-shared-memory](https://github.com/futongxu9-maker/dsh-shared-memory) ⭐1 — 跨对话记忆系统：Hermes 式共享记忆（MEMORY.md + USER.md 注入每个会话系统提示词），memory 工具 + 可视化记忆面板（✅ 活跃）
 - [dsh-shield](https://github.com/x2802490130-prog/dsh-shield) ⭐1 — DSH 脱手模式安全网：删除目录先进回收站、删除链接绝不跟随，零审批。（✅ 活跃）
 - [dsh-sidebar-balance](https://github.com/zhouchengke2046/dsh-sidebar-balance) ⭐1 — 极简原生风 DSH 余额插件:侧边栏常驻 DeepSeek 余额 + OpenCode Go 套餐消耗圆环,磨砂玻璃悬浮卡,一键重启。Minimalist native-adaptive DeepSeek Harness balance widget.（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9583,6 +9584,7 @@ awesome-deepseek-harness/
 - [dsh-session-s3](https://github.com/gengmao/dsh-session-s3) ⭐1 — Community DSH plugin: S3-backed SessionPersistence (wal3-Lite). Immutable JSONL fragments + CAS manifest.（✅ 活跃）
 - [dsh-session-stars](https://github.com/malevrigns/dsh-session-stars) ⭐1 — Favorite DeepSeek Harness Sessions and reopen them from a global cross-Workspace center.（✅ 活跃）
 - [dsh-settings-tuner](https://github.com/Semidia/dsh-settings-tuner) ⭐1 — DSH 系统参数调整插件：设置页调整超时/并行/重试/模型/Web搜索/权限参数，全中文 UI（✅ 活跃）
+- [dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) ⭐1 — 设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义宽高）、背景透明度与背景（主题/颜色/图片），悬浮球即开即调，存本机浏览器。（✅ 活跃）
 - [dsh-shared-memory](https://github.com/futongxu9-maker/dsh-shared-memory) ⭐1 — 跨对话记忆系统：Hermes 式共享记忆（MEMORY.md + USER.md 注入每个会话系统提示词），memory 工具 + 可视化记忆面板（✅ 活跃）
 - [dsh-shield](https://github.com/x2802490130-prog/dsh-shield) ⭐1 — DSH 脱手模式安全网：删除目录先进回收站、删除链接绝不跟随，零审批。（✅ 活跃）
 - [dsh-sidebar-balance](https://github.com/zhouchengke2046/dsh-sidebar-balance) ⭐1 — 极简原生风 DSH 余额插件:侧边栏常驻 DeepSeek 余额 + OpenCode Go 套餐消耗圆环,磨砂玻璃悬浮卡,一键重启。Minimalist native-adaptive DeepSeek Harness balance widget.（✅ 活跃）

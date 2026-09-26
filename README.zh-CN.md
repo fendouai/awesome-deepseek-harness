@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3619,6 +3619,7 @@ dsh web
 - [dsh-file-rename](https://github.com/uckkk/dsh-file-rename)  — 批量重命名：查找/替换、前后缀、大小写规则，支持 dry-run 预览（✅ 活跃）
 - [dsh-file-upload](https://github.com/kamilhzn/dsh-file-upload)  — dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。（✅ 活跃）
 - [dsh-floor-nav](https://github.com/thirsty5034/dsh-floor-nav)  — LiveAgent-style floor navigation rail for DeepSeek Harness (collapsed ticks, hover panel, jump)（✅ 活跃）
+- [dsh-flow](https://github.com/weibaohui/dsh-flow)  — 执行流程图：把当前会话的执行过程画成一条纵向节点流（回合/用户/助手/工具/审批/重试/压缩），SSE 实时追加——会话执行到哪，图就画到哪，自动跟随滚动。（🧪 实验性）
 - [dsh-fold](https://github.com/Yancey2023/dsh-fold)  — Adds clean, flexible folding to keep content compact, organized, and easy to navigate.（✅ 活跃）
 - [dsh-for-wsl](https://github.com/Rycar1/dsh-for-wsl)  — WSL workspace integration and shell routing plugin for DeepSeek Harness（✅ 活跃）
 - [dsh-fork-to-preset](https://github.com/bpc-oss/dsh-fork-to-preset)  — 在会话 Header 上一键把当前会话分叉到任意 agent preset：选择 preset 后创建挂载到该 preset 的新子会话，并继承源会话的已完成轮次。（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9782,6 +9783,7 @@ awesome-deepseek-harness/
 - [dsh-file-rename](https://github.com/uckkk/dsh-file-rename)  — 批量重命名：查找/替换、前后缀、大小写规则，支持 dry-run 预览（✅ 活跃）
 - [dsh-file-upload](https://github.com/kamilhzn/dsh-file-upload)  — dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。（✅ 活跃）
 - [dsh-floor-nav](https://github.com/thirsty5034/dsh-floor-nav)  — LiveAgent-style floor navigation rail for DeepSeek Harness (collapsed ticks, hover panel, jump)（✅ 活跃）
+- [dsh-flow](https://github.com/weibaohui/dsh-flow)  — 执行流程图：把当前会话的执行过程画成一条纵向节点流（回合/用户/助手/工具/审批/重试/压缩），SSE 实时追加——会话执行到哪，图就画到哪，自动跟随滚动。（🧪 实验性）
 - [dsh-fold](https://github.com/Yancey2023/dsh-fold)  — Adds clean, flexible folding to keep content compact, organized, and easy to navigate.（✅ 活跃）
 - [dsh-for-wsl](https://github.com/Rycar1/dsh-for-wsl)  — WSL workspace integration and shell routing plugin for DeepSeek Harness（✅ 活跃）
 - [dsh-fork-to-preset](https://github.com/bpc-oss/dsh-fork-to-preset)  — 在会话 Header 上一键把当前会话分叉到任意 agent preset：选择 preset 后创建挂载到该 preset 的新子会话，并继承源会话的已完成轮次。（✅ 活跃）

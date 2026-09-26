@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3618,6 +3618,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-file-rename](https://github.com/uckkk/dsh-file-rename)  — 批量重命名：查找/替换、前后缀、大小写规则，支持 dry-run 预览 (✅ active)
 - [dsh-file-upload](https://github.com/kamilhzn/dsh-file-upload)  — dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。 (✅ active)
 - [dsh-floor-nav](https://github.com/thirsty5034/dsh-floor-nav)  — LiveAgent-style floor navigation rail for DeepSeek Harness (collapsed ticks, hover panel, jump) (✅ active)
+- [dsh-flow](https://github.com/weibaohui/dsh-flow)  — Execution flow chart: renders the current session's execution as a vertical node flow (turns, user, assistant, tools, approvals, retries, compaction), appended in real time over SSE with auto-follow scrolling, so the chart draws wherever the session executes. (🧪 experimental)
 - [dsh-fold](https://github.com/Yancey2023/dsh-fold)  — Adds clean, flexible folding to keep content compact, organized, and easy to navigate. (✅ active)
 - [dsh-for-wsl](https://github.com/Rycar1/dsh-for-wsl)  — WSL workspace integration and shell routing plugin for DeepSeek Harness (✅ active)
 - [dsh-fork-to-preset](https://github.com/bpc-oss/dsh-fork-to-preset)  — Fork any session into a different agent preset from the conversation header: a preset-picker button that creates a new child session mounted on the chosen preset, inheriting the source session completed turns. (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9781,6 +9782,7 @@ awesome-deepseek-harness/
 - [dsh-file-rename](https://github.com/uckkk/dsh-file-rename)  — 批量重命名：查找/替换、前后缀、大小写规则，支持 dry-run 预览 (✅ active)
 - [dsh-file-upload](https://github.com/kamilhzn/dsh-file-upload)  — dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。 (✅ active)
 - [dsh-floor-nav](https://github.com/thirsty5034/dsh-floor-nav)  — LiveAgent-style floor navigation rail for DeepSeek Harness (collapsed ticks, hover panel, jump) (✅ active)
+- [dsh-flow](https://github.com/weibaohui/dsh-flow)  — Execution flow chart: renders the current session's execution as a vertical node flow (turns, user, assistant, tools, approvals, retries, compaction), appended in real time over SSE with auto-follow scrolling, so the chart draws wherever the session executes. (🧪 experimental)
 - [dsh-fold](https://github.com/Yancey2023/dsh-fold)  — Adds clean, flexible folding to keep content compact, organized, and easy to navigate. (✅ active)
 - [dsh-for-wsl](https://github.com/Rycar1/dsh-for-wsl)  — WSL workspace integration and shell routing plugin for DeepSeek Harness (✅ active)
 - [dsh-fork-to-preset](https://github.com/bpc-oss/dsh-fork-to-preset)  — Fork any session into a different agent preset from the conversation header: a preset-picker button that creates a new child session mounted on the chosen preset, inheriting the source session completed turns. (✅ active)

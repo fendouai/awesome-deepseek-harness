@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3198,6 +3198,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-invoke](https://github.com/Melosic/dsh-invoke) ⭐1 — Prompt Vault & Invoker for DeepSeek Harness — 管理、分类、快速调用提示词，支持侧边栏 GUI 与复制粘贴 (✅ active)
 - [dsh-jwt](https://github.com/ZhijiangTang/dsh-jwt) ⭐1 — DSH plugin: decode JWT tokens for debugging (no signature verification) (✅ active)
 - [dsh-k12-substrate](https://github.com/qiuyiwu1989-star/dsh-k12-substrate) ⭐1 — K12 capability substrate for DeepSeek Harness — 143 objectively-decidable capability anchors and 6,091 list items from China's MOE 2022 curriculum standards, with local-only learner profiles (✅ active)
+- [dsh-kb](https://github.com/weibaohui/dsh-kb) ⭐1 — Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint). (✅ active)
 - [dsh-kernel-codex](https://github.com/oppnc/dsh-kernel-codex) ⭐1 — Codex CLI written in DSH form: the OpenAI Codex tool surface re-registered as native DeepSeek Harness tools. (✅ active)
 - [dsh-kernel-grok](https://github.com/oppnc/dsh-kernel-grok) ⭐1 — Grok Build written in DSH form: the grok-build tool surface re-registered as native DeepSeek Harness tools. (✅ active)
 - [dsh-kernel-minimax](https://github.com/oppnc/dsh-kernel-minimax) ⭐1 — Mini-Agent written in DSH form: the mini-agent tool surface re-registered as native DeepSeek Harness tools. (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9361,6 +9362,7 @@ awesome-deepseek-harness/
 - [dsh-invoke](https://github.com/Melosic/dsh-invoke) ⭐1 — Prompt Vault & Invoker for DeepSeek Harness — 管理、分类、快速调用提示词，支持侧边栏 GUI 与复制粘贴 (✅ active)
 - [dsh-jwt](https://github.com/ZhijiangTang/dsh-jwt) ⭐1 — DSH plugin: decode JWT tokens for debugging (no signature verification) (✅ active)
 - [dsh-k12-substrate](https://github.com/qiuyiwu1989-star/dsh-k12-substrate) ⭐1 — K12 capability substrate for DeepSeek Harness — 143 objectively-decidable capability anchors and 6,091 list items from China's MOE 2022 curriculum standards, with local-only learner profiles (✅ active)
+- [dsh-kb](https://github.com/weibaohui/dsh-kb) ⭐1 — Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint). (✅ active)
 - [dsh-kernel-codex](https://github.com/oppnc/dsh-kernel-codex) ⭐1 — Codex CLI written in DSH form: the OpenAI Codex tool surface re-registered as native DeepSeek Harness tools. (✅ active)
 - [dsh-kernel-grok](https://github.com/oppnc/dsh-kernel-grok) ⭐1 — Grok Build written in DSH form: the grok-build tool surface re-registered as native DeepSeek Harness tools. (✅ active)
 - [dsh-kernel-minimax](https://github.com/oppnc/dsh-kernel-minimax) ⭐1 — Mini-Agent written in DSH form: the mini-agent tool surface re-registered as native DeepSeek Harness tools. (✅ active)

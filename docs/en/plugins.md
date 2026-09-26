@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3616 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3617 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-## Complete list (3616)
+## Complete list (3617)
 
 
 **Vision & multimodal (1298)**
@@ -3290,7 +3290,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-computer-use-windows](resources/dsh-computer-use-windows-1.md) | ⭐1 | Windows Computer Use tools for DeepSeek Harness: self-contained UIA native helper, occlusion-aware screenshots, safety-gated input | ✅ active |
 | [dsh-llm-kimi](resources/dsh-llm-kimi.md) | ⭐1 | Kimi (Moonshot AI) LLM adapter plugin for DeepSeek Harness — three routes: kimi-code (Kimi Code subscription), kimi-cn, kimi-global. Streaming, thinking mode, tool calling, image input, plus a built-in Kimi settings page. | ✅ active |
 
-**Memory & context (315)**
+**Memory & context (316)**
 
 *🧠 Memory systems (141)*
 
@@ -3536,7 +3536,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-json-tools](resources/dsh-json-tools.md) | – | @{name=dsh-json-tools; version=0.1.0; description=JSON 规范化：递归排序键、美化/压缩 JSON; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=}.description | ✅ active |
 | [dsh-premise-guard-cn](resources/dsh-premise-guard-cn.md) | – | 用于创作小说时预防长上下文压缩导致的关键内容丢失；上下文压缩丢失关键锚点（中文引号/书名号/术语链/编号/设定短语）时自动报警，支持手动锚点清单与 premise_anchor 工具。fork of ICCuse/dsh-premise-guard (MIT)。 | ✅ active |
 | [dsh-ui-context-menu](resources/dsh-ui-context-menu.md) | – | 替换浏览器右键菜单为DSH功能菜单 | ✅ active |
-*Other (76)*
+*Other (77)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -3616,6 +3616,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [open-preset-harness](resources/open-preset-harness.md) | ⭐3 | DSH Memory plugin (dsh-tool-project-memory): shared project organizational memory across presets — recall, remember, memory_status | ✅ active |
 | [Wangdefa.Memory](resources/wangdefa-memory.md) | ⭐3 | Wangdefa.Memory 是一个为本地数字分身Agent 设计的五层记忆体组件，数据完全保留在本地，不依赖云端，达到轻量、白盒可控、可解释，未来将进一步往企业级原生记忆体方向拓展。 | ✅ active |
 | [dsh-flomo](resources/dsh-flomo.md) | ⭐1 | Send notes and memos to flomo (浮墨笔记) from DeepSeek Harness: flomo_send / flomo_config / flomo_status agent tools | ✅ active |
+| [dsh-kb](resources/dsh-kb.md) | ⭐1 | Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint). | ✅ active |
 *🔍 Context audit (3)*
 
 | Project | Stars | Description | Status |

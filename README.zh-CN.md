@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3199,6 +3199,7 @@ dsh web
 - [dsh-invoke](https://github.com/Melosic/dsh-invoke) ⭐1 — Prompt Vault & Invoker for DeepSeek Harness — 管理、分类、快速调用提示词，支持侧边栏 GUI 与复制粘贴（✅ 活跃）
 - [dsh-jwt](https://github.com/ZhijiangTang/dsh-jwt) ⭐1 — DSH plugin: decode JWT tokens for debugging (no signature verification)（✅ 活跃）
 - [dsh-k12-substrate](https://github.com/qiuyiwu1989-star/dsh-k12-substrate) ⭐1 — K12 capability substrate for DeepSeek Harness — 143 objectively-decidable capability anchors and 6,091 list items from China's MOE 2022 curriculum standards, with local-only learner profiles（✅ 活跃）
+- [dsh-kb](https://github.com/weibaohui/dsh-kb) ⭐1 — 团队知识库：离线知识共享（FDE 盒子场景），浏览/全文检索/加工入口；raw 入料自动入队、bot 会话串行蒸馏成文（Karpathy LLM Wiki 模式：raw 不可变 / 两步加工 / log 流水 / 月度 lint）。（✅ 活跃）
 - [dsh-kernel-codex](https://github.com/oppnc/dsh-kernel-codex) ⭐1 — Codex CLI written in DSH form: the OpenAI Codex tool surface re-registered as native DeepSeek Harness tools.（✅ 活跃）
 - [dsh-kernel-grok](https://github.com/oppnc/dsh-kernel-grok) ⭐1 — Grok Build written in DSH form: the grok-build tool surface re-registered as native DeepSeek Harness tools.（✅ 活跃）
 - [dsh-kernel-minimax](https://github.com/oppnc/dsh-kernel-minimax) ⭐1 — Mini-Agent written in DSH form: the mini-agent tool surface re-registered as native DeepSeek Harness tools.（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9362,6 +9363,7 @@ awesome-deepseek-harness/
 - [dsh-invoke](https://github.com/Melosic/dsh-invoke) ⭐1 — Prompt Vault & Invoker for DeepSeek Harness — 管理、分类、快速调用提示词，支持侧边栏 GUI 与复制粘贴（✅ 活跃）
 - [dsh-jwt](https://github.com/ZhijiangTang/dsh-jwt) ⭐1 — DSH plugin: decode JWT tokens for debugging (no signature verification)（✅ 活跃）
 - [dsh-k12-substrate](https://github.com/qiuyiwu1989-star/dsh-k12-substrate) ⭐1 — K12 capability substrate for DeepSeek Harness — 143 objectively-decidable capability anchors and 6,091 list items from China's MOE 2022 curriculum standards, with local-only learner profiles（✅ 活跃）
+- [dsh-kb](https://github.com/weibaohui/dsh-kb) ⭐1 — 团队知识库：离线知识共享（FDE 盒子场景），浏览/全文检索/加工入口；raw 入料自动入队、bot 会话串行蒸馏成文（Karpathy LLM Wiki 模式：raw 不可变 / 两步加工 / log 流水 / 月度 lint）。（✅ 活跃）
 - [dsh-kernel-codex](https://github.com/oppnc/dsh-kernel-codex) ⭐1 — Codex CLI written in DSH form: the OpenAI Codex tool surface re-registered as native DeepSeek Harness tools.（✅ 活跃）
 - [dsh-kernel-grok](https://github.com/oppnc/dsh-kernel-grok) ⭐1 — Grok Build written in DSH form: the grok-build tool surface re-registered as native DeepSeek Harness tools.（✅ 活跃）
 - [dsh-kernel-minimax](https://github.com/oppnc/dsh-kernel-minimax) ⭐1 — Mini-Agent written in DSH form: the mini-agent tool surface re-registered as native DeepSeek Harness tools.（✅ 活跃）

@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3616 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3617 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-## Complete list (3616)
+## Complete list (3617)
 
 
 **Vision & multimodal (1298)**
@@ -2211,9 +2211,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ active |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**Developer tools (546)**
+**Developer tools (547)**
 
-*Other (328)*
+*Other (329)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -2493,6 +2493,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-design-styles](resources/dsh-design-styles.md) | ⭐1 | 设计风格参考 | ✅ active |
 | [dsh-elf](resources/dsh-elf.md) | ⭐1 | A temporary dialogue elf designed specifically for DSH | ✅ active |
 | [dsh-exec-extension](resources/dsh-exec-extension.md) | ⭐1 | An exec extension for headless dsh runner allowing more flags etc. | ✅ active |
+| [dsh-git-server](resources/dsh-git-server.md) | ⭐1 | Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port — HTTP clone/push, web UI, issues/PRs/wiki — reusing user-management credentials, start/stop from the settings page. | ✅ active |
 | [dsh-global-rules](resources/dsh-global-rules-1.md) | ⭐1 | DSH plugin: edit ~/.dsh/AGENTS.md from the Settings page — 个性化全局规则编辑器 | ✅ active |
 | [dsh-guard](resources/dsh-guard.md) | ⭐1 | DSH 开发配套守护：滚动快照、失败自动回退、启动救援、设置页管理面板。 | ✅ active |
 | [dsh-highlight-letme](resources/dsh-highlight-letme.md) | ⭐1 | 自动标红思考过程中的let_me | ✅ active |

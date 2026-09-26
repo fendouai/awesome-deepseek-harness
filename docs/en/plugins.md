@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3616 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3617 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-## Complete list (3616)
+## Complete list (3617)
 
 
 **Vision & multimodal (1298)**
@@ -2211,9 +2211,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ active |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**Developer tools (546)**
+**Developer tools (547)**
 
-*Other (328)*
+*Other (329)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -2516,6 +2516,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-tps](resources/dsh-tps.md) | ⭐1 | 只是一个 tps 插件 | ✅ active |
 | [dsh-user-message-navigation](resources/dsh-user-message-navigation.md) | ⭐1 | DSH User Message Minimap（用户消息导航轨）— 长对话中的用户指令快速导航插件 | ✅ active |
 | [dsh-voice](resources/dsh-voice-6.md) | ⭐1 | dsh-voice | ✅ active |
+| [dsh-webdav-server](resources/dsh-webdav-server.md) | ⭐1 | WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page. | ✅ active |
 | [dsh-when](resources/dsh-when.md) | ⭐1 | DSH plugin: parse natural-language relative times into ISO timestamps (fail-fast) | ✅ active |
 | [dsh-backup-migrator](resources/dsh-backup-migrator.md) | – | Plugin environment backup and migration for DSH: backs up every profile's plugin list, plugin configs and local-source plugin tarballs into a git repo, and restores them on a new machine. | ✅ active |
 | [dsh-color-theory](resources/dsh-color-theory.md) | – | 色彩理论与配色方案参考 | ✅ active |

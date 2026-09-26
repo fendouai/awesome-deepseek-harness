@@ -77473,5 +77473,21 @@
     "verified": false,
     "stars": 0,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-webdav-server",
+    "name": "dsh-webdav-server",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/weibaohui/dsh-webdav-server",
+    "description": "WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.",
+    "description_zh": "WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。",
+    "capabilities": [
+      "files"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   }
 ]

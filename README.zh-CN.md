@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3518,6 +3518,7 @@ dsh web
 - [dsh-web-skin](https://github.com/SnoWinKK/dsh-web-skin) ⭐1 — DSH Web 界面壁纸皮肤：任意本地路径换图、玻璃半透明、设置面板、重启自动恢复（✅ 活跃）
 - [dsh-web-speech-input](https://github.com/leozou320-ai/dsh-web-speech-input) ⭐1 — Voice-to-text for the DeepSeek Harness Web UI — live, editable, never auto-sends. | DeepSeek Harness 网页语音输入（✅ 活跃）
 - [dsh-web-text-drop](https://github.com/liceses/dsh-web-text-drop) ⭐1 — DSH Web GUI 文本文件拖拽导入插件:把 md / txt / log / 代码等文本文件拖进页面, 按内容长度自动处理 —— 短内容直接进输入框,长内容复制到工作区并粘贴可读路径。（✅ 活跃）
+- [dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) ⭐1 — WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。（✅ 活跃）
 - [dsh-webui-fix-pack](https://github.com/jiesou/dsh-webui-fix-pack) ⭐1 — 修复 DeepSeek Harness Web UI 的 PWA、移动端支持，各种小 bug 和不合理的地方（✅ 活跃）
 - [dsh-whale-bg](https://github.com/gooosie/dsh-whale-bg) ⭐1 — Unofficial DeepSeek Harness particle-whale background plugin with cursor lighting and theme support.（✅ 活跃）
 - [dsh-whale-cards](https://github.com/changer-changer/dsh-whale-cards) ⭐1 — A polished local-first DSH Web teahouse: curated mini-games, resumable breaks, and Lanyin companion.（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9681,6 +9682,7 @@ awesome-deepseek-harness/
 - [dsh-web-skin](https://github.com/SnoWinKK/dsh-web-skin) ⭐1 — DSH Web 界面壁纸皮肤：任意本地路径换图、玻璃半透明、设置面板、重启自动恢复（✅ 活跃）
 - [dsh-web-speech-input](https://github.com/leozou320-ai/dsh-web-speech-input) ⭐1 — Voice-to-text for the DeepSeek Harness Web UI — live, editable, never auto-sends. | DeepSeek Harness 网页语音输入（✅ 活跃）
 - [dsh-web-text-drop](https://github.com/liceses/dsh-web-text-drop) ⭐1 — DSH Web GUI 文本文件拖拽导入插件:把 md / txt / log / 代码等文本文件拖进页面, 按内容长度自动处理 —— 短内容直接进输入框,长内容复制到工作区并粘贴可读路径。（✅ 活跃）
+- [dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) ⭐1 — WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。（✅ 活跃）
 - [dsh-webui-fix-pack](https://github.com/jiesou/dsh-webui-fix-pack) ⭐1 — 修复 DeepSeek Harness Web UI 的 PWA、移动端支持，各种小 bug 和不合理的地方（✅ 活跃）
 - [dsh-whale-bg](https://github.com/gooosie/dsh-whale-bg) ⭐1 — Unofficial DeepSeek Harness particle-whale background plugin with cursor lighting and theme support.（✅ 活跃）
 - [dsh-whale-cards](https://github.com/changer-changer/dsh-whale-cards) ⭐1 — A polished local-first DSH Web teahouse: curated mini-games, resumable breaks, and Lanyin companion.（✅ 活跃）

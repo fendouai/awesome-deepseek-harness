@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3517,6 +3517,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-web-skin](https://github.com/SnoWinKK/dsh-web-skin) ⭐1 — DSH Web 界面壁纸皮肤：任意本地路径换图、玻璃半透明、设置面板、重启自动恢复 (✅ active)
 - [dsh-web-speech-input](https://github.com/leozou320-ai/dsh-web-speech-input) ⭐1 — Voice-to-text for the DeepSeek Harness Web UI — live, editable, never auto-sends. | DeepSeek Harness 网页语音输入 (✅ active)
 - [dsh-web-text-drop](https://github.com/liceses/dsh-web-text-drop) ⭐1 — DSH Web GUI 文本文件拖拽导入插件:把 md / txt / log / 代码等文本文件拖进页面, 按内容长度自动处理 —— 短内容直接进输入框,长内容复制到工作区并粘贴可读路径。 (✅ active)
+- [dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) ⭐1 — WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page. (✅ active)
 - [dsh-webui-fix-pack](https://github.com/jiesou/dsh-webui-fix-pack) ⭐1 — 修复 DeepSeek Harness Web UI 的 PWA、移动端支持，各种小 bug 和不合理的地方 (✅ active)
 - [dsh-whale-bg](https://github.com/gooosie/dsh-whale-bg) ⭐1 — Unofficial DeepSeek Harness particle-whale background plugin with cursor lighting and theme support. (✅ active)
 - [dsh-whale-cards](https://github.com/changer-changer/dsh-whale-cards) ⭐1 — A polished local-first DSH Web teahouse: curated mini-games, resumable breaks, and Lanyin companion. (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9680,6 +9681,7 @@ awesome-deepseek-harness/
 - [dsh-web-skin](https://github.com/SnoWinKK/dsh-web-skin) ⭐1 — DSH Web 界面壁纸皮肤：任意本地路径换图、玻璃半透明、设置面板、重启自动恢复 (✅ active)
 - [dsh-web-speech-input](https://github.com/leozou320-ai/dsh-web-speech-input) ⭐1 — Voice-to-text for the DeepSeek Harness Web UI — live, editable, never auto-sends. | DeepSeek Harness 网页语音输入 (✅ active)
 - [dsh-web-text-drop](https://github.com/liceses/dsh-web-text-drop) ⭐1 — DSH Web GUI 文本文件拖拽导入插件:把 md / txt / log / 代码等文本文件拖进页面, 按内容长度自动处理 —— 短内容直接进输入框,长内容复制到工作区并粘贴可读路径。 (✅ active)
+- [dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) ⭐1 — WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page. (✅ active)
 - [dsh-webui-fix-pack](https://github.com/jiesou/dsh-webui-fix-pack) ⭐1 — 修复 DeepSeek Harness Web UI 的 PWA、移动端支持，各种小 bug 和不合理的地方 (✅ active)
 - [dsh-whale-bg](https://github.com/gooosie/dsh-whale-bg) ⭐1 — Unofficial DeepSeek Harness particle-whale background plugin with cursor lighting and theme support. (✅ active)
 - [dsh-whale-cards](https://github.com/changer-changer/dsh-whale-cards) ⭐1 — A polished local-first DSH Web teahouse: curated mini-games, resumable breaks, and Lanyin companion. (✅ active)

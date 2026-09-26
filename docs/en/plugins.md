@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3616 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3617 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-## Complete list (3616)
+## Complete list (3617)
 
 
 **Vision & multimodal (1298)**
@@ -3808,17 +3808,18 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-feishu-mcp](resources/dsh-feishu-mcp.md) | – | Feishu (Lark) OpenAPI MCP connection for DSH: bridges the official @larksuiteoapi/lark-mcp server, exposing IM, Bitable, Docs, Calendar and Drive APIs as mcp__feishu__* tools with OAuth user-token support. | ✅ active |
 | [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | Vercel MCP connection for DeepSeek Harness: official OAuth 2.0 flow (dynamic client registration + PKCE) against mcp.vercel.com, Vercel API tools under mcp__vercel__*, and a web settings panel. | ✅ active |
 
+**Workflows (2)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-process](resources/dsh-process.md) | ⭐1 | Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI — browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage. | ✅ active |
+| [dsh-ticktick](resources/dsh-ticktick.md) | – | TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, and a typed Remote service — all over the official TickTick MCP endpoint. | ✅ active |
+
 **Multi-agent (1)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [dsh-product-subagent-console](resources/dsh-product-subagent-console.md) | ⭐1 | Adds a conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews. | 🧪 experimental |
-
-**Workflows (1)**
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-ticktick](resources/dsh-ticktick.md) | – | TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, and a typed Remote service — all over the official TickTick MCP endpoint. | ✅ active |
 
 **Channels (1)**
 

@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3356,6 +3356,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) ⭐1 — Premium color palettes for DeepSeek Harness — 8 built-in + custom import (热插拔主题插件) (✅ active)
 - [dsh-preset-anchored-standard](https://github.com/ruby1304/dsh-preset-anchored-standard) ⭐1 — Minimal-anchored agent preset for DeepSeek Harness: first-request bash+editor anchor, then full Standard catalog with a one-shot background-jobs promotion notice (✅ active)
 - [dsh-preset-minimal-pwsh](https://github.com/Feiyang1997/dsh-preset-minimal-pwsh) ⭐1 — DeepSeek Harness Windows minimal-mode agent preset: two tools (pwsh + str_replace_editor), built-in plugins only (✅ active)
+- [dsh-process](https://github.com/weibaohui/dsh-process) ⭐1 — Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI — browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage. (✅ active)
 - [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) ⭐1 — Adds a conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews. (🧪 experimental)
 - [dsh-progress-viz](https://github.com/2008924/dsh-progress-viz) ⭐1 — Real-time stage & ETA dashboard for DeepSeek Harness (dsh) from session event stream | dsh 任务进度可视化：会话事件流实时阶段+ETA 看板 (✅ active)
 - [dsh-project-anchor](https://github.com/KKLL2025/dsh-project-anchor) ⭐1 — User-approved Goal, Milestone, and Turn checkpoints for solo long-running DeepSeek Harness projects. (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9519,6 +9520,7 @@ awesome-deepseek-harness/
 - [dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) ⭐1 — Premium color palettes for DeepSeek Harness — 8 built-in + custom import (热插拔主题插件) (✅ active)
 - [dsh-preset-anchored-standard](https://github.com/ruby1304/dsh-preset-anchored-standard) ⭐1 — Minimal-anchored agent preset for DeepSeek Harness: first-request bash+editor anchor, then full Standard catalog with a one-shot background-jobs promotion notice (✅ active)
 - [dsh-preset-minimal-pwsh](https://github.com/Feiyang1997/dsh-preset-minimal-pwsh) ⭐1 — DeepSeek Harness Windows minimal-mode agent preset: two tools (pwsh + str_replace_editor), built-in plugins only (✅ active)
+- [dsh-process](https://github.com/weibaohui/dsh-process) ⭐1 — Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI — browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage. (✅ active)
 - [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) ⭐1 — Adds a conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews. (🧪 experimental)
 - [dsh-progress-viz](https://github.com/2008924/dsh-progress-viz) ⭐1 — Real-time stage & ETA dashboard for DeepSeek Harness (dsh) from session event stream | dsh 任务进度可视化：会话事件流实时阶段+ETA 看板 (✅ active)
 - [dsh-project-anchor](https://github.com/KKLL2025/dsh-project-anchor) ⭐1 — User-approved Goal, Milestone, and Turn checkpoints for solo long-running DeepSeek Harness projects. (✅ active)

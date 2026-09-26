@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3616 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3617 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-## 完整列表（3616）
+## 完整列表（3617）
 
 
 **视觉与多模态（1298）**
@@ -3808,17 +3808,18 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-feishu-mcp](resources/dsh-feishu-mcp.md) | – | DeepSeek Harness 的飞书（Lark）OpenAPI MCP 连接：桥接官方 @larksuiteoapi/lark-mcp，把 IM / 多维表格 / 云文档 / 日历 / 云盘 API 暴露为 mcp__feishu__* 工具，支持用户令牌 OAuth。 | ✅ 活跃 |
 | [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。 | ✅ 活跃 |
 
+**工作流（2）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-process](resources/dsh-process.md) | ⭐1 | 工艺管理：把 ntd 的「工艺」（多阶段·多环节 agent 工作流模板）接进 dsh web——浏览/编辑/校验/导入导出/AI 生成工艺，内置库只读、我的库可写，文件改动实时同步；agent 可通过 process_* 工具读工艺库、按工艺分阶段推进。 | ✅ 活跃 |
+| [dsh-ticktick](resources/dsh-ticktick.md) | – | TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具与类型化 Remote 服务，全部走官方 TickTick MCP 端点。 | ✅ 活跃 |
+
 **多智能体（1）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [dsh-product-subagent-console](resources/dsh-product-subagent-console.md) | ⭐1 | 为 DSH 对话增加多 Agent 工作台，支持可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。 | 🧪 实验性 |
-
-**工作流（1）**
-
-| 项目 | 星数 | 说明 | 状态 |
-|---|---|---|---|
-| [dsh-ticktick](resources/dsh-ticktick.md) | – | TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具与类型化 Remote 服务，全部走官方 TickTick MCP 端点。 | ✅ 活跃 |
 
 **渠道（1）**
 

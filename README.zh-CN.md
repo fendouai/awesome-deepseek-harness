@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3357,6 +3357,7 @@ dsh web
 - [dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) ⭐1 — Premium color palettes for DeepSeek Harness — 8 built-in + custom import (热插拔主题插件)（✅ 活跃）
 - [dsh-preset-anchored-standard](https://github.com/ruby1304/dsh-preset-anchored-standard) ⭐1 — Minimal-anchored agent preset for DeepSeek Harness: first-request bash+editor anchor, then full Standard catalog with a one-shot background-jobs promotion notice（✅ 活跃）
 - [dsh-preset-minimal-pwsh](https://github.com/Feiyang1997/dsh-preset-minimal-pwsh) ⭐1 — DeepSeek Harness Windows minimal-mode agent preset: two tools (pwsh + str_replace_editor), built-in plugins only（✅ 活跃）
+- [dsh-process](https://github.com/weibaohui/dsh-process) ⭐1 — 工艺管理：把 ntd 的「工艺」（多阶段·多环节 agent 工作流模板）接进 dsh web——浏览/编辑/校验/导入导出/AI 生成工艺，内置库只读、我的库可写，文件改动实时同步；agent 可通过 process_* 工具读工艺库、按工艺分阶段推进。（✅ 活跃）
 - [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) ⭐1 — 为 DSH 对话增加多 Agent 工作台，支持可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。（🧪 实验性）
 - [dsh-progress-viz](https://github.com/2008924/dsh-progress-viz) ⭐1 — Real-time stage & ETA dashboard for DeepSeek Harness (dsh) from session event stream | dsh 任务进度可视化：会话事件流实时阶段+ETA 看板（✅ 活跃）
 - [dsh-project-anchor](https://github.com/KKLL2025/dsh-project-anchor) ⭐1 — User-approved Goal, Milestone, and Turn checkpoints for solo long-running DeepSeek Harness projects.（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9520,6 +9521,7 @@ awesome-deepseek-harness/
 - [dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) ⭐1 — Premium color palettes for DeepSeek Harness — 8 built-in + custom import (热插拔主题插件)（✅ 活跃）
 - [dsh-preset-anchored-standard](https://github.com/ruby1304/dsh-preset-anchored-standard) ⭐1 — Minimal-anchored agent preset for DeepSeek Harness: first-request bash+editor anchor, then full Standard catalog with a one-shot background-jobs promotion notice（✅ 活跃）
 - [dsh-preset-minimal-pwsh](https://github.com/Feiyang1997/dsh-preset-minimal-pwsh) ⭐1 — DeepSeek Harness Windows minimal-mode agent preset: two tools (pwsh + str_replace_editor), built-in plugins only（✅ 活跃）
+- [dsh-process](https://github.com/weibaohui/dsh-process) ⭐1 — 工艺管理：把 ntd 的「工艺」（多阶段·多环节 agent 工作流模板）接进 dsh web——浏览/编辑/校验/导入导出/AI 生成工艺，内置库只读、我的库可写，文件改动实时同步；agent 可通过 process_* 工具读工艺库、按工艺分阶段推进。（✅ 活跃）
 - [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) ⭐1 — 为 DSH 对话增加多 Agent 工作台，支持可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。（🧪 实验性）
 - [dsh-progress-viz](https://github.com/2008924/dsh-progress-viz) ⭐1 — Real-time stage & ETA dashboard for DeepSeek Harness (dsh) from session event stream | dsh 任务进度可视化：会话事件流实时阶段+ETA 看板（✅ 活跃）
 - [dsh-project-anchor](https://github.com/KKLL2025/dsh-project-anchor) ⭐1 — User-approved Goal, Milestone, and Turn checkpoints for solo long-running DeepSeek Harness projects.（✅ 活跃）

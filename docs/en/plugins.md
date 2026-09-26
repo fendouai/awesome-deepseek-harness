@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3616 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3617 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-## Complete list (3616)
+## Complete list (3617)
 
 
 **Vision & multimodal (1298)**
@@ -3773,6 +3773,16 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-webbridge](resources/dsh-webbridge.md) | ⭐3 | DSH combined with Kimi WebBridge for real browser control. | ✅ active |
 | [dsh-computer-use](resources/dsh-computer-use-1-1.md) | ⭐1 | Model-agnostic Computer Use for DSH: isolated browser, Windows native helper and third-party bridges. | ✅ active |
 
+**Security (5)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management. | 🧪 experimental |
+| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
+| [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ active |
+| [dsh-plugin-auto-review](resources/dsh-plugin-auto-review.md) | ⭐1 | Automatically reviews native DSH tool approval requests through a configured DSH LLM route, with Web controls and fail-closed handling. | ✅ active |
+| [user-management](resources/user-management.md) | ⭐1 | Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs. | ✅ active |
+
 **Research (4)**
 
 | Project | Stars | Description | Status |
@@ -3781,15 +3791,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-research-report](resources/dsh-research-report.md) | ⭐44 | Verifiable research-report engine with a content-addressed evidence ledger and versioned sealed reports carrying per-claim verification verdicts. | ✅ active |
 | [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | Chinese public mutual fund research: public-source data collection and deterministic manager/portfolio metrics. | ✅ active |
 | [dsh-trading](resources/dsh-trading.md) | ⭐12 | Research-only trading workbench for DSH: typed market-data seam (BYO provider), multi-timeframe indicator snapshots, interactive chart cards with provenance-gated annotations, and a risk-guard denying execution-shaped tool calls. No execution seam by construction. | ✅ active |
-
-**Security (4)**
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | Remote access & authentication for DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management. | 🧪 experimental |
-| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations. | ✅ active |
-| [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ active |
-| [dsh-plugin-auto-review](resources/dsh-plugin-auto-review.md) | ⭐1 | Automatically reviews native DSH tool approval requests through a configured DSH LLM route, with Web controls and fail-closed handling. | ✅ active |
 
 **Automation (4)**
 

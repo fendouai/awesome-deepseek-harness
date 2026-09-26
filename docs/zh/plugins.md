@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3616 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3617 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-## 完整列表（3616）
+## 完整列表（3617）
 
 
 **视觉与多模态（1298）**
@@ -3773,6 +3773,16 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-webbridge](resources/dsh-webbridge.md) | ⭐3 | DSH 结合 Kimi WebBridge 操控真实浏览器。 | ✅ 活跃 |
 | [dsh-computer-use](resources/dsh-computer-use-1-1.md) | ⭐1 | 模型无关的 Computer Use：隔离浏览器、Windows 原生助手与第三方桥接。 | ✅ 活跃 |
 
+**安全（5）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | 让 DeepSeek Harness 可以被安全地远程访问：账号密码认证 + MFA（TOTP）登录门禁、签名会话 Cookie、角色权限、浏览器内目录选择器、账号管理设置页。 | 🧪 实验性 |
+| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。 | ✅ 活跃 |
+| [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ 活跃 |
+| [dsh-plugin-auto-review](resources/dsh-plugin-auto-review.md) | ⭐1 | 通过已配置的 DSH LLM 路由自动审核原生工具审批请求，并提供 Web 控件与故障关闭处理。 | ✅ 活跃 |
+| [user-management](resources/user-management.md) | ⭐1 | 用户管理：给 dsh web 加登录门禁，未登录访问弹登录/注册页，首个注册者自动成为管理员；管理员可管理用户/角色，带登录与访问审计。 | ✅ 活跃 |
+
 **研究（4）**
 
 | 项目 | 星数 | 说明 | 状态 |
@@ -3781,15 +3791,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-research-report](resources/dsh-research-report.md) | ⭐44 | 可验证研究报告引擎：内容寻址证据台账 + 版本化封存报告，逐条声明带核验结论。 | ✅ 活跃 |
 | [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | 中国公募基金研究：公开源数据采集 + 确定性经理/组合指标计算。 | ✅ 活跃 |
 | [dsh-trading](resources/dsh-trading.md) | ⭐12 | 纯研究型交易工作台插件：类型化行情数据缝（自带 provider）、多周期指标快照、带溯源门控标注的交互图表卡片，以及拒绝执行型工具调用的风险护栏——架构上不提供执行能力。 | ✅ 活跃 |
-
-**安全（4）**
-
-| 项目 | 星数 | 说明 | 状态 |
-|---|---|---|---|
-| [xgone/dsh-remote](resources/xgone-dsh-remote.md) | ⭐41 | 让 DeepSeek Harness 可以被安全地远程访问：账号密码认证 + MFA（TOTP）登录门禁、签名会话 Cookie、角色权限、浏览器内目录选择器、账号管理设置页。 | 🧪 实验性 |
-| [dsh-guardian](resources/dsh-guardian.md) | ⭐4 | Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。 | ✅ 活跃 |
-| [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ 活跃 |
-| [dsh-plugin-auto-review](resources/dsh-plugin-auto-review.md) | ⭐1 | 通过已配置的 DSH LLM 路由自动审核原生工具审批请求，并提供 Web 控件与故障关闭处理。 | ✅ 活跃 |
 
 **自动化（4）**
 

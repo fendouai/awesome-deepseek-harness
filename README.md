@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3539,6 +3539,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dshworks.github.io](https://github.com/dshworks/dshworks.github.io) ⭐1 — Landing page for dsh.works: the community workshop for DeepSeek Harness (dsh). Single static page, zero JS. Not affiliated with DeepSeek. (✅ active)
 - [my-skin-for-deepseek-harness](https://github.com/fthuu/my-skin-for-DeepSeek-Harness) ⭐1 — DeepSeek Harness 皮肤扩展插件 Skin plugin (✅ active)
 - [u-dsh-deepseek-harness-portable](https://github.com/dongsheng123132/u-dsh-deepseek-harness-portable) ⭐1 — U-DSH Portable — 把 DeepSeek Harness 装进 U 盘的 Windows 免安装便携版。Unzip-and-run DeepSeek Harness portable for Windows: bundled Node runtime, works offline, device wallet credit out of the box — no API key signup. (✅ active)
+- [user-management](https://github.com/weibaohui/user-management) ⭐1 — Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs. (✅ active)
 - [deepseek-harness-pocket](https://github.com/monster-echo/deepseek-harness-pocket)  — 把 DeepSeek Harness 装进口袋 · dsh 的手机伴侣端（掌鲸 DSH Pocket）：多 Worker · Gateway 中转 · 会话全功能对等 (✅ active)
 - [dsh-about](https://github.com/cdllang/dsh-about)  — About page plugin for DeepSeek Harness: version card + one-click server update, shaped like an official dsh client plugin (✅ active)
 - [dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)  — Alibaba Cloud OpenAPI MCP connection for DSH: static-credential mode through the official OpenAPI MCP proxy, exposing ECS / OSS / DNS / Function Compute APIs as mcp__aliyun__* tools. (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9702,6 +9703,7 @@ awesome-deepseek-harness/
 - [dshworks.github.io](https://github.com/dshworks/dshworks.github.io) ⭐1 — Landing page for dsh.works: the community workshop for DeepSeek Harness (dsh). Single static page, zero JS. Not affiliated with DeepSeek. (✅ active)
 - [my-skin-for-deepseek-harness](https://github.com/fthuu/my-skin-for-DeepSeek-Harness) ⭐1 — DeepSeek Harness 皮肤扩展插件 Skin plugin (✅ active)
 - [u-dsh-deepseek-harness-portable](https://github.com/dongsheng123132/u-dsh-deepseek-harness-portable) ⭐1 — U-DSH Portable — 把 DeepSeek Harness 装进 U 盘的 Windows 免安装便携版。Unzip-and-run DeepSeek Harness portable for Windows: bundled Node runtime, works offline, device wallet credit out of the box — no API key signup. (✅ active)
+- [user-management](https://github.com/weibaohui/user-management) ⭐1 — Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs. (✅ active)
 - [deepseek-harness-pocket](https://github.com/monster-echo/deepseek-harness-pocket)  — 把 DeepSeek Harness 装进口袋 · dsh 的手机伴侣端（掌鲸 DSH Pocket）：多 Worker · Gateway 中转 · 会话全功能对等 (✅ active)
 - [dsh-about](https://github.com/cdllang/dsh-about)  — About page plugin for DeepSeek Harness: version card + one-click server update, shaped like an official dsh client plugin (✅ active)
 - [dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)  — Alibaba Cloud OpenAPI MCP connection for DSH: static-credential mode through the official OpenAPI MCP proxy, exposing ECS / OSS / DNS / Function Compute APIs as mcp__aliyun__* tools. (✅ active)

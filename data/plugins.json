@@ -77473,5 +77473,21 @@
     "verified": false,
     "stars": 0,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "user-management",
+    "name": "user-management",
+    "type": "plugin",
+    "category": "security",
+    "repository": "https://github.com/weibaohui/user-management",
+    "description": "Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.",
+    "description_zh": "用户管理：给 dsh web 加登录门禁，未登录访问弹登录/注册页，首个注册者自动成为管理员；管理员可管理用户/角色，带登录与访问审计。",
+    "capabilities": [
+      "security"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   }
 ]

@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3136,6 +3136,7 @@ dsh web
 - [dsh-failure-lens](https://github.com/ArmyWas/dsh-failure-lens) ⭐1 — Deterministic DeepSeek Harness plugin that explains Windows sandbox spawn EPERM failures in context（✅ 活跃）
 - [dsh-fal-image-gen](https://github.com/GooDAnDReaDY/dsh-fal-image-gen) ⭐1 — Superseded by dsh-image-gen. Image generation for DeepSeek Harness via the FAL queue or any OpenAI-compatible images API. No further releases here.（✅ 活跃）
 - [dsh-fate-twin-contract](https://github.com/Jayliu2025-vip/dsh-fate-twin-contract) ⭐1 — Unofficial Fate-inspired Archer × Rin skin for the DeepSeek Harness Web GUI — original fan art, light/dark modes, offline and reversible.（✅ 活跃）
+- [dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) ⭐1 — FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。（✅ 活跃）
 - [dsh-fetch-file](https://github.com/ZhijiangTang/dsh-fetch-file) ⭐1 — DSH plugin: download URLs to workspace files — path-fenced, streamed, 200MB cap（✅ 活跃）
 - [dsh-file-checksum](https://github.com/yan9651688/dsh-file-checksum) ⭐1 — Raw-file SHA-256 and SHA-512 verification plugin for DeepSeek Harness（✅ 活跃）
 - [dsh-file-drop](https://github.com/tianleyitian/dsh-file-drop) ⭐1 — 文件拖拽：把文件拖到 DSH 窗口，真实路径写入输入框（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9299,6 +9300,7 @@ awesome-deepseek-harness/
 - [dsh-failure-lens](https://github.com/ArmyWas/dsh-failure-lens) ⭐1 — Deterministic DeepSeek Harness plugin that explains Windows sandbox spawn EPERM failures in context（✅ 活跃）
 - [dsh-fal-image-gen](https://github.com/GooDAnDReaDY/dsh-fal-image-gen) ⭐1 — Superseded by dsh-image-gen. Image generation for DeepSeek Harness via the FAL queue or any OpenAI-compatible images API. No further releases here.（✅ 活跃）
 - [dsh-fate-twin-contract](https://github.com/Jayliu2025-vip/dsh-fate-twin-contract) ⭐1 — Unofficial Fate-inspired Archer × Rin skin for the DeepSeek Harness Web GUI — original fan art, light/dark modes, offline and reversible.（✅ 活跃）
+- [dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) ⭐1 — FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。（✅ 活跃）
 - [dsh-fetch-file](https://github.com/ZhijiangTang/dsh-fetch-file) ⭐1 — DSH plugin: download URLs to workspace files — path-fenced, streamed, 200MB cap（✅ 活跃）
 - [dsh-file-checksum](https://github.com/yan9651688/dsh-file-checksum) ⭐1 — Raw-file SHA-256 and SHA-512 verification plugin for DeepSeek Harness（✅ 活跃）
 - [dsh-file-drop](https://github.com/tianleyitian/dsh-file-drop) ⭐1 — 文件拖拽：把文件拖到 DSH 窗口，真实路径写入输入框（✅ 活跃）

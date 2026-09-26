@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3616 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3617 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-## 完整列表（3616）
+## 完整列表（3617）
 
 
 **视觉与多模态（1298）**
@@ -2788,9 +2788,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | DeepSeek Harness 一键重启：网页按钮（外加 dsh_restart Agent 工具）把重启交给独立 helper，等端口释放后以完全相同的命令拉起新宿主，页面自动重连；新宿主启动失败时由恢复控制台显示启动错误。 | ✅ 活跃 |
 
-**界面与体验（467）**
+**界面与体验（468）**
 
-*其他（179）*
+*其他（180）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -2927,6 +2927,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-session-repair-ui](resources/dsh-session-repair-ui.md) | ⭐3 | DeepSeek Harness 会话头部「修复会话」按钮：检测并修复工具调用 id 与结果 id 不一致导致的会话无法续写 | ✅ 活跃 |
 | [dsh-sidebar-buttons](resources/dsh-sidebar-buttons.md) | ⭐3 | 管理 DeepSeek Harness 左下侧栏按钮的插件：拖拽排序、显隐控制，隐藏按钮收进"更多"菜单，可统一按钮高度。 | ✅ 活跃 |
 | [dsh-sight](resources/dsh-sight.md) | ⭐3 | Plug-in vision for text-only DeepSeek Harness (dsh) models: built-in free/cheap VLM presets + multi-image batch analysis | ✅ 活跃 |
+| [dsh-smart-title](resources/dsh-smart-title.md) | ⭐3 | 会话智能标题：每轮对话结束后用一次独立的辅助 LLM 调用对「用户消息+助手回答」的完整转写做总结，标题跟随会话真实主题而不是复述第一句话；首条消息即时生成标题、内置标题失败在后续轮次自动重试、用户手动改名绝不被覆盖、自动跳过子代理与 fork 会话。 | ✅ 活跃 |
 | [dsh-sonarqube](resources/dsh-sonarqube.md) | ⭐3 | Read-only SonarQube Community Build tools for DeepSeek Harness | ✅ 活跃 |
 | [dsh-ui-concise](resources/dsh-ui-concise.md) | ⭐3 | Collapsible plugin for DeepSeek Harness that folds tool/output details, keeping results clean and focused. | ✅ 活跃 |
 | [dsh-ultra-ui](resources/dsh-ultra-ui.md) | ⭐3 | Ultra UI plugin (cordis). | ✅ 活跃 |

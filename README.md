@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -2199,6 +2199,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-skin-switcher](https://github.com/tsdfy/dsh-skin-switcher) ⭐3 — Skin switcher for DeepSeek Harness web UI: one-click theme switching with auto-discovery of community skins (✅ active)
 - [dsh-skin20260814](https://github.com/ManuSpurs/dsh-skin20260814) ⭐3 — dsh-skin 增强版：为 DeepSeek Harness 提供皮肤切换与自定义背景壁纸。在原版基础上修复了两处问题——① 大图/特殊格式上传无响应（改用 createImageBitmap 直接解码、增加处理中与错误提示）；② 主题切换时 overrideTokens 触发 theme/change 导致无限递归栈溢出（加皮肤/明暗守卫断开循环）。壁纸存储从 localStorage 压缩方案改为 IndexedDB 原文件直存，全画质显示、零压缩，并自动迁移旧数据。 (✅ active)
 - [dsh-skins](https://github.com/Moeblack/dsh-skins) ⭐3 — DSH 换肤插件镜像 + 夕港（harbor）皮肤 | Mirror of dsh-external/dsh-skins + harbor (夕港) dusk-harbor skin (✅ active)
+- [dsh-smart-title](https://github.com/weibaohui/dsh-smart-title) ⭐3 — Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped. (✅ active)
 - [dsh-sonarqube](https://github.com/maxmilian/dsh-sonarqube) ⭐3 — Read-only SonarQube Community Build tools for DeepSeek Harness (✅ active)
 - [dsh-soul](https://github.com/Aliuyanfeng/dsh-soul) ⭐3 — The DeepSeek Harness Personalization Settings plugin is used to configure the nickname, response style, tone, and custom commands of the Agent. (✅ active)
 - [dsh-sparrow](https://github.com/peiyucn/dsh-sparrow) ⭐3 — A collection of small DeepSeek Harness (DSH) web plugins. (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -8362,6 +8363,7 @@ awesome-deepseek-harness/
 - [dsh-skin-switcher](https://github.com/tsdfy/dsh-skin-switcher) ⭐3 — Skin switcher for DeepSeek Harness web UI: one-click theme switching with auto-discovery of community skins (✅ active)
 - [dsh-skin20260814](https://github.com/ManuSpurs/dsh-skin20260814) ⭐3 — dsh-skin 增强版：为 DeepSeek Harness 提供皮肤切换与自定义背景壁纸。在原版基础上修复了两处问题——① 大图/特殊格式上传无响应（改用 createImageBitmap 直接解码、增加处理中与错误提示）；② 主题切换时 overrideTokens 触发 theme/change 导致无限递归栈溢出（加皮肤/明暗守卫断开循环）。壁纸存储从 localStorage 压缩方案改为 IndexedDB 原文件直存，全画质显示、零压缩，并自动迁移旧数据。 (✅ active)
 - [dsh-skins](https://github.com/Moeblack/dsh-skins) ⭐3 — DSH 换肤插件镜像 + 夕港（harbor）皮肤 | Mirror of dsh-external/dsh-skins + harbor (夕港) dusk-harbor skin (✅ active)
+- [dsh-smart-title](https://github.com/weibaohui/dsh-smart-title) ⭐3 — Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped. (✅ active)
 - [dsh-sonarqube](https://github.com/maxmilian/dsh-sonarqube) ⭐3 — Read-only SonarQube Community Build tools for DeepSeek Harness (✅ active)
 - [dsh-soul](https://github.com/Aliuyanfeng/dsh-soul) ⭐3 — The DeepSeek Harness Personalization Settings plugin is used to configure the nickname, response style, tone, and custom commands of the Agent. (✅ active)
 - [dsh-sparrow](https://github.com/peiyucn/dsh-sparrow) ⭐3 — A collection of small DeepSeek Harness (DSH) web plugins. (✅ active)

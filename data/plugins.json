@@ -77473,5 +77473,21 @@
     "verified": false,
     "stars": 0,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-mcp-manager",
+    "name": "dsh-mcp-manager",
+    "type": "plugin",
+    "category": "mcp",
+    "repository": "https://github.com/zhengjy01/dsh-mcp-manager",
+    "description": "MCP server manager for DeepSeek Harness: add, edit, enable and test stdio and Streamable HTTP MCP servers from the Web settings page or from agent tools, connected and disconnected at runtime through the harness's own MCP bridge.",
+    "description_zh": "DeepSeek Harness 的 MCP 服务器管理器：在 Web 设置页或通过 Agent 工具增删改查 stdio / Streamable HTTP MCP 服务器，经 harness 自带的 MCP 桥在运行时连接与断开，不需要重启 DSH。",
+    "capabilities": [
+      "mcp",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0
   }
 ]

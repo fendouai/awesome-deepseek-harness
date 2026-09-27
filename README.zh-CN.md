@@ -171,7 +171,7 @@ dsh web
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -3583,6 +3583,7 @@ dsh web
 - [dsh-cross-session-agent](https://github.com/dd2673/dsh-cross-session-agent)  — Unofficial safe peer discovery, messaging, receipts, and bounded context projection for DeepSeek Harness agents（✅ 活跃）
 - [dsh-csv-to-md](https://github.com/uckkk/dsh-csv-to-md)  — CSV 转 Markdown 表格（✅ 活跃）
 - [dsh-custom-context-menu](https://github.com/sulfide2085/dsh-custom-context-menu)  — DSH Web custom context menu: extensible provider API + open workspace folder in Explorer（✅ 活跃）
+- [dsh-dashboard](https://github.com/weibaohui/dsh-dashboard)  — 使用量仪表盘：离线扫描会话日志，统计每日/每周/每月 token、估算费用、模型/工具/技能/命令榜、输出速度、工作时段与质量指标；gridstack+ECharts 卡片可拖拽编排，支持自定义公式与 AI 编排（提示词往返导入）。（🧪 实验性）
 - [dsh-daybook](https://github.com/franksong2702/dsh-daybook)  — Intelligent, local-first Markdown journal writing assistant for DeepSeek Harness.（✅ 活跃）
 - [dsh-db-migration](https://github.com/uckkk/dsh-db-migration)  — 数据库迁移生成：对比两个 SQL DDL，检测表/列结构差异并生成 ALTER TABLE 迁移 SQL（✅ 活跃）
 - [dsh-deepseek-balance](https://github.com/dshiq04/dsh-deepseek-balance)  — 面向deepseek harness的余额查看插件（✅ 活跃）
@@ -6334,7 +6335,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-#### 完整列表（3616）
+#### 完整列表（3617）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。（✅ 活跃）
@@ -9746,6 +9747,7 @@ awesome-deepseek-harness/
 - [dsh-cross-session-agent](https://github.com/dd2673/dsh-cross-session-agent)  — Unofficial safe peer discovery, messaging, receipts, and bounded context projection for DeepSeek Harness agents（✅ 活跃）
 - [dsh-csv-to-md](https://github.com/uckkk/dsh-csv-to-md)  — CSV 转 Markdown 表格（✅ 活跃）
 - [dsh-custom-context-menu](https://github.com/sulfide2085/dsh-custom-context-menu)  — DSH Web custom context menu: extensible provider API + open workspace folder in Explorer（✅ 活跃）
+- [dsh-dashboard](https://github.com/weibaohui/dsh-dashboard)  — 使用量仪表盘：离线扫描会话日志，统计每日/每周/每月 token、估算费用、模型/工具/技能/命令榜、输出速度、工作时段与质量指标；gridstack+ECharts 卡片可拖拽编排，支持自定义公式与 AI 编排（提示词往返导入）。（🧪 实验性）
 - [dsh-daybook](https://github.com/franksong2702/dsh-daybook)  — Intelligent, local-first Markdown journal writing assistant for DeepSeek Harness.（✅ 活跃）
 - [dsh-db-migration](https://github.com/uckkk/dsh-db-migration)  — 数据库迁移生成：对比两个 SQL DDL，检测表/列结构差异并生成 ALTER TABLE 迁移 SQL（✅ 活跃）
 - [dsh-deepseek-balance](https://github.com/dshiq04/dsh-deepseek-balance)  — 面向deepseek harness的余额查看插件（✅ 活跃）

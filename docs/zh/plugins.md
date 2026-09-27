@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3616 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3617 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-## 完整列表（3616）
+## 完整列表（3617）
 
 
 **视觉与多模态（1298）**
@@ -2788,9 +2788,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | DeepSeek Harness 一键重启：网页按钮（外加 dsh_restart Agent 工具）把重启交给独立 helper，等端口释放后以完全相同的命令拉起新宿主，页面自动重连；新宿主启动失败时由恢复控制台显示启动错误。 | ✅ 活跃 |
 
-**界面与体验（467）**
+**界面与体验（468）**
 
-*其他（179）*
+*其他（180）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -2967,6 +2967,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-weather-sky](resources/dsh-weather-sky.md) | ⭐1 | 在 DeepSeek Harness 界面叠加一层实时天气与天空动画——白天显示太阳，夜晚显示带真实月相的月亮，并按天气呈现云、雨、雪、雾，以及周期性的闪电。Overlay a live weather & sky animation on the DeepSeek Harness UI: sun by day, moon with real phases by night, plus clouds, rain, snow, fog, and periodic lightning. | ✅ 活跃 |
 | [dsh-zh-commands](resources/dsh-zh-commands.md) | ⭐1 | DSH plugin: Chinese slash commands & built-in command description localization — 中文斜杠命令增强 | ✅ 活跃 |
 | [dsh-client-ui-filesystem-manager](resources/dsh-client-ui-filesystem-manager.md) | – | A customized DeepSeek Harness filetree manager UI plugin. | ✅ 活跃 |
+| [dsh-dashboard](resources/dsh-dashboard-2.md) | – | 使用量仪表盘：离线扫描会话日志，统计每日/每周/每月 token、估算费用、模型/工具/技能/命令榜、输出速度、工作时段与质量指标；gridstack+ECharts 卡片可拖拽编排，支持自定义公式与 AI 编排（提示词往返导入）。 | 🧪 实验性 |
 | [dsh-design-patterns](resources/dsh-design-patterns.md) | – | UI设计模式参考 | ✅ 活跃 |
 | [dsh-plugin](resources/dsh-plugin-5.md) | – | Build your own coding agent with Pi dsh-plugin | ✅ 活跃 |
 | [dsh-randomuuid-polyfill](resources/dsh-randomuuid-polyfill.md) | – | dsh client plugin that installs crypto.randomUUID on insecure origins (plain HTTP over a LAN address) | ✅ 活跃 |

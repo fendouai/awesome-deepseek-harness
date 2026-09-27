@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3582,6 +3582,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-cross-session-agent](https://github.com/dd2673/dsh-cross-session-agent)  — Unofficial safe peer discovery, messaging, receipts, and bounded context projection for DeepSeek Harness agents (✅ active)
 - [dsh-csv-to-md](https://github.com/uckkk/dsh-csv-to-md)  — CSV 转 Markdown 表格 (✅ active)
 - [dsh-custom-context-menu](https://github.com/sulfide2085/dsh-custom-context-menu)  — DSH Web custom context menu: extensible provider API + open workspace folder in Explorer (✅ active)
+- [dsh-dashboard](https://github.com/weibaohui/dsh-dashboard)  — Usage dashboard: offline-scans session logs to chart daily/weekly/monthly tokens, estimated costs, model/tool/skill/command leaderboards, output speed, working hours and quality metrics; gridstack+ECharts cards are drag-and-drop composable, with custom formulas and AI arrangement (prompt round-trip import). (🧪 experimental)
 - [dsh-daybook](https://github.com/franksong2702/dsh-daybook)  — Intelligent, local-first Markdown journal writing assistant for DeepSeek Harness. (✅ active)
 - [dsh-db-migration](https://github.com/uckkk/dsh-db-migration)  — 数据库迁移生成：对比两个 SQL DDL，检测表/列结构差异并生成 ALTER TABLE 迁移 SQL (✅ active)
 - [dsh-deepseek-balance](https://github.com/dshiq04/dsh-deepseek-balance)  — 面向deepseek harness的余额查看插件 (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9745,6 +9746,7 @@ awesome-deepseek-harness/
 - [dsh-cross-session-agent](https://github.com/dd2673/dsh-cross-session-agent)  — Unofficial safe peer discovery, messaging, receipts, and bounded context projection for DeepSeek Harness agents (✅ active)
 - [dsh-csv-to-md](https://github.com/uckkk/dsh-csv-to-md)  — CSV 转 Markdown 表格 (✅ active)
 - [dsh-custom-context-menu](https://github.com/sulfide2085/dsh-custom-context-menu)  — DSH Web custom context menu: extensible provider API + open workspace folder in Explorer (✅ active)
+- [dsh-dashboard](https://github.com/weibaohui/dsh-dashboard)  — Usage dashboard: offline-scans session logs to chart daily/weekly/monthly tokens, estimated costs, model/tool/skill/command leaderboards, output speed, working hours and quality metrics; gridstack+ECharts cards are drag-and-drop composable, with custom formulas and AI arrangement (prompt round-trip import). (🧪 experimental)
 - [dsh-daybook](https://github.com/franksong2702/dsh-daybook)  — Intelligent, local-first Markdown journal writing assistant for DeepSeek Harness. (✅ active)
 - [dsh-db-migration](https://github.com/uckkk/dsh-db-migration)  — 数据库迁移生成：对比两个 SQL DDL，检测表/列结构差异并生成 ALTER TABLE 迁移 SQL (✅ active)
 - [dsh-deepseek-balance](https://github.com/dshiq04/dsh-deepseek-balance)  — 面向deepseek harness的余额查看插件 (✅ active)

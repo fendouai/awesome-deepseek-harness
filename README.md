@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-#### Complete list (3929)
+#### Complete list (3931)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -262,6 +262,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [engramory](https://github.com/tinqiao-oss/engramory) ⭐190 — A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook. (✅ active)
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐185 — Realtime WebGPU ocean skin with controls for waves, daylight, glass opacity and automatic day cycling. (✅ active)
 - [loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) ⭐184 — Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, cost, traces and security audit, exported anywhere. (✅ active)
+- [dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐181 — Local, Git-backed long-term memory plugin for DeepSeek Harness: injects memory guidance when enabled, stores durable memory in a local Git repo, and offers a settings-page workflow to inspect and clear memory. (✅ active)
 - [dsh-explore](https://github.com/antinomie-lab/dsh-explore) ⭐179 — Into the Unknown. —— 探索未至之境。 (✅ active)
 - [dsh-oil-creator](https://github.com/oil-oil/dsh-oil-creator) ⭐177 — AI-assisted local creator workbench for DeepSeek Harness (✅ active)
 - [terrain](https://github.com/sopaco/terrain) ⭐175 — AI-native engineering environment management that makes your codebase agent-ready. (✅ active)
@@ -722,6 +723,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-multiple-chat-panels](https://github.com/WilliamShi666/dsh-multiple-chat-panels) ⭐13 — DeepSeek Harness 多对话面板：并排查看并与多个 Agent 会话同时交互。 (✅ active)
 - [dsh-nested-followups](https://github.com/sluminositys/dsh-nested-followups) ⭐13 — Ask a follow-up on any past answer in an isolated branch, keeping your main conversation clean. 针对任意历史回答发起追问，新问题在独立分支中展开，主对话保持干净。A conversation-tree plugin for DeepSeek Harness / DeepSeek Harness 会话树插件。 (✅ active)
 - [dsh-novel-forge](https://github.com/huangziyuan-general/dsh-novel-forge) ⭐13 — DSH 小说锻炉：把 AI 长篇写作通病变成代码强制的硬约束（事实账本/上下文包/阶段门禁/零费用去AI味扫描/确定性审计/提案制修订）。Novel-writing guardrails plugin for DeepSeek Harness (DSH). (✅ active)
+- [dsh-ocr-plugin](https://github.com/CraZY222123/dsh-ocr-plugin) ⭐13 — Local OCR plugin that gives text-only DeepSeek Harness models eyes: image attachments are OCR'd to text before sending (RapidOCR fast path plus a DeepSeek-OCR-2 layout path), with no cloud OCR dependency. (✅ active)
 - [dsh-office-tools](https://github.com/kw78/dsh-office-tools) ⭐13 — Model-facing Office tools for DeepSeek Harness: Word (.docx), Excel (.xlsx), and PowerPoint (.pptx) create/read/update with workspace-safe paths and PPT image embedding. (✅ active)
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐13 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) (✅ active)
 - [dsh-pet](https://github.com/FlytoMAYDAY80/dsh-pet) ⭐13 — 🐋 DSH 有声桌宠：悬浮桌面的 DeepSeek 小鲸鱼，不打开 DSH 也能实时感知会话状态（需要确认/工作中/完成/空闲/离线），支持音效提醒与零代码定制素材 (✅ active)
@@ -6800,7 +6802,7 @@ awesome-deepseek-harness/
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-#### Complete list (3929)
+#### Complete list (3931)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -6892,6 +6894,7 @@ awesome-deepseek-harness/
 - [engramory](https://github.com/tinqiao-oss/engramory) ⭐190 — A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook. (✅ active)
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐185 — Realtime WebGPU ocean skin with controls for waves, daylight, glass opacity and automatic day cycling. (✅ active)
 - [loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) ⭐184 — Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, cost, traces and security audit, exported anywhere. (✅ active)
+- [dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐181 — Local, Git-backed long-term memory plugin for DeepSeek Harness: injects memory guidance when enabled, stores durable memory in a local Git repo, and offers a settings-page workflow to inspect and clear memory. (✅ active)
 - [dsh-explore](https://github.com/antinomie-lab/dsh-explore) ⭐179 — Into the Unknown. —— 探索未至之境。 (✅ active)
 - [dsh-oil-creator](https://github.com/oil-oil/dsh-oil-creator) ⭐177 — AI-assisted local creator workbench for DeepSeek Harness (✅ active)
 - [terrain](https://github.com/sopaco/terrain) ⭐175 — AI-native engineering environment management that makes your codebase agent-ready. (✅ active)
@@ -7352,6 +7355,7 @@ awesome-deepseek-harness/
 - [dsh-multiple-chat-panels](https://github.com/WilliamShi666/dsh-multiple-chat-panels) ⭐13 — DeepSeek Harness 多对话面板：并排查看并与多个 Agent 会话同时交互。 (✅ active)
 - [dsh-nested-followups](https://github.com/sluminositys/dsh-nested-followups) ⭐13 — Ask a follow-up on any past answer in an isolated branch, keeping your main conversation clean. 针对任意历史回答发起追问，新问题在独立分支中展开，主对话保持干净。A conversation-tree plugin for DeepSeek Harness / DeepSeek Harness 会话树插件。 (✅ active)
 - [dsh-novel-forge](https://github.com/huangziyuan-general/dsh-novel-forge) ⭐13 — DSH 小说锻炉：把 AI 长篇写作通病变成代码强制的硬约束（事实账本/上下文包/阶段门禁/零费用去AI味扫描/确定性审计/提案制修订）。Novel-writing guardrails plugin for DeepSeek Harness (DSH). (✅ active)
+- [dsh-ocr-plugin](https://github.com/CraZY222123/dsh-ocr-plugin) ⭐13 — Local OCR plugin that gives text-only DeepSeek Harness models eyes: image attachments are OCR'd to text before sending (RapidOCR fast path plus a DeepSeek-OCR-2 layout path), with no cloud OCR dependency. (✅ active)
 - [dsh-office-tools](https://github.com/kw78/dsh-office-tools) ⭐13 — Model-facing Office tools for DeepSeek Harness: Word (.docx), Excel (.xlsx), and PowerPoint (.pptx) create/read/update with workspace-safe paths and PPT image embedding. (✅ active)
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐13 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布) (✅ active)
 - [dsh-pet](https://github.com/FlytoMAYDAY80/dsh-pet) ⭐13 — 🐋 DSH 有声桌宠：悬浮桌面的 DeepSeek 小鲸鱼，不打开 DSH 也能实时感知会话状态（需要确认/工作中/完成/空闲/离线），支持音效提醒与零代码定制素材 (✅ active)

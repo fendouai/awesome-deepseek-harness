@@ -171,7 +171,7 @@ dsh web
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-#### 完整列表（3929）
+#### 完整列表（3931）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -263,6 +263,7 @@ dsh web
 - [engramory](https://github.com/tinqiao-oss/engramory) ⭐190 — A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.（✅ 活跃）
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐185 — 实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。（✅ 活跃）
 - [loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) ⭐184 — Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, cost, traces and security audit, exported anywhere.（✅ 活跃）
+- [dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐181 — DeepSeek Harness 的本地 Git 长期记忆插件：开启后注入记忆指引，记忆存于本地 Git 仓库，并可在设置页查看与清除。（✅ 活跃）
 - [dsh-explore](https://github.com/antinomie-lab/dsh-explore) ⭐179 — Into the Unknown. —— 探索未至之境。（✅ 活跃）
 - [dsh-oil-creator](https://github.com/oil-oil/dsh-oil-creator) ⭐177 — AI-assisted local creator workbench for DeepSeek Harness（✅ 活跃）
 - [terrain](https://github.com/sopaco/terrain) ⭐175 — AI-native engineering environment management that makes your codebase agent-ready.（✅ 活跃）
@@ -723,6 +724,7 @@ dsh web
 - [dsh-multiple-chat-panels](https://github.com/WilliamShi666/dsh-multiple-chat-panels) ⭐13 — DeepSeek Harness 多对话面板：并排查看并与多个 Agent 会话同时交互。（✅ 活跃）
 - [dsh-nested-followups](https://github.com/sluminositys/dsh-nested-followups) ⭐13 — Ask a follow-up on any past answer in an isolated branch, keeping your main conversation clean. 针对任意历史回答发起追问，新问题在独立分支中展开，主对话保持干净。A conversation-tree plugin for DeepSeek Harness / DeepSeek Harness 会话树插件。（✅ 活跃）
 - [dsh-novel-forge](https://github.com/huangziyuan-general/dsh-novel-forge) ⭐13 — DSH 小说锻炉：把 AI 长篇写作通病变成代码强制的硬约束（事实账本/上下文包/阶段门禁/零费用去AI味扫描/确定性审计/提案制修订）。Novel-writing guardrails plugin for DeepSeek Harness (DSH).（✅ 活跃）
+- [dsh-ocr-plugin](https://github.com/CraZY222123/dsh-ocr-plugin) ⭐13 — 为纯文本 DeepSeek Harness 模型装上本地 OCR 眼睛：发送前把图片附件本地识别为文本（RapidOCR 快速通道 + DeepSeek-OCR-2 版面解析），不依赖云端 OCR。（✅ 活跃）
 - [dsh-office-tools](https://github.com/kw78/dsh-office-tools) ⭐13 — Model-facing Office tools for DeepSeek Harness: Word (.docx), Excel (.xlsx), and PowerPoint (.pptx) create/read/update with workspace-safe paths and PPT image embedding.（✅ 活跃）
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐13 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布)（✅ 活跃）
 - [dsh-pet](https://github.com/FlytoMAYDAY80/dsh-pet) ⭐13 — 🐋 DSH 有声桌宠：悬浮桌面的 DeepSeek 小鲸鱼，不打开 DSH 也能实时感知会话状态（需要确认/工作中/完成/空闲/离线），支持音效提醒与零代码定制素材（✅ 活跃）
@@ -6801,7 +6803,7 @@ awesome-deepseek-harness/
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-#### 完整列表（3929）
+#### 完整列表（3931）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -6893,6 +6895,7 @@ awesome-deepseek-harness/
 - [engramory](https://github.com/tinqiao-oss/engramory) ⭐190 — A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.（✅ 活跃）
 - [Open Sea Skin](https://github.com/d-dev0101/open-sea-skin) ⭐185 — 实时 WebGPU 海洋皮肤，可调节波浪、日光、玻璃不透明度和自动昼夜循环。（✅ 活跃）
 - [loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) ⭐184 — Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, cost, traces and security audit, exported anywhere.（✅ 活跃）
+- [dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐181 — DeepSeek Harness 的本地 Git 长期记忆插件：开启后注入记忆指引，记忆存于本地 Git 仓库，并可在设置页查看与清除。（✅ 活跃）
 - [dsh-explore](https://github.com/antinomie-lab/dsh-explore) ⭐179 — Into the Unknown. —— 探索未至之境。（✅ 活跃）
 - [dsh-oil-creator](https://github.com/oil-oil/dsh-oil-creator) ⭐177 — AI-assisted local creator workbench for DeepSeek Harness（✅ 活跃）
 - [terrain](https://github.com/sopaco/terrain) ⭐175 — AI-native engineering environment management that makes your codebase agent-ready.（✅ 活跃）
@@ -7353,6 +7356,7 @@ awesome-deepseek-harness/
 - [dsh-multiple-chat-panels](https://github.com/WilliamShi666/dsh-multiple-chat-panels) ⭐13 — DeepSeek Harness 多对话面板：并排查看并与多个 Agent 会话同时交互。（✅ 活跃）
 - [dsh-nested-followups](https://github.com/sluminositys/dsh-nested-followups) ⭐13 — Ask a follow-up on any past answer in an isolated branch, keeping your main conversation clean. 针对任意历史回答发起追问，新问题在独立分支中展开，主对话保持干净。A conversation-tree plugin for DeepSeek Harness / DeepSeek Harness 会话树插件。（✅ 活跃）
 - [dsh-novel-forge](https://github.com/huangziyuan-general/dsh-novel-forge) ⭐13 — DSH 小说锻炉：把 AI 长篇写作通病变成代码强制的硬约束（事实账本/上下文包/阶段门禁/零费用去AI味扫描/确定性审计/提案制修订）。Novel-writing guardrails plugin for DeepSeek Harness (DSH).（✅ 活跃）
+- [dsh-ocr-plugin](https://github.com/CraZY222123/dsh-ocr-plugin) ⭐13 — 为纯文本 DeepSeek Harness 模型装上本地 OCR 眼睛：发送前把图片附件本地识别为文本（RapidOCR 快速通道 + DeepSeek-OCR-2 版面解析），不依赖云端 OCR。（✅ 活跃）
 - [dsh-office-tools](https://github.com/kw78/dsh-office-tools) ⭐13 — Model-facing Office tools for DeepSeek Harness: Word (.docx), Excel (.xlsx), and PowerPoint (.pptx) create/read/update with workspace-safe paths and PPT image embedding.（✅ 活跃）
 - [dsh-opencode-go-usage](https://github.com/Xenia0922/dsh-opencode-go-usage) ⭐13 — DeepSeek Harness 插件:OpenCode Go 用量与花费悬浮仪表盘(配额、逐请求成本、模型/来源分布)（✅ 活跃）
 - [dsh-pet](https://github.com/FlytoMAYDAY80/dsh-pet) ⭐13 — 🐋 DSH 有声桌宠：悬浮桌面的 DeepSeek 小鲸鱼，不打开 DSH 也能实时感知会话状态（需要确认/工作中/完成/空闲/离线），支持音效提醒与零代码定制素材（✅ 活跃）

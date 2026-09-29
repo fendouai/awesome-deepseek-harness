@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3929 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3931 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [modlens](resources/modlens.md) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](resources/j-space-cognition-suite-1.md) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-## 完整列表（3929）
+## 完整列表（3931）
 
 
-**视觉与多模态（1407）**
+**视觉与多模态（1408）**
 
 *👁️ 视觉工具（1024）*
 
@@ -1063,7 +1063,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-tool-playwright](resources/dsh-tool-playwright.md) | – | 一个给 DeepSeek Harness 用的插件：让 AI 能真的打开浏览器上网——打开网页、点按钮、填表单、翻页、看页面内容，就像人一样操作浏览器。 | ✅ 活跃 |
 | [dsh-trellis-dashboard](resources/dsh-trellis-dashboard.md) | – | 支持在Deepseek Harness(dsh)中，通过对话tab查看trellis任务状态、工作区信息等。需配合trellis使用：https://github.com/mindfold-ai/Trellis | ✅ 活跃 |
 | [dsh-usb](resources/dsh-usb.md) | – | DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible) | ✅ 活跃 |
-*其他（383）*
+*其他（384）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -1153,6 +1153,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [pi-deepseek-anchor](resources/pi-deepseek-anchor.md) | ⭐14 | pi extension: DeepSeek V4 Pro Minimal-anchored bootstrap, then full Standard tools (port of dsh-anchored-standard) | ✅ 活跃 |
 | [deepseek-harness](resources/deepseek-harness-1.md) | ⭐13 | DeepSeek Harness: Everything is a Plugin. | ✅ 活跃 |
 | [DeepSeek-Harness-Hub](resources/deepseek-harness-hub-2.md) | ⭐13 | 🌐 DeepSeek 官方与开源生态插件市场 (deepseek.stream) 使用指南与一键安装协议规范 | ✅ 活跃 |
+| [dsh-ocr-plugin](resources/dsh-ocr-plugin.md) | ⭐13 | 为纯文本 DeepSeek Harness 模型装上本地 OCR 眼睛：发送前把图片附件本地识别为文本（RapidOCR 快速通道 + DeepSeek-OCR-2 版面解析），不依赖云端 OCR。 | ✅ 活跃 |
 | [dsh-turn-fold](resources/dsh-turn-fold-1.md) | ⭐13 | Codex-style completed-turn folding for DeepSeek Harness, powered by dsh-harmony. | ✅ 活跃 |
 | [Flowboard](resources/flowboard.md) | ⭐13 | 运行在 DeepSeek Harness 中的开源办公协作与团队管理插件，让目标、会议、Agent 执行、进度和资料在同一套办公逻辑中持续流动。 | ✅ 活跃 |
 | [tencentcloud-agentobs-sdk-dsh](resources/tencentcloud-agentobs-sdk-dsh.md) | ⭐13 | tencentcloud-agentobs-sdk-dsh 是一个 DeepSeek Harness (DSH) 可观测插件，直接将 GenAI trace 数据上报到腾讯云日志服务 (CLS)。  它观察 DSH 原生的 session、agent loop、LLM stream 和 tool 生命周期，将其转换为 腾讯云AI Agent可观测规范的 5 层 span 层级模型（entry → agent → step → chat → tool），并通过 tencentcloud-cls-sdk-js 直接上报到 CLS，无需额外部署 OTLP 收集器或 sidecar。 | ✅ 活跃 |
@@ -3544,7 +3545,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-computer-use-windows](resources/dsh-computer-use-windows-1.md) | ⭐1 | Windows Computer Use tools for DeepSeek Harness: self-contained UIA native helper, occlusion-aware screenshots, safety-gated input | ✅ 活跃 |
 | [dsh-llm-kimi](resources/dsh-llm-kimi.md) | ⭐1 | Kimi (Moonshot AI) LLM adapter plugin for DeepSeek Harness — three routes: kimi-code (Kimi Code subscription), kimi-cn, kimi-global. Streaming, thinking mode, tool calling, image input, plus a built-in Kimi settings page. | ✅ 活跃 |
 
-**记忆与上下文（359）**
+**记忆与上下文（360）**
 
 *🧠 记忆系统（141）*
 
@@ -3691,7 +3692,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-code-runtime-container](resources/dsh-code-runtime-container.md) | – | Container-isolated backend for the DeepSeek Harness code-execution seam: Code Mode programs run in a fresh container with no network, a read-only rootfs, and kernel-enforced memory, CPU, and pid ceilings | ✅ 活跃 |
 | [dsh-plugin-asmemory](resources/dsh-plugin-asmemory.md) | – | Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness | ✅ 活跃 |
 | [dsh-precedent](resources/dsh-precedent.md) | – | Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step. | ✅ 活跃 |
-*其他（120）*
+*其他（121）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -3706,6 +3707,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [sivtr](resources/sivtr.md) | ⭐269 | A unified agent memory workspace for human and agent | 一个统一的agent记忆工作空间 | ✅ 活跃 |
 | [acryl](resources/acryl.md) | ⭐238 | ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent. | ✅ 活跃 |
 | [engramory](resources/engramory.md) | ⭐190 | A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook. | ✅ 活跃 |
+| [dsh-memory](resources/dsh-memory-13.md) | ⭐181 | DeepSeek Harness 的本地 Git 长期记忆插件：开启后注入记忆指引，记忆存于本地 Git 仓库，并可在设置页查看与清除。 | ✅ 活跃 |
 | [mneme](resources/mneme.md) | ⭐131 | 🧠 The memory that dreams — cross-session memory for DeepSeek Harness. Offline & private, auto-consolidates in its sleep (autoDream), visualized in a memory panel. | ✅ 活跃 |
 | [deepseek-harness-software-OPC](resources/deepseek-harness-software-opc.md) | ⭐120 | DeepSeek Harness 软件公司模式 preset：模拟真实软件公司分部门开发（需求冻结为 Sprint 合同、编码/验收独立、失败硬路由），用户作为公司总监在可视化大画布实时管理进度、子代理调用与 Token，用组织结构对抗长期上下文噪点导致的开发目标跑偏。 | ✅ 活跃 |
 | [dsh-project-brain](resources/dsh-project-brain.md) | ⭐103 | Persistent project intelligence and memory plugin for DSH: architecture analysis, cross-session context, TODOs, and optional hybrid retrieval | ✅ 活跃 |

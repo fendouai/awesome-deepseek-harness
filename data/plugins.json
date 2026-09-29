@@ -82622,5 +82622,40 @@
     "stars": 998,
     "install": "npm i @mindmemos/deepseek-harness-plugin (see repo README for DSH setup)",
     "license": "MIT"
+  },
+  {
+    "id": "dsh-memory-13",
+    "name": "dsh-memory",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/seriousz158/dsh-memory",
+    "description": "Local, Git-backed long-term memory plugin for DeepSeek Harness: injects memory guidance when enabled, stores durable memory in a local Git repo, and offers a settings-page workflow to inspect and clear memory.",
+    "description_zh": "DeepSeek Harness 的本地 Git 长期记忆插件：开启后注入记忆指引，记忆存于本地 Git 仓库，并可在设置页查看与清除。",
+    "capabilities": [
+      "memory",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 181,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ocr-plugin",
+    "name": "dsh-ocr-plugin",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/CraZY222123/dsh-ocr-plugin",
+    "description": "Local OCR plugin that gives text-only DeepSeek Harness models eyes: image attachments are OCR'd to text before sending (RapidOCR fast path plus a DeepSeek-OCR-2 layout path), with no cloud OCR dependency.",
+    "description_zh": "为纯文本 DeepSeek Harness 模型装上本地 OCR 眼睛：发送前把图片附件本地识别为文本（RapidOCR 快速通道 + DeepSeek-OCR-2 版面解析），不依赖云端 OCR。",
+    "capabilities": [
+      "vision",
+      "multimodal",
+      "files"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13,
+    "license": "MIT"
   }
 ]

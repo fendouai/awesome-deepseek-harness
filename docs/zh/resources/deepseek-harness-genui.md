@@ -1,21 +1,22 @@
 ---
 title: "deepseek-harness-genui"
-description: "Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn"
-keywords: "deepseek-harness-genui, learning, skill, coding, multi-agent, deepseek harness, dsh"
+description: "为 DeepSeek Harness 当前任务生成 React 交互界面，保存用户选择供下一轮 Agent 继续处理"
+keywords: "deepseek-harness-genui, ui, plugin, deepseek harness, dsh"
 ---
 # deepseek-harness-genui
 
-> ⭐ **107** · ✅ 活跃 · 技能
+> ⭐ **114** · ✅ 活跃 · 插件
 
 | | | | |
 |---|---|---|---|
-| 类型 | 技能 | 分类 | 学习 |
-| 星数 | ⭐ 107 | 状态 | ✅ 活跃 |
+| 类型 | 插件 | 分类 | 界面与体验 |
+| 星数 | ⭐ 114 | 状态 | ✅ 活跃 |
 | 作者 | [pengyue-polaron](https://github.com/pengyue-polaron) | 更新时间 | — |
+| 子分类 | 💡 生成式界面 | 能力 | ui |
 
 ## 一句话介绍
 
-> Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn
+> 为 DeepSeek Harness 当前任务生成 React 交互界面，保存用户选择供下一轮 Agent 继续处理
 
 ## 详细介绍
 
@@ -45,4 +46,4 @@ Requires Node.js `^22.19.0 || ^24.0.0` and a supported DeepSeek Harness Web prof
 
 - [GitHub 仓库](https://github.com/pengyue-polaron/deepseek-harness-genui)
 - [完整 README](https://github.com/pengyue-polaron/deepseek-harness-genui#readme)
-- [返回deepseek-harness-genui所在分类](../skills.md)
+- [返回deepseek-harness-genui所在分类](../plugins.md)

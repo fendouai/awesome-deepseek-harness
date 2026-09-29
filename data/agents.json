@@ -739,6 +739,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-expert-team",
+    "name": "dsh-expert-team",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/yangdcm/dsh-expert-team",
+    "description": "Role-based multi-agent expert team for DeepSeek Harness: one sentence in, a staged and gated team delivery out. 12 role subagents, 9 gated phases, shared-workspace artifacts, zero runtime dependencies.",
+    "description_zh": "Role-based multi-agent expert team for DeepSeek Harness: one sentence in, a staged and gated team delivery out. 12 role subagents, 9 gated phases, shared-workspace artifacts, zero runtime dependencies.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-team",
     "name": "dsh-team",
     "type": "agent",
@@ -826,6 +843,22 @@
     "capabilities": [
       "coding",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 8,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-djy-xttsc",
+    "name": "dsh-djy-xttsc",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/tianyaojiudi-prog/dsh-djy-xttsc",
+    "description": "DSH(DeepSeek Harness) 插件：把一段可在设置页随时改写的文字，作为全局系统提示词段注入到所有会话，含子代理与工作流内部子代理；文本与开关即时生效，无需重启。",
+    "description_zh": "DSH(DeepSeek Harness) 插件：把一段可在设置页随时改写的文字，作为全局系统提示词段注入到所有会话，含子代理与工作流内部子代理；文本与开关即时生效，无需重启。",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -1040,6 +1073,22 @@
     "capabilities": [
       "coding",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-swarm-orchestrator",
+    "name": "dsh-swarm-orchestrator",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/linkbag/dsh-swarm-orchestrator",
+    "description": "Role-based AI swarm orchestration for DeepSeek Harness: per-role model pinning with fallbacks, parallel task DAG with review loops, live Swarm dashboard tab.",
+    "description_zh": "Role-based AI swarm orchestration for DeepSeek Harness: per-role model pinning with fallbacks, parallel task DAG with review loops, live Swarm dashboard tab.",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -1483,6 +1532,23 @@
     "stars": 4
   },
   {
+    "id": "dsh-research-kit",
+    "name": "dsh-research-kit",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/fsrmqi/dsh-research-kit",
+    "description": "dsh-research-kit 是一个 浏览器侧 DSH 插件：它维护科研资源目录、把工作流和用户参数组装成可编辑 Prompt，并由 DSH 当前会话负责实际发送与执行。",
+    "description_zh": "dsh-research-kit 是一个 浏览器侧 DSH 插件：它维护科研资源目录、把工作流和用户参数组装成可编辑 Prompt，并由 DSH 当前会话负责实际发送与执行。",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-overdrive",
     "name": "dsh-overdrive",
     "type": "agent",
@@ -1865,6 +1931,72 @@
     "capabilities": [
       "coding",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-team-rooms",
+    "name": "dsh-team-rooms",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/PerryLink/dsh-team-rooms",
+    "description": "Team rooms for DeepSeek Harness: persistent shared rooms across independent sessions - a message bus, a shared task board and a timeline. Extracted from dsh-background-agents, whose background-agent half is superseded by DSH's native continuable subagents.",
+    "description_zh": "Team rooms for DeepSeek Harness: persistent shared rooms across independent sessions - a message bus, a shared task board and a timeline. Extracted from dsh-background-agents, whose background-agent half is superseded by DSH's native continuable subagents.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-orchestrator-1",
+    "name": "dsh-orchestrator",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/softspark/dsh-orchestrator",
+    "description": "DeepSeek Harness bundle for one-shot Claude Code and GitHub Copilot Gemini delegation through native subscription logins.",
+    "description_zh": "DeepSeek Harness bundle for one-shot Claude Code and GitHub Copilot Gemini delegation through native subscription logins.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-alpha",
+    "name": "dsh-alpha",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/songofhawk/dsh-alpha",
+    "description": "Multi-machine, multi-agent orchestration and control platform for DSH: route tasks across devices, workspaces, and Agent runtimes with streaming, approvals, and recovery.",
+    "description_zh": "Multi-machine, multi-agent orchestration and control platform for DSH: route tasks across devices, workspaces, and Agent runtimes with streaming, approvals, and recovery.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "portable-dsh-multi-agent-plugin",
+    "name": "portable-dsh-multi-agent-plugin",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/WDahah/portable-dsh-multi-agent-plugin",
+    "description": "One model writes the work, a different one reviews it, and neither decides whether it passed. Cross-provider AI review with verifiable evidence, for DeepSeek Harness/Cordis hosts. 中文文档见 README.zh.md。",
+    "description_zh": "One model writes the work, a different one reviews it, and neither decides whether it passed. Cross-provider AI review with verifiable evidence, for DeepSeek Harness/Cordis hosts. 中文文档见 README.zh.md。",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

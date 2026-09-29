@@ -441,6 +441,23 @@
     "growth": 0
   },
   {
+    "id": "dsh-plugin-gating-hub",
+    "name": "dsh-plugin-gating-hub",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Noob-stupid/dsh-plugin-gating-hub",
+    "description": "DSH 框架升级安全与插件升级门控：一键框架升级、失败自动回滚、旧插件不适配自动禁用、升级后可回滚上版；内置多源插件市场为发现层，插件源（安装/搜索/索引/Git）全部可自定义，支持公司内网私有源与本地仓库，纯内网离线可装 | Framework upgrade safety & plugin version gating for DSH, with a fully customizable multi-source plugin market for intranet-only and offline installs.",
+    "description_zh": "DSH 框架升级安全与插件升级门控：一键框架升级、失败自动回滚、旧插件不适配自动禁用、升级后可回滚上版；内置多源插件市场为发现层，插件源（安装/搜索/索引/Git）全部可自定义，支持公司内网私有源与本地仓库，纯内网离线可装 | Framework upgrade safety & plugin version gating for DSH, with a fully customizable multi-source plugin market for intranet-only and offline installs.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 93,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-dsh-plugin-alex-yanggg-1",
     "name": "awesome-DSH-plugin (Alex-Yanggg)",
     "type": "awesome-list",
@@ -993,8 +1010,8 @@
     "type": "awesome-list",
     "category": "registry",
     "repository": "https://github.com/Ultronen/dsh-archived-chats",
-    "description": "会话档案 / Session Archive for DeepSeek Harness：按工作区浏览和全文搜索归档聊天，原生只读预览消息、工具活动与已存储图片，管理标签备注、历史版本恢复为副本与 ZIP 备份恢复；提供带保护快照的可撤销回收站、空间分账、保留策略及来源与分支。所有数据留在本机。 Session Archive: full-text search, read-only preview, History restore-as-copy, ZIP backups, Recycle Bin, storage accounting, retention, and lineage. All data stays local.",
-    "description_zh": "会话档案 / Session Archive for DeepSeek Harness：按工作区浏览和全文搜索归档聊天，原生只读预览消息、工具活动与已存储图片，管理标签备注、历史版本恢复为副本与 ZIP 备份恢复；提供带保护快照的可撤销回收站、空间分账、保留策略及来源与分支。所有数据留在本机。 Session Archive: full-text search, read-only preview, History restore-as-copy, ZIP backups, Recycle Bin, storage accounting, retention, and lineage. All data stays local.",
+    "description": "Archive Management / 归档管理 for DeepSeek Harness: browse and search archived chats, preview and restore them, bulk archive by workspace, export/import ZIP backups, and manage a Recycle Bin. All data stays local.",
+    "description_zh": "DeepSeek Harness 的归档管理：浏览和搜索已归档会话，预览与恢复，按工作区批量归档，导入导出 ZIP 备份并管理回收站。所有数据留在本机。",
     "capabilities": [
       "coding",
       "search"
@@ -1418,6 +1435,25 @@
     ]
   },
   {
+    "id": "oh-my-dsh-plugins",
+    "name": "oh-my-dsh-plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/weekitmo/oh-my-dsh-plugins",
+    "description": "A curated collection of awesome plugins for DeepSeek Harness (DSH) — task notifications, LLM trace inspection, keybindings with a built-in terminal, and local agent delegation.",
+    "description_zh": "A curated collection of awesome plugins for DeepSeek Harness (DSH) — task notifications, LLM trace inspection, keybindings with a built-in terminal, and local agent delegation.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "terminal",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-deepseek-harness-plugins-walkinglabs-1",
     "name": "awesome-deepseek-harness-plugins",
     "type": "awesome-list",
@@ -1758,6 +1794,22 @@
     "capabilities": [
       "coding",
       "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "MIT"
+  },
+  {
+    "id": "safer-dsh-market",
+    "name": "safer-dsh-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/bruc3van/safer-dsh-market",
+    "description": "主打安全，提倡先审查再安装的DeepSeek Harness市场。深度扫描 5 分钟，放心使用每一天。",
+    "description_zh": "主打安全，提倡先审查再安装的DeepSeek Harness市场。深度扫描 5 分钟，放心使用每一天。",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -2261,6 +2313,40 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-tap",
+    "name": "dsh-tap",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/taikaikaikai-pixel/dsh-tap",
+    "description": "Unofficial upstream bundle for DeepSeek Harness (dsh): CodeBuddy + TraeWork CN + Qoder CN channels, runtime-synced model catalogue, web search/fetch, image generation, streaming bridge with OAuth & multi-Key rotation, OpenAI-compatible provider registry — all managed from a 4-block accordion settings card.",
+    "description_zh": "Unofficial upstream bundle for DeepSeek Harness (dsh): CodeBuddy + TraeWork CN + Qoder CN channels, runtime-synced model catalogue, web search/fetch, image generation, streaming bridge with OAuth & multi-Key rotation, OpenAI-compatible provider registry — all managed from a 4-block accordion settings card.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-manager-companion",
+    "name": "dsh-plugin-manager-companion",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/LX2000WASD/dsh-plugin-manager-companion",
+    "description": "Companion to the official DSH plugin manager: pre-install quality gate, environment diagnostics, marketplace, and upgrades.",
+    "description_zh": "Companion to the official DSH plugin manager: pre-install quality gate, environment diagnostics, marketplace, and upgrades.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugin-market-4",
     "name": "dsh-plugin-market",
     "type": "awesome-list",
@@ -2618,6 +2704,23 @@
       "coding",
       "multi-agent",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "awesome-dsh-tavern",
+    "name": "awesome-dsh-tavern",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/the-beating-light-of-the-nail/awesome-dsh-tavern",
+    "description": "🍺 DeepSeek Harness (dsh) 酒馆与角色扮演插件精选 — 把酒馆搬进 agent | Curated tavern & roleplay plugins for dsh",
+    "description_zh": "🍺 DeepSeek Harness (dsh) 酒馆与角色扮演插件精选 — 把酒馆搬进 agent | Curated tavern & roleplay plugins for dsh",
+    "capabilities": [
+      "coding",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -3407,6 +3510,72 @@
       "coding",
       "search",
       "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-market",
+    "name": "dsh-skill-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/pn1024/dsh-skill-market",
+    "description": "dsh plugin - skill marketplace (SkillHub + ClawHub) with sidebar entry, overlay panel, and chat input quick-pick",
+    "description_zh": "dsh plugin - skill marketplace (SkillHub + ClawHub) with sidebar entry, overlay panel, and chat input quick-pick",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-archive",
+    "name": "dsh-session-archive",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/kiligzzz/dsh-session-archive",
+    "description": "DeepSeek Harness web plugin: list, preview, restore or delete archived sessions from a sidebar panel.",
+    "description_zh": "DeepSeek Harness web plugin: list, preview, restore or delete archived sessions from a sidebar panel.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-store-1",
+    "name": "DSH-Store",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/AI-Scarlett/DSH-Store",
+    "description": "DSH STORE — third-party plugin marketplace and guarded lifecycle manager for DeepSeek Harness.",
+    "description_zh": "DSH STORE — third-party plugin marketplace and guarded lifecycle manager for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-secret-paste",
+    "name": "dsh-secret-paste",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/zhujiaqi/dsh-secret-paste",
+    "description": "DeepSeek Harness plugin: detect pasted secrets, store them in the credentials seam, and send [secret:REF] placeholders to the model.",
+    "description_zh": "DeepSeek Harness plugin: detect pasted secrets, store them in the credentials seam, and send [secret:REF] placeholders to the model.",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

@@ -1,6 +1,6 @@
 ---
 title: "dsh-archived-chats"
-description: "会话档案 / Session Archive for DeepSeek Harness：按工作区浏览和全文搜索归档聊天，原生只读预览消息、工具活动与已存储图片，管理标签备注、历史版本恢复为副本与 ZIP 备份恢复；提供带保护快照的可撤销回收站、空间分账、保留策略及来源与分支。所有数据留在本机。 Session Archive: full-text search, read-only preview, History restore-as-copy, ZIP backups, Recycle Bin, storage accounting, retention, and lineage. All data stays local."
+description: "Archive Management / 归档管理 for DeepSeek Harness: browse and search archived chats, preview and restore them, bulk archive by workspace, export/import ZIP backups, and manage a Recycle Bin. All data stays local."
 keywords: "dsh-archived-chats, registry, awesome-list, coding, search, deepseek harness, dsh"
 ---
 # dsh-archived-chats
@@ -15,11 +15,11 @@ keywords: "dsh-archived-chats, registry, awesome-list, coding, search, deepseek 
 
 ## One-liner
 
-> 会话档案 / Session Archive for DeepSeek Harness：按工作区浏览和全文搜索归档聊天，原生只读预览消息、工具活动与已存储图片，管理标签备注、历史版本恢复为副本与 ZIP 备份恢复；提供带保护快照的可撤销回收站、空间分账、保留策略及来源与分支。所有数据留在本机。 Session Archive: full-text search, read-only preview, History restore-as-copy, ZIP backups, Recycle Bin, storage accounting, retention, and lineage. All data stays local.
+> Archive Management / 归档管理 for DeepSeek Harness: browse and search archived chats, preview and restore them, bulk archive by workspace, export/import ZIP backups, and manage a Recycle Bin. All data stays local.
 
 ## About
 
-会话档案 / Session Archive for DeepSeek Harness：按工作区浏览和全文搜索归档聊天，原生只读预览消息、工具活动与已存储图片，管理标签备注、历史版本恢复为副本与 ZIP 备份恢复；提供带保护快照的可撤销回收站、空间分账、保留策略及来源与分支。所有数据留在本机。 Session Archive: full-text search, read-only preview, History restore-as-copy, ZIP backups, Recycle Bin, storage accounting, retention, and lineage. All data stays local.
+Archive Management / 归档管理 for DeepSeek Harness: browse and search archived chats, preview and restore them, bulk archive by workspace, export/import ZIP backups, and manage a Recycle Bin. All data stays local.
 
 ## 🔗 Links
 

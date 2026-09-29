@@ -1,17 +1,18 @@
 ---
 title: "deepseek-harness-genui"
 description: "Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn"
-keywords: "deepseek-harness-genui, learning, skill, coding, multi-agent, deepseek harness, dsh"
+keywords: "deepseek-harness-genui, ui, plugin, deepseek harness, dsh"
 ---
 # deepseek-harness-genui
 
-> ⭐ **107** · ✅ active · skill
+> ⭐ **114** · ✅ active · plugin
 
 | | | | |
 |---|---|---|---|
-| Type | skill | Category | Learning |
-| Stars | ⭐ 107 | Status | ✅ active |
+| Type | plugin | Category | UI & experience |
+| Stars | ⭐ 114 | Status | ✅ active |
 | Author | [pengyue-polaron](https://github.com/pengyue-polaron) | Updated | — |
+| Subcategory | 💡 Generative UI | Capabilities | ui |
 
 ## One-liner
 
@@ -45,4 +46,4 @@ Requires Node.js `^22.19.0 || ^24.0.0` and a supported DeepSeek Harness Web prof
 
 - [GitHub Repository](https://github.com/pengyue-polaron/deepseek-harness-genui)
 - [Full README](https://github.com/pengyue-polaron/deepseek-harness-genui#readme)
-- [Back to the Skills list](../skills.md)
+- [Back to the Plugins list](../plugins.md)

@@ -68,6 +68,39 @@
     "growth": 39
   },
   {
+    "id": "study-mate",
+    "name": "Study-Mate",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Miaotofu01/Study-Mate",
+    "description": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+    "description_zh": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 399,
+    "license": "MIT"
+  },
+  {
+    "id": "qcode",
+    "name": "QCode",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Qiuner/QCode",
+    "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+    "description_zh": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 347
+  },
+  {
     "id": "qq-bridge",
     "name": "qq-bridge",
     "type": "tutorial",
@@ -299,6 +332,22 @@
       "harness",
       "learning"
     ]
+  },
+  {
+    "id": "dsh-jailbreak-mode",
+    "name": "dsh-jailbreak-mode",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/bainianling/dsh-jailbreak-mode",
+    "description": "DSH Jailbreak Mode standalone plugin — 破甲模式插件（仅学习交流与授权安全研究）",
+    "description_zh": "DSH Jailbreak Mode standalone plugin — 破甲模式插件（仅学习交流与授权安全研究）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 15,
+    "license": "MIT"
   },
   {
     "id": "learn-deepseek-harness",
@@ -845,6 +894,39 @@
     "repository": "https://github.com/hellogit2021/avoid-ai-writing-cn",
     "description": "知乎\"去AI味写作技巧\"社区免费提供：中文写作去 AI 味插件。说\"去掉AI味\"即重写，说\"写的不错\"自动学习新 AI 词。",
     "description_zh": "知乎\"去AI味写作技巧\"社区免费提供：中文写作去 AI 味插件。说\"去掉AI味\"即重写，说\"写的不错\"自动学习新 AI 词。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-template-3",
+    "name": "dsh-plugin-template",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/exoticknight/dsh-plugin-template",
+    "description": "One sentence to an AI agent: create, release and list a DeepSeek Harness plugin. DSH 插件模板与 AI 操作手册",
+    "description_zh": "One sentence to an AI agent: create, release and list a DeepSeek Harness plugin. DSH 插件模板与 AI 操作手册",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-study-buddy",
+    "name": "dsh-study-buddy",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/V-Reason/dsh-study-buddy",
+    "description": "使用DeepSeekHarness进行学习和笔记",
+    "description_zh": "使用DeepSeekHarness进行学习和笔记",
     "capabilities": [
       "coding"
     ],

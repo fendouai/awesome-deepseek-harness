@@ -367,6 +367,22 @@
     "stars": 204
   },
   {
+    "id": "dsh-echocat-skill-panel",
+    "name": "dsh-echocat-skill-panel",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/VDERR/dsh-echocat-skill-panel",
+    "description": "DSH 技能调用审计 + 应用内 skill 管理器",
+    "description_zh": "DSH 技能调用审计 + 应用内 skill 管理器",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 196,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-taskboard",
     "name": "dsh-taskboard",
     "type": "skill",
@@ -467,22 +483,6 @@
     "license": "MIT"
   },
   {
-    "id": "deepseek-harness-genui",
-    "name": "deepseek-harness-genui",
-    "type": "skill",
-    "category": "learning",
-    "repository": "https://github.com/pengyue-polaron/deepseek-harness-genui",
-    "description": "Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn",
-    "description_zh": "Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn",
-    "capabilities": [
-      "coding",
-      "multi-agent"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 107
-  },
-  {
     "id": "photo-abstract-editorial",
     "name": "photo-abstract-editorial",
     "type": "skill",
@@ -533,6 +533,26 @@
     "status": "active",
     "verified": false,
     "stars": 86,
+    "license": "MIT"
+  },
+  {
+    "id": "agent-skills-1",
+    "name": "agent-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/youdotcom-oss/agent-skills",
+    "description": "You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.",
+    "description_zh": "You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.",
+    "capabilities": [
+      "coding",
+      "context",
+      "multi-agent",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 83,
     "license": "MIT"
   },
   {
@@ -1156,6 +1176,23 @@
     ]
   },
   {
+    "id": "dsh-agent-studio",
+    "name": "dsh-agent-studio",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/thissensen/dsh-agent-studio",
+    "description": "可视化地自定义配置 Agent 的提示词（prompt）、工具（tools）、可见技能（skills）、子代理、备用模型，轻松创建团队。",
+    "description_zh": "可视化地自定义配置 Agent 的提示词（prompt）、工具（tools）、可见技能（skills）、子代理、备用模型，轻松创建团队。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 17,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-directorx",
     "name": "dsh-directorx",
     "type": "skill",
@@ -1439,6 +1476,23 @@
     "license": "MIT"
   },
   {
+    "id": "taskbelay",
+    "name": "TaskBelay",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Innocent-children/TaskBelay",
+    "description": "Task control for AI coding agents: explicit scope, bounded verification, durable state, safe recovery. Codex · Claude Code · DeepSeek · ZCode.",
+    "description_zh": "Task control for AI coding agents: explicit scope, bounded verification, durable state, safe recovery. Codex · Claude Code · DeepSeek · ZCode.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "dsh-skill-manager-ytxue",
     "name": "dsh-skill-manager-ytxue",
     "type": "skill",
@@ -1611,6 +1665,23 @@
     "license": "MIT"
   },
   {
+    "id": "cocos-creator-skill",
+    "name": "cocos-creator-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/hsiaozzz/cocos-creator-skill",
+    "description": "Cocos Creator 3.8.x / COCOS 4 游戏开发 Agent Skill（遵循 Agent Skills 开放标准）。支持 Claude Code · Codex · DeepSeek Harness (dsh) · WorkBuddy · Cursor · Copilot 等 100+ 平台",
+    "description_zh": "Cocos Creator 3.8.x / COCOS 4 游戏开发 Agent Skill（遵循 Agent Skills 开放标准）。支持 Claude Code · Codex · DeepSeek Harness (dsh) · WorkBuddy · Cursor · Copilot 等 100+ 平台",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 11,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-7d-code-reviewer",
     "name": "dsh-skill-7d-code-reviewer",
     "type": "skill",
@@ -1646,6 +1717,23 @@
     "verified": false,
     "stars": 10,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-skillhub-1",
+    "name": "dsh-skillhub",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/aa2246740/dsh-skillhub",
+    "description": "DSH manager for user Skills already on disk in Agent home and DSH home",
+    "description_zh": "DSH manager for user Skills already on disk in Agent home and DSH home",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "license": "MIT"
   },
   {
     "id": "dsh-godot-skill",
@@ -2095,6 +2183,39 @@
     "license": "MIT"
   },
   {
+    "id": "taskfold",
+    "name": "taskfold",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/yindf/taskfold",
+    "description": "Context folding for DeepSeek Harness (DSH): wrap work in named tasks, fold finished spans into short summaries, recall originals on demand.",
+    "description_zh": "Context folding for DeepSeek Harness (DSH): wrap work in named tasks, fold finished spans into short summaries, recall originals on demand.",
+    "capabilities": [
+      "coding",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pua",
+    "name": "dsh-pua",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/MichengAI/dsh-pua",
+    "description": "DSH PUA — 为 DeepSeek Harness 提供 PUA 任务推进、角色风味、验收循环和运行状态卡片 · PUA task persistence, personas, verification loops, and live status cards for DeepSeek Harness",
+    "description_zh": "DSH PUA — 为 DeepSeek Harness 提供 PUA 任务推进、角色风味、验收循环和运行状态卡片 · PUA task persistence, personas, verification loops, and live status cards for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "dsh-superpowers",
     "name": "dsh-superpowers",
     "type": "skill",
@@ -2205,6 +2326,23 @@
     "description_zh": "skillhub of deepseek-harness",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "MIT"
+  },
+  {
+    "id": "perch",
+    "name": "perch",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/chenweigao/perch",
+    "description": "A native macOS workspace for local and remote coding agents. Conversations, tools, approvals and tasks — with Kimi, Codex and more.",
+    "description_zh": "A native macOS workspace for local and remote coding agents. Conversations, tools, approvals and tasks — with Kimi, Codex and more.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -4399,6 +4537,201 @@
     "verified": false,
     "stars": 3,
     "license": "MIT"
+  },
+  {
+    "id": "agents-skills",
+    "name": "agents-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Jensen-Yao/agents-skills",
+    "description": "个人 Agent 技能库（SKILL.md）：140+ 技能，供 DeepSeek Harness / Claude Code 等 agent 使用",
+    "description_zh": "个人 Agent 技能库（SKILL.md）：140+ 技能，供 DeepSeek Harness / Claude Code 等 agent 使用",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "aitoubiaoling-bid-review",
+    "name": "aitoubiaoling-bid-review",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/zslzxy/aitoubiaoling-bid-review",
+    "description": "AI投标灵标书审核 Skill：稳定审核非扫描 PDF/DOCX 的商务标、技术标与通用文档风险",
+    "description_zh": "AI投标灵标书审核 Skill：稳定审核非扫描 PDF/DOCX 的商务标、技术标与通用文档风险",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "chengxiao",
+    "name": "CHENGXIAO",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/MyPanda-Hash/CHENGXIAO",
+    "description": "Remote control between DeepSeek Harness machines: pair with a one-time code, run tasks and transfer files on the other machine - LAN direct or cross-network via an end-to-end-encrypted relay (official zero-config default). Files stay on each machine.",
+    "description_zh": "Remote control between DeepSeek Harness machines: pair with a one-time code, run tasks and transfer files on the other machine - LAN direct or cross-network via an end-to-end-encrypted relay (official zero-config default). Files stay on each machine.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "build-dsh-plugin",
+    "name": "build-dsh-plugin",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/AI-Scarlett/build-dsh-plugin",
+    "description": "Reusable Agent Skill and DSH Skill Provider Bundle for safe, evidence-driven DeepSeek Harness plugin development",
+    "description_zh": "Reusable Agent Skill and DSH Skill Provider Bundle for safe, evidence-driven DeepSeek Harness plugin development",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-notify-3",
+    "name": "dsh-task-notify",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/V-Reason/dsh-task-notify",
+    "description": "DeepSeekHarness任务完成时进行消息推送提醒（微信+Windows通知）",
+    "description_zh": "DeepSeekHarness任务完成时进行消息推送提醒（微信+Windows通知）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "huahua-dsh-record-replay",
+    "name": "huahua-dsh-record-replay",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/azure5100/huahua-dsh-record-replay",
+    "description": "DSH Record & Replay plugin: session timeline replay, replay-pack export/import, re-run recorded conversations, screen recording -> skill generation",
+    "description_zh": "DSH Record & Replay plugin: session timeline replay, replay-pack export/import, re-run recorded conversations, screen recording -> skill generation",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-token-saver",
+    "name": "dsh-token-saver",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Shaw529/dsh-token-saver",
+    "description": "DeepSeek Harness plugin: aggressive token savings, no task-quality loss",
+    "description_zh": "DeepSeek Harness plugin: aggressive token savings, no task-quality loss",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "agentforge",
+    "name": "AgentForge",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Lixiuxiu559/AgentForge",
+    "description": "通用 agent 工作流与工程技能集，同时作为 Claude Code 插件与 DeepSeek Harness 插件分发。实施编排 + 三轴 diff 评审 + 复杂度审计 + 突变测试，零外部依赖。",
+    "description_zh": "通用 agent 工作流与工程技能集，同时作为 Claude Code 插件与 DeepSeek Harness 插件分发。实施编排 + 三轴 diff 评审 + 复杂度审计 + 突变测试，零外部依赖。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "mddocx",
+    "name": "mddocx",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Trisia/mddocx",
+    "description": "将 Markdown 转换为符合学术规范的 Word 文档 skill，支持三线表、图题/表题自动编号、页码、页眉等学术论文排版规范。",
+    "description_zh": "将 Markdown 转换为符合学术规范的 Word 文档 skill，支持三线表、图题/表题自动编号、页码、页眉等学术论文排版规范。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "gzhflow",
+    "name": "gzhflow",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Andiii208/gzhflow",
+    "description": "跨 Agent 公众号内容发布工作流框架 — 素材先行/写作/去AI味/配图/排版/推草稿箱 六阶段流水线，适配 Claude Code/Cursor/Codex/Gemini/Qwen/DeepSeek 等主流 Agent",
+    "description_zh": "跨 Agent 公众号内容发布工作流框架 — 素材先行/写作/去AI味/配图/排版/推草稿箱 六阶段流水线，适配 Claude Code/Cursor/Codex/Gemini/Qwen/DeepSeek 等主流 Agent",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-command-skill-list",
+    "name": "dsh-command-skill-list",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/weilantianhai/dsh-command-skill-list",
+    "description": "/skills command for DSH — list skills with auto-translated descriptions (zh↔en)",
+    "description_zh": "/skills command for DSH — list skills with auto-translated descriptions (zh↔en)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-java-plugin-skills",
+    "name": "dsh-java-plugin-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/fuzhengwei/dsh-java-plugin-skills",
+    "description": "DSH Java 技能包：一句话生成业务应用与 Java Native 插件，完成 AI 智能体对接与全链路验证。",
+    "description_zh": "DSH Java 技能包：一句话生成业务应用与 Java Native 插件，完成 AI 智能体对接与全链路验证。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
   },
   {
     "id": "dsh-review-skills",

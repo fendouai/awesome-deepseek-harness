@@ -1,5 +1,23 @@
 [
   {
+    "id": "loopx-1",
+    "name": "loopx",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/loopx-project/loopx",
+    "description": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
+    "description_zh": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6102,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "agent-vision-toolkit",
     "name": "agent-vision-toolkit",
     "type": "workflow",
@@ -2012,6 +2030,59 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-cron-4",
+    "name": "dsh-cron",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/GooDAnDReaDY/dsh-cron",
+    "description": "Scheduled cron tasks, background automation and agent execution for DeepSeek Harness.",
+    "description_zh": "Scheduled cron tasks, background automation and agent execution for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-commandcode-quota",
+    "name": "dsh-commandcode-quota",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Jovan1666/dsh-commandcode-quota",
+    "description": "Command Code plan quota in your DeepSeek Harness (dsh) sidebar: 5-hour, weekly and monthly credit windows with reset countdowns. Works with Go, GOAT, Pro, Max and Provider plans.",
+    "description_zh": "Command Code plan quota in your DeepSeek Harness (dsh) sidebar: 5-hour, weekly and monthly credit windows with reset countdowns. Works with Go, GOAT, Pro, Max and Provider plans.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-automation-2",
+    "name": "dsh-automation",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/alpacachen/dsh-automation",
+    "description": "Schedule and manage one-time and recurring Agent tasks in DeepSeek Harness",
+    "description_zh": "Schedule and manage one-time and recurring Agent tasks in DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-agent-orchestration",
     "name": "dsh-agent-orchestration",
     "type": "workflow",
@@ -2683,6 +2754,78 @@
     "capabilities": [
       "coding",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "everything-codex",
+    "name": "everything-codex",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/iamaanahmad/everything-codex",
+    "description": "The complete collection of OpenAI Codex skills, automations, multi-agent workflows, and prompts. 50+ production-ready skills, 100+ reusable prompts, background automations, and battle-tested patterns for AI-powered development.",
+    "description_zh": "The complete collection of OpenAI Codex skills, automations, multi-agent workflows, and prompts. 50+ production-ready skills, 100+ reusable prompts, background automations, and battle-tested patterns for AI-powered development.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-gsd-bundle",
+    "name": "dsh-gsd-bundle",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/jaaty/dsh-gsd-bundle",
+    "description": "A DeepSeek Harness bundle reimplementing opengsd-core (Git Ship Done) as host-plane Cordis plugins, replacing the default agent-loop behaviour with the GSD phase loop.",
+    "description_zh": "A DeepSeek Harness bundle reimplementing opengsd-core (Git Ship Done) as host-plane Cordis plugins, replacing the default agent-loop behaviour with the GSD phase loop.",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "review-workflow",
+    "name": "review-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/LeslieWylie/review-workflow",
+    "description": "A structured multi-panelist review workflow for the DeepSeek Harness: N panelists score in isolated subagents, blind to each other; a chair reconciles disagreement by anchor match then Δ-level adjudication; an independent critic audits the process. Works for design, code, paper or project review.",
+    "description_zh": "A structured multi-panelist review workflow for the DeepSeek Harness: N panelists score in isolated subagents, blind to each other; a chair reconciles disagreement by anchor match then Δ-level adjudication; an independent critic audits the process. Works for design, code, paper or project review.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-engine",
+    "name": "dsh-task-engine",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/godv61/dsh-task-engine",
+    "description": "Engineering workflow plugin for DeepSeek Harness: task stages, verification records, commit checks, and skill and rule management.",
+    "description_zh": "Engineering workflow plugin for DeepSeek Harness: task stages, verification records, commit checks, and skill and rule management.",
+    "capabilities": [
+      "coding",
+      "workflow"
     ],
     "status": "active",
     "verified": false,

@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "Top 10 and full list of 144 curated agents & multi-agent for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 152 curated agents & multi-agent for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ active |
 | 10 | [dsh-liketavern](resources/dsh-liketavern.md) | ⭐111 | A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime. | ✅ active |
 
-## Complete list (144)
+## Complete list (152)
 
 
-**Multi-agent (141)**
+**Multi-agent (149)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -69,9 +69,11 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-sidechain](resources/dsh-sidechain.md) | ⭐10 | Side sessions: persistent /side sessions (Codex style) and one-off /btw questions (Claude style) in temporary forks. | ✅ active |
 | [dsh-tool-writing](resources/dsh-tool-writing.md) | ⭐10 | Writing engine for DeepSeek Harness: long-form web-novel orchestration with a separate DeepSeek key, lore management, semantic retrieval, and a corpus library. | ✅ active |
 | [orca-deepseek-harness](resources/orca-deepseek-harness.md) | ⭐10 | Complete Orca + DeepSeek Harness + dsh terminal integration with AI Vault history, resume, and orchestration. | ✅ active |
+| [dsh-expert-team](resources/dsh-expert-team.md) | ⭐9 | Role-based multi-agent expert team for DeepSeek Harness: one sentence in, a staged and gated team delivery out. 12 role subagents, 9 gated phases, shared-workspace artifacts, zero runtime dependencies. | ✅ active |
 | [dsh-plugin-claude-bridge](resources/dsh-plugin-claude-bridge.md) | ⭐9 | Bridge Claude Code memory, skills and config into DeepSeek Harness. | ✅ active |
 | [omd-dsh](resources/omd-dsh.md) | ⭐9 | Multi-mode agent presets for DeepSeek Harness — per-mode model routing + tiered subagent delegation. | ✅ active |
 | [Task Passport](resources/task-passport.md) | ⭐9 | Open task handoff protocol for DeepSeek Harness, WorkBuddy, Claude Code and Codex: verified state, not chat logs. | ✅ active |
+| [dsh-djy-xttsc](resources/dsh-djy-xttsc.md) | ⭐8 | DSH(DeepSeek Harness) 插件：把一段可在设置页随时改写的文字，作为全局系统提示词段注入到所有会话，含子代理与工作流内部子代理；文本与开关即时生效，无需重启。 | ✅ active |
 | [dsh-octo](resources/dsh-octo.md) | ⭐8 | an heterogeneous multi-agent collaboration skill designed for dsh | ✅ active |
 | [dsh-roleplay](resources/dsh-roleplay-1.md) | ⭐8 | Roleplay plugin suite for DeepSeek Harness: character cards, lorebooks, personas, presets, state, and conversation tools. | ✅ active |
 | [DSH-RolePlay](resources/dsh-roleplay-2.md) | ⭐8 | DeepSeek Harness 的 Tavern 角色卡兼容与原生 Agent RolePlay 插件。 | ✅ active |
@@ -88,6 +90,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-reasoning-settings](resources/dsh-reasoning-settings.md) | ⭐6 | 让 DeepSeek Harness 的第三方 API 支持低、中、高等推理强度，并可为每次子 Agent 调用选择模型｜Add Low, Medium, High, and other reasoning levels to third-party APIs, with model selection for each subagent call | ✅ active |
 | [dsh-roleplay](resources/dsh-roleplay.md) | ⭐6 | Deepseek Harness 角色扮演插件 Role-play conversations, character-card authoring and image generation for DeepSeek Harness | ✅ active |
 | [dsh-shadow-mind](resources/dsh-shadow-mind.md) | ⭐6 | Independent Shadow agent orchestration plugin for DeepSeek Harness | ✅ active |
+| [dsh-swarm-orchestrator](resources/dsh-swarm-orchestrator.md) | ⭐6 | Role-based AI swarm orchestration for DeepSeek Harness: per-role model pinning with fallbacks, parallel task DAG with review loops, live Swarm dashboard tab. | ✅ active |
 | [dsh-agent-arena](resources/dsh-agent-arena-1.md) | ⭐5 | Interactive multi-agent collaboration, meetings, group chats, and task execution for DeepSeek Harness. | ✅ active |
 | [dsh-agent-messaging](resources/dsh-agent-messaging.md) | ⭐5 | Cross-session agent-to-agent messaging: address another session by name. | ✅ active |
 | [dsh-llm-agy](resources/dsh-llm-agy.md) | ⭐5 | AGY (Antigravity CLI) integration for DeepSeek Harness: LLM adapter subagents, deep web search, connectivity diagnostics panel | ✅ active |
@@ -106,10 +109,12 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-legion](resources/dsh-legion.md) | ⭐4 | Multi-agent orchestration and LLM model routing for DeepSeek Harness (DSH): semantic AI agent profiles, exact model routes, declarative teams and strategies, and bounded subagent delegation - a TypeScript plugin that adds no second runtime. | ✅ active |
 | [dsh-office-plugin](resources/dsh-office-plugin.md) | ⭐4 | DSH Ox-Horse Office - a DeepSeek Harness web plugin rendering multi-agent sessions as a live pixi.js office | ✅ active |
 | [dsh-plugin-tavern](resources/dsh-plugin-tavern.md) | ⭐4 | 酒馆（SillyTavern 精简版）DSH 插件：角色卡解析管理员 card-analyst + 角色扮演讲述者 roleplay | ✅ active |
+| [dsh-research-kit](resources/dsh-research-kit.md) | ⭐4 | dsh-research-kit 是一个 浏览器侧 DSH 插件：它维护科研资源目录、把工作流和用户参数组装成可编辑 Prompt，并由 DSH 当前会话负责实际发送与执行。 | ✅ active |
 | [dsh-rp-composer](resources/dsh-rp-composer.md) | ⭐4 | TriComposer · DSH web 端 RP 结构化输入插件：台词/动作/心理分框填空、模板组装发送，从输入层消除 AI 对玩家言行的成分误识别。Structured tri-channel input composer for LLM roleplay on DeepSeek Harness. | ✅ active |
 | [dsh-subagent-max](resources/dsh-subagent-max.md) | ⭐4 | DeepSeek Harness (DSH) plugin — a subagent_with_model tool plus a live multi-panel subagent viewer. | ✅ active |
 | [dsh-subagent-router](resources/dsh-subagent-router.md) | ⭐4 | Dynamic model routing for DSH subagents, with continuable spawn sessions and one-shot fork support. | ✅ active |
 | [dsh-agy-safe](resources/dsh-agy-safe.md) | ⭐3 | DeepSeek Harness plugin: connect logged-in Antigravity CLI (agy) as chat and subagent model provider | ✅ active |
+| [dsh-alpha](resources/dsh-alpha.md) | ⭐3 | Multi-machine, multi-agent orchestration and control platform for DSH: route tasks across devices, workspaces, and Agent runtimes with streaming, approvals, and recovery. | ✅ active |
 | [dsh-better](resources/dsh-better.md) | ⭐3 | 更好的 DSH | Unofficial dsh plugin: archived sessions & task notifications / 已归档会话管理 · 任务系统通知 | ✅ active |
 | [dsh-commander](resources/dsh-commander.md) | ⭐3 | Commander for the DeepSeek Harness Web GUI: one conversation orchestrates others via <dsh-dispatch> protocol blocks, with automatic result receipts. | ✅ active |
 | [dsh-crosstalk](resources/dsh-crosstalk.md) | ⭐3 | dsh-crosstalk — cross-session messaging for DSH, Claude Code-style, plus event-driven auto-collab coordination | ✅ active |
@@ -118,6 +123,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-delegate](resources/dsh-delegate.md) | ⭐3 | dsh-delegate: model-aware subagent delegation for DeepSeek Harness — per-call models, depends_on dependency gating, per-child personas, a durable run roster, audit events, and conversation-flow tool cards. | 给 DeepSeek Harness 的子代理委派加上：按次选模型、依赖门控、角色人设、任务花名册。 | ✅ active |
 | [dsh-goalmesh](resources/dsh-goalmesh.md) | ⭐3 | Goal-driven multi-agent orchestration for DeepSeek Harness — bounded DAG scheduling, nested delegation, typed evidence, and durable trajectory UI. | ✅ active |
 | [dsh-memory-toolkit](resources/dsh-memory-toolkit.md) | ⭐3 | Memory and token-optimization plugin toolkit for DeepSeek Harness: cross-session knowledge graph memory + five-layer token-saving orchestration. | ✅ active |
+| [dsh-orchestrator](resources/dsh-orchestrator-1.md) | ⭐3 | DeepSeek Harness bundle for one-shot Claude Code and GitHub Copilot Gemini delegation through native subscription logins. | ✅ active |
 | [dsh-overdrive](resources/dsh-overdrive.md) | ⭐3 | The OpenClaw of DeepSeek Harness — turn DSH into a multi-platform chat agent with in-chat trajectory tracing, subagents & cron, and one-command deploy. | ✅ active |
 | [dsh-roundtable](resources/dsh-roundtable.md) | ⭐3 | Roundtable (圆桌讨论) multi-agent discussion plugin for DeepSeek Harness | ✅ active |
 | [dsh-sideband](resources/dsh-sideband.md) | ⭐3 | Async LLM context relay between DeepSeek Harness sessions and Agent Team Rooms | ✅ active |
@@ -125,9 +131,11 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-subagent-library](resources/dsh-subagent-library.md) | ⭐3 | DeepSeek Harness 具名子代理库插件：settings 驱动的角色名册，list_subagents / delegate 工具与设置页。Named subagent roster plugin for DeepSeek Harness. | ✅ active |
 | [dsh-subagent-ui](resources/dsh-subagent-ui.md) | ⭐3 | Searchable workspace subagent manager for DeepSeek Harness Web | ✅ active |
 | [dsh-task-relay](resources/dsh-task-relay.md) | ⭐3 | DSH 跨会话任务接力板：task_push/list/claim/done + handoff_write/read | ✅ active |
+| [dsh-team-rooms](resources/dsh-team-rooms.md) | ⭐3 | Team rooms for DeepSeek Harness: persistent shared rooms across independent sessions - a message bus, a shared task board and a timeline. Extracted from dsh-background-agents, whose background-agent half is superseded by DSH's native continuable subagents. | ✅ active |
 | [foreman-dsh](resources/foreman-dsh.md) | ⭐3 | 贵脑+贱手: cloud-orchestrator + local-worker lanes (delegate & read-only scout) for DeepSeek Harness | 社区 Agent 预设 | ✅ active |
 | [knotline](resources/knotline.md) | ⭐3 | 把 Agent 从对话框搬到一张图上——连线即执行 / Orchestrate AI agents by drawing lines | ✅ active |
 | [openspec-agents](resources/openspec-agents.md) | ⭐3 | OpenSpec 流程的 Agent Team：面向实施阶段的多 Agent 工作流编排。 | ✅ active |
+| [portable-dsh-multi-agent-plugin](resources/portable-dsh-multi-agent-plugin.md) | ⭐3 | One model writes the work, a different one reviews it, and neither decides whether it passed. Cross-provider AI review with verifiable evidence, for DeepSeek Harness/Cordis hosts. 中文文档见 README.zh.md。 | ✅ active |
 | [dsh-cluster](resources/dsh-cluster.md) | ⭐2 | 画布式多智能体协作插件 | Canvas-based multi-agent cooperation plugin for DeepSeek Harness | ✅ active |
 | [dsh-command-opt](resources/dsh-command-opt.md) | ⭐2 | DeepSeek Harness（DSH）命令优化插件：Tab/Enter 补全命令名、参数格式引导与提示弹框、tool 开启会话（subagent）补丁、空对话命令输出修复。Command optimization plugin for DeepSeek Harness. | ✅ active |
 | [dsh-crosstalk](resources/dsh-crosstalk-1.md) | ⭐2 | Cross-session messaging: DSH sessions on the same machine can discover, message and coordinate with each other. | ✅ active |

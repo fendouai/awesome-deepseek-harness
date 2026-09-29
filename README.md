@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -3660,6 +3660,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-json-types](https://github.com/uckkk/dsh-json-types)  — @{name=dsh-json-types; version=0.1.0; description=JSON 类型生成：把 JSON 数据转换为 TypeScript 接口 / JSON Schema / Python(Pydantic) 模型，自动推断字段类型、嵌套对象与数组元素类型; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=}.description (✅ active)
 - [dsh-json-validate](https://github.com/uckkk/dsh-json-validate)  — JSON 校验与修复：定位语法错误行列，修复注释/尾逗号/单引号 (✅ active)
 - [dsh-jwt](https://github.com/uckkk/dsh-jwt)  — JWT 解码：解析 header/payload，判断过期 (✅ active)
+- [dsh-kite](https://github.com/weibaohui/dsh-kite)  — Kite-flying engine: while the agent codes, an animated kite drifts and sways in the wind on screen, tethered to the bottom edge of the window — the busier the agent, the denser the events and the higher it flies; ships a Weifang-style framework card deck (sand-swallow, goldfish, butterfly, bagua, dragon-head and more, hard-wing / soft-wing / flat / dimensional frames), with shape x pattern x colors all swappable data configs, and supports pasting user images onto the kite face with real-time affine transforms as the kite banks. (🧪 experimental)
 - [dsh-lan-uuid-fix](https://github.com/Zenjibad/dsh-lan-uuid-fix)  — dsh bundle: polyfill crypto.randomUUID on insecure origins so the DeepSeek Harness Web UI works over plain-HTTP LAN (✅ active)
 - [dsh-layout](https://github.com/zhangxiang1993621/dsh-layout)  — 布局管理器：活动条 + 布局预设（左中右等）+ 左右区域插件分配/折叠/拖动，中间对话区不变，布局持久化 (✅ active)
 - [dsh-lens](https://github.com/hajimixiaojie/dsh-lens)  — DeepSeek Harness代码自动检查插件 (✅ active)
@@ -6333,7 +6334,7 @@ awesome-deepseek-harness/
 | 9 | [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | 10 | [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | ⭐2,552 | Workbench-style sidebar: file viewer/editor, terminal, Git, subagents and plugin-extensible tabs. | ✅ active |
 
-#### Complete list (3616)
+#### Complete list (3617)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/Nagi-ovo/voyager) ⭐19,755 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 (✅ active)
@@ -9823,6 +9824,7 @@ awesome-deepseek-harness/
 - [dsh-json-types](https://github.com/uckkk/dsh-json-types)  — @{name=dsh-json-types; version=0.1.0; description=JSON 类型生成：把 JSON 数据转换为 TypeScript 接口 / JSON Schema / Python(Pydantic) 模型，自动推断字段类型、嵌套对象与数组元素类型; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=}.description (✅ active)
 - [dsh-json-validate](https://github.com/uckkk/dsh-json-validate)  — JSON 校验与修复：定位语法错误行列，修复注释/尾逗号/单引号 (✅ active)
 - [dsh-jwt](https://github.com/uckkk/dsh-jwt)  — JWT 解码：解析 header/payload，判断过期 (✅ active)
+- [dsh-kite](https://github.com/weibaohui/dsh-kite)  — Kite-flying engine: while the agent codes, an animated kite drifts and sways in the wind on screen, tethered to the bottom edge of the window — the busier the agent, the denser the events and the higher it flies; ships a Weifang-style framework card deck (sand-swallow, goldfish, butterfly, bagua, dragon-head and more, hard-wing / soft-wing / flat / dimensional frames), with shape x pattern x colors all swappable data configs, and supports pasting user images onto the kite face with real-time affine transforms as the kite banks. (🧪 experimental)
 - [dsh-lan-uuid-fix](https://github.com/Zenjibad/dsh-lan-uuid-fix)  — dsh bundle: polyfill crypto.randomUUID on insecure origins so the DeepSeek Harness Web UI works over plain-HTTP LAN (✅ active)
 - [dsh-layout](https://github.com/zhangxiang1993621/dsh-layout)  — 布局管理器：活动条 + 布局预设（左中右等）+ 左右区域插件分配/折叠/拖动，中间对话区不变，布局持久化 (✅ active)
 - [dsh-lens](https://github.com/hajimixiaojie/dsh-lens)  — DeepSeek Harness代码自动检查插件 (✅ active)

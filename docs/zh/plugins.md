@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3616 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3617 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | 10 | [DSH Better Sidebar](resources/dsh-better-sidebar.md) | ⭐2,552 | 工作台式侧边栏：文件渲染/编辑、终端、Git、子代理，支持三方扩展 Tab。 | ✅ 活跃 |
 
-## 完整列表（3616）
+## 完整列表（3617）
 
 
 **视觉与多模态（1298）**
@@ -2788,9 +2788,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | DeepSeek Harness 一键重启：网页按钮（外加 dsh_restart Agent 工具）把重启交给独立 helper，等端口释放后以完全相同的命令拉起新宿主，页面自动重连；新宿主启动失败时由恢复控制台显示启动错误。 | ✅ 活跃 |
 
-**界面与体验（467）**
+**界面与体验（468）**
 
-*其他（179）*
+*其他（180）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -2968,6 +2968,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-zh-commands](resources/dsh-zh-commands.md) | ⭐1 | DSH plugin: Chinese slash commands & built-in command description localization — 中文斜杠命令增强 | ✅ 活跃 |
 | [dsh-client-ui-filesystem-manager](resources/dsh-client-ui-filesystem-manager.md) | – | A customized DeepSeek Harness filetree manager UI plugin. | ✅ 活跃 |
 | [dsh-design-patterns](resources/dsh-design-patterns.md) | – | UI设计模式参考 | ✅ 活跃 |
+| [dsh-kite](resources/dsh-kite.md) | – | 放风筝引擎：agent 编程时屏幕上放一只动画风筝——token 越多事件越密风筝飞得越高，随风漂移摆动，一根线牵在窗口底边；潍坊系框架卡组（沙燕/金鱼/蝴蝶/八卦/龙头等，硬翅软翅板式立体），形状×图案×配色全是可替换数据配置，支持把用户图片糊上风筝面、贴图随风筝姿态实时仿射变换。 | 🧪 实验性 |
 | [dsh-plugin](resources/dsh-plugin-5.md) | – | Build your own coding agent with Pi dsh-plugin | ✅ 活跃 |
 | [dsh-randomuuid-polyfill](resources/dsh-randomuuid-polyfill.md) | – | dsh client plugin that installs crypto.randomUUID on insecure origins (plain HTTP over a LAN address) | ✅ 活跃 |
 | [dsh-task-flow](resources/dsh-task-flow.md) | – | 任务星图：一句话让 DSH 模型把目标拆解为带分支与验收标准的流程，Agent 每次工具调用实时点亮执行星点，联动 Goal 主线星，含拖拽星图视图与可视化编辑器（MIT，零运行时依赖）。 | ✅ 活跃 |

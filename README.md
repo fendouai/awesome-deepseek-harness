@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-#### Complete list (3928)
+#### Complete list (3929)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -201,6 +201,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [mem9](https://github.com/mem9-ai/mem9) ⭐1,213 — Unlimited memory for OpenClaw (✅ active)
 - [deepseek-design](https://github.com/Devin-AXIS/deepseek-design) ⭐1,134 — DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness. (✅ active)
 - [GLM-5.3-Flash-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report) ⭐1,021 — GLM-5.3-Flash × J-Space capability realization — benchmark presentation of the J-Space Cognition Suite (✅ active)
+- [MindMemOS](https://github.com/mindscale-noah/MindMemOS) ⭐998 — Memory OS for AI agents: a hosted memory, RAG and skills service with a native DeepSeek Harness plugin (@mindmemos/deepseek-harness-plugin). (✅ active)
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) ⭐927 — Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). (✅ active)
 - [agent-qa](https://github.com/vostride/agent-qa) ⭐907 — Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship. (✅ active)
 - [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) ⭐860 — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ (✅ active)
@@ -6799,7 +6800,7 @@ awesome-deepseek-harness/
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-#### Complete list (3928)
+#### Complete list (3929)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -6830,6 +6831,7 @@ awesome-deepseek-harness/
 - [mem9](https://github.com/mem9-ai/mem9) ⭐1,213 — Unlimited memory for OpenClaw (✅ active)
 - [deepseek-design](https://github.com/Devin-AXIS/deepseek-design) ⭐1,134 — DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness. (✅ active)
 - [GLM-5.3-Flash-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report) ⭐1,021 — GLM-5.3-Flash × J-Space capability realization — benchmark presentation of the J-Space Cognition Suite (✅ active)
+- [MindMemOS](https://github.com/mindscale-noah/MindMemOS) ⭐998 — Memory OS for AI agents: a hosted memory, RAG and skills service with a native DeepSeek Harness plugin (@mindmemos/deepseek-harness-plugin). (✅ active)
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) ⭐927 — Eyes for text-only agents: built-in free keyless vision chain plus pixel-level tools (Q&A, grounding, crop, OCR, SVG trace). (✅ active)
 - [agent-qa](https://github.com/vostride/agent-qa) ⭐907 — Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship. (✅ active)
 - [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) ⭐860 — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ (✅ active)

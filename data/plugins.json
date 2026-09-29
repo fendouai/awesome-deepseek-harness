@@ -82603,5 +82603,24 @@
     "stars": 0,
     "install": "dsh plugin --profile web add github:wqy-cell/dsh-url-trace",
     "license": "MIT"
+  },
+  {
+    "id": "mindmemos",
+    "name": "MindMemOS",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/mindscale-noah/MindMemOS",
+    "description": "Memory OS for AI agents: a hosted memory, RAG and skills service with a native DeepSeek Harness plugin (@mindmemos/deepseek-harness-plugin).",
+    "description_zh": "面向 AI Agent 的记忆操作系统：提供托管式记忆、RAG 与技能服务，并有原生 DeepSeek Harness 插件（@mindmemos/deepseek-harness-plugin）。",
+    "capabilities": [
+      "memory",
+      "context",
+      "research"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 998,
+    "install": "npm i @mindmemos/deepseek-harness-plugin (see repo README for DSH setup)",
+    "license": "MIT"
   }
 ]

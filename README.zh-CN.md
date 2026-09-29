@@ -171,7 +171,7 @@ dsh web
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-#### 完整列表（3928）
+#### 完整列表（3929）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -202,6 +202,7 @@ dsh web
 - [mem9](https://github.com/mem9-ai/mem9) ⭐1,213 — Unlimited memory for OpenClaw（✅ 活跃）
 - [deepseek-design](https://github.com/Devin-AXIS/deepseek-design) ⭐1,134 — DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.（✅ 活跃）
 - [GLM-5.3-Flash-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report) ⭐1,021 — GLM-5.3-Flash × J-Space capability realization — benchmark presentation of the J-Space Cognition Suite（✅ 活跃）
+- [MindMemOS](https://github.com/mindscale-noah/MindMemOS) ⭐998 — 面向 AI Agent 的记忆操作系统：提供托管式记忆、RAG 与技能服务，并有原生 DeepSeek Harness 插件（@mindmemos/deepseek-harness-plugin）。（✅ 活跃）
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) ⭐927 — 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。（✅ 活跃）
 - [agent-qa](https://github.com/vostride/agent-qa) ⭐907 — Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.（✅ 活跃）
 - [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) ⭐860 — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐（✅ 活跃）
@@ -6800,7 +6801,7 @@ awesome-deepseek-harness/
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-#### 完整列表（3928）
+#### 完整列表（3929）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -6831,6 +6832,7 @@ awesome-deepseek-harness/
 - [mem9](https://github.com/mem9-ai/mem9) ⭐1,213 — Unlimited memory for OpenClaw（✅ 活跃）
 - [deepseek-design](https://github.com/Devin-AXIS/deepseek-design) ⭐1,134 — DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.（✅ 活跃）
 - [GLM-5.3-Flash-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report) ⭐1,021 — GLM-5.3-Flash × J-Space capability realization — benchmark presentation of the J-Space Cognition Suite（✅ 活跃）
+- [MindMemOS](https://github.com/mindscale-noah/MindMemOS) ⭐998 — 面向 AI Agent 的记忆操作系统：提供托管式记忆、RAG 与技能服务，并有原生 DeepSeek Harness 插件（@mindmemos/deepseek-harness-plugin）。（✅ 活跃）
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) ⭐927 — 纯文本 Agent 的眼睛：内置免费免密钥视觉链路 + 像素级工具（问答、grounding、裁剪、OCR、SVG 描摹）。（✅ 活跃）
 - [agent-qa](https://github.com/vostride/agent-qa) ⭐907 — Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.（✅ 活跃）
 - [dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) ⭐860 — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐（✅ 活跃）

@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3928 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3929 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [modlens](resources/modlens.md) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](resources/j-space-cognition-suite-1.md) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-## Complete list (3928)
+## Complete list (3929)
 
 
 **Vision & multimodal (1407)**
@@ -3544,7 +3544,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-computer-use-windows](resources/dsh-computer-use-windows-1.md) | ⭐1 | Windows Computer Use tools for DeepSeek Harness: self-contained UIA native helper, occlusion-aware screenshots, safety-gated input | ✅ active |
 | [dsh-llm-kimi](resources/dsh-llm-kimi.md) | ⭐1 | Kimi (Moonshot AI) LLM adapter plugin for DeepSeek Harness — three routes: kimi-code (Kimi Code subscription), kimi-cn, kimi-global. Streaming, thinking mode, tool calling, image input, plus a built-in Kimi settings page. | ✅ active |
 
-**Memory & context (358)**
+**Memory & context (359)**
 
 *🧠 Memory systems (141)*
 
@@ -3691,13 +3691,14 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-code-runtime-container](resources/dsh-code-runtime-container.md) | – | Container-isolated backend for the DeepSeek Harness code-execution seam: Code Mode programs run in a fresh container with no network, a read-only rootfs, and kernel-enforced memory, CPU, and pid ceilings | ✅ active |
 | [dsh-plugin-asmemory](resources/dsh-plugin-asmemory.md) | – | Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness | ✅ active |
 | [dsh-precedent](resources/dsh-precedent.md) | – | Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step. | ✅ active |
-*Other (119)*
+*Other (120)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ active |
 | [memmy-agent](resources/memmy-agent.md) | ⭐1,906 | 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc. | ✅ active |
 | [mem9](resources/mem9.md) | ⭐1,213 | Unlimited memory for OpenClaw | ✅ active |
+| [MindMemOS](resources/mindmemos.md) | ⭐998 | Memory OS for AI agents: a hosted memory, RAG and skills service with a native DeepSeek Harness plugin (@mindmemos/deepseek-harness-plugin). | ✅ active |
 | [agent-qa](resources/agent-qa.md) | ⭐907 | Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship. | ✅ active |
 | [deja-vu](resources/deja-vu.md) | ⭐811 | One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. | ✅ active |
 | [thoughtdag](resources/thoughtdag.md) | ⭐443 | Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context. | ✅ active |

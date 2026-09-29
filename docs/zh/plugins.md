@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3928 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3929 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [modlens](resources/modlens.md) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](resources/j-space-cognition-suite-1.md) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-## 完整列表（3928）
+## 完整列表（3929）
 
 
 **视觉与多模态（1407）**
@@ -3544,7 +3544,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-computer-use-windows](resources/dsh-computer-use-windows-1.md) | ⭐1 | Windows Computer Use tools for DeepSeek Harness: self-contained UIA native helper, occlusion-aware screenshots, safety-gated input | ✅ 活跃 |
 | [dsh-llm-kimi](resources/dsh-llm-kimi.md) | ⭐1 | Kimi (Moonshot AI) LLM adapter plugin for DeepSeek Harness — three routes: kimi-code (Kimi Code subscription), kimi-cn, kimi-global. Streaming, thinking mode, tool calling, image input, plus a built-in Kimi settings page. | ✅ 活跃 |
 
-**记忆与上下文（358）**
+**记忆与上下文（359）**
 
 *🧠 记忆系统（141）*
 
@@ -3691,13 +3691,14 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-code-runtime-container](resources/dsh-code-runtime-container.md) | – | Container-isolated backend for the DeepSeek Harness code-execution seam: Code Mode programs run in a fresh container with no network, a read-only rootfs, and kernel-enforced memory, CPU, and pid ceilings | ✅ 活跃 |
 | [dsh-plugin-asmemory](resources/dsh-plugin-asmemory.md) | – | Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness | ✅ 活跃 |
 | [dsh-precedent](resources/dsh-precedent.md) | – | Evidence-backed working memory for DeepSeek Harness: a cited ledger of what already worked in this workspace, built from the session log you already have. No index, no model, no capture step. | ✅ 活跃 |
-*其他（119）*
+*其他（120）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [deepwiki-rs](resources/deepwiki-rs.md) | ⭐2,712 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. | ✅ 活跃 |
 | [memmy-agent](resources/memmy-agent.md) | ⭐1,906 | 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc. | ✅ 活跃 |
 | [mem9](resources/mem9.md) | ⭐1,213 | Unlimited memory for OpenClaw | ✅ 活跃 |
+| [MindMemOS](resources/mindmemos.md) | ⭐998 | 面向 AI Agent 的记忆操作系统：提供托管式记忆、RAG 与技能服务，并有原生 DeepSeek Harness 插件（@mindmemos/deepseek-harness-plugin）。 | ✅ 活跃 |
 | [agent-qa](resources/agent-qa.md) | ⭐907 | Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship. | ✅ 活跃 |
 | [deja-vu](resources/deja-vu.md) | ⭐811 | One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. | ✅ 活跃 |
 | [thoughtdag](resources/thoughtdag.md) | ⭐443 | Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context. | ✅ 活跃 |

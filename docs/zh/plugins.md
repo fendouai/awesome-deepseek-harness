@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3931 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3932 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [modlens](resources/modlens.md) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](resources/j-space-cognition-suite-1.md) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-## 完整列表（3931）
+## 完整列表（3932）
 
 
 **视觉与多模态（1408）**
@@ -4083,6 +4083,16 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-webbridge](resources/dsh-webbridge.md) | ⭐3 | DSH 结合 Kimi WebBridge 操控真实浏览器。 | ✅ 活跃 |
 | [dsh-computer-use](resources/dsh-computer-use-1-1.md) | ⭐1 | 模型无关的 Computer Use：隔离浏览器、Windows 原生助手与第三方桥接。 | ✅ 活跃 |
 
+**研究（5）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-industry-research](resources/dsh-industry-research.md) | ⭐46 | 行业与公司研究域包：方法论技能、产业链结构模型、公开源政策/新闻跟踪与公司扫描卡，输出可审计。 | ✅ 活跃 |
+| [dsh-research-report](resources/dsh-research-report.md) | ⭐44 | 可验证研究报告引擎：内容寻址证据台账 + 版本化封存报告，逐条声明带核验结论。 | ✅ 活跃 |
+| [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | 中国公募基金研究：公开源数据采集 + 确定性经理/组合指标计算。 | ✅ 活跃 |
+| [dsh-trading](resources/dsh-trading.md) | ⭐12 | 纯研究型交易工作台插件：类型化行情数据缝（自带 provider）、多周期指标快照、带溯源门控标注的交互图表卡片，以及拒绝执行型工具调用的风险护栏——架构上不提供执行能力。 | ✅ 活跃 |
+| [dsh-thinktank](resources/dsh-thinktank.md) | – | 智囊团：内置 144 个经典思维模型库（决策/战略/认知/心理/沟通/学习/系统/创新/执行九大分类），输入一个问题即可用选中的多个模型并行 AI 分析，产出含共识/分歧/盲区/行动清单的综合报告页；支持自动分析与提示词往返导入两种模式。 | 🧪 实验性 |
+
 **安全（5）**
 
 | 项目 | 星数 | 说明 | 状态 |
@@ -4092,15 +4102,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ 活跃 |
 | [dsh-plugin-auto-review](resources/dsh-plugin-auto-review.md) | ⭐1 | 通过已配置的 DSH LLM 路由自动审核原生工具审批请求，并提供 Web 控件与故障关闭处理。 | ✅ 活跃 |
 | [user-management](resources/user-management.md) | ⭐1 | 用户管理：给 dsh web 加登录门禁，未登录访问弹登录/注册页，首个注册者自动成为管理员；管理员可管理用户/角色，带登录与访问审计。 | ✅ 活跃 |
-
-**研究（4）**
-
-| 项目 | 星数 | 说明 | 状态 |
-|---|---|---|---|
-| [dsh-industry-research](resources/dsh-industry-research.md) | ⭐46 | 行业与公司研究域包：方法论技能、产业链结构模型、公开源政策/新闻跟踪与公司扫描卡，输出可审计。 | ✅ 活跃 |
-| [dsh-research-report](resources/dsh-research-report.md) | ⭐44 | 可验证研究报告引擎：内容寻址证据台账 + 版本化封存报告，逐条声明带核验结论。 | ✅ 活跃 |
-| [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | 中国公募基金研究：公开源数据采集 + 确定性经理/组合指标计算。 | ✅ 活跃 |
-| [dsh-trading](resources/dsh-trading.md) | ⭐12 | 纯研究型交易工作台插件：类型化行情数据缝（自带 provider）、多周期指标快照、带溯源门控标注的交互图表卡片，以及拒绝执行型工具调用的风险护栏——架构上不提供执行能力。 | ✅ 活跃 |
 
 **自动化（4）**
 

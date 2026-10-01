@@ -171,7 +171,7 @@ dsh web
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-#### 完整列表（3931）
+#### 完整列表（3932）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -4075,6 +4075,7 @@ dsh web
 - [dsh-terminal](https://github.com/lanshuye123/DSH-Terminal)  — DSH WebUI 终端(Terminal)插件。可以在WebUI中获得终端模拟器。（✅ 活跃）
 - [dsh-think-chinese](https://github.com/lingtima/dsh-think-chinese)  — DSH 插件：让模型始终用中文进行内部推理与思考（think in Chinese）。（✅ 活跃）
 - [dsh-thinkmeter](https://github.com/dmz2922990/dsh-thinkmeter)  — DeepSeek Harness（DSH）客户端插件：将聊天视图中流式的 Think 思考预览替换为 实时 Token 数量显示。（✅ 活跃）
+- [dsh-thinktank](https://github.com/weibaohui/dsh-thinktank)  — 智囊团：内置 144 个经典思维模型库（决策/战略/认知/心理/沟通/学习/系统/创新/执行九大分类），输入一个问题即可用选中的多个模型并行 AI 分析，产出含共识/分歧/盲区/行动清单的综合报告页；支持自动分析与提示词往返导入两种模式。（🧪 实验性）
 - [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick)  — TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具与类型化 Remote 服务，全部走官方 TickTick MCP 端点。（✅ 活跃）
 - [dsh-tool-backtest](https://github.com/dmsobtl/dsh-tool-backtest)  — DSH 插件：策略回测引擎 — 定义买卖信号，跑历史数据，输出绩效指标。（✅ 活跃）
 - [dsh-tool-playwright](https://github.com/cheng-nan01/dsh-tool-playwright)  — 一个给 DeepSeek Harness 用的插件：让 AI 能真的打开浏览器上网——打开网页、点按钮、填表单、翻页、看页面内容，就像人一样操作浏览器。（✅ 活跃）
@@ -6803,7 +6804,7 @@ awesome-deepseek-harness/
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-#### 完整列表（3931）
+#### 完整列表（3932）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -10707,6 +10708,7 @@ awesome-deepseek-harness/
 - [dsh-terminal](https://github.com/lanshuye123/DSH-Terminal)  — DSH WebUI 终端(Terminal)插件。可以在WebUI中获得终端模拟器。（✅ 活跃）
 - [dsh-think-chinese](https://github.com/lingtima/dsh-think-chinese)  — DSH 插件：让模型始终用中文进行内部推理与思考（think in Chinese）。（✅ 活跃）
 - [dsh-thinkmeter](https://github.com/dmz2922990/dsh-thinkmeter)  — DeepSeek Harness（DSH）客户端插件：将聊天视图中流式的 Think 思考预览替换为 实时 Token 数量显示。（✅ 活跃）
+- [dsh-thinktank](https://github.com/weibaohui/dsh-thinktank)  — 智囊团：内置 144 个经典思维模型库（决策/战略/认知/心理/沟通/学习/系统/创新/执行九大分类），输入一个问题即可用选中的多个模型并行 AI 分析，产出含共识/分歧/盲区/行动清单的综合报告页；支持自动分析与提示词往返导入两种模式。（🧪 实验性）
 - [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick)  — TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具与类型化 Remote 服务，全部走官方 TickTick MCP 端点。（✅ 活跃）
 - [dsh-tool-backtest](https://github.com/dmsobtl/dsh-tool-backtest)  — DSH 插件：策略回测引擎 — 定义买卖信号，跑历史数据，输出绩效指标。（✅ 活跃）
 - [dsh-tool-playwright](https://github.com/cheng-nan01/dsh-tool-playwright)  — 一个给 DeepSeek Harness 用的插件：让 AI 能真的打开浏览器上网——打开网页、点按钮、填表单、翻页、看页面内容，就像人一样操作浏览器。（✅ 活跃）

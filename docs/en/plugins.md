@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3931 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3932 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [modlens](resources/modlens.md) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](resources/j-space-cognition-suite-1.md) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-## Complete list (3931)
+## Complete list (3932)
 
 
 **Vision & multimodal (1408)**
@@ -4083,6 +4083,16 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-webbridge](resources/dsh-webbridge.md) | ⭐3 | DSH combined with Kimi WebBridge for real browser control. | ✅ active |
 | [dsh-computer-use](resources/dsh-computer-use-1-1.md) | ⭐1 | Model-agnostic Computer Use for DSH: isolated browser, Windows native helper and third-party bridges. | ✅ active |
 
+**Research (5)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-industry-research](resources/dsh-industry-research.md) | ⭐46 | Industry and company research domain pack: methodology skills, an industry-chain structure model, public-source policy/news tracking, and company scan cards with auditable output. | ✅ active |
+| [dsh-research-report](resources/dsh-research-report.md) | ⭐44 | Verifiable research-report engine with a content-addressed evidence ledger and versioned sealed reports carrying per-claim verification verdicts. | ✅ active |
+| [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | Chinese public mutual fund research: public-source data collection and deterministic manager/portfolio metrics. | ✅ active |
+| [dsh-trading](resources/dsh-trading.md) | ⭐12 | Research-only trading workbench for DSH: typed market-data seam (BYO provider), multi-timeframe indicator snapshots, interactive chart cards with provenance-gated annotations, and a risk-guard denying execution-shaped tool calls. No execution seam by construction. | ✅ active |
+| [dsh-thinktank](resources/dsh-thinktank.md) | – | Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel via AI, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports both automatic analysis and prompt round-trip import. | 🧪 experimental |
+
 **Security (5)**
 
 | Project | Stars | Description | Status |
@@ -4092,15 +4102,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-tool-policy](resources/dsh-tool-policy.md) | ⭐4 | Declarative deny-by-default tool policy plugin for DeepSeek Harness | ✅ active |
 | [dsh-plugin-auto-review](resources/dsh-plugin-auto-review.md) | ⭐1 | Automatically reviews native DSH tool approval requests through a configured DSH LLM route, with Web controls and fail-closed handling. | ✅ active |
 | [user-management](resources/user-management.md) | ⭐1 | Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs. | ✅ active |
-
-**Research (4)**
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-industry-research](resources/dsh-industry-research.md) | ⭐46 | Industry and company research domain pack: methodology skills, an industry-chain structure model, public-source policy/news tracking, and company scan cards with auditable output. | ✅ active |
-| [dsh-research-report](resources/dsh-research-report.md) | ⭐44 | Verifiable research-report engine with a content-addressed evidence ledger and versioned sealed reports carrying per-claim verification verdicts. | ✅ active |
-| [dsh-fund-research](resources/dsh-fund-research.md) | ⭐18 | Chinese public mutual fund research: public-source data collection and deterministic manager/portfolio metrics. | ✅ active |
-| [dsh-trading](resources/dsh-trading.md) | ⭐12 | Research-only trading workbench for DSH: typed market-data seam (BYO provider), multi-timeframe indicator snapshots, interactive chart cards with provenance-gated annotations, and a risk-guard denying execution-shaped tool calls. No execution seam by construction. | ✅ active |
 
 **Automation (4)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3931 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（3932 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [modlens](resources/modlens.md) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](resources/j-space-cognition-suite-1.md) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-## 完整列表（3931）
+## 完整列表（3932）
 
 
 **视觉与多模态（1408）**
@@ -4016,9 +4016,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-file-upload](resources/dsh-file-upload-3.md) | – | dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。 | ✅ 活跃 |
 | [dsh-personal-directive](resources/dsh-personal-directive.md) | – | 个人指令插件：系统提示词注入、工具与顶部运行时开关（框架版，中性占位可替换）。 | 🧪 实验性 |
 
-**娱乐与生活（23）**
+**娱乐与生活（24）**
 
-*其他（22）*
+*其他（23）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -4041,6 +4041,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-memes-reply](resources/dsh-memes-reply.md) | ⭐4 | DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定 | ✅ 活跃 |
 | [dsh-plugin-text-translation](resources/dsh-plugin-text-translation.md) | ⭐3 | DSH plugin: text & document localization with tag-protected extraction, batch slicing and lossless assembly (game scripts + long documents) | ✅ 活跃 |
 | [dsh-gaokao](resources/dsh-gaokao.md) | ⭐1 | 梦回高三：桌面小黑板高考倒计时（双击收成竖条），AI 干活时随机抽背知识点卡；Markdown 开放知识卡框架——按学科/分类放 md 即自动加载，支持关联跳转/收藏/重点学科/导入自己的知识库。 | ✅ 活跃 |
+| [dsh-ambient](resources/dsh-ambient.md) | – | 白噪音播放器：AI 编程时铺一层背景音（雨声、溪流、篝火、咖啡馆……），帮助进入心流状态、集中精力、高效思考，让你写代码又快又好。支持顺序/随机/单曲循环/间歇等多种播放模式。支持 AI 自动下载背景音乐。 | 🧪 实验性 |
 | [dsh-fireworks](resources/dsh-fireworks.md) | – | 烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组随机抽取，token 用量决定烟花的大小、高度与绚烂程度。 | 🧪 实验性 |
 | [dsh-matrix](resources/dsh-matrix.md) | – | 黑客帝国数字雨：对话窗口铺上经典的绿色字符雨背景——雨柱倾泻而下、白炽雨头绿身拖尾，agent 正在生成的 token 原文实时掺进雨里；透明度/速度/密度/字号/配色全部可调，雨势跟随 agent 活跃度起伏。 | 🧪 实验性 |
 | [dsh-vibegap](resources/dsh-vibegap.md) | – | 在 DSH Web 会话运行时自动出现的拼写单词卡；本地持久化进度，并可选与 VibeGap 桌面端共享游标。 | 🧪 实验性 |

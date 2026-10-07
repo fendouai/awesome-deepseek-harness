@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-#### Complete list (3931)
+#### Complete list (3932)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -3848,6 +3848,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [deepseek-harness-pocket](https://github.com/monster-echo/deepseek-harness-pocket)  — 把 DeepSeek Harness 装进口袋 · dsh 的手机伴侣端（掌鲸 DSH Pocket）：多 Worker · Gateway 中转 · 会话全功能对等 (✅ active)
 - [dsh-about](https://github.com/cdllang/dsh-about)  — About page plugin for DeepSeek Harness: version card + one-click server update, shaped like an official dsh client plugin (✅ active)
 - [dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)  — Alibaba Cloud OpenAPI MCP connection for DSH: static-credential mode through the official OpenAPI MCP proxy, exposing ECS / OSS / DNS / Function Compute APIs as mcp__aliyun__* tools. (✅ active)
+- [dsh-ambient](https://github.com/weibaohui/dsh-ambient)  — White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently, so you write code fast and well. Supports multiple playback modes (sequential / shuffle / single-loop / intermittent) and AI automatic background music download. (🧪 experimental)
 - [dsh-auto-approval](https://github.com/SipengXie2024/dsh-auto-approval)  — LLM-gated auto approval for DeepSeek Harness: a model judges every approval ask first, low-risk operations pass without prompting (fail-closed) (✅ active)
 - [dsh-auto-reviewer](https://github.com/AntaresCorn/dsh-auto-reviewer)  — 为 DeepSeek Harness 提供类似 Codex Auto Reviewer / "approve for me" 的权限模式。A permission mode for DeepSeek Harness similar to Codex Auto Reviewer / "approve for me" (✅ active)
 - [dsh-autocount-cloud](https://github.com/teckyuen/dsh-autocount-cloud)  — DeepSeek Harness tools for AutoCount Cloud connector commands. (✅ active)
@@ -6802,7 +6803,7 @@ awesome-deepseek-harness/
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-#### Complete list (3931)
+#### Complete list (3932)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -10480,6 +10481,7 @@ awesome-deepseek-harness/
 - [deepseek-harness-pocket](https://github.com/monster-echo/deepseek-harness-pocket)  — 把 DeepSeek Harness 装进口袋 · dsh 的手机伴侣端（掌鲸 DSH Pocket）：多 Worker · Gateway 中转 · 会话全功能对等 (✅ active)
 - [dsh-about](https://github.com/cdllang/dsh-about)  — About page plugin for DeepSeek Harness: version card + one-click server update, shaped like an official dsh client plugin (✅ active)
 - [dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)  — Alibaba Cloud OpenAPI MCP connection for DSH: static-credential mode through the official OpenAPI MCP proxy, exposing ECS / OSS / DNS / Function Compute APIs as mcp__aliyun__* tools. (✅ active)
+- [dsh-ambient](https://github.com/weibaohui/dsh-ambient)  — White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently, so you write code fast and well. Supports multiple playback modes (sequential / shuffle / single-loop / intermittent) and AI automatic background music download. (🧪 experimental)
 - [dsh-auto-approval](https://github.com/SipengXie2024/dsh-auto-approval)  — LLM-gated auto approval for DeepSeek Harness: a model judges every approval ask first, low-risk operations pass without prompting (fail-closed) (✅ active)
 - [dsh-auto-reviewer](https://github.com/AntaresCorn/dsh-auto-reviewer)  — 为 DeepSeek Harness 提供类似 Codex Auto Reviewer / "approve for me" 的权限模式。A permission mode for DeepSeek Harness similar to Codex Auto Reviewer / "approve for me" (✅ active)
 - [dsh-autocount-cloud](https://github.com/teckyuen/dsh-autocount-cloud)  — DeepSeek Harness tools for AutoCount Cloud connector commands. (✅ active)

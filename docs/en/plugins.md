@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 3931 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 3932 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [modlens](resources/modlens.md) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 | 10 | [J-Space-Cognition-Suite](resources/j-space-cognition-suite-1.md) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ active |
 
-## Complete list (3931)
+## Complete list (3932)
 
 
 **Vision & multimodal (1408)**
@@ -4016,9 +4016,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-file-upload](resources/dsh-file-upload-3.md) | – | dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。 | ✅ active |
 | [dsh-personal-directive](resources/dsh-personal-directive.md) | – | Personal directives with system-prompt injection, tools and a top-bar runtime toggle (framework version with replaceable neutral placeholders). | 🧪 experimental |
 
-**Fun & lifestyle (23)**
+**Fun & lifestyle (24)**
 
-*Other (22)*
+*Other (23)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -4041,6 +4041,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-memes-reply](resources/dsh-memes-reply.md) | ⭐4 | DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定 | ✅ active |
 | [dsh-plugin-text-translation](resources/dsh-plugin-text-translation.md) | ⭐3 | DSH plugin: text & document localization with tag-protected extraction, batch slicing and lossless assembly (game scripts + long documents) | ✅ active |
 | [dsh-gaokao](resources/dsh-gaokao.md) | ⭐1 | Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework — drop .md files under subject/category folders to auto-load, with cross-links, favorites, priority subjects and importing your own knowledge base. | ✅ active |
+| [dsh-ambient](resources/dsh-ambient.md) | – | White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently, so you write code fast and well. Supports multiple playback modes (sequential / shuffle / single-loop / intermittent) and AI automatic background music download. | 🧪 experimental |
 | [dsh-fireworks](resources/dsh-fireworks.md) | – | Fireworks celebration engine: floats fireworks above the chat window while the agent codes; welcome, per-turn, tool-spark, milestone, finish and failure events each draw from their own fireworks card group with random variants, and token usage decides firework size, height and splendour. | 🧪 experimental |
 | [dsh-matrix](resources/dsh-matrix.md) | – | Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity. | 🧪 experimental |
 | [dsh-vibegap](resources/dsh-vibegap.md) | – | Vocabulary spelling cards in DSH Web that appear during running sessions, persist progress locally, and optionally share the VibeGap desktop cursor. | 🧪 experimental |

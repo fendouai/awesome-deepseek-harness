@@ -171,7 +171,7 @@ dsh web
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-#### 完整列表（3931）
+#### 完整列表（3932）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -3849,6 +3849,7 @@ dsh web
 - [deepseek-harness-pocket](https://github.com/monster-echo/deepseek-harness-pocket)  — 把 DeepSeek Harness 装进口袋 · dsh 的手机伴侣端（掌鲸 DSH Pocket）：多 Worker · Gateway 中转 · 会话全功能对等（✅ 活跃）
 - [dsh-about](https://github.com/cdllang/dsh-about)  — About page plugin for DeepSeek Harness: version card + one-click server update, shaped like an official dsh client plugin（✅ 活跃）
 - [dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)  — DeepSeek Harness 的阿里云 OpenAPI MCP 连接：静态凭证 + 官方 MCP Proxy，把 ECS / OSS / 域名 / DNS / 函数计算等 OpenAPI 暴露为 mcp__aliyun__* 工具。（✅ 活跃）
+- [dsh-ambient](https://github.com/weibaohui/dsh-ambient)  — 白噪音播放器：AI 编程时铺一层背景音（雨声、溪流、篝火、咖啡馆……），帮助进入心流状态、集中精力、高效思考，让你写代码又快又好。支持顺序/随机/单曲循环/间歇等多种播放模式。支持 AI 自动下载背景音乐。（🧪 实验性）
 - [dsh-auto-approval](https://github.com/SipengXie2024/dsh-auto-approval)  — LLM-gated auto approval for DeepSeek Harness: a model judges every approval ask first, low-risk operations pass without prompting (fail-closed)（✅ 活跃）
 - [dsh-auto-reviewer](https://github.com/AntaresCorn/dsh-auto-reviewer)  — 为 DeepSeek Harness 提供类似 Codex Auto Reviewer / "approve for me" 的权限模式。A permission mode for DeepSeek Harness similar to Codex Auto Reviewer / "approve for me"（✅ 活跃）
 - [dsh-autocount-cloud](https://github.com/teckyuen/dsh-autocount-cloud)  — DeepSeek Harness tools for AutoCount Cloud connector commands.（✅ 活跃）
@@ -6803,7 +6804,7 @@ awesome-deepseek-harness/
 | 9 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 | 10 | [J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) | ⭐3,010 | J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | ✅ 活跃 |
 
-#### 完整列表（3931）
+#### 完整列表（3932）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -10481,6 +10482,7 @@ awesome-deepseek-harness/
 - [deepseek-harness-pocket](https://github.com/monster-echo/deepseek-harness-pocket)  — 把 DeepSeek Harness 装进口袋 · dsh 的手机伴侣端（掌鲸 DSH Pocket）：多 Worker · Gateway 中转 · 会话全功能对等（✅ 活跃）
 - [dsh-about](https://github.com/cdllang/dsh-about)  — About page plugin for DeepSeek Harness: version card + one-click server update, shaped like an official dsh client plugin（✅ 活跃）
 - [dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)  — DeepSeek Harness 的阿里云 OpenAPI MCP 连接：静态凭证 + 官方 MCP Proxy，把 ECS / OSS / 域名 / DNS / 函数计算等 OpenAPI 暴露为 mcp__aliyun__* 工具。（✅ 活跃）
+- [dsh-ambient](https://github.com/weibaohui/dsh-ambient)  — 白噪音播放器：AI 编程时铺一层背景音（雨声、溪流、篝火、咖啡馆……），帮助进入心流状态、集中精力、高效思考，让你写代码又快又好。支持顺序/随机/单曲循环/间歇等多种播放模式。支持 AI 自动下载背景音乐。（🧪 实验性）
 - [dsh-auto-approval](https://github.com/SipengXie2024/dsh-auto-approval)  — LLM-gated auto approval for DeepSeek Harness: a model judges every approval ask first, low-risk operations pass without prompting (fail-closed)（✅ 活跃）
 - [dsh-auto-reviewer](https://github.com/AntaresCorn/dsh-auto-reviewer)  — 为 DeepSeek Harness 提供类似 Codex Auto Reviewer / "approve for me" 的权限模式。A permission mode for DeepSeek Harness similar to Codex Auto Reviewer / "approve for me"（✅ 活跃）
 - [dsh-autocount-cloud](https://github.com/teckyuen/dsh-autocount-cloud)  — DeepSeek Harness tools for AutoCount Cloud connector commands.（✅ 活跃）

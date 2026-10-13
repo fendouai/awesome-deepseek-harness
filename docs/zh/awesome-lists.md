@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（264 条）。"
+description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（263 条）。"
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ 活跃 |
 | 10 | [awesome-deepseek-coder](resources/awesome-deepseek-coder.md) | ⭐811 | 官方：DeepSeek 编码资源 | ✅ 活跃 |
 
-## 完整列表（264）
+## 完整列表（263）
 
 
-**注册表（264）**
+**注册表（263）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -91,7 +91,6 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [awesome-deepseek-harness-top-500](resources/awesome-deepseek-harness-top-500.md) | ⭐20 | deepseek-harness plugins 、resource 、use ; dsh top 500 | ✅ 活跃 |
 | [awesome-security-agent-harnesses](resources/awesome-security-agent-harnesses.md) | ⭐20 | AI agents for pentesting, code audit, fuzzing, vulnerability discovery, and reverse engineering — harnesses, sandboxes, security MCP servers, benchmarks, and evals. | ✅ 活跃 |
 | [dsh-plugin-marketplace](resources/dsh-plugin-marketplace-yelebai-1.md) | ⭐20 | Verified plugin marketplace and autonomous registry for DeepSeek Harness | ✅ 活跃 |
-| [dsh-archived-chats](resources/dsh-archived-chats.md) | ⭐18 | DeepSeek Harness 的归档管理：浏览和搜索已归档会话，预览与恢复，按工作区批量归档，导入导出 ZIP 备份并管理回收站。所有数据留在本机。 | ✅ 活跃 |
 | [dsh-plugin-hub](resources/dsh-plugin-hub-list.md) | ⭐17 | DeepSeek Harness community plugin registry with evidence-based screening | ✅ 活跃 |
 | [stock-analysis-plugin](resources/stock-analysis-plugin.md) | ⭐17 | Multi-market stock analysis, screening & backtesting plugin for AI agents — 39 tools + 20 strategy skills across A/HK/US/JP/KR/TW markets, works with Pi Agent, Hermes, OpenClaw & dsh | ✅ 活跃 |
 | [awesome-omni-dsh-plugins](resources/awesome-omni-dsh-plugins.md) | ⭐16 | Unofficial community catalog for DeepSeek Harness plugins. | ✅ 活跃 |

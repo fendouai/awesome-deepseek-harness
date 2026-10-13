@@ -1,28 +1,28 @@
 ---
-title: "dsh-archived-chats"
-description: "Archive Management / 归档管理 for DeepSeek Harness: browse and search archived chats, preview and restore them, bulk archive by workspace, export/import ZIP backups, and manage a Recycle Bin. All data stays local."
-keywords: "dsh-archived-chats, registry, awesome-list, coding, search, deepseek harness, dsh"
+title: "Archive Management / 归档管理"
+description: "Manage archived and unarchived chats with search, previews, tags and notes, workspace archiving, ZIP backups, selected actions, a Recycle Bin, storage and retention, origins and branches, and automatic residual chat checks."
+keywords: "Archive Management / 归档管理, ui, plugin, search, files, deepseek harness, dsh"
 ---
-# dsh-archived-chats
+# Archive Management / 归档管理
 
-> ⭐ **18** · ✅ active · awesome-list
+> ⭐ **18** · ✅ active · plugin
 
 | | | | |
 |---|---|---|---|
-| Type | awesome-list | Category | Registries |
+| Type | plugin | Category | UI & experience |
 | Stars | ⭐ 18 | Status | ✅ active |
 | Author | [Ultronen](https://github.com/Ultronen) | Updated | — |
 
 ## One-liner
 
-> Archive Management / 归档管理 for DeepSeek Harness: browse and search archived chats, preview and restore them, bulk archive by workspace, export/import ZIP backups, and manage a Recycle Bin. All data stays local.
+> Manage archived and unarchived chats with search, previews, tags and notes, workspace archiving, ZIP backups, selected actions, a Recycle Bin, storage and retention, origins and branches, and automatic residual chat checks.
 
 ## About
 
-Archive Management / 归档管理 for DeepSeek Harness: browse and search archived chats, preview and restore them, bulk archive by workspace, export/import ZIP backups, and manage a Recycle Bin. All data stays local.
+Manage archived and unarchived chats with search, previews, tags and notes, workspace archiving, ZIP backups, selected actions, a Recycle Bin, storage and retention, origins and branches, and automatic residual chat checks.
 
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/Ultronen/dsh-archived-chats)
 - [Full README](https://github.com/Ultronen/dsh-archived-chats#readme)
-- [Back to the Awesome Lists & Registries list](../awesome-lists.md)
+- [Back to the Plugins list](../plugins.md)

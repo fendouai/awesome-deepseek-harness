@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（4138 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（4139 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-anchored-standard](resources/dsh-anchored-standard.md) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 | 10 | [modlens](resources/modlens.md) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 
-## 完整列表（4138）
+## 完整列表（4139）
 
 
 **视觉与多模态（1485）**
@@ -2484,9 +2484,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ 活跃 |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。 | ✅ 活跃 |
 
-**开发者工具（630）**
+**开发者工具（631）**
 
-*其他（412）*
+*其他（413）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -2871,6 +2871,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-toc-and-rewind](resources/dsh-toc-and-rewind.md) | ⭐1 | 添加一个迷你目录在对话旁，适合长程对话导航，还可以直接rewind到选定对话，支持恢复代码变更和总结，暂不稳定 | ✅ 活跃 |
 | [dsh-tps](resources/dsh-tps.md) | ⭐1 | 只是一个 tps 插件 | ✅ 活跃 |
 | [dsh-user-message-navigation](resources/dsh-user-message-navigation.md) | ⭐1 | DSH User Message Minimap（用户消息导航轨）— 长对话中的用户指令快速导航插件 | ✅ 活跃 |
+| [dsh-version-guard](resources/dsh-version-guard.md) | ⭐1 | 记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。 | 🧪 实验性 |
 | [dsh-voice](resources/dsh-voice-6.md) | ⭐1 | dsh-voice | ✅ 活跃 |
 | [dsh-webdav-server](resources/dsh-webdav-server.md) | ⭐1 | WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。 | ✅ 活跃 |
 | [dsh-when](resources/dsh-when.md) | ⭐1 | DSH plugin: parse natural-language relative times into ISO timestamps (fail-fast) | ✅ 活跃 |

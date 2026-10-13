@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 | 10 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 
-#### Complete list (4138)
+#### Complete list (4139)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -4001,6 +4001,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-user-message-navigation](https://github.com/walnut-a/dsh-user-message-navigation) ⭐1 — DSH User Message Minimap（用户消息导航轨）— 长对话中的用户指令快速导航插件 (✅ active)
 - [dsh-vap](https://github.com/Wang-Lin-Chang/dsh-vap) ⭐1 — VAP - Verifiable Agent Protocol: a tested trust machine for agent-to-agent messages (zero third-party dependencies, 217 tests, full experiment ledger) (✅ active)
 - [dsh-vector-memory](https://github.com/Bryan-cmf/dsh-vector-memory) ⭐1 — DSH-Plugin: durable agent memory core - mem_save/mem_search/mem_health backed by storageDomain (survives restarts), 記憶 view tab. (✅ active)
+- [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) ⭐1 — Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start. (🧪 experimental)
 - [dsh-video-creator](https://github.com/uckkk/dsh-video-creator) ⭐1 — @{name=dsh-video-creator; version=0.1.4; description=视频号创作助手：内置主流短视频创作模板，调用中国境内大模型一键生成内容包，适配抖音/视频号/B站/快手/小红书/微博/西瓜视频快速发布; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=; dependencies=}.description (✅ active)
 - [dsh-vision](https://github.com/zoahdev/dsh-vision) ⭐1 — Give DeepSeek Harness eyes: analyze images with an OpenAI-compatible vision model via a vision_analyze tool. (✅ active)
 - [dsh-vision](https://github.com/xzyonline/dsh-vision) ⭐1 — Vision for text-only DeepSeek: view_image tool via any OpenAI-compatible VLM endpoint. macOS/Windows/Linux, one-click install. (✅ active)
@@ -7162,7 +7163,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 | 10 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 
-#### Complete list (4138)
+#### Complete list (4139)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -10993,6 +10994,7 @@ awesome-deepseek-harness/
 - [dsh-user-message-navigation](https://github.com/walnut-a/dsh-user-message-navigation) ⭐1 — DSH User Message Minimap（用户消息导航轨）— 长对话中的用户指令快速导航插件 (✅ active)
 - [dsh-vap](https://github.com/Wang-Lin-Chang/dsh-vap) ⭐1 — VAP - Verifiable Agent Protocol: a tested trust machine for agent-to-agent messages (zero third-party dependencies, 217 tests, full experiment ledger) (✅ active)
 - [dsh-vector-memory](https://github.com/Bryan-cmf/dsh-vector-memory) ⭐1 — DSH-Plugin: durable agent memory core - mem_save/mem_search/mem_health backed by storageDomain (survives restarts), 記憶 view tab. (✅ active)
+- [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) ⭐1 — Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start. (🧪 experimental)
 - [dsh-video-creator](https://github.com/uckkk/dsh-video-creator) ⭐1 — @{name=dsh-video-creator; version=0.1.4; description=视频号创作助手：内置主流短视频创作模板，调用中国境内大模型一键生成内容包，适配抖音/视频号/B站/快手/小红书/微博/西瓜视频快速发布; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=; dependencies=}.description (✅ active)
 - [dsh-vision](https://github.com/zoahdev/dsh-vision) ⭐1 — Give DeepSeek Harness eyes: analyze images with an OpenAI-compatible vision model via a vision_analyze tool. (✅ active)
 - [dsh-vision](https://github.com/xzyonline/dsh-vision) ⭐1 — Vision for text-only DeepSeek: view_image tool via any OpenAI-compatible VLM endpoint. macOS/Windows/Linux, one-click install. (✅ active)

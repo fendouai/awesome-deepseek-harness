@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 4138 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 4139 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-anchored-standard](resources/dsh-anchored-standard.md) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 | 10 | [modlens](resources/modlens.md) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 
-## Complete list (4138)
+## Complete list (4139)
 
 
 **Vision & multimodal (1485)**
@@ -2484,9 +2484,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ active |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**Developer tools (630)**
+**Developer tools (631)**
 
-*Other (412)*
+*Other (413)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -2871,6 +2871,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-toc-and-rewind](resources/dsh-toc-and-rewind.md) | ⭐1 | 添加一个迷你目录在对话旁，适合长程对话导航，还可以直接rewind到选定对话，支持恢复代码变更和总结，暂不稳定 | ✅ active |
 | [dsh-tps](resources/dsh-tps.md) | ⭐1 | 只是一个 tps 插件 | ✅ active |
 | [dsh-user-message-navigation](resources/dsh-user-message-navigation.md) | ⭐1 | DSH User Message Minimap（用户消息导航轨）— 长对话中的用户指令快速导航插件 | ✅ active |
+| [dsh-version-guard](resources/dsh-version-guard.md) | ⭐1 | Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start. | 🧪 experimental |
 | [dsh-voice](resources/dsh-voice-6.md) | ⭐1 | dsh-voice | ✅ active |
 | [dsh-webdav-server](resources/dsh-webdav-server.md) | ⭐1 | WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page. | ✅ active |
 | [dsh-when](resources/dsh-when.md) | ⭐1 | DSH plugin: parse natural-language relative times into ISO timestamps (fail-fast) | ✅ active |

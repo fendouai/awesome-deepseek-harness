@@ -86054,5 +86054,23 @@
     "verified": false,
     "stars": 32,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-version-guard",
+    "name": "dsh-version-guard",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/skyjjgw/dsh-version-guard",
+    "description": "Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.",
+    "description_zh": "记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。",
+    "capabilities": [
+      "files",
+      "observability"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 1,
+    "install": "dsh plugin --profile web add github:skyjjgw/dsh-version-guard",
+    "license": "MIT"
   }
 ]

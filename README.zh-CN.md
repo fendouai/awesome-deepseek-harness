@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 | 10 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 
-#### 完整列表（4138）
+#### 完整列表（4139）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -4002,6 +4002,7 @@ dsh web
 - [dsh-user-message-navigation](https://github.com/walnut-a/dsh-user-message-navigation) ⭐1 — DSH User Message Minimap（用户消息导航轨）— 长对话中的用户指令快速导航插件（✅ 活跃）
 - [dsh-vap](https://github.com/Wang-Lin-Chang/dsh-vap) ⭐1 — VAP - Verifiable Agent Protocol: a tested trust machine for agent-to-agent messages (zero third-party dependencies, 217 tests, full experiment ledger)（✅ 活跃）
 - [dsh-vector-memory](https://github.com/Bryan-cmf/dsh-vector-memory) ⭐1 — DSH-Plugin: durable agent memory core - mem_save/mem_search/mem_health backed by storageDomain (survives restarts), 記憶 view tab.（✅ 活跃）
+- [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) ⭐1 — 记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。（🧪 实验性）
 - [dsh-video-creator](https://github.com/uckkk/dsh-video-creator) ⭐1 — @{name=dsh-video-creator; version=0.1.4; description=视频号创作助手：内置主流短视频创作模板，调用中国境内大模型一键生成内容包，适配抖音/视频号/B站/快手/小红书/微博/西瓜视频快速发布; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=; dependencies=}.description（✅ 活跃）
 - [dsh-vision](https://github.com/zoahdev/dsh-vision) ⭐1 — Give DeepSeek Harness eyes: analyze images with an OpenAI-compatible vision model via a vision_analyze tool.（✅ 活跃）
 - [dsh-vision](https://github.com/xzyonline/dsh-vision) ⭐1 — Vision for text-only DeepSeek: view_image tool via any OpenAI-compatible VLM endpoint. macOS/Windows/Linux, one-click install.（✅ 活跃）
@@ -7163,7 +7164,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 | 10 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 
-#### 完整列表（4138）
+#### 完整列表（4139）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -10994,6 +10995,7 @@ awesome-deepseek-harness/
 - [dsh-user-message-navigation](https://github.com/walnut-a/dsh-user-message-navigation) ⭐1 — DSH User Message Minimap（用户消息导航轨）— 长对话中的用户指令快速导航插件（✅ 活跃）
 - [dsh-vap](https://github.com/Wang-Lin-Chang/dsh-vap) ⭐1 — VAP - Verifiable Agent Protocol: a tested trust machine for agent-to-agent messages (zero third-party dependencies, 217 tests, full experiment ledger)（✅ 活跃）
 - [dsh-vector-memory](https://github.com/Bryan-cmf/dsh-vector-memory) ⭐1 — DSH-Plugin: durable agent memory core - mem_save/mem_search/mem_health backed by storageDomain (survives restarts), 記憶 view tab.（✅ 活跃）
+- [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) ⭐1 — 记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。（🧪 实验性）
 - [dsh-video-creator](https://github.com/uckkk/dsh-video-creator) ⭐1 — @{name=dsh-video-creator; version=0.1.4; description=视频号创作助手：内置主流短视频创作模板，调用中国境内大模型一键生成内容包，适配抖音/视频号/B站/快手/小红书/微博/西瓜视频快速发布; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=; dependencies=}.description（✅ 活跃）
 - [dsh-vision](https://github.com/zoahdev/dsh-vision) ⭐1 — Give DeepSeek Harness eyes: analyze images with an OpenAI-compatible vision model via a vision_analyze tool.（✅ 活跃）
 - [dsh-vision](https://github.com/xzyonline/dsh-vision) ⭐1 — Vision for text-only DeepSeek: view_image tool via any OpenAI-compatible VLM endpoint. macOS/Windows/Linux, one-click install.（✅ 活跃）

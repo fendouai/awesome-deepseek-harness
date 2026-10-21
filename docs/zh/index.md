@@ -89,7 +89,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek AI 开源的智能体 Harness，围绕�
 | 17 | [WeKnora](resources/weknora.md) | ⭐22,553 | 开源 LLM 知识平台：把文档转化为可查询 RAG、自主推理 Agent 与自维护 wiki。 | ✅ 活跃 |
 | 18 | [voyager](resources/voyager-1.md) | ⭐20,250 | Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 | ✅ 活跃 |
 | 19 | [voyager](resources/voyager.md) | ⭐19,755 | Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 | ✅ 活跃 |
-| 20 | [learn-harness-engineering](resources/learn-harness-engineering.md) | ⭐14,556 | Harness 工程入门教程，从 0 到 1。 | ✅ 活跃 |
+| 20 | [claudian](resources/claudian.md) | ⭐15,753 | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault | ✅ 活跃 |
 
 ---
 

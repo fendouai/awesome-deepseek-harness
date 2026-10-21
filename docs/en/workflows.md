@@ -1,6 +1,6 @@
 ---
 title: "Workflows & Automation"
-description: "Top 10 and full list of 396 curated workflows & automation for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 410 curated workflows & automation for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 ---
 # Workflows & Automation
@@ -24,22 +24,23 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | 3 | [MatrixMedia](resources/matrixmedia.md) | ⭐949 | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli | ✅ active |
 | 4 | [tongflow](resources/tongflow.md) | ⭐902 | TongFlow — multimodal workflow studio and engine (canvas + Python plugin engine) and dsh-tongflow, the DeepSeek Harness studio plugin | ✅ active |
 | 5 | [Wegent](resources/wegent.md) | ⭐848 | Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation. | ✅ active |
-| 6 | [dsh-agent-team-gui](resources/dsh-agent-team-gui.md) | ⭐159 | Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights. | ✅ active |
-| 7 | [odai](resources/odai.md) | ⭐111 | AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified delivery. | ✅ active |
-| 8 | [dsh-xdpool](resources/dsh-xdpool.md) | ⭐110 | 把你能白嫖的模型额度接进 DSH 同一个池：WorkBuddy 多账号自动容错、十三家扫码登录、76 家免费额度聚合、用量看板、模型路由、本地 OpenAI 网关、积分自动化。 | ✅ active |
-| 9 | [dsh_workflow](resources/dsh-workflow-dup.md) | ⭐92 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可生成、可保存、可治理、可观察、可恢复的 Workflow 层 | ✅ active |
-| 10 | [dsh_workflow](resources/dsh-workflow.md) | ⭐92 | Brings Claude Code's UltraCode mode to DSH: upgrade one-shot multi-agent dispatch into a generatable, saveable, governable, observable, recoverable workflow layer. | ✅ active |
+| 6 | [obelisk](resources/obelisk.md) | ⭐688 | Every past session, subagent, and workflow -- queryable by your agent, browsable by you | ✅ active |
+| 7 | [dsh-agent-team-gui](resources/dsh-agent-team-gui.md) | ⭐159 | Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights. | ✅ active |
+| 8 | [odai](resources/odai.md) | ⭐111 | AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified delivery. | ✅ active |
+| 9 | [dsh-xdpool](resources/dsh-xdpool.md) | ⭐110 | 把你能白嫖的模型额度接进 DSH 同一个池：WorkBuddy 多账号自动容错、十三家扫码登录、76 家免费额度聚合、用量看板、模型路由、本地 OpenAI 网关、积分自动化。 | ✅ active |
+| 10 | [dsh_workflow](resources/dsh-workflow-dup.md) | ⭐92 | 把Claude Code的UltraCode模式带给DSH，把 DSH 的一次性多 Agent 调度，升级为可生成、可保存、可治理、可观察、可恢复的 Workflow 层 | ✅ active |
 
-## Complete list (396)
+## Complete list (410)
 
 
-**Workflows (317)**
+**Workflows (329)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [loopx](resources/loopx-1.md) | ⭐6,102 | A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention. | ✅ active |
 | [MatrixMedia](resources/matrixmedia.md) | ⭐949 | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli | ✅ active |
 | [tongflow](resources/tongflow.md) | ⭐902 | TongFlow — multimodal workflow studio and engine (canvas + Python plugin engine) and dsh-tongflow, the DeepSeek Harness studio plugin | ✅ active |
+| [obelisk](resources/obelisk.md) | ⭐688 | Every past session, subagent, and workflow -- queryable by your agent, browsable by you | ✅ active |
 | [dsh-agent-team-gui](resources/dsh-agent-team-gui.md) | ⭐159 | Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights. | ✅ active |
 | [odai](resources/odai.md) | ⭐111 | AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified delivery. | ✅ active |
 | [dsh-xdpool](resources/dsh-xdpool.md) | ⭐110 | 把你能白嫖的模型额度接进 DSH 同一个池：WorkBuddy 多账号自动容错、十三家扫码登录、76 家免费额度聚合、用量看板、模型路由、本地 OpenAI 网关、积分自动化。 | ✅ active |
@@ -170,6 +171,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [daily-sanxing](resources/daily-sanxing.md) | ⭐2 | 一日三省 — 个人日常三件套（日结/日启/反思）：Claude Code 命令 + DSH skill | A battle-tested personal daily workflow trio: Close, Start, Reflect. | ✅ active |
 | [ds-balance-card](resources/ds-balance-card.md) | ⭐2 | DeepSeek Harness 常驻额度卡片插件:自动识别已配置的平台 API Key,显示余额与 Coding Plan 额度 | ✅ active |
 | [dsh-agent-model-router](resources/dsh-agent-model-router.md) | ⭐2 | DeepSeek Harness role-based model routing and staged agent workflows, with dsh-our-free-model. | ✅ active |
+| [dsh-ark-coding-provider](resources/dsh-ark-coding-provider.md) | ⭐2 | 火山方舟 Coding Plan (Volcengine Ark) 的 DeepSeek Harness 提供商插件：多账户、内置 arkcli、官方套餐额度、12 模型实测容量 | ✅ active |
 | [dsh-codex-approval](resources/dsh-codex-approval.md) | ⭐2 | dsh-codex-approval插件：仿照Codex的AI自动审批，规则+AI三级风险评估自动放行/拒绝，让dsh沙箱审批自动化 | ✅ active |
 | [dsh-coding-remote-kit](resources/dsh-coding-remote-kit.md) | ⭐2 | DeepSeek Harness mobile pairing remote: E2EE companion over dual-plane allowlisted RPC | ✅ active |
 | [dsh-comfyui-image](resources/dsh-comfyui-image-1.md) | ⭐2 | DeepSeek Harness plugin that drives a local ComfyUI image workflow (Z-Image-Turbo, Qwen-Image-2.1) from the agent | ✅ active |
@@ -230,6 +232,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [VibeWand](resources/vibewand.md) | ⭐2 | Native macOS controller for AI workflows,includes Codex, deepseek harness | ✅ active |
 | [agent-engineering-workflow](resources/agent-engineering-workflow.md) | ⭐1 | 面向 AI Coding Agent 的工程化工作流 Skills：状态机、风险分级、Code Graph 影响分析与安全增量修改 | ✅ active |
 | [agent-loop-workflow](resources/agent-loop-workflow.md) | ⭐1 | A project-agnostic multi-agent collaboration protocol for the DeepSeek Harness: loop guards that stop runaway agent loops, a six-field handoff format, risk-tiered review routing, and a fixed verify→commit→push→review→close sequence. One skill instead of the same rules copy-pasted into every agent's instructions. | ✅ active |
+| [AmberFlow](resources/amberflow.md) | ⭐1 | 冻结计划的自动化中间件（TypeScript / Node ≥ 22.6）：LLM 只规划一次，执行由本地规则与决策模型逐步完成，演示一次后既可端侧执行。 | ✅ active |
 | [clean-dev](resources/clean-dev.md) | ⭐1 | Lean agent skill for AI assisted development, plan-first development, approved phases, clean code, AGENTS.md, architecture notes, and decision records | ✅ active |
 | [commandcode-usage](resources/commandcode-usage.md) | ⭐1 | Command Code plan usage for seven coding agents: one core, seven adapters. Runs locally, so checking your quota costs no quota. | ✅ active |
 | [DeepJIT](resources/deepjit.md) | ⭐1 | JIT compiler plugin for deepseek-harness: compiles recurring agent workflows into hot skills and flow templates | ✅ active |
@@ -259,6 +262,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-flotilla](resources/dsh-flotilla.md) | ⭐1 | Multi-repo workflow isolation skill for DeepSeek Harness - one isolated entry agent per repo, one controller for cross-project dispatch, model routing & hash-chained ledger | ✅ active |
 | [dsh-git-nexus](resources/dsh-git-nexus.md) | ⭐1 | Unified Git + GitHub + workflow + files panel for the DeepSeek Harness (DSH) web profile. Community plugin tagged dsh-plugin. | ✅ active |
 | [dsh-github](resources/dsh-github-4.md) | ⭐1 | GitHub authentication and local Git workflow plugin for the dsh web GUI: accounts, repository browsing, clone, pull, push, status, commit, and a settings panel. | ✅ active |
+| [dsh-github-ops](resources/dsh-github-ops.md) | ⭐1 | GitHub operations for DeepSeek Harness: releases, tags, a guarded API pass-through, sanitized mirror publication, workflow runs and repository settings. | ✅ active |
 | [dsh-github-workflow](resources/dsh-github-workflow.md) | ⭐1 | GitHub deep-workflow tools for DeepSeek Harness (DSH) agents: issue triage with 4-layer context, template-aware draft PRs, graded PR review, CI diagnosis and GraphQL merge — behind a fail-closed mutation guard (read-only / approval / token scopes). | ✅ active |
 | [dsh-governance](resources/dsh-governance.md) | ⭐1 | Authority layer for agentic AI as a DSH plugin: governs every tool call against your policies. | ✅ active |
 | [dsh-gpt56-sol-kit](resources/dsh-gpt56-sol-kit.md) | ⭐1 | Unofficial GPT-5.6-Sol workflow, recovery, verification, and budget plugin for DeepSeek Harness. | ✅ active |
@@ -280,14 +284,17 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-plan-checkup](resources/dsh-plan-checkup.md) | ⭐1 | Plan Checkup for DeepSeek Harness: checks each step of a plan before you approve it and marks the results on the plan review card. | ✅ active |
 | [dsh-plan-mode-plus](resources/dsh-plan-mode-plus.md) | ⭐1 | ZCode-style plan mode for DeepSeek Harness: model-initiated enter_plan_mode, hard read-only enforcement, four-phase planning workflow | ✅ active |
 | [dsh-plan-plus](resources/dsh-plan-plus.md) | ⭐1 | DeepSeek Harness 计划评审增强插件：评审弹窗内直接提意见修改计划，随时回看、对比、编辑每一版计划 | ✅ active |
+| [dsh-plan-spend](resources/dsh-plan-spend.md) | ⭐1 | Plan Spend：DSH Web GUI 弹窗插件，展示已配置服务商的套餐花销（DeepSeek 官方余额 / OpenCode Go 5h·7d·月配额） | ✅ active |
 | [dsh-plannotator](resources/dsh-plannotator-1.md) | ⭐1 | Review DeepSeek Harness plans in Plannotator — annotate, approve, or send them back. | ✅ active |
 | [dsh-plantuml](resources/dsh-plantuml.md) | ⭐1 | DSH web plugin: render PlantUML fenced blocks in conversation messages as SVG | ✅ active |
 | [dsh-plugin](resources/dsh-plugin-19.md) | ⭐1 | The dsh-* plugin suite for the DeepSeek Harness - one monorepo, 76 npm names: dsh-workflow, dsh-selfrepair, and the reserved-name catalog. | ✅ active |
 | [dsh-plugin-aflare](resources/dsh-plugin-aflare.md) | ⭐1 | aflare workflow tools for DeepSeek Harness (DSH): generate, validate, run local-first deterministic workflows | ✅ active |
+| [dsh-plugin-cdp](resources/dsh-plugin-cdp.md) | ⭐1 | 基于浏览器扩展的自动化通道驱动不了部分网站： | ✅ active |
 | [dsh-plugin-education](resources/dsh-plugin-education.md) | ⭐1 | Education toolkit for DeepSeek Harness agents: lesson-plan skeletons by grade band, quiz scaffolding and answer-key validation, analytic rubrics, Anki/markdown flashcards, and readability levels | ✅ active |
 | [dsh-plugin-git-commit-push](resources/dsh-plugin-git-commit-push.md) | ⭐1 | One-call Conventional-Commits git workflow for DSH: survey + commit + optional tag + push, plus a /commit-push slash command that runs with no model involvement. Windows and macOS/Linux. | ✅ active |
 | [dsh-plugin-local-life](resources/dsh-plugin-local-life.md) | ⭐1 | Local-life toolkit for DeepSeek Harness agents: budget planning, bill splitting, unit-price and discount math, common unit conversions (incl. jin/li/chi, C/F), and trip/outing checklists | ✅ active |
 | [dsh-plugin-minimax-usage](resources/dsh-plugin-minimax-usage.md) | ⭐1 | DeepSeek Harness plugin: MiniMax Coding Plan quota monitor with progress bars in sidebar | ✅ active |
+| [dsh-plugin-omni-plan](resources/dsh-plugin-omni-plan.md) | ⭐1 | 专门用于DSH的人类注意力聚合插件 | 此插件完全由ai开发(人类仅提供想法,未写代码) | ✅ active |
 | [dsh-plugins](resources/dsh-plugins-18.md) | ⭐1 | Secure DeepSeek Harness plugin monorepo: Qwen Token Plan Responses provider and ServerChan notifications | ✅ active |
 | [dsh-plugins-plan-usage](resources/dsh-plugins-plan-usage.md) | ⭐1 | deepseek harness plugins plan-usage | ✅ active |
 | [dsh-plus-plus](resources/dsh-plus-plus-1.md) | ⭐1 | DSH++ — a local-first control plane for DeepSeek Harness. Plugin security auditing and workflow regression testing. | ✅ active |
@@ -302,9 +309,11 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-safe-workflow](resources/dsh-safe-workflow.md) | ⭐1 | Safety-first workflow plugin for DeepSeek Harness with task contracts, approval gates, checkpoints, verification evidence, and best-effort rollback. 为 DeepSeek Harness 提供任务契约、审批门禁、检查点和验证能力，让 Agent 工作流更安全。 | ✅ active |
 | [dsh-safekeep](resources/dsh-safekeep.md) | ⭐1 | Unofficial Windows file-recovery guard for unattended DeepSeek Harness workflows | ✅ active |
 | [dsh-schedule-enable](resources/dsh-schedule-enable.md) | ⭐1 | 为deepseek harness创建自动化任务 | ✅ active |
+| [dsh-scnet-plan](resources/dsh-scnet-plan.md) | ⭐1 | DeepSeek Harness 插件：查看 SCNet Token Plan 额度、每日消耗与 token 构成 | ✅ active |
 | [dsh-skill-writing-plans](resources/dsh-skill-writing-plans.md) | ⭐1 | DeepSeek Harness skill plugin: writing-plans | ✅ active |
 | [dsh-sovereign](resources/dsh-sovereign.md) | ⭐1 | Host-plane sovereignty clause and content guard for DSH: user-held adjudication + anti-injection outward defense. Applies to every agent preset. | ✅ active |
 | [dsh-study-steward](resources/dsh-study-steward.md) | ⭐1 | DeepSeek Harness agent preset: a study-and-execution steward persona on the full Standard tool surface, shipped with a generic Markdown rule pack for plans, vocabulary, algorithms, review and archiving. | ✅ active |
+| [dsh-subagent-role-router](resources/dsh-subagent-role-router.md) | ⭐1 | DSH subagent route picker: per-role routing (explore/plan/patch), multi-model rotation, cross-provider failover, and fork active-window slicing. | ✅ active |
 | [dsh-subagents](resources/dsh-subagents.md) | ⭐1 | Focused child-agent delegation (scout, researcher, worker, reviewer, oracle, delegate) and multi-agent workflows (council, parallel review, review loop) for DeepSeek Harness. | ✅ active |
 | [dsh-superpower](resources/dsh-superpower-1.md) | ⭐1 | DSH plugin bundle for obra/superpowers skills and development workflows | ✅ active |
 | [dsh-task-kanban](resources/dsh-task-kanban.md) | ⭐1 | DSH web plugin: a task kanban that refines requirements into phased plans, auto-executes them in git worktrees (one session per phase), and auto-merges into the main branch on completion. | ✅ active |
@@ -317,12 +326,14 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-tool-workflow-plus](resources/dsh-tool-workflow-plus.md) | ⭐1 | Drop-in enhanced fork of the official @deepseek-ai/dsh-tool-workflow: persisted saved-workflow library (workflow_save/list/get/delete/run_saved) over ctx.storageDomain. 官方 workflow 工具增强版：saved workflow 持久库 | ✅ active |
 | [dsh-trajectory-debug](resources/dsh-trajectory-debug.md) | ⭐1 | Trajectory waterfall, deterministic replay, breakpoints, edit-and-rerun, fork compare and performance analytics. | ✅ active |
 | [dsh-ultracode](resources/dsh-ultracode-2.md) | ⭐1 | dsh-ultracode adds an ultra tier to DeepSeek Harness: one per-session switch that pins every model request to the serving model's deepest reasoning effort and activates a standing orchestration policy — workflow fan-out by default on substantive tasks, adversa | ✅ active |
+| [dsh-ultracode](resources/dsh-ultracode-3.md) | ⭐1 | Ultracode mode for DeepSeek Harness — dynamic workflows, a composer switch, and a live workflow sidebar. | ✅ active |
 | [dsh-usage-dash](resources/dsh-usage-dash.md) | ⭐1 | DSH web 插件：在侧栏底部显示各 Coding Plan 的剩余额度（OpenCode Go / 火山引擎 CodingPlan / 自定义套餐），点击弹出详情卡片。 | ✅ active |
 | [dsh-vimina](resources/dsh-vimina.md) | ⭐1 | 把 Vimina 的 Windows GUI 自动化能力注册为 DSH 原生工具， | ✅ active |
 | [dsh-web-kimi](resources/dsh-web-kimi.md) | ⭐1 | Kimi Coding web search + web fetch providers for the DeepSeek Harness with coding plan key | ✅ active |
 | [dsh-web-notify](resources/dsh-web-notify.md) | ⭐1 | Approval attention plugin for the DSH Web GUI: pending approval/plan-review/question alerts (chime, tab-title & favicon badge, PWA badge, approval-hub dock, OS notify) plus completion, job-failure, disconnect and 429 runtime-error alerts. | ✅ active |
 | [dsh-web-search-zai](resources/dsh-web-search-zai.md) | ⭐1 | GLM/ZAI web search for DeepSeek Harness: Coding Plan quota or REST API billing | ✅ active |
 | [dsh-wemedia-workbench](resources/dsh-wemedia-workbench.md) | ⭐1 | Local-first media workbench for DeepSeek Harness: AI-assisted workflows, revision-bound reviews, native approvals and persistent jobs. | ✅ active |
+| [dsh-workflow](resources/dsh-workflow-1.md) | ⭐1 | Resumable JavaScript workflows with native DSH subagents, jobs, token budgets and worktree isolation. | ✅ active |
 | [dsh-worktable-notebook-to-ppt](resources/dsh-worktable-notebook-to-ppt.md) | ⭐1 | 基于 dsh-worktable 工作台搭建的「课本到 PPT」自动化工作流插件——在 DeepSeek Harness 中一键将 Jupyter Notebook 转化为专业可编辑的演示文稿（.pptx），让知识沉淀与分享更高效。 | ✅ active |
 | [dsh-wsl-power](resources/dsh-wsl-power.md) | ⭐1 | Windows power state from WSL: active power plan, battery status and sleep settings. | ✅ active |
 | [dsh-wsl-terraform](resources/dsh-wsl-terraform.md) | ⭐1 | Terraform/OpenTofu plan summary + state list (never apply). | ✅ active |
@@ -343,6 +354,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [subtitle-studio](resources/subtitle-studio.md) | ⭐1 | Multi-language subtitle translation workflow for dsh: SRT/VTT parsing, sentence-level LLM translation, bilingual merge, alignment validation | ✅ active |
 | [system-one-benchmark-lab](resources/system-one-benchmark-lab.md) | ⭐1 | A local typed-decision control plane for Apple Silicon agents. | ✅ active |
 | [tavern-stages](resources/tavern-stages.md) | ⭐1 | DSH plugin that brings the tavern-cards skill workflows into the standalone @ai4rpg/dsh-stage-switch plugin. The design decision record is docs/DESIGN.md. | ✅ active |
+| [TravelPlanner](resources/travelplanner.md) | ⭐1 | 旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书 | ✅ active |
 | [writing-full-workflow](resources/writing-full-workflow.md) | ⭐1 | 可审阅、可回滚、可复用的中文写作全流程 Codex Skill，覆盖灵感、世界观、人物、大纲、故事线、语料、正文与门禁。 | ✅ active |
 | [xiashuo](resources/xiashuo.md) | ⭐1 | 虾说教材写作 · dsh-course-writer — AI course-authoring workspace plugin for DeepSeek Harness (DSH). 三栏式工作台 · 九阶段门禁 · 课程/章节/资料库/知识图谱 · 导出 TXT/Word · 分享协作。Three-pane workspace, nine-phase gated workflow, lorebook, export & share. | ✅ active |
 | [y1n-agent-flow](resources/y1n-agent-flow.md) | ⭐1 | y1n-flow · 多模型编排开发流 | A multi-model orchestrated dev workflow for DeepSeek Harness:主代理编排、子代理执行,plan document 为唯一事实源,内置编码验证闭环 / lead agent orchestrates, sub-agents execute, one plan doc as source of truth, built-in review loop | ✅ active |
@@ -355,7 +367,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-trellis](resources/dsh-trellis-1.md) | – | Trellis workflow integration for DeepSeek Harness | ✅ active |
 | [dsh-workflow-worktree](resources/dsh-workflow-worktree.md) | – | Git worktree isolation backend for DeepSeek Harness workflows: implements the registerIsolationAdapter() seam so isolation: 'worktree' works. | ✅ active |
 
-**Automation (76)**
+**Automation (78)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -433,6 +445,8 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-wallpaper](resources/dsh-wallpaper-12.md) | ⭐1 | DSH Web GUI 本地壁纸插件:上传本地图片/视频、手动切换、定时轮换与随机播放,带清晰度/压暗/模糊/填充调节 | ✅ active |
 | [dsh-wb-cron](resources/dsh-wb-cron.md) | ⭐1 | DeepSeek Harness 无人值守定时任务调度器：cron/固定间隔/一次性三种调度，到点在 web profile 进程内拉起全新 root agent 执行任务指令，每任务可钉模型与 Agent 预设（预设被删/损坏时三级降级跑完并留痕）。零 npm 运行时依赖、零遥测。 | ✅ active |
 | [dsh-wb2api](resources/dsh-wb2api.md) | ⭐1 | Self-hosted gateway plugin for DeepSeek Harness: registers a local WorkBuddy / CodeBuddy account pool as OpenAI-compatible model providers, with a web settings panel and a task-automation engine. | ✅ active |
+| [dsh-whale-commands](resources/dsh-whale-commands.md) | ⭐1 | DeepSeek Harness 微信通道的扩展命令插件：提供人设切换、历史对话、token 用量与余额、每日定时问候等功能与扩展菜单。命令由宿主进程执行，不消耗模型 token，支持热挂载。 | ✅ active |
+| [dsh-workbuddy-console](resources/dsh-workbuddy-console.md) | ⭐1 | WorkBuddy multi-account console for DeepSeek Harness: batch check-in for every account, pending growth tasks, live session-health checks, check-in history with a credit trend chart, automation jobs and the model pool. Bilingual (zh/en). Served by DSH itself. | ✅ active |
 | [dsh-wsl-uia](resources/dsh-wsl-uia.md) | ⭐1 | Windows UI Automation observation from WSL: enumerate top-level windows and read a bounded element tree with per-observation handles. | ✅ active |
 | [dsh-wsl-wininput](resources/dsh-wsl-wininput.md) | ⭐1 | Targeted Windows input from WSL: invoke a UI Automation element, or send keys and clicks to a chosen window without stealing focus. | ✅ active |
 

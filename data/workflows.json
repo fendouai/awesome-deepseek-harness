@@ -93,6 +93,24 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "obelisk",
+    "name": "obelisk",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/tommy0103/obelisk",
+    "description": "Every past session, subagent, and workflow -- queryable by your agent, browsable by you",
+    "description_zh": "Every past session, subagent, and workflow -- queryable by your agent, browsable by you",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 688,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "dsh-agent-team-gui",
     "name": "dsh-agent-team-gui",
     "type": "workflow",
@@ -4709,6 +4727,23 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "dsh-ark-coding-provider",
+    "name": "dsh-ark-coding-provider",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Akiyuki1130/dsh-ark-coding-provider",
+    "description": "火山方舟 Coding Plan (Volcengine Ark) 的 DeepSeek Harness 提供商插件：多账户、内置 arkcli、官方套餐额度、12 模型实测容量",
+    "description_zh": "火山方舟 Coding Plan (Volcengine Ark) 的 DeepSeek Harness 提供商插件：多账户、内置 arkcli、官方套餐额度、12 模型实测容量",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-governance",
     "name": "dsh-governance",
     "type": "workflow",
@@ -7531,6 +7566,211 @@
     "repository": "https://github.com/linlin539/dsh-skill-writing-plans",
     "description": "DeepSeek Harness skill plugin: writing-plans",
     "description_zh": "DeepSeek Harness skill plugin: writing-plans",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "amberflow",
+    "name": "AmberFlow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Johnly1986/AmberFlow",
+    "description": "冻结计划的自动化中间件（TypeScript / Node ≥ 22.6）：LLM 只规划一次，执行由本地规则与决策模型逐步完成，演示一次后既可端侧执行。",
+    "description_zh": "冻结计划的自动化中间件（TypeScript / Node ≥ 22.6）：LLM 只规划一次，执行由本地规则与决策模型逐步完成，演示一次后既可端侧执行。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-github-ops",
+    "name": "dsh-github-ops",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/GooDAnDReaDY/dsh-github-ops",
+    "description": "GitHub operations for DeepSeek Harness: releases, tags, a guarded API pass-through, sanitized mirror publication, workflow runs and repository settings.",
+    "description_zh": "GitHub operations for DeepSeek Harness: releases, tags, a guarded API pass-through, sanitized mirror publication, workflow runs and repository settings.",
+    "capabilities": [
+      "coding",
+      "git",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ultracode-3",
+    "name": "dsh-ultracode",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Big-Smarty/dsh-ultracode",
+    "description": "Ultracode mode for DeepSeek Harness — dynamic workflows, a composer switch, and a live workflow sidebar.",
+    "description_zh": "Ultracode mode for DeepSeek Harness — dynamic workflows, a composer switch, and a live workflow sidebar.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-scnet-plan",
+    "name": "dsh-scnet-plan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Ronnie-Young/dsh-scnet-plan",
+    "description": "DeepSeek Harness 插件：查看 SCNet Token Plan 额度、每日消耗与 token 构成",
+    "description_zh": "DeepSeek Harness 插件：查看 SCNet Token Plan 额度、每日消耗与 token 构成",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-omni-plan",
+    "name": "dsh-plugin-omni-plan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/ives-jz/dsh-plugin-omni-plan",
+    "description": "专门用于DSH的人类注意力聚合插件 | 此插件完全由ai开发(人类仅提供想法,未写代码)",
+    "description_zh": "专门用于DSH的人类注意力聚合插件 | 此插件完全由ai开发(人类仅提供想法,未写代码)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-role-router",
+    "name": "dsh-subagent-role-router",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/643048695/dsh-subagent-role-router",
+    "description": "DSH subagent route picker: per-role routing (explore/plan/patch), multi-model rotation, cross-provider failover, and fork active-window slicing.",
+    "description_zh": "DSH subagent route picker: per-role routing (explore/plan/patch), multi-model rotation, cross-provider failover, and fork active-window slicing.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-cdp",
+    "name": "dsh-plugin-cdp",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/joansgwjbsu/dsh-plugin-cdp",
+    "description": "基于浏览器扩展的自动化通道驱动不了部分网站：",
+    "description_zh": "基于浏览器扩展的自动化通道驱动不了部分网站：",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-whale-commands",
+    "name": "dsh-whale-commands",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/spinoi-code/dsh-whale-commands",
+    "description": "DeepSeek Harness 微信通道的扩展命令插件：提供人设切换、历史对话、token 用量与余额、每日定时问候等功能与扩展菜单。命令由宿主进程执行，不消耗模型 token，支持热挂载。",
+    "description_zh": "DeepSeek Harness 微信通道的扩展命令插件：提供人设切换、历史对话、token 用量与余额、每日定时问候等功能与扩展菜单。命令由宿主进程执行，不消耗模型 token，支持热挂载。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-plan-spend",
+    "name": "dsh-plan-spend",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Chi-hong22/dsh-plan-spend",
+    "description": "Plan Spend：DSH Web GUI 弹窗插件，展示已配置服务商的套餐花销（DeepSeek 官方余额 / OpenCode Go 5h·7d·月配额）",
+    "description_zh": "Plan Spend：DSH Web GUI 弹窗插件，展示已配置服务商的套餐花销（DeepSeek 官方余额 / OpenCode Go 5h·7d·月配额）",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "travelplanner",
+    "name": "TravelPlanner",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/AusertDream/TravelPlanner",
+    "description": "旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书",
+    "description_zh": "旅行规划助手：DeepSeek Harness (DSH) 的中文旅行规划 agent，实时查 12306 / 飞猪 / 途牛 / 高德，交付单文件 HTML 路书",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workflow-1",
+    "name": "dsh-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/gulagala001/dsh-workflow",
+    "description": "Resumable JavaScript workflows with native DSH subagents, jobs, token budgets and worktree isolation.",
+    "description_zh": "Resumable JavaScript workflows with native DSH subagents, jobs, token budgets and worktree isolation.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workbuddy-console",
+    "name": "dsh-workbuddy-console",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/dhdbvcg/dsh-workbuddy-console",
+    "description": "WorkBuddy multi-account console for DeepSeek Harness: batch check-in for every account, pending growth tasks, live session-health checks, check-in history with a credit trend chart, automation jobs and the model pool. Bilingual (zh/en). Served by DSH itself.",
+    "description_zh": "WorkBuddy multi-account console for DeepSeek Harness: batch check-in for every account, pending growth tasks, live session-health checks, check-in history with a credit trend chart, automation jobs and the model pool. Bilingual (zh/en). Served by DSH itself.",
     "capabilities": [
       "coding",
       "workflow"

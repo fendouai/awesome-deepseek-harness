@@ -88,6 +88,23 @@
     "growth": 9
   },
   {
+    "id": "skillhub-2",
+    "name": "skillhub",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/iflytek/skillhub",
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+    "description_zh": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5253,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "awesome-harness-engineering",
     "name": "awesome-harness-engineering",
     "type": "awesome-list",
@@ -2946,6 +2963,21 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-plugin-market-23",
+    "name": "dsh-plugin-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/REALOIYO/dsh-plugin-market",
+    "description": "DSH plugin market index (format 1): a self-hosted, auto-refreshed index of installable DeepSeek Harness bundles discovered from npm.",
+    "description_zh": "DSH plugin market index (format 1): a self-hosted, auto-refreshed index of installable DeepSeek Harness bundles discovered from npm.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
     "id": "dsh-plugins-lwmxiaobei-1",
     "name": "dsh-plugins",
     "type": "awesome-list",
@@ -4068,6 +4100,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-plugin-health",
+    "name": "dsh-plugin-health",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/EasonMWS/dsh-plugin-health",
+    "description": "Upgrade check + multi-host compatibility matrix for DSH plugins, official format-1 market index, Windows/WSL install doctor, and a reusable GitHub Action that comments a compatibility matrix on plugin PRs.",
+    "description_zh": "Upgrade check + multi-host compatibility matrix for DSH plugins, official format-1 market index, Windows/WSL install doctor, and a reusable GitHub Action that comments a compatibility matrix on plugin PRs.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-dsh-plugin-wgd753-1",
     "name": "awesome-dsh-plugin",
     "type": "awesome-list",
@@ -5106,6 +5155,57 @@
       "coding",
       "multi-agent",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-market-expand",
+    "name": "dsh-market-expand",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Jackbessaliuz/dsh-market-expand",
+    "description": "DSH 插件市场的补丁层：一键更新全部（退出后自动完成并重开）+ 更新安全网（启动失败自动回退）+ 本地插件更新检测与快照回滚。",
+    "description_zh": "DSH 插件市场的补丁层：一键更新全部（退出后自动完成并重开）+ 更新安全网（启动失败自动回退）+ 本地插件更新检测与快照回滚。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-connect-hub",
+    "name": "dsh-connect-hub",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/DaozeTang/dsh-connect-hub",
+    "description": "A DeepSeek Harness (DSH) plugin that brings Qoder, WorkBuddy and Trae models into one model picker, sharing a single credential store, cache, scheduler and settings page.",
+    "description_zh": "A DeepSeek Harness (DSH) plugin that brings Qoder, WorkBuddy and Trae models into one model picker, sharing a single credential store, cache, scheduler and settings page.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-visual-memory",
+    "name": "dsh-visual-memory",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/xiciyang/dsh-visual-memory",
+    "description": "Lossless visual memory for DSH agents: store an image once, address it by sha256, read exact pixels, compare past frames, recall by text/tag/turn — no second vision model in the loop.",
+    "description_zh": "Lossless visual memory for DSH agents: store an image once, address it by sha256, read exact pixels, compare past frames, recall by text/tag/turn — no second vision model in the loop.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent",
+      "multimodal"
     ],
     "status": "active",
     "verified": false,
@@ -7735,6 +7835,212 @@
     "repository": "https://github.com/martinx/dsh-plugin-hub",
     "description": "Landing page and plugin-market index for Martin's DeepSeek Harness plugins.",
     "description_zh": "Landing page and plugin-market index for Martin's DeepSeek Harness plugins.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tool-market-data",
+    "name": "dsh-tool-market-data",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/dmsobtl/dsh-tool-market-data",
+    "description": "DSH 插件：多市场金融数据 — A 股、美股、加密货币行情/K 线/选股/基本面。",
+    "description_zh": "DSH 插件：多市场金融数据 — A 股、美股、加密货币行情/K 线/选股/基本面。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-market-site",
+    "name": "dsh-market-site",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/xrj/dsh-market-site",
+    "description": "Automated static site source and Cloudflare Pages deployment for DSH Plugin Marketplace",
+    "description_zh": "Automated static site source and Cloudflare Pages deployment for DSH Plugin Marketplace",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-plugin-registry-4",
+    "name": "dsh-plugin-registry",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/xrj/dsh-plugin-registry",
+    "description": "An open registry snapshot for DeepSeek Harness plugins, skills, and related tools",
+    "description_zh": "An open registry snapshot for DeepSeek Harness plugins, skills, and related tools",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "error-knowledge-base",
+    "name": "error-knowledge-base",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/jingchangzhao-gif/error-knowledge-base",
+    "description": "Error knowledge base for LLM tools: record a failure once, keep the fix, and hand it back before the model re-diagnoses. Windows CLI and daemon, DSH/Codex/Claude connectors, MCP server, PostgreSQL store.",
+    "description_zh": "Error knowledge base for LLM tools: record a failure once, keep the fix, and hand it back before the model re-diagnoses. Windows CLI and daemon, DSH/Codex/Claude connectors, MCP server, PostgreSQL store.",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-market-1",
+    "name": "dsh-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/weft-audit/dsh-market",
+    "description": "Plugin market index for weft-audit's DeepSeek Harness plugins.",
+    "description_zh": "Plugin market index for weft-audit's DeepSeek Harness plugins.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-cn-appstore-preflight",
+    "name": "dsh-cn-appstore-preflight",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/feely0208/dsh-cn-appstore-preflight",
+    "description": "dsh-cn-appstore-preflight · DSH 插件",
+    "description_zh": "dsh-cn-appstore-preflight · DSH 插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-file-history",
+    "name": "dsh-file-history",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/EmptyVessel-000/dsh-file-history",
+    "description": "Per-turn snapshot of your DSH workspace. Any turn can be restored — files, conversation, or both.",
+    "description_zh": "Per-turn snapshot of your DSH workspace. Any turn can be restored — files, conversation, or both.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chatgpt-price",
+    "name": "dsh-chatgpt-price",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/chaolee111/dsh-chatgpt-price",
+    "description": "DeepSeek Harness plugin: ChatGPT subscription prices by country (Go/Plus/Pro), refreshed daily from each App Store, with USD and CNY conversion.",
+    "description_zh": "DeepSeek Harness plugin: ChatGPT subscription prices by country (Go/Plus/Pro), refreshed daily from each App Store, with USD and CNY conversion.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-theme-plugin-2",
+    "name": "dsh-theme-plugin",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/gulagala001/dsh-theme-plugin",
+    "description": "DSH 主题与外观管理：图片市场、一键兼容安装、故障恢复和 AI 修复说明。Visual theme markets and checked installation for DeepSeek Harness.",
+    "description_zh": "DSH 主题与外观管理：图片市场、一键兼容安装、故障恢复和 AI 修复说明。Visual theme markets and checked installation for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-dep-audit-1",
+    "name": "dsh-dep-audit",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/feely0208/dsh-dep-audit",
+    "description": "检查依赖树的投毒与风险面：装包即执行的脚本、过宽版本、非 registry 来源",
+    "description_zh": "检查依赖树的投毒与风险面：装包即执行的脚本、过宽版本、非 registry 来源",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-discover-index",
+    "name": "dsh-discover-index",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/hytime/dsh-discover-index",
+    "description": "Aggregate DSH plugin catalogs into a plugin-market index format 1 document for the DeepSeek Harness Discover tab",
+    "description_zh": "Aggregate DSH plugin catalogs into a plugin-market index format 1 document for the DeepSeek Harness Discover tab",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-conversation-trash",
+    "name": "dsh-conversation-trash",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/wusoudiaowei/dsh-conversation-trash",
+    "description": "Recycle bin for DeepSeek Harness conversations: undo for 8 seconds, restore or purge later.",
+    "description_zh": "Recycle bin for DeepSeek Harness conversations: undo for 8 seconds, restore or purge later.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-selection-translator",
+    "name": "dsh-selection-translator",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/DevinMx520/dsh-selection-translator",
+    "description": "In-place selection translation for DeepSeek Harness — right-click selected text to replace it with Chinese, right-click again to restore the original. 右键划词翻译，再次右键还原。",
+    "description_zh": "In-place selection translation for DeepSeek Harness — right-click selected text to replace it with Chinese, right-click again to restore the original. 右键划词翻译，再次右键还原。",
     "capabilities": [
       "coding"
     ],

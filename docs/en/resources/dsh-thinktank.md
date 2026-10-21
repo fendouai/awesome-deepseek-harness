@@ -1,6 +1,6 @@
 ---
 title: "dsh-thinktank"
-description: "Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports automatic analysis and prompt round-trip import."
+description: "Think tank: a built-in library of 161 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports automatic analysis and prompt round-trip import."
 keywords: "dsh-thinktank, research, plugin, multi-agent, workflow, deepseek harness, dsh"
 ---
 # dsh-thinktank
@@ -15,11 +15,11 @@ keywords: "dsh-thinktank, research, plugin, multi-agent, workflow, deepseek harn
 
 ## One-liner
 
-> Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports automatic analysis and prompt round-trip import.
+> Think tank: a built-in library of 161 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports automatic analysis and prompt round-trip import.
 
 ## About
 
-Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports automatic analysis and prompt round-trip import.
+Think tank: a built-in library of 161 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports automatic analysis and prompt round-trip import.
 
 ## 🔗 Links
 

@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（107 条）。"
+description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（111 条）。"
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [deepseek-harness-tutorial](resources/deepseek-harness-tutorial.md) | ⭐182 | DeepSeek Harness 中文详细学习教程。 | ✅ 活跃 |
 | 10 | [ConceptLoom](resources/conceptloom.md) | ⭐144 | AI-powered learning workflow for Codex, Claude Code, OpenCode and DeepSeek Harness that maps your knowledge, builds a personalized learning path, checks understanding, and saves progress across sessions. | ✅ 活跃 |
 
-## 完整列表（107）
+## 完整列表（111）
 
 
-**学习（107）**
+**学习（111）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -109,8 +109,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [omni-learning-anything](resources/omni-learning-anything.md) | ⭐2 | Omni Learning Anything: portable Agent Skill for personalized learning plans and daily PDF lessons. 通用学习助手。 | ✅ 活跃 |
 | [ruvnet-ruflo](resources/ruvnet-ruflo.md) | ⭐2 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated | ✅ 活跃 |
 | [credence](resources/credence.md) | ⭐1 | Evidence-first agent memory and durable mission runtime — UNKNOWN states, immutable belief history, governed learning, and missions that survive kill -9. Zero-dependency TypeScript kernel. | ✅ 活跃 |
+| [daily-news-digest](resources/daily-news-digest.md) | ⭐1 | 聚合 7 个权威源（Hacker News、GitHub、HuggingFace、arXiv、掘金、OSCHINA、 InfoQ），用 AI 生成中文 Markdown 开发者日报，并附带基于当日热点的 「🎯 学习成长计划」与「🛠️ 落地练手 Idea」。纯 Skill 即可用 （SKILL.md 内置手动采集命令）；在 DSH 中配合动态插件可实现每天 09:00 自动生成 + 落盘。 | ✅ 活跃 |
 | [deepseek-harness-leetcode](resources/deepseek-harness-leetcode.md) | ⭐1 | LeetCode Hot 100 learning plugin for DeepSeek Harness (DSH): lessons, sandboxed judge, AI tutor, spaced review, and an AI agent that adds LeetCode problems from a plain description. 力扣热题 100 学习插件。 | ✅ 活跃 |
 | [deepseek-harness-plugins](resources/deepseek-harness-plugins-5.md) | ⭐1 | Personal DeepSeek Harness plugins, designs, and learning notes | ✅ 活跃 |
+| [dsh-besson-tools](resources/dsh-besson-tools.md) | ⭐1 | DSH 插件（bundle 形态）：北山Besson Minecraft 模组开发教程 7 工具 — 适配 DSH 0.2.1-rc.2+，插件栏一键安装 | ✅ 活跃 |
 | [dsh-continue](resources/dsh-continue-2.md) | ⭐1 | DeepSeek Harness plugin for fail-closed network recovery, recommended answers, decision learning, and unattended continuation. | ✅ 活跃 |
 | [dsh-desk-pet-yami](resources/dsh-desk-pet-yami.md) | ⭐1 | DSH 桌面宠物插件 — 金色暗影 Yami（To Love-Ru）皮肤版。非营利，仅供学习交流，侵权请联系下架。 | ✅ 活跃 |
 | [dsh-dev](resources/dsh-dev.md) | ⭐1 | DeepSeek Harness 扩展开发脚手架：dshdev CLI（agent preset / 插件 bundle / MCP 一键生成与校验）+ Claude Code 中文导航 Skill。Complements official tutorials, no restating. | ✅ 活跃 |
@@ -121,6 +123,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-gui-handoff](resources/dsh-gui-handoff.md) | ⭐1 | A DeepSeek Harness skill: hand a command-line-verified operation over to the user's GUI — drive it once, verify with ground truth, hand back a self-contained illustrated tutorial. | ✅ 活跃 |
 | [dsh-illustrated-teaching](resources/dsh-illustrated-teaching.md) | ⭐1 | 图解教学：DeepSeek Harness 插件——把任何知识点自动渲染成精美图解画廊（8 套小红书科普风模板，专为本科学习设计） | ✅ 活跃 |
 | [dsh-learn](resources/dsh-learn.md) | ⭐1 | Persistent learning for DeepSeek Harness: turn a session's corrections, failures and fixes into ordinary DSH skills. Zero extra model calls. | ✅ 活跃 |
+| [dsh-learning-mode](resources/dsh-learning-mode-1.md) | ⭐1 | 输入框工具栏的「学习模式」开关：打开后为当前会话注入一套固定教学提示词——问题引入 → 讲解与交互探索 → 测试 → 反馈纠错。测验、参数滑块、交卷判分都由 GenUI 直接画在回答里，点选即时出结果，判分不发模型请求。 | ✅ 活跃 |
 | [dsh-memory](resources/dsh-memory-27.md) | ⭐1 | Layered memory plugin for DeepSeek Harness: strictly separated project/global memory, host-driven recall before tasks and continuous learning after them. | ✅ 活跃 |
 | [dsh-nature-papers](resources/dsh-nature-papers.md) | ⭐1 | 用于拉取nature中最新的论文（默认生化信息）。最初的想法来源于想要一个实时推送论文的应用来辅助我日常的学习，受deepseek harness“一切皆插件”理念的启发，我打算vibecoding出一个插件，顺便开源。 | ✅ 活跃 |
 | [dsh-pet-guardian-dragon](resources/dsh-pet-guardian-dragon.md) | ⭐1 | An AI-agent-assisted DSH desktop pet plugin, built as a personal learning project for development, debugging, and open-source sharing. | ✅ 活跃 |
@@ -132,6 +135,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-project-knowledge-review](resources/dsh-project-knowledge-review.md) | ⭐1 | 中文 DSH 知识复习插件：有证据才回答、资料缺失提醒补充学习视频。 | ✅ 活跃 |
 | [dsh-prompt-antivirus](resources/dsh-prompt-antivirus.md) | ⭐1 | dsh 全局防提示注入/上下文病毒感染插件：扫描工具参数、结果、进模型前消息与出站流；quarantine/block/monitor 三模式 + 金丝雀 + 可演进签名库（学习/导入/导出）。纯 JS 零原生依赖。 | ✅ 活跃 |
 | [dsh-starter-zh](resources/dsh-starter-zh.md) | ⭐1 | DSH 新手入门包：安装即得欢迎语、从 0 到 1 学习路径、按场景推荐插件、新手自查清单，并与 dsh-handbook-zh 中文教程联动。Starter pack for DeepSeek Harness beginners (Chinese). | ✅ 活跃 |
+| [dsh-study-desk](resources/dsh-study-desk.md) | ⭐1 | DSH（DeepSeek Harness）学习工作台插件：Notion 式待办墙 + 按复习时长点亮的学习热力图 + 跨面板存活的番茄钟，零运行时依赖，只消费主题 token。 | ✅ 活跃 |
 | [dsh-super-memory](resources/dsh-super-memory.md) | ⭐1 | 跨压缩记忆插件：在同一个超长会话里被上下文压缩过几次之后，你早先问过 / 定过的事，模型先看到它，再作为参考结合这次的新条件综合回答——不会当新问题从零重来。 | ✅ 活跃 |
 | [dsh-Webroad](resources/dsh-webroad.md) | ⭐1 | DeepSeek Harness 手机访问一体化插件：设置页内嵌「📱 手机访问」，扫码即用（局域网+公网+固定域名），8 位 PIN 认证、零配置信任围栏；含 Tailscale Funnel 手动教程。 | ✅ 活跃 |
 | [DSH-Workshop](resources/dsh-workshop-1.md) | ⭐1 | 为 DeepSeek Harness 打造的插件市场：复刻 Steam 创意工坊的浏览、筛选、订阅与安装体验，管理和分发 Harness 扩展功能（主题、效率工具、Agent 预设、教程等）。 | ✅ 活跃 |

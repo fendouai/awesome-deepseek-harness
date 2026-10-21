@@ -1906,6 +1906,72 @@
     "stars": 1
   },
   {
+    "id": "daily-news-digest",
+    "name": "daily-news-digest",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/climpea/daily-news-digest",
+    "description": "聚合 7 个权威源（Hacker News、GitHub、HuggingFace、arXiv、掘金、OSCHINA、 InfoQ），用 AI 生成中文 Markdown 开发者日报，并附带基于当日热点的 「🎯 学习成长计划」与「🛠️ 落地练手 Idea」。纯 Skill 即可用 （SKILL.md 内置手动采集命令）；在 DSH 中配合动态插件可实现每天 09:00 自动生成 + 落盘。",
+    "description_zh": "聚合 7 个权威源（Hacker News、GitHub、HuggingFace、arXiv、掘金、OSCHINA、 InfoQ），用 AI 生成中文 Markdown 开发者日报，并附带基于当日热点的 「🎯 学习成长计划」与「🛠️ 落地练手 Idea」。纯 Skill 即可用 （SKILL.md 内置手动采集命令）；在 DSH 中配合动态插件可实现每天 09:00 自动生成 + 落盘。",
+    "capabilities": [
+      "coding",
+      "git",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-besson-tools",
+    "name": "dsh-besson-tools",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/QZyme/dsh-besson-tools",
+    "description": "DSH 插件（bundle 形态）：北山Besson Minecraft 模组开发教程 7 工具 — 适配 DSH 0.2.1-rc.2+，插件栏一键安装",
+    "description_zh": "DSH 插件（bundle 形态）：北山Besson Minecraft 模组开发教程 7 工具 — 适配 DSH 0.2.1-rc.2+，插件栏一键安装",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-learning-mode-1",
+    "name": "dsh-learning-mode",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/yushui6666/dsh-learning-mode",
+    "description": "输入框工具栏的「学习模式」开关：打开后为当前会话注入一套固定教学提示词——问题引入 → 讲解与交互探索 → 测试 → 反馈纠错。测验、参数滑块、交卷判分都由 GenUI 直接画在回答里，点选即时出结果，判分不发模型请求。",
+    "description_zh": "输入框工具栏的「学习模式」开关：打开后为当前会话注入一套固定教学提示词——问题引入 → 讲解与交互探索 → 测试 → 反馈纠错。测验、参数滑块、交卷判分都由 GenUI 直接画在回答里，点选即时出结果，判分不发模型请求。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-study-desk",
+    "name": "dsh-study-desk",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/slow-stack/dsh-study-desk",
+    "description": "DSH（DeepSeek Harness）学习工作台插件：Notion 式待办墙 + 按复习时长点亮的学习热力图 + 跨面板存活的番茄钟，零运行时依赖，只消费主题 token。",
+    "description_zh": "DSH（DeepSeek Harness）学习工作台插件：Notion 式待办墙 + 按复习时长点亮的学习热力图 + 跨面板存活的番茄钟，零运行时依赖，只消费主题 token。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",

@@ -1,0 +1,28 @@
+---
+title: "dsh-skill-auditor"
+description: "DSH 能力管家：说功能就能用上装过的插件 —— 能力路由（按任务匹配到该调的工具名）、主动体检（版本落后 / 运行时故障 / 基线通过率）、利用率盘点（哪些能力从没用上）。npm: dsh-skill-auditor"
+keywords: "dsh-skill-auditor, learning, skill, coding, deepseek harness, dsh"
+---
+# dsh-skill-auditor
+
+> ⭐ **1** · ✅ 活跃 · 技能
+
+| | | | |
+|---|---|---|---|
+| 类型 | 技能 | 分类 | 学习 |
+| 星数 | ⭐ 1 | 状态 | ✅ 活跃 |
+| 作者 | [Zhr65](https://github.com/Zhr65) | 更新时间 | — |
+
+## 一句话介绍
+
+> DSH 能力管家：说功能就能用上装过的插件 —— 能力路由（按任务匹配到该调的工具名）、主动体检（版本落后 / 运行时故障 / 基线通过率）、利用率盘点（哪些能力从没用上）。npm: dsh-skill-auditor
+
+## 详细介绍
+
+DSH 能力管家：说功能就能用上装过的插件 —— 能力路由（按任务匹配到该调的工具名）、主动体检（版本落后 / 运行时故障 / 基线通过率）、利用率盘点（哪些能力从没用上）。npm: dsh-skill-auditor
+
+## 🔗 链接
+
+- [GitHub 仓库](https://github.com/Zhr65/dsh-skill-auditor)
+- [完整 README](https://github.com/Zhr65/dsh-skill-auditor#readme)
+- [返回dsh-skill-auditor所在分类](../skills.md)

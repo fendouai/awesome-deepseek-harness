@@ -5070,6 +5070,270 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-wait-subagent",
+    "name": "dsh-wait-subagent",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/john-walks-slow/dsh-wait-subagent",
+    "description": "wait_subagent tool for DeepSeek Harness: block until a background continuable subagent settles and return its stop reason and closing message — event-driven, zero polling.",
+    "description_zh": "wait_subagent tool for DeepSeek Harness: block until a background continuable subagent settles and return its stop reason and closing message — event-driven, zero polling.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-team-workbench",
+    "name": "dsh-team-workbench",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/CH3SH-LC/dsh-team-workbench",
+    "description": "DSH 超级工作台：1/2/4 窗会话与自主智能体团队 | Multi-pane conversations and autonomous agent teams for DeepSeek Harness",
+    "description_zh": "DSH 超级工作台：1/2/4 窗会话与自主智能体团队 | Multi-pane conversations and autonomous agent teams for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-teams-optimizer",
+    "name": "dsh-agent-teams-optimizer",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Soulize/dsh-agent-teams-optimizer",
+    "description": "An independent DeepSeek Harness plugin to configure the actual Agent Teams teammate admission limit.",
+    "description_zh": "An independent DeepSeek Harness plugin to configure the actual Agent Teams teammate admission limit.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-multi-agent-gateway",
+    "name": "dsh-multi-agent-gateway",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/a1141171521/dsh-multi-agent-gateway",
+    "description": "Free Token —— 把各平台的免费额度，装进 DSH 的模型选择器。",
+    "description_zh": "Free Token —— 把各平台的免费额度，装进 DSH 的模型选择器。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "llmagentchatroom",
+    "name": "LLMAgentChatRoom",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/ai-v5/LLMAgentChatRoom",
+    "description": "Local multi-agent chat room",
+    "description_zh": "Local multi-agent chat room",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-subagent-antigravity",
+    "name": "dsh-subagent-antigravity",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/PipeDream941/dsh-subagent-antigravity",
+    "description": "Antigravity subagent for DeepSeek Harness: run Google Antigravity CLI (agy) as a one-shot coding subagent (subagent_antigravity), including Gemini 4 Argon.",
+    "description_zh": "Antigravity subagent for DeepSeek Harness: run Google Antigravity CLI (agy) as a one-shot coding subagent (subagent_antigravity), including Gemini 4 Argon.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-center-1",
+    "name": "dsh-skill-center",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/RestRegular/dsh-skill-center",
+    "description": "DeepSeek Harness 技能中心插件：浏览并管理当前会话可见的技能 / Skill Center plugin for DeepSeek Harness.",
+    "description_zh": "DeepSeek Harness 技能中心插件：浏览并管理当前会话可见的技能 / Skill Center plugin for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-per-request-cost",
+    "name": "dsh-per-request-cost",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Shad0wwa1ker/dsh-per-request-cost",
+    "description": "DeepSeek Harness composer pill: balance, peak/off-peak phase, and per-request-priced session spend including subagent sessions and Search/Fetch fees.",
+    "description_zh": "DeepSeek Harness composer pill: balance, peak/off-peak phase, and per-request-priced session spend including subagent sessions and Search/Fetch fees.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-fold",
+    "name": "dsh-subagent-fold",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Kadima-code/dsh-subagent-fold",
+    "description": "DSH 子代理列表折叠：按使用批次分 历史/今日/上次/本次，本次始终展开，其余可折叠（不改原版头部）",
+    "description_zh": "DSH 子代理列表折叠：按使用批次分 历史/今日/上次/本次，本次始终展开，其余可折叠（不改原版头部）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "dsh-model-gear",
+    "name": "dsh-model-gear",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/chenyuxuan-official/dsh-model-gear",
+    "description": "A model picker and reasoning-effort slider for the DeepSeek Harness composer, plus a three-gear Lightning orchestration switch. The only prompt text it adds is the Lightning contract.",
+    "description_zh": "A model picker and reasoning-effort slider for the DeepSeek Harness composer, plus a three-gear Lightning orchestration switch. The only prompt text it adds is the Lightning contract.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "artcraft-plugin",
+    "name": "artcraft-plugin",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/full-aigc-plugins/artcraft-plugin",
+    "description": "Orchestrate VectorCraft, PhotoCraft, EffectCraft, and FilmCraft projects from one brief.",
+    "description_zh": "Orchestrate VectorCraft, PhotoCraft, EffectCraft, and FilmCraft projects from one brief.",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "weft-evidence",
+    "name": "weft-evidence",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/weft-audit/weft-evidence",
+    "description": "Reproducible evidence for a single-machine multi-agent harness: 20-task A/B regression (0.97-1.00 vs 0.02-0.07), scoring rubric, methodology and limitations, metrics ledger.",
+    "description_zh": "Reproducible evidence for a single-machine multi-agent harness: 20-task A/B regression (0.97-1.00 vs 0.02-0.07), scoring rubric, methodology and limitations, metrics ledger.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-model-orchestrator",
+    "name": "dsh-model-orchestrator",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/DeZhou123/dsh-model-orchestrator",
+    "description": "DSH 插件：两级模型调度（先选模型、再选渠道；失败先换渠道再换模型），带偏好模式与实时渠道健康面板。与 dsh-our-free-model 配合使用（单向适配、非官方）：只读它写在本机的渠道账本作旁证，不改它、也不要求它为本插件做任何改动；两者零代码依赖，不装 OFM 也能完整路由。",
+    "description_zh": "DSH 插件：两级模型调度（先选模型、再选渠道；失败先换渠道再换模型），带偏好模式与实时渠道健康面板。与 dsh-our-free-model 配合使用（单向适配、非官方）：只读它写在本机的渠道账本作旁证，不改它、也不要求它为本插件做任何改动；两者零代码依赖，不装 OFM 也能完整路由。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workspace-orchestrator",
+    "name": "dsh-workspace-orchestrator",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Sum556677/dsh-workspace-orchestrator",
+    "description": "DSH plugin orchestration and workspace-isolation manager: plugin scanning, per-workspace isolated instances, and a standalone rescue entry.",
+    "description_zh": "DSH plugin orchestration and workspace-isolation manager: plugin scanning, per-workspace isolated instances, and a standalone rescue entry.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-branch-tree",
+    "name": "dsh-branch-tree",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/ANHANP/dsh-branch-tree",
+    "description": "DeepSeek Harness plugin: session branch tree with round cards, forks, subagent forests and a minimap.",
+    "description_zh": "DeepSeek Harness plugin: session branch tree with round cards, forks, subagent forests and a minimap.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-eval-guard",
+    "name": "dsh-eval-guard",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/huhu23333/dsh-eval-guard",
+    "description": "Evaluation guard for DSH: workspace-only filesystem, no network/subagents, wall-clock limits, and tank task installation.",
+    "description_zh": "Evaluation guard for DSH: workspace-only filesystem, no network/subagents, wall-clock limits, and tank task installation.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-evolve",
     "name": "dsh-skill-evolve",
     "type": "agent",

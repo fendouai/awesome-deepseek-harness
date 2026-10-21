@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "DeepSeek Harness (dsh) 精选 mcp & integrations：🔥 Top 10 与完整列表（1410 条）。"
+description: "DeepSeek Harness (dsh) 精选 mcp & integrations：🔥 Top 10 与完整列表（1409 条）。"
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [ReMe](resources/reme.md) | ⭐3,448 | 面向 Agent 的记忆管理套件：跨会话记住、提炼并复用记忆。 | ✅ 活跃 |
 | 10 | [DeepSeek-Bot](resources/deepseek-bot-1.md) | ⭐1,835 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ 活跃 |
 
-## 完整列表（1410）
+## 完整列表（1409）
 
 
-**MCP（417）**
+**MCP（416）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -42,7 +42,6 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dscode](resources/dscode.md) | ⭐862 | A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry | ✅ 活跃 |
 | [Coding Tools MCP](resources/coding-tools-mcp.md) | ⭐846 | 面向编码的 MCP 工具集：让任何 AI Agent 获得编码能力。 | ✅ 活跃 |
 | [hol-guard](resources/hol-guard.md) | ⭐604 | Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime. | ✅ 活跃 |
-| [de-anthropocentric-research-engine](resources/de-anthropocentric-research-engine.md) | ⭐470 | 900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction. | ✅ 活跃 |
 | [memtrace-public](resources/memtrace-public.md) | ⭐459 | Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf. | ✅ 活跃 |
 | [phi](resources/phi.md) | ⭐397 | a coding agent, rpc plugin, sub-agents, hashline edits, and mcp | ✅ 活跃 |
 | [watch-skill](resources/watch-skill.md) | ⭐374 | Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web. | ✅ 活跃 |

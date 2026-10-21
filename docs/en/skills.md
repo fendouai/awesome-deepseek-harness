@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "Top 10 and full list of 669 curated skills for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 670 curated skills for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [BrowserSkill](resources/browser-skill.md) | ⭐1,955 | Let AI agents use your real, logged-in browser without interrupting your work: CLI plus extension. | ✅ active |
 | 10 | [vox-director](resources/vox-director.md) | ⭐1,862 | Turn one topic into a finished Vox-style paper-collage explainer/ad video, automated end to end. | ✅ active |
 
-## Complete list (669)
+## Complete list (670)
 
 
 **Learning (652)**
@@ -703,11 +703,12 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [mattpocock-skills-dsh](resources/mattpocock-skills-dsh.md) | ⭐2 | Matt Pocock full promoted skill set (25 SKILL.md: grilling, writing-for-agents, wait-what, TDD, code review, wayfinder, ask-matt router) ported to DSH. | ✅ active |
 | [mattpocock-skills-dsh-zh](resources/mattpocock-skills-dsh-zh.md) | ⭐1 | Matt Pocock's 25 skills fully translated to Chinese (technical terms kept in English with glosses). | ✅ active |
 
-**Research (6)**
+**Research (7)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [last30days-skill-cn](resources/last30days-skill-cn.md) | ⭐1,778 | Agent skill that searches 8 major Chinese platforms for the last 30 days of content and produces a sourced research report. | ✅ active |
+| [de-anthropocentric-research-engine](resources/de-anthropocentric-research-engine.md) | ⭐505 | Runs literature synthesis, gap validation, hypothesis formation and experiment design from a stated research direction. Approves its staged plan before anything runs, walks back to the literature when the evidence cannot carry the experiment it is designing, and resumes an interrupted run from the last complete checkpoint. Pure markdown; no runtime, no API key. | ✅ active |
 | [dsh-book2skill](resources/dsh-book2skill.md) | ⭐4 | Book-to-skill plugin: a 5-stage long task that fetches, parses, understands, generates and installs a skill. | ✅ active |
 | [dsh-web-novel-research](resources/dsh-web-novel-research.md) | ⭐3 | Chinese web-novel plot lookup skill: free mirror-site workflow with GBK decoding and duplicate-chapter disambiguation. | ✅ active |
 | [dsh-news-briefing](resources/dsh-news-briefing.md) | – | News briefing skill: multi-dimensional story scoring, anti-clickbait rules, content prioritization and Chinese editorial style. | ✅ active |

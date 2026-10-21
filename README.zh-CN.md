@@ -7925,7 +7925,7 @@ dsh web
 | 9 | [BrowserSkill](https://github.com/Tencent/BrowserSkill) | ⭐1,955 | 让 AI Agent 直接使用你已登录的真实浏览器而不打断工作：CLI + 浏览器扩展。 | ✅ 活跃 |
 | 10 | [vox-director](https://github.com/Alisa0808/vox-director) | ⭐1,862 | 把一个主题变成完整的 Vox 风格纸拼贴讲解/广告视频，端到端自动化。 | ✅ 活跃 |
 
-#### 完整列表（669）
+#### 完整列表（670）
 
 - [archify](https://github.com/tt-a1i/archify) ⭐36,264 — Agent 技能：生成漂亮、可验证的架构图、流程图、时序图、数据流与生命周期图——自包含、可审查。（✅ 活跃）
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ⭐31,449 — GPT Image 的提示词即代码库：530+ 逆向工程案例、20+ 工业级模板与可复用 Skills。（✅ 活跃）
@@ -7942,6 +7942,7 @@ dsh web
 - [Aegis](https://github.com/GanyuanRan/Aegis) ⭐1,185 — Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.（✅ 活跃）
 - [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) ⭐646 — Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.（✅ 活跃）
 - [superdesign-skill](https://github.com/superdesigndev/superdesign-skill) ⭐556 — The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev（✅ 活跃）
+- [de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) ⭐505 — 给定研究方向，自行完成文献综合、空白验证、假设形成与实验设计。执行前先审批分阶段计划，证据不足以支撑所设计的实验时退回文献，中断后从最近一个完整检查点续跑。纯 markdown，无运行时，无需 API 密钥。（✅ 活跃）
 - [DeepSec](https://github.com/Unclecheng-li/DeepSec) ⭐423 — DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC.（✅ 活跃）
 - [minara-skills](https://github.com/Minara-AI/minara-skills) ⭐345 — The skills for trading, to make your agent earn for you.（✅ 活跃）
 - [oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) ⭐345 — DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches. Not affiliated with DeepSeek.（✅ 活跃）
@@ -10508,7 +10509,7 @@ dsh web
 | 9 | [ReMe](https://github.com/agentscope-ai/ReMe) | ⭐3,448 | 面向 Agent 的记忆管理套件：跨会话记住、提炼并复用记忆。 | ✅ 活跃 |
 | 10 | [DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | ⭐1,835 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ 活跃 |
 
-#### 完整列表（1410）
+#### 完整列表（1409）
 
 - [Reactive Resume](https://github.com/reactive-resume/reactive-resume) ⭐42,520 — 开源、注重隐私的简历构建器，提供 MCP 服务器与 Agent Skills，可从 DeepSeek Harness 调用。（✅ 活跃）
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐36,784 — 面向 AI Agent 的自进化上下文数据库，统一 Agent 记忆、知识 RAG 与技能。（✅ 活跃）
@@ -10530,7 +10531,6 @@ dsh web
 - [dsh-browser](https://github.com/omdsh-dev/dsh-browser) ⭐746 — Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。（✅ 活跃）
 - [hol-guard](https://github.com/hashgraph-online/hol-guard) ⭐604 — Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.（✅ 活跃）
 - [ccteam](https://github.com/firstintent/ccteam) ⭐538 — ccteam turns the coding agents you already run (Claude Code, Codex, Grok, DeepSeek Harness, Kimi, Pi) into one team — any session can spawn, dispatch, and collect work from any vendor on any machine, while you steer it all from Telegram, Lark, or a browser tab. 把你在用的编程 agent 编成一支团队,跨厂商跨机器派活,Telegram/飞书/网页统一指挥。（✅ 活跃）
-- [de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) ⭐470 — 900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction.（✅ 活跃）
 - [memtrace-public](https://github.com/syncable-dev/memtrace-public) ⭐459 — Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.（✅ 活跃）
 - [phi](https://github.com/pulseaiclub/phi) ⭐397 — a coding agent, rpc plugin, sub-agents, hashline edits, and mcp（✅ 活跃）
 - [watch-skill](https://github.com/oxbshw/watch-skill) ⭐374 — Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.（✅ 活跃）
@@ -20424,7 +20424,7 @@ awesome-deepseek-harness/
 | 9 | [BrowserSkill](https://github.com/Tencent/BrowserSkill) | ⭐1,955 | 让 AI Agent 直接使用你已登录的真实浏览器而不打断工作：CLI + 浏览器扩展。 | ✅ 活跃 |
 | 10 | [vox-director](https://github.com/Alisa0808/vox-director) | ⭐1,862 | 把一个主题变成完整的 Vox 风格纸拼贴讲解/广告视频，端到端自动化。 | ✅ 活跃 |
 
-#### 完整列表（669）
+#### 完整列表（670）
 
 - [archify](https://github.com/tt-a1i/archify) ⭐36,264 — Agent 技能：生成漂亮、可验证的架构图、流程图、时序图、数据流与生命周期图——自包含、可审查。（✅ 活跃）
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ⭐31,449 — GPT Image 的提示词即代码库：530+ 逆向工程案例、20+ 工业级模板与可复用 Skills。（✅ 活跃）
@@ -20441,6 +20441,7 @@ awesome-deepseek-harness/
 - [Aegis](https://github.com/GanyuanRan/Aegis) ⭐1,185 — Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.（✅ 活跃）
 - [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) ⭐646 — Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.（✅ 活跃）
 - [superdesign-skill](https://github.com/superdesigndev/superdesign-skill) ⭐556 — The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev（✅ 活跃）
+- [de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) ⭐505 — 给定研究方向，自行完成文献综合、空白验证、假设形成与实验设计。执行前先审批分阶段计划，证据不足以支撑所设计的实验时退回文献，中断后从最近一个完整检查点续跑。纯 markdown，无运行时，无需 API 密钥。（✅ 活跃）
 - [DeepSec](https://github.com/Unclecheng-li/DeepSec) ⭐423 — DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC.（✅ 活跃）
 - [minara-skills](https://github.com/Minara-AI/minara-skills) ⭐345 — The skills for trading, to make your agent earn for you.（✅ 活跃）
 - [oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) ⭐345 — DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches. Not affiliated with DeepSeek.（✅ 活跃）
@@ -23007,7 +23008,7 @@ awesome-deepseek-harness/
 | 9 | [ReMe](https://github.com/agentscope-ai/ReMe) | ⭐3,448 | 面向 Agent 的记忆管理套件：跨会话记住、提炼并复用记忆。 | ✅ 活跃 |
 | 10 | [DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | ⭐1,835 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ 活跃 |
 
-#### 完整列表（1410）
+#### 完整列表（1409）
 
 - [Reactive Resume](https://github.com/reactive-resume/reactive-resume) ⭐42,520 — 开源、注重隐私的简历构建器，提供 MCP 服务器与 Agent Skills，可从 DeepSeek Harness 调用。（✅ 活跃）
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐36,784 — 面向 AI Agent 的自进化上下文数据库，统一 Agent 记忆、知识 RAG 与技能。（✅ 活跃）
@@ -23029,7 +23030,6 @@ awesome-deepseek-harness/
 - [dsh-browser](https://github.com/omdsh-dev/dsh-browser) ⭐746 — Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。（✅ 活跃）
 - [hol-guard](https://github.com/hashgraph-online/hol-guard) ⭐604 — Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.（✅ 活跃）
 - [ccteam](https://github.com/firstintent/ccteam) ⭐538 — ccteam turns the coding agents you already run (Claude Code, Codex, Grok, DeepSeek Harness, Kimi, Pi) into one team — any session can spawn, dispatch, and collect work from any vendor on any machine, while you steer it all from Telegram, Lark, or a browser tab. 把你在用的编程 agent 编成一支团队,跨厂商跨机器派活,Telegram/飞书/网页统一指挥。（✅ 活跃）
-- [de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) ⭐470 — 900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction.（✅ 活跃）
 - [memtrace-public](https://github.com/syncable-dev/memtrace-public) ⭐459 — Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.（✅ 活跃）
 - [phi](https://github.com/pulseaiclub/phi) ⭐397 — a coding agent, rpc plugin, sub-agents, hashline edits, and mcp（✅ 活跃）
 - [watch-skill](https://github.com/oxbshw/watch-skill) ⭐374 — Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.（✅ 活跃）

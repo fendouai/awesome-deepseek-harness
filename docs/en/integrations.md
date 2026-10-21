@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "Top 10 and full list of 1410 curated mcp & integrations for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 1409 curated mcp & integrations for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [ReMe](resources/reme.md) | ⭐3,448 | Memory management kit for agents: remember, refine and reuse memory across sessions. | ✅ active |
 | 10 | [DeepSeek-Bot](resources/deepseek-bot-1.md) | ⭐1,835 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ active |
 
-## Complete list (1410)
+## Complete list (1409)
 
 
-**MCP (417)**
+**MCP (416)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -42,7 +42,6 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dscode](resources/dscode.md) | ⭐862 | A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry | ✅ active |
 | [Coding Tools MCP](resources/coding-tools-mcp.md) | ⭐846 | Coding-oriented MCP tool collection that appears in the emerging DSH ecosystem: give any AI agent the ability to code. | ✅ active |
 | [hol-guard](resources/hol-guard.md) | ⭐604 | Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime. | ✅ active |
-| [de-anthropocentric-research-engine](resources/de-anthropocentric-research-engine.md) | ⭐470 | 900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction. | ✅ active |
 | [memtrace-public](resources/memtrace-public.md) | ⭐459 | Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf. | ✅ active |
 | [phi](resources/phi.md) | ⭐397 | a coding agent, rpc plugin, sub-agents, hashline edits, and mcp | ✅ active |
 | [watch-skill](resources/watch-skill.md) | ⭐374 | Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web. | ✅ active |

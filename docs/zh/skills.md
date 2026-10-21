@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "DeepSeek Harness (dsh) 精选 skills：🔥 Top 10 与完整列表（669 条）。"
+description: "DeepSeek Harness (dsh) 精选 skills：🔥 Top 10 与完整列表（670 条）。"
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [BrowserSkill](resources/browser-skill.md) | ⭐1,955 | 让 AI Agent 直接使用你已登录的真实浏览器而不打断工作：CLI + 浏览器扩展。 | ✅ 活跃 |
 | 10 | [vox-director](resources/vox-director.md) | ⭐1,862 | 把一个主题变成完整的 Vox 风格纸拼贴讲解/广告视频，端到端自动化。 | ✅ 活跃 |
 
-## 完整列表（669）
+## 完整列表（670）
 
 
 **学习（652）**
@@ -703,11 +703,12 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [mattpocock-skills-dsh](resources/mattpocock-skills-dsh.md) | ⭐2 | Matt Pocock 完整发布技能集（25 个 SKILL.md：grilling、writing-for-agents、wait-what、TDD、code-review、wayfinder、ask-matt 路由等）的 DSH 移植。 | ✅ 活跃 |
 | [mattpocock-skills-dsh-zh](resources/mattpocock-skills-dsh-zh.md) | ⭐1 | Matt Pocock 25 个技能正文全译中文（技术术语保留英文并附注释）。 | ✅ 活跃 |
 
-**研究（6）**
+**研究（7）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [last30days-skill-cn](resources/last30days-skill-cn.md) | ⭐1,778 | AI Agent 技能：自动搜索中国 8 大主流平台最近 30 天内容，生成有据可查的研究报告。 | ✅ 活跃 |
+| [de-anthropocentric-research-engine](resources/de-anthropocentric-research-engine.md) | ⭐505 | 给定研究方向，自行完成文献综合、空白验证、假设形成与实验设计。执行前先审批分阶段计划，证据不足以支撑所设计的实验时退回文献，中断后从最近一个完整检查点续跑。纯 markdown，无运行时，无需 API 密钥。 | ✅ 活跃 |
 | [dsh-book2skill](resources/dsh-book2skill.md) | ⭐4 | 书转技能插件：获取→解析→理解→生成→安装的五阶段长任务。 | ✅ 活跃 |
 | [dsh-web-novel-research](resources/dsh-web-novel-research.md) | ⭐3 | 中文网文情节查证技能：免费镜像站流程，GBK 解码与跨卷重复章节消歧。 | ✅ 活跃 |
 | [dsh-news-briefing](resources/dsh-news-briefing.md) | – | 新闻简报技能：多维故事评分、反标题党规则、内容优先级与中文编辑风格。 | ✅ 活跃 |

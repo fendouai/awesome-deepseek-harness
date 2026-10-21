@@ -348,24 +348,6 @@
     "license": "MIT"
   },
   {
-    "id": "de-anthropocentric-research-engine",
-    "name": "de-anthropocentric-research-engine",
-    "type": "integration",
-    "category": "mcp",
-    "repository": "https://github.com/yogsoth-ai/de-anthropocentric-research-engine",
-    "description": "900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction.",
-    "description_zh": "900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction.",
-    "capabilities": [
-      "coding",
-      "mcp",
-      "search"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 470,
-    "license": "Apache-2.0"
-  },
-  {
     "id": "memtrace-public",
     "name": "memtrace-public",
     "type": "integration",

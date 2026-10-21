@@ -12195,5 +12195,23 @@
       "skill-adapter",
       "skills"
     ]
+  },
+  {
+    "id": "de-anthropocentric-research-engine",
+    "name": "de-anthropocentric-research-engine",
+    "type": "skill",
+    "category": "research",
+    "repository": "https://github.com/yogsoth-ai/de-anthropocentric-research-engine",
+    "description": "Runs literature synthesis, gap validation, hypothesis formation and experiment design from a stated research direction. Approves its staged plan before anything runs, walks back to the literature when the evidence cannot carry the experiment it is designing, and resumes an interrupted run from the last complete checkpoint. Pure markdown; no runtime, no API key.",
+    "description_zh": "给定研究方向，自行完成文献综合、空白验证、假设形成与实验设计。执行前先审批分阶段计划，证据不足以支撑所设计的实验时退回文献，中断后从最近一个完整检查点续跑。纯 markdown，无运行时，无需 API 密钥。",
+    "capabilities": [
+      "research",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 505,
+    "license": "Apache-2.0"
   }
 ]

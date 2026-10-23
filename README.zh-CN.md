@@ -171,7 +171,7 @@ dsh web
 | 9 | [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | ⭐3,863 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness. | ✅ 活跃 |
 | 10 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 
-#### 完整列表（8153）
+#### 完整列表（8154）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -8286,6 +8286,7 @@ dsh web
 - [dsh-session-title-cold](https://github.com/fengs2021/dsh-session-title-cold)  — DSH 插件：冷会话标题回填——把持久化日志的 session/title 事件折叠进 projection 缓存，会话列表显示真实标题而不是工作区目录名（✅ 活跃）
 - [dsh-session-topics](https://github.com/SipengXie2024/dsh-session-topics)  — DeepSeek Harness plugin: LLM session titles that survive reasoning models (startup sweep + turn-end retry), plus a hover-card session-size readout（✅ 活跃）
 - [dsh-sessions-rm](https://github.com/Temoa/dsh-sessions-rm)  — Session management for DeepSeek Harness (DSH).（✅ 活跃）
+- [dsh-sidebar-tidy](https://github.com/weibaohui/dsh-sidebar-tidy)  — 侧栏收纳：把「新会话」下方被各插件塞满的入口行——全局面板行、插件入口行（自家/第三方一律识别）、底部入口——统统收进一个菜单按钮，点开二级菜单原样触发各入口；想常驻的加名称白名单即可，侧栏折叠成窄轨时按钮自动变纯图标。（🧪 实验性）
 - [dsh-skill-recommender](https://github.com/zhengjy01/dsh-skill-recommender)  — DeepSeek Harness 的会话画像 skill 推荐器：扫描本地 DSH/Codex/Claude 会话建立加权画像（主题/工具/任务/项目），按可调匹配指数推荐开源 skill。（✅ 活跃）
 - [dsh-subscription-usage](https://github.com/sd1g1/dsh-subscription-usage)  — DeepSeek Harness 订阅用量查询插件（✅ 活跃）
 - [dsh-super-pm](https://github.com/Lohaslee/dsh-super-pm)  — DeepSeek Harness 的产品思考助手：先明确负向边界，拆开事实与假设，经七套产品视角讨论取舍，并将确认的决策沉淀到项目记忆中。（✅ 活跃）
@@ -13297,7 +13298,7 @@ awesome-deepseek-harness/
 | 9 | [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | ⭐3,863 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness. | ✅ 活跃 |
 | 10 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 
-#### 完整列表（8153）
+#### 完整列表（8154）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -21412,6 +21413,7 @@ awesome-deepseek-harness/
 - [dsh-session-title-cold](https://github.com/fengs2021/dsh-session-title-cold)  — DSH 插件：冷会话标题回填——把持久化日志的 session/title 事件折叠进 projection 缓存，会话列表显示真实标题而不是工作区目录名（✅ 活跃）
 - [dsh-session-topics](https://github.com/SipengXie2024/dsh-session-topics)  — DeepSeek Harness plugin: LLM session titles that survive reasoning models (startup sweep + turn-end retry), plus a hover-card session-size readout（✅ 活跃）
 - [dsh-sessions-rm](https://github.com/Temoa/dsh-sessions-rm)  — Session management for DeepSeek Harness (DSH).（✅ 活跃）
+- [dsh-sidebar-tidy](https://github.com/weibaohui/dsh-sidebar-tidy)  — 侧栏收纳：把「新会话」下方被各插件塞满的入口行——全局面板行、插件入口行（自家/第三方一律识别）、底部入口——统统收进一个菜单按钮，点开二级菜单原样触发各入口；想常驻的加名称白名单即可，侧栏折叠成窄轨时按钮自动变纯图标。（🧪 实验性）
 - [dsh-skill-recommender](https://github.com/zhengjy01/dsh-skill-recommender)  — DeepSeek Harness 的会话画像 skill 推荐器：扫描本地 DSH/Codex/Claude 会话建立加权画像（主题/工具/任务/项目），按可调匹配指数推荐开源 skill。（✅ 活跃）
 - [dsh-subscription-usage](https://github.com/sd1g1/dsh-subscription-usage)  — DeepSeek Harness 订阅用量查询插件（✅ 活跃）
 - [dsh-super-pm](https://github.com/Lohaslee/dsh-super-pm)  — DeepSeek Harness 的产品思考助手：先明确负向边界，拆开事实与假设，经七套产品视角讨论取舍，并将确认的决策沉淀到项目记忆中。（✅ 活跃）

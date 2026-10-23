@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | ⭐3,863 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness. | ✅ active |
 | 10 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 
-#### Complete list (8153)
+#### Complete list (8154)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -8285,6 +8285,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-session-title-cold](https://github.com/fengs2021/dsh-session-title-cold)  — DSH 插件：冷会话标题回填——把持久化日志的 session/title 事件折叠进 projection 缓存，会话列表显示真实标题而不是工作区目录名 (✅ active)
 - [dsh-session-topics](https://github.com/SipengXie2024/dsh-session-topics)  — DeepSeek Harness plugin: LLM session titles that survive reasoning models (startup sweep + turn-end retry), plus a hover-card session-size readout (✅ active)
 - [dsh-sessions-rm](https://github.com/Temoa/dsh-sessions-rm)  — Session management for DeepSeek Harness (DSH). (✅ active)
+- [dsh-sidebar-tidy](https://github.com/weibaohui/dsh-sidebar-tidy)  — Sidebar tidy: when plugins pile up, the rows under 'New session' get crowded with panel and plugin entries. This plugin folds them all — global panel rows, plugin-injected entry rows (own and third-party alike), and bottom entries — into a single menu button whose secondary menu triggers each entry exactly as before; keep any entry permanently visible with a name whitelist, and the button turns into an icon when the sidebar collapses to a narrow rail. (🧪 experimental)
 - [dsh-skill-recommender](https://github.com/zhengjy01/dsh-skill-recommender)  — Session-profile driven open-source skill recommender for DSH: scans local DSH / Codex / Claude sessions, builds a weighted profile (topics, tools, tasks, projects) and recommends matching skills with a tunable match index. (✅ active)
 - [dsh-subscription-usage](https://github.com/sd1g1/dsh-subscription-usage)  — DeepSeek Harness 订阅用量查询插件 (✅ active)
 - [dsh-super-pm](https://github.com/Lohaslee/dsh-super-pm)  — Product-thinking companion for DeepSeek Harness: clarifies negative boundaries first, separates facts from assumptions, routes through seven product lenses, and persists confirmed decisions to project memory. (✅ active)
@@ -13296,7 +13297,7 @@ awesome-deepseek-harness/
 | 9 | [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | ⭐3,863 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness. | ✅ active |
 | 10 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 
-#### Complete list (8153)
+#### Complete list (8154)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -21411,6 +21412,7 @@ awesome-deepseek-harness/
 - [dsh-session-title-cold](https://github.com/fengs2021/dsh-session-title-cold)  — DSH 插件：冷会话标题回填——把持久化日志的 session/title 事件折叠进 projection 缓存，会话列表显示真实标题而不是工作区目录名 (✅ active)
 - [dsh-session-topics](https://github.com/SipengXie2024/dsh-session-topics)  — DeepSeek Harness plugin: LLM session titles that survive reasoning models (startup sweep + turn-end retry), plus a hover-card session-size readout (✅ active)
 - [dsh-sessions-rm](https://github.com/Temoa/dsh-sessions-rm)  — Session management for DeepSeek Harness (DSH). (✅ active)
+- [dsh-sidebar-tidy](https://github.com/weibaohui/dsh-sidebar-tidy)  — Sidebar tidy: when plugins pile up, the rows under 'New session' get crowded with panel and plugin entries. This plugin folds them all — global panel rows, plugin-injected entry rows (own and third-party alike), and bottom entries — into a single menu button whose secondary menu triggers each entry exactly as before; keep any entry permanently visible with a name whitelist, and the button turns into an icon when the sidebar collapses to a narrow rail. (🧪 experimental)
 - [dsh-skill-recommender](https://github.com/zhengjy01/dsh-skill-recommender)  — Session-profile driven open-source skill recommender for DSH: scans local DSH / Codex / Claude sessions, builds a weighted profile (topics, tools, tasks, projects) and recommends matching skills with a tunable match index. (✅ active)
 - [dsh-subscription-usage](https://github.com/sd1g1/dsh-subscription-usage)  — DeepSeek Harness 订阅用量查询插件 (✅ active)
 - [dsh-super-pm](https://github.com/Lohaslee/dsh-super-pm)  — Product-thinking companion for DeepSeek Harness: clarifies negative boundaries first, separates facts from assumptions, routes through seven product lenses, and persists confirmed decisions to project memory. (✅ active)

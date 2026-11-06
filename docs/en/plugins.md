@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 8153 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 8154 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [Rapid-MLX](resources/rapid-mlx.md) | ⭐3,863 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness. | ✅ active |
 | 10 | [dsh-anchored-standard](resources/dsh-anchored-standard.md) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 
-## Complete list (8153)
+## Complete list (8154)
 
 
 **Vision & multimodal (2902)**
@@ -8261,7 +8261,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-whale-musume](resources/dsh-whale-musume.md) | ⭐48 | Whale-girl desktop pet for the DSH web UI: pat-to-raise growth, work-state poses, 494 dialogue lines, 30 achievements, drag physics, theme sync and a built-in settings panel; local-first, zero telemetry (MIT, 102 unit tests). / 元气鲸鱼娘桌宠：摸头养成、工作状态联动、494 条台词与 30 项成就；全本地零遥测。 | ✅ active |
 
-**Notifications (27)**
+**Notifications (28)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -8290,6 +8290,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-niao-message](resources/dsh-niao-message.md) | ⭐1 | macOS 系统通知插件：在「异常终止 / 需要你操作 / 正常完成」三大场景弹通知中心横幅，点击横幅直达指定应用。 | ✅ active |
 | [dsh-notify-xc](resources/dsh-notify-xc.md) | ⭐1 | DSH 浏览器通知插件 —— agent 完成任务、运行出错或需要你输入 / 批准 / 审阅计划时，弹出系统级通知（Windows 通知中心气泡），点击气泡直达会话。 | ✅ active |
 | [dsh-sound-notify](resources/dsh-sound-notify-1.md) | ⭐1 | 用于DSH的对话框任务音效，以及个性化聊天背景||Dialog box sound effects for DSH, as well as personalized chat backgrounds. | ✅ active |
+| [DSH Extras](resources/dsh-extras.md) | – | Three DSH Web plugins in one MIT repository: a native always-on-top completion window with its own sound on Windows, Yandex SpeechKit TTS summaries of finished answers with a replay button, and a Yandex SpeechKit STT provider for the built-in Voice input. Installed from the version-free v1.1.0 release tarballs (no npm package yet). | ✅ active |
 | [dsh-end-notify](resources/dsh-end-notify.md) | – | DSH任务结束提示音 | ✅ active |
 | [dsh-wechat-clawbot](resources/dsh-wechat-clawbot.md) | – | WeChat ClawBot bridge for DeepSeek Harness: a QR-login floating ball relays messages to agent sessions, with reusable context tokens for out-of-window proactive push (maintained fork of lubaiUwU/DSH-WeChatClawBot). | ✅ active |
 

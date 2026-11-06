@@ -151617,5 +151617,24 @@
     "verified": false,
     "stars": 0,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-extras",
+    "name": "DSH Extras",
+    "type": "plugin",
+    "category": "notifications",
+    "repository": "https://github.com/Feskel2/dsh-extras",
+    "description": "Three DSH Web plugins in one MIT repository: a native always-on-top completion window with its own sound on Windows, Yandex SpeechKit TTS summaries of finished answers with a replay button, and a Yandex SpeechKit STT provider for the built-in Voice input. Installed from the version-free v1.1.0 release tarballs (no npm package yet).",
+    "description_zh": "一个 MIT 仓库中的三个 DSH Web 插件：Windows 上置顶的任务完成提示窗口及独立提示音、用 Yandex SpeechKit TTS 朗读已完成回答的摘要并提供重播按钮、以及为内置语音输入提供 Yandex SpeechKit 语音识别。通过 v1.1.0 发布的无版本号 tarball 安装（暂无 npm 包）。",
+    "capabilities": [
+      "notifications",
+      "ui",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "license": "MIT",
+    "install": "dsh plugin --profile web add https://github.com/Feskel2/dsh-extras/releases/download/v1.1.0/dsh-topmost-notify.tgz"
   }
 ]

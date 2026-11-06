@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | ⭐3,863 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness. | ✅ active |
 | 10 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 
-#### Complete list (8153)
+#### Complete list (8154)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -8067,6 +8067,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [zhaoyu-restart](https://github.com/SUJIElearning/zhaoyu-restart) ⭐1 — One-click silent DSH restart button for DeepSeek Harness (dsh-plugin) (✅ active)
 - [zhiji-DSH-Plugin](https://github.com/an-X550/zhiji-DSH-Plugin) ⭐1 — zhiji DSH Plugin：面向 DeepSeek Harness 的日志与复盘适配插件 (✅ active)
 - [deepseek-harness-pocket](https://github.com/monster-echo/deepseek-harness-pocket)  — 把 DeepSeek Harness 装进口袋 · dsh 的手机伴侣端（掌鲸 DSH Pocket）：多 Worker · Gateway 中转 · 会话全功能对等 (✅ active)
+- [DSH Extras](https://github.com/Feskel2/dsh-extras)  — Three DSH Web plugins in one MIT repository: a native always-on-top completion window with its own sound on Windows, Yandex SpeechKit TTS summaries of finished answers with a replay button, and a Yandex SpeechKit STT provider for the built-in Voice input. Installed from the version-free v1.1.0 release tarballs (no npm package yet). (✅ active)
 - [dsh-about](https://github.com/cdllang/dsh-about)  — About page plugin for DeepSeek Harness: version card + one-click server update, shaped like an official dsh client plugin (✅ active)
 - [dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)  — Alibaba Cloud OpenAPI MCP connection for DSH: static-credential mode through the official OpenAPI MCP proxy, exposing ECS / OSS / DNS / Function Compute APIs as mcp__aliyun__* tools. (✅ active)
 - [dsh-ambient](https://github.com/weibaohui/dsh-ambient)  — White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently. Supports sequential / shuffle / single-loop / intermittent playback and AI-driven background music download. (🧪 experimental)
@@ -13296,7 +13297,7 @@ awesome-deepseek-harness/
 | 9 | [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | ⭐3,863 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness. | ✅ active |
 | 10 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 
-#### Complete list (8153)
+#### Complete list (8154)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 (✅ active)
@@ -21193,6 +21194,7 @@ awesome-deepseek-harness/
 - [zhaoyu-restart](https://github.com/SUJIElearning/zhaoyu-restart) ⭐1 — One-click silent DSH restart button for DeepSeek Harness (dsh-plugin) (✅ active)
 - [zhiji-DSH-Plugin](https://github.com/an-X550/zhiji-DSH-Plugin) ⭐1 — zhiji DSH Plugin：面向 DeepSeek Harness 的日志与复盘适配插件 (✅ active)
 - [deepseek-harness-pocket](https://github.com/monster-echo/deepseek-harness-pocket)  — 把 DeepSeek Harness 装进口袋 · dsh 的手机伴侣端（掌鲸 DSH Pocket）：多 Worker · Gateway 中转 · 会话全功能对等 (✅ active)
+- [DSH Extras](https://github.com/Feskel2/dsh-extras)  — Three DSH Web plugins in one MIT repository: a native always-on-top completion window with its own sound on Windows, Yandex SpeechKit TTS summaries of finished answers with a replay button, and a Yandex SpeechKit STT provider for the built-in Voice input. Installed from the version-free v1.1.0 release tarballs (no npm package yet). (✅ active)
 - [dsh-about](https://github.com/cdllang/dsh-about)  — About page plugin for DeepSeek Harness: version card + one-click server update, shaped like an official dsh client plugin (✅ active)
 - [dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)  — Alibaba Cloud OpenAPI MCP connection for DSH: static-credential mode through the official OpenAPI MCP proxy, exposing ECS / OSS / DNS / Function Compute APIs as mcp__aliyun__* tools. (✅ active)
 - [dsh-ambient](https://github.com/weibaohui/dsh-ambient)  — White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently. Supports sequential / shuffle / single-loop / intermittent playback and AI-driven background music download. (🧪 experimental)

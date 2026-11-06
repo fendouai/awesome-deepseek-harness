@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（8153 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（8154 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [Rapid-MLX](resources/rapid-mlx.md) | ⭐3,863 | Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness. | ✅ 活跃 |
 | 10 | [dsh-anchored-standard](resources/dsh-anchored-standard.md) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 
-## 完整列表（8153）
+## 完整列表（8154）
 
 
 **视觉与多模态（2902）**
@@ -8261,7 +8261,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-whale-musume](resources/dsh-whale-musume.md) | ⭐48 | 元气鲸鱼娘桌宠：摸头养成、工作状态联动、494 条台词与 30 项成就，支持拖拽物理、主题适配与内置设置面板；全本地、零遥测（MIT，102 项单测）。 | ✅ 活跃 |
 
-**通知（27）**
+**通知（28）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -8290,6 +8290,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-niao-message](resources/dsh-niao-message.md) | ⭐1 | macOS 系统通知插件：在「异常终止 / 需要你操作 / 正常完成」三大场景弹通知中心横幅，点击横幅直达指定应用。 | ✅ 活跃 |
 | [dsh-notify-xc](resources/dsh-notify-xc.md) | ⭐1 | DSH 浏览器通知插件 —— agent 完成任务、运行出错或需要你输入 / 批准 / 审阅计划时，弹出系统级通知（Windows 通知中心气泡），点击气泡直达会话。 | ✅ 活跃 |
 | [dsh-sound-notify](resources/dsh-sound-notify-1.md) | ⭐1 | 用于DSH的对话框任务音效，以及个性化聊天背景||Dialog box sound effects for DSH, as well as personalized chat backgrounds. | ✅ 活跃 |
+| [DSH Extras](resources/dsh-extras.md) | – | 一个 MIT 仓库中的三个 DSH Web 插件：Windows 上置顶的任务完成提示窗口及独立提示音、用 Yandex SpeechKit TTS 朗读已完成回答的摘要并提供重播按钮、以及为内置语音输入提供 Yandex SpeechKit 语音识别。通过 v1.1.0 发布的无版本号 tarball 安装（暂无 npm 包）。 | ✅ 活跃 |
 | [dsh-end-notify](resources/dsh-end-notify.md) | – | DSH任务结束提示音 | ✅ 活跃 |
 | [dsh-wechat-clawbot](resources/dsh-wechat-clawbot.md) | – | DeepSeek Harness 的微信 ClawBot 桥接：扫码登录悬浮球把消息桥接到 agent 会话，并复用 context_token 支持窗口外主动推送（lubaiUwU/DSH-WeChatClawBot 的维护分支）。 | ✅ 活跃 |
 

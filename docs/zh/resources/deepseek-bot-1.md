@@ -1,28 +1,28 @@
 ---
-title: "DeepSeek-Bot"
-description: "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats."
-keywords: "DeepSeek-Bot, channel, integration, coding, multi-agent, deepseek harness, dsh"
+title: "DS-Bot"
+description: "DeepSeek Harness 的长期存活 Bot 团队：主 Bot、Bot 之间的消息与群聊。"
+keywords: "DS-Bot, channel, integration, coding, multi-agent, deepseek harness, dsh"
 ---
-# DeepSeek-Bot
+# DS-Bot
 
-> ⭐ **1,835** · ✅ 活跃 · 集成
+> ⭐ **5,690** · ✅ 活跃 · 集成
 
 | | | | |
 |---|---|---|---|
 | 类型 | 集成 | 分类 | 渠道 |
-| 星数 | ⭐ 1,835 | 状态 | ✅ 活跃 |
+| 星数 | ⭐ 5,690 | 状态 | ✅ 活跃 |
 | 作者 | [Fei2411](https://github.com/Fei2411) | 更新时间 | — |
 
 ## 一句话介绍
 
-> A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
+> DeepSeek Harness 的长期存活 Bot 团队：主 Bot、Bot 之间的消息与群聊。
 
 ## 详细介绍
 
-A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
+DeepSeek Harness 的长期存活 Bot 团队：主 Bot、Bot 之间的消息与群聊。
 
 ## 🔗 链接
 
-- [GitHub 仓库](https://github.com/Fei2411/DeepSeek-Bot)
-- [完整 README](https://github.com/Fei2411/DeepSeek-Bot#readme)
-- [返回DeepSeek-Bot所在分类](../integrations.md)
+- [GitHub 仓库](https://github.com/Fei2411/DS-Bot)
+- [完整 README](https://github.com/Fei2411/DS-Bot#readme)
+- [返回DS-Bot所在分类](../integrations.md)

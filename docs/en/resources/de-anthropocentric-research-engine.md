@@ -1,28 +1,28 @@
 ---
 title: "de-anthropocentric-research-engine"
-description: "900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction."
-keywords: "de-anthropocentric-research-engine, mcp, integration, coding, search, deepseek harness, dsh"
+description: "Runs literature synthesis, gap validation, hypothesis formation and experiment design from a stated research direction. Approves its staged plan before anything runs, walks back to the literature when the evidence cannot carry the experiment it is designing, and resumes an interrupted run from the last complete checkpoint. Pure markdown; no runtime, no API key."
+keywords: "de-anthropocentric-research-engine, research, skill, search, workflow, deepseek harness, dsh"
 ---
 # de-anthropocentric-research-engine
 
-> ⭐ **470** · ✅ active · integration
+> ⭐ **505** · ✅ active · skill
 
 | | | | |
 |---|---|---|---|
-| Type | integration | Category | MCP |
-| Stars | ⭐ 470 | Status | ✅ active |
+| Type | skill | Category | Research |
+| Stars | ⭐ 505 | Status | ✅ active |
 | Author | [yogsoth-ai](https://github.com/yogsoth-ai) | Updated | — |
 
 ## One-liner
 
-> 900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction.
+> Runs literature synthesis, gap validation, hypothesis formation and experiment design from a stated research direction. Approves its staged plan before anything runs, walks back to the literature when the evidence cannot carry the experiment it is designing, and resumes an interrupted run from the last complete checkpoint. Pure markdown; no runtime, no API key.
 
 ## About
 
-900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtracking, 6 MCP integrations. The AI is the researcher — you set the direction.
+Runs literature synthesis, gap validation, hypothesis formation and experiment design from a stated research direction. Approves its staged plan before anything runs, walks back to the literature when the evidence cannot carry the experiment it is designing, and resumes an interrupted run from the last complete checkpoint. Pure markdown; no runtime, no API key.
 
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/yogsoth-ai/de-anthropocentric-research-engine)
 - [Full README](https://github.com/yogsoth-ai/de-anthropocentric-research-engine#readme)
-- [Back to the MCP & Integrations list](../integrations.md)
+- [Back to the Skills list](../skills.md)

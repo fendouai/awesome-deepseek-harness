@@ -272,20 +272,26 @@ def resource_page(e, zh):
     return "\n".join(lines)
 
 
-def _back_title(e):
+_BACK_INDEX = {}
+
+
+def _load_back_index():
+    """Map entry id -> (section slug, section title) once instead of per page."""
     for slug, title, fname in SECTIONS:
         for entry in json.loads((DATA_DIR / fname).read_text()):
-            if entry["id"] == e["id"]:
-                return title
-    return "overview"
+            _BACK_INDEX[entry["id"]] = (slug, title)
+
+
+def _back_title(e):
+    if not _BACK_INDEX:
+        _load_back_index()
+    return _BACK_INDEX.get(e["id"], (None, "overview"))[1]
 
 
 def _back_slug(e):
-    for slug, title, fname in SECTIONS:
-        for entry in json.loads((DATA_DIR / fname).read_text()):
-            if entry["id"] == e["id"]:
-                return slug
-    return "index"
+    if not _BACK_INDEX:
+        _load_back_index()
+    return _BACK_INDEX.get(e["id"], ("index", None))[0]
 
 
 def official_guides_table():

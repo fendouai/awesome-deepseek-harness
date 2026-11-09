@@ -138,6 +138,41 @@
     "growth": 10
   },
   {
+    "id": "namidsh",
+    "name": "NamiDSH",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/aa1143/NamiDSH",
+    "description": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
+    "description_zh": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 189,
+    "license": "MIT"
+  },
+  {
+    "id": "wpsnote-skills",
+    "name": "wpsnote-skills",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/wpsnote/wpsnote-skills",
+    "description": "WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Server 让 DeepSeek Harness、灵犀、WorkBuddy、Claude Code、Codex、Cursor 直接驱动你的笔记知识库（读写、搜索、导入、排版与学习）。",
+    "description_zh": "WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Server 让 DeepSeek Harness、灵犀、WorkBuddy、Claude Code、Codex、Cursor 直接驱动你的笔记知识库（读写、搜索、导入、排版与学习）。",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 184,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-tutorial",
     "name": "deepseek-harness-tutorial",
     "type": "tutorial",
@@ -207,6 +242,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-fish-2",
+    "name": "dsh-fish",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/ssamurias/dsh-fish",
+    "description": "DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。",
+    "description_zh": "DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 120,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-web-studyhub",
     "name": "dsh-web-studyhub",
     "type": "tutorial",
@@ -220,6 +272,23 @@
     "status": "active",
     "verified": false,
     "stars": 85,
+    "license": "MIT"
+  },
+  {
+    "id": "qiaomu-ui-learn-dsh",
+    "name": "qiaomu-ui-learn-dsh",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/joeseesun/qiaomu-ui-learn-dsh",
+    "description": "原版乔木 UI 学习的 DeepSeek Harness 迁移版：13561 设计参考、106 交互标本、审美测验与 Markdown 学习笔记",
+    "description_zh": "原版乔木 UI 学习的 DeepSeek Harness 迁移版：13561 设计参考、106 交互标本、审美测验与 Markdown 学习笔记",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 81,
     "license": "MIT"
   },
   {
@@ -342,6 +411,22 @@
     "stars": 36
   },
   {
+    "id": "course-study-guide",
+    "name": "course-study-guide",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/C-xudco/course-study-guide",
+    "description": "递进式学案与备课 Skill｜适配 Codex、豆包、DeepSeek Harness｜母题变式、双语详解、难度评价与小白安装教程",
+    "description_zh": "递进式学案与备课 Skill｜适配 Codex、豆包、DeepSeek Harness｜母题变式、双语详解、难度评价与小白安装教程",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 26,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-oneclick-pack",
     "name": "deepseek-harness-oneclick-pack",
     "type": "tutorial",
@@ -356,6 +441,22 @@
     "status": "active",
     "verified": false,
     "stars": 24
+  },
+  {
+    "id": "dsh-game-stack",
+    "name": "dsh-game-stack",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/yuanstarstar/dsh-game-stack",
+    "description": "DSH 打游戏插件合集：游戏感知 / 视觉实体 / 游戏学习（规则+流程+闸门+知识库）/ 直播桥 / 启动器，5 个可安装 bundle 一键安装",
+    "description_zh": "DSH 打游戏插件合集：游戏感知 / 视觉实体 / 游戏学习（规则+流程+闸门+知识库）/ 直播桥 / 启动器，5 个可安装 bundle 一键安装",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 22,
+    "license": "MIT"
   },
   {
     "id": "dsh-piggy",
@@ -406,6 +507,22 @@
     "repository": "https://github.com/bainianling/dsh-jailbreak-mode",
     "description": "DSH Jailbreak Mode standalone plugin — 破甲模式插件（仅学习交流与授权安全研究）",
     "description_zh": "DSH Jailbreak Mode standalone plugin — 破甲模式插件（仅学习交流与授权安全研究）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 15,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-purge-deep",
+    "name": "dsh-purge-deep",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/xxy0722/dsh-purge-deep",
+    "description": "DeepSeek Harness 破甲深度分支：首尾夹击 + 生成层熔断 + 宿主源码级补丁。基于 YuJunZhiXue/dsh-purge (MIT) 改造，适配 dsh 桌面版 0.2.1-rc.3。仅供学习研究与红队评测。",
+    "description_zh": "DeepSeek Harness 破甲深度分支：首尾夹击 + 生成层熔断 + 宿主源码级补丁。基于 YuJunZhiXue/dsh-purge (MIT) 改造，适配 dsh 桌面版 0.2.1-rc.3。仅供学习研究与红队评测。",
     "capabilities": [
       "coding"
     ],
@@ -578,6 +695,22 @@
       "long-running-tasks",
       "session-log"
     ]
+  },
+  {
+    "id": "dsh-feed-the-seek",
+    "name": "dsh-feed-the-seek",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Morgiana-V3/dsh-feed-the-seek",
+    "description": "大肥鱼饲养手册",
+    "description_zh": "大肥鱼饲养手册",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "license": "MIT"
   },
   {
     "id": "dsh-evolve-1",
@@ -864,6 +997,37 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-zju-lecture-note",
+    "name": "dsh-zju-lecture-note",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/chenqianyu486-sys/dsh-zju-lecture-note",
+    "description": "让 dsh 拉取智云课堂字幕及课件并整理课程学习资料",
+    "description_zh": "让 dsh 拉取智云课堂字幕及课件并整理课程学习资料",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
+    "id": "dsh-qfish",
+    "name": "dsh-qfish",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/hyun20202023-ui/dsh-qfish",
+    "description": "DSH-QQ bot 插件（OneBot v11 / NapCat）for DeepSeek Harness：人设、记忆、心情、学习表、联网、看b站，自带网页控制台。",
+    "description_zh": "DSH-QQ bot 插件（OneBot v11 / NapCat）for DeepSeek Harness：人设、记忆、心情、学习表、联网、看b站，自带网页控制台。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-deeptutor",
     "name": "dsh-deeptutor",
     "type": "tutorial",
@@ -1042,6 +1206,71 @@
     "repository": "https://github.com/Ame-Choo/dsh-study-coach",
     "description": "DSH 的学习教练插件：把一门课拆成知识地图，逐单元记掌握度、排每日任务，并给学生一个看得见进度的网页面板。",
     "description_zh": "DSH 的学习教练插件：把一门课拆成知识地图，逐单元记掌握度、排每日任务，并给学生一个看得见进度的网页面板。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-course-assistant",
+    "name": "dsh-course-assistant",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/logb-1/dsh-course-assistant",
+    "description": "DeepSeek Harness 插件：课程文件（PPTX/PDF/DOCX/MD）→ 目录识别 · 分章知识点 · B 站网课推荐 · Markdown/PDF 学习报告",
+    "description_zh": "DeepSeek Harness 插件：课程文件（PPTX/PDF/DOCX/MD）→ 目录识别 · 分章知识点 · B 站网课推荐 · Markdown/PDF 学习报告",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-immune",
+    "name": "dsh-plugin-immune",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/meat-daemon-404/dsh-plugin-immune",
+    "description": "Self-evolving pitfall immunity for coding agents: learn from failed-then-fixed tool calls, inject the lesson before the mistake repeats. ZCode plugin + DSH adapter skeleton.",
+    "description_zh": "Self-evolving pitfall immunity for coding agents: learn from failed-then-fixed tool calls, inject the lesson before the mistake repeats. ZCode plugin + DSH adapter skeleton.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cx-learn",
+    "name": "dsh-cx-learn",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/forgotfish/dsh-cx-learn",
+    "description": "DSH 插件：超星学习通自动看课（CDP 驱动真实 Chromium）",
+    "description_zh": "DSH 插件：超星学习通自动看课（CDP 驱动真实 Chromium）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-companion-memory",
+    "name": "dsh-plugin-companion-memory",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/123zxs345/dsh-plugin-companion-memory",
+    "description": "DSH 情感陪伴记忆插件：人也记不住每次闲聊。主动学习用户画像，提炼你在意、会自己记住的经历；三层渐进披露、缓存与总结复用。",
+    "description_zh": "DSH 情感陪伴记忆插件：人也记不住每次闲聊。主动学习用户画像，提炼你在意、会自己记住的经历；三层渐进披露、缓存与总结复用。",
     "capabilities": [
       "coding"
     ],
@@ -1307,6 +1536,152 @@
       "coding",
       "multi-agent",
       "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-project-based-learning",
+    "name": "dsh-project-based-learning",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Kirisame1969/dsh-project-based-learning",
+    "description": "DSH 项目制教学教练：先教学后实践，以真实作品为主线，按实践证据调整支架；教学协议与学科解耦。A project-based teaching coach for DeepSeek Harness.",
+    "description_zh": "DSH 项目制教学教练：先教学后实践，以真实作品为主线，按实践证据调整支架；教学协议与学科解耦。A project-based teaching coach for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-video-to-notes",
+    "name": "dsh-video-to-notes",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/YLL-KB/dsh-video-to-notes",
+    "description": "Opt-in DeepSeek Harness skill bundle that turns course, lecture, tutorial, documentary, meeting, and talk videos into structured study notes.",
+    "description_zh": "Opt-in DeepSeek Harness skill bundle that turns course, lecture, tutorial, documentary, meeting, and talk videos into structured study notes.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ppap-check",
+    "name": "dsh-ppap-check",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/PerryLink/dsh-ppap-check",
+    "description": "给供应商质量/质量工程师：按 PPAP 手册与提交等级核对生产件批准（PPAP）资料的要素齐备与版本填写。 PPAP submission level and element check.",
+    "description_zh": "给供应商质量/质量工程师：按 PPAP 手册与提交等级核对生产件批准（PPAP）资料的要素齐备与版本填写。 PPAP submission level and element check.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-homeassistant",
+    "name": "dsh-homeassistant",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/huhuai-ni/dsh-homeassistant",
+    "description": "DSH 插件：用 Home Assistant 接管米家（小米智能家居）设备 —— 灯 / 空调 / 风扇 / 红外遥控，带设置页与完整教程。",
+    "description_zh": "DSH 插件：用 Home Assistant 接管米家（小米智能家居）设备 —— 灯 / 空调 / 风扇 / 红外遥控，带设置页与完整教程。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "de-ai-writing-skill",
+    "name": "De-AI-Writing-Skill",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Rexray117/De-AI-Writing-Skill",
+    "description": "De-AI Writing · 中文写作去 AI 味总控｜中文写作去 AI 味总控。两大功能：①修改已有文章——先定文体，再把 AI 生成感量化为客观指标（词表密度、句式重复率、模板腔密度、结构指纹），逐处核对后给改写方案，附完整性守卫；②从零生成文案——先逐步与用户确认文体、文风、受众、篇幅等全部要素，严禁擅自推测补料，确认完才动笔。判定标准分层：主矛盾（结论先行、防御性写作、伪排比、细节不服务上下文）优先于次要矛盾（词表句式）。覆盖七大类中文文体（实用说明、专业论证、商务事务、营销转化、叙事创作、社交表达、法规制度）四十余个子类。触发词：去 AI 味、降 AI 率、AI 感、太像 AI 写的、人机味、不像人话、润色、改写、humanize、论文降AI率、公众号文案、帮",
+    "description_zh": "De-AI Writing · 中文写作去 AI 味总控｜中文写作去 AI 味总控。两大功能：①修改已有文章——先定文体，再把 AI 生成感量化为客观指标（词表密度、句式重复率、模板腔密度、结构指纹），逐处核对后给改写方案，附完整性守卫；②从零生成文案——先逐步与用户确认文体、文风、受众、篇幅等全部要素，严禁擅自推测补料，确认完才动笔。判定标准分层：主矛盾（结论先行、防御性写作、伪排比、细节不服务上下文）优先于次要矛盾（词表句式）。覆盖七大类中文文体（实用说明、专业论证、商务事务、营销转化、叙事创作、社交表达、法规制度）四十余个子类。触发词：去 AI 味、降 AI 率、AI 感、太像 AI 写的、人机味、不像人话、润色、改写、humanize、论文降AI率、公众号文案、帮",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-tomato-todo",
+    "name": "dsh-plugin-tomato-todo",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/AntheaLaffy/dsh-plugin-tomato-todo",
+    "description": "番茄 Todo：DeepSeek Harness (DSH) 插件形态的专注与学习工具——整站番茄皮肤、番茄钟与专注保护、任务/课表/应试教育、本地资料库索引，数据全在本机（TypeScript 核心 + Node runtime + Rust 原生守卫）。",
+    "description_zh": "番茄 Todo：DeepSeek Harness (DSH) 插件形态的专注与学习工具——整站番茄皮肤、番茄钟与专注保护、任务/课表/应试教育、本地资料库索引，数据全在本机（TypeScript 核心 + Node runtime + Rust 原生守卫）。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-talent-tree",
+    "name": "dsh-talent-tree",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/a961282799-crypto/dsh-talent-tree",
+    "description": "DeepSeek Harness 插件：把想学的知识拆成游戏天赋树，学会一个点亮一个 · A game-like learning talent tree for DeepSeek Harness",
+    "description_zh": "DeepSeek Harness 插件：把想学的知识拆成游戏天赋树，学会一个点亮一个 · A game-like learning talent tree for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "study-companion",
+    "name": "study-companion",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/zgdllt/study-companion",
+    "description": "Study Companion (伴学): a DeepSeek Harness plugin for learning plans, exams, spaced review, and lecture notes.",
+    "description_zh": "Study Companion (伴学): a DeepSeek Harness plugin for learning plans, exams, spaced review, and lecture notes.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-companion-one",
+    "name": "dsh-companion-one",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/27Synthesis/dsh-companion-one",
+    "description": "自包含 DSH 陪伴插件：五区可塑人格、七层记忆、上下文压缩、记忆合并、B 站文风学习、陪伴分寸与心声；零额外模型调用，省 token。A self-contained DSH companion plugin: five-region persona, seven-layer memory, compression, memory merge, style learning, token-frugal by design.",
+    "description_zh": "自包含 DSH 陪伴插件：五区可塑人格、七层记忆、上下文压缩、记忆合并、B 站文风学习、陪伴分寸与心声；零额外模型调用，省 token。A self-contained DSH companion plugin: five-region persona, seven-layer memory, compression, memory merge, style learning, token-frugal by design.",
+    "capabilities": [
+      "coding",
+      "memory"
     ],
     "status": "active",
     "verified": false,
@@ -1970,6 +2345,313 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "deepseek-harness-101",
+    "name": "deepseek-harness-101",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Momojie-S/deepseek-harness-101",
+    "description": "DeepSeek Harness 插件开发集 (submodule 索引)",
+    "description_zh": "DeepSeek Harness 插件开发集 (submodule 索引)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-plugin-forge-3",
+    "name": "dsh-plugin-forge",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/MYCF711/dsh-plugin-forge",
+    "description": "dsh 插件锻造工坊：一支专家 Agent 团队，从零把 dsh 插件锻造到可发布版本 | An expert agent team that forges DeepSeek Harness plugins from zero to release",
+    "description_zh": "dsh 插件锻造工坊：一支专家 Agent 团队，从零把 dsh 插件锻造到可发布版本 | An expert agent team that forges DeepSeek Harness plugins from zero to release",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "dsh-learn-skills",
+    "name": "dsh-learn-skills",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/yiyunet/dsh-learn-skills",
+    "description": "一个跑在 DeepSeek Harness 输入区的学习插件：把「收集 → 提炼 → 关联 → 升级 → 沉淀 → 复用」做成有交互引导、预设管理、审核入库与体系体检的运行时能力。DeepSeek Harness plugin: a four-entry learning workspace.",
+    "description_zh": "一个跑在 DeepSeek Harness 输入区的学习插件：把「收集 → 提炼 → 关联 → 升级 → 沉淀 → 复用」做成有交互引导、预设管理、审核入库与体系体检的运行时能力。DeepSeek Harness plugin: a four-entry learning workspace.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-learning-hub",
+    "name": "dsh-learning-hub",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/ZBC-QRLA/dsh-learning-hub",
+    "description": "A local-first learning hub plugin for DeepSeek Harness: branch tree, concept graph, progress, spaced review and a small dashboard.",
+    "description_zh": "A local-first learning hub plugin for DeepSeek Harness: branch tree, concept graph, progress, spaced review and a small dashboard.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-autodidact",
+    "name": "dsh-autodidact",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/FYZB2020/dsh-autodidact",
+    "description": "Go learn it instead of guessing — task-driven self-education for DeepSeek Harness. 8 keyless engines, WeChat / Bilibili / academic search. Zero cookies, no browser automation. · 不会就去学：给 DeepSeek Harness 的任务驱动自学能力（行为技能 + 数据源 + 本地知识库）",
+    "description_zh": "Go learn it instead of guessing — task-driven self-education for DeepSeek Harness. 8 keyless engines, WeChat / Bilibili / academic search. Zero cookies, no browser automation. · 不会就去学：给 DeepSeek Harness 的任务驱动自学能力（行为技能 + 数据源 + 本地知识库）",
+    "capabilities": [
+      "browser",
+      "coding",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-oi-coach",
+    "name": "dsh-oi-coach",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/wangdapeng325/dsh-oi-coach",
+    "description": "信奥教练插件 for DeepSeek Harness：教练规则提示词 + 学习路线图/知识点/命题/C++ 真评测 + ima 知识库检索与 4 笔记本归档，面向 GESP、CSP-J/S、NOIP、NOI 教学",
+    "description_zh": "信奥教练插件 for DeepSeek Harness：教练规则提示词 + 学习路线图/知识点/命题/C++ 真评测 + ima 知识库检索与 4 笔记本归档，面向 GESP、CSP-J/S、NOIP、NOI 教学",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "agents-learning",
+    "name": "agents-learning",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/swenbo1-web/agents-learning",
+    "description": "Local-first Governed Memory Engine for Codex, Antigravity & DSH (DeepSeek Harness). Conclusion-first progressive retrieval, automatic tool-error follow-up, compaction survival, counterexample circuit-breakers & native visual UI.",
+    "description_zh": "Local-first Governed Memory Engine for Codex, Antigravity & DSH (DeepSeek Harness). Conclusion-first progressive retrieval, automatic tool-error follow-up, compaction survival, counterexample circuit-breakers & native visual UI.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-study-planner",
+    "name": "dsh-study-planner",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/4399Accelerator/dsh-study-planner",
+    "description": "DSH（DeepSeek Harness）学习计划插件：会话视图里的「学习计划」标签，显示每日计划、课后题与打卡进度可视化，计划由对话生成。",
+    "description_zh": "DSH（DeepSeek Harness）学习计划插件：会话视图里的「学习计划」标签，显示每日计划、课后题与打卡进度可视化，计划由对话生成。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-douyin-bridge",
+    "name": "dsh-douyin-bridge",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/pcmxiao/dsh-douyin-bridge",
+    "description": "DSH 插件：把抖音私信接进 DSH —— 私信进 DSH 会话，AI 用工具刷视频、分享、聊天（含图片/表情收发）。仅供学习研究。",
+    "description_zh": "DSH 插件：把抖音私信接进 DSH —— 私信进 DSH 会话，AI 用工具刷视频、分享、聊天（含图片/表情收发）。仅供学习研究。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "tiaforge-plugins",
+    "name": "tiaforge-plugins",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/tia-forge/tiaforge-plugins",
+    "description": "西门子博途（TIA Portal）工程自动化的一套插件：五个工具技能 + 一个学习教练 + 四个斜杠指令 + 一条 MCP 连接。",
+    "description_zh": "西门子博途（TIA Portal）工程自动化的一套插件：五个工具技能 + 一个学习教练 + 四个斜杠指令 + 一条 MCP 连接。",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "CC-BY-4.0"
+  },
+  {
+    "id": "dsh-study-kit",
+    "name": "dsh-study-kit",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/via103/dsh-study-kit",
+    "description": "面向个人的 AI 学习系统：多会话分工、文件记忆、学科插件（DSH 插件包）",
+    "description_zh": "面向个人的 AI 学习系统：多会话分工、文件记忆、学科插件（DSH 插件包）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-english-study",
+    "name": "dsh-english-study",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/woshijing1991-cloud/dsh-english-study",
+    "description": "Learn English by watching YouTube inside DeepSeek Harness: immersion time, lookup history, vocabulary book with SM-2 spaced repetition and a local dashboard. 100% local, no cloud sync.",
+    "description_zh": "Learn English by watching YouTube inside DeepSeek Harness: immersion time, lookup history, vocabulary book with SM-2 spaced repetition and a local dashboard. 100% local, no cloud sync.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-learning-coach",
+    "name": "dsh-skill-learning-coach",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/wanlte/dsh-skill-learning-coach",
+    "description": "会记住你卡在哪的 DSH 学习陪练 · roadmap in settings, state on disk, mastery by unprompted output",
+    "description_zh": "会记住你卡在哪的 DSH 学习陪练 · roadmap in settings, state on disk, mastery by unprompted output",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-writing-style-learner",
+    "name": "dsh-writing-style-learner",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/ygz77/dsh-writing-style-learner",
+    "description": "一个可学习任意写作风格的 DeepSeek Harness 插件",
+    "description_zh": "一个可学习任意写作风格的 DeepSeek Harness 插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "every-thing-is-possible",
+    "name": "every-thing-is-possible",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/show-thesky/every-thing-is-possible",
+    "description": "这是一个学习仓库",
+    "description_zh": "这是一个学习仓库",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-word-master",
+    "name": "dsh-word-master",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/wszw142857-beep/dsh-word-master",
+    "description": "Word Master for DeepSeek Harness — agent preset 形式把素材做成规范 Word 文档：素材转换 → 规格冻结 → 逐节写作 → 质检门 → 审阅界面 → 渲染闸门 → 导出。架构范式学习自 PPT Master。",
+    "description_zh": "Word Master for DeepSeek Harness — agent preset 形式把素材做成规范 Word 文档：素材转换 → 规格冻结 → 逐节写作 → 质检门 → 审阅界面 → 渲染闸门 → 导出。架构范式学习自 PPT Master。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-growth",
+    "name": "dsh-agent-growth",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/XiaoZheBrother/dsh-agent-growth",
+    "description": "大肥鱼成长插件：让 AI 从真实素材中学习、形成选题、复盘作品并积累可追溯记忆。适用于 DeepSeek Harness，可自定义角色。",
+    "description_zh": "大肥鱼成长插件：让 AI 从真实素材中学习、形成选题、复盘作品并积累可追溯记忆。适用于 DeepSeek Harness，可自定义角色。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-volc-mem0",
+    "name": "dsh-volc-mem0",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/aidrama-lab/dsh-volc-mem0",
+    "description": "为 DeepSeek Harness（DSH）接入火山引擎 Mem0，支持跨会话记忆、自动召回、后台学习与经验自进化，并提供多项目管理和原生设置页面。",
+    "description_zh": "为 DeepSeek Harness（DSH）接入火山引擎 Mem0，支持跨会话记忆、自动召回、后台学习与经验自进化，并提供多项目管理和原生设置页面。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-plugin-learning-mode",
+    "name": "dsh-plugin-learning-mode",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/zdj-1212/dsh-plugin-learning-mode",
+    "description": "DeepSeek Harness 学习模式插件：/learn 先了解你的实际情况，再生成专属完整学习资料与分阶段学习路线，状态持久化。",
+    "description_zh": "DeepSeek Harness 学习模式插件：/learn 先了解你的实际情况，再生成专属完整学习资料与分阶段学习路线，状态持久化。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "deepseek-harness-brain",

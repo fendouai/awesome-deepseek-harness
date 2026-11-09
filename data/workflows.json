@@ -111,6 +111,55 @@
     "license": "AGPL-3.0"
   },
   {
+    "id": "dsh-jailbreak-workflow",
+    "name": "dsh-jailbreak-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Minglink/dsh-jailbreak-workflow",
+    "description": "DSH 破甲词制作作工作流",
+    "description_zh": "DSH 破甲词制作作工作流",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 655
+  },
+  {
+    "id": "molio",
+    "name": "Molio",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/zhuzhaoyun/Molio",
+    "description": "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.",
+    "description_zh": "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 443
+  },
+  {
+    "id": "dsh-workflows",
+    "name": "dsh-workflows",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Minglink/dsh-workflows",
+    "description": "工作流仓库 - dsh 插件的 .wflite.zip 工作流合集 by MingLin",
+    "description_zh": "工作流仓库 - dsh 插件的 .wflite.zip 工作流合集 by MingLin",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 218,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-agent-team-gui",
     "name": "dsh-agent-team-gui",
     "type": "workflow",
@@ -257,6 +306,24 @@
     "growth": 4
   },
   {
+    "id": "dsh-computer-use-13",
+    "name": "dsh-computer-use",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/LJL454/dsh-computer-use",
+    "description": "给 DeepSeek Harness 装上「一双手」：让模型能看屏幕、动鼠标键盘、操作窗口与控件。截屏 / 鼠标 / 键盘 / 剪贴板 / 窗口与 UI Automation，支持批处理动作与可读的失败原因。",
+    "description_zh": "给 DeepSeek Harness 装上「一双手」：让模型能看屏幕、动鼠标键盘、操作窗口与控件。截屏 / 鼠标 / 键盘 / 剪贴板 / 窗口与 UI Automation，支持批处理动作与可读的失败原因。",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 73,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-automation",
     "name": "dsh-automation",
     "type": "workflow",
@@ -331,6 +398,24 @@
     "_updated": "2026-08-21",
     "_stars_prev": 51,
     "growth": 1
+  },
+  {
+    "id": "rho",
+    "name": "Rho",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/YuLab-SMU/Rho",
+    "description": "🔬 The workspace for you and agents. Discover questions in the data; test explanations against the results.",
+    "description_zh": "🔬 The workspace for you and agents. Discover questions in the data; test explanations against the results.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 49,
+    "license": "AGPL-3.0"
   },
   {
     "id": "deepseek-harness-pr-review",
@@ -491,6 +576,42 @@
     "license": "AGPL-3.0"
   },
   {
+    "id": "supergraph",
+    "name": "supergraph",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/datit309/supergraph",
+    "description": "Engineering workflow system for AI coding agents — mandatory planning, TDD, verification, review, and intelligent codebase graph analysis.",
+    "description_zh": "Engineering workflow system for AI coding agents — mandatory planning, TDD, verification, review, and intelligent codebase graph analysis.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 23,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-solidworks",
+    "name": "dsh-solidworks",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/tian-yu200/dsh-solidworks",
+    "description": "DeepSeek Harness integration for safe, high-level SolidWorks automation, built on SolidPilot.",
+    "description_zh": "DeepSeek Harness integration for safe, high-level SolidWorks automation, built on SolidPilot.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 22,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "oh-my-knowledge",
     "name": "oh-my-knowledge",
     "type": "workflow",
@@ -628,6 +749,25 @@
     "license": "MIT"
   },
   {
+    "id": "comfy-png-inspector",
+    "name": "comfy-png-inspector",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/zzcyydshhh/comfy-png-inspector",
+    "description": "One PNG is a full recipe. Drop a ComfyUI image on the page and you get the workflow that produced it, the whole LoRA chain, and every sampler setting — export it as-is, or pour those parameters into your own template and get a fresh workflow back.",
+    "description_zh": "One PNG is a full recipe. Drop a ComfyUI image on the page and you get the workflow that produced it, the whole LoRA chain, and every sampler setting — export it as-is, or pour those parameters into your own template and get a fresh workflow back.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 16,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-automation-1",
     "name": "dsh-automation",
     "type": "workflow",
@@ -742,6 +882,24 @@
     "status": "active",
     "verified": false,
     "stars": 13
+  },
+  {
+    "id": "sanmu-skills",
+    "name": "sanmu-skills",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/luffysolution-svg/sanmu-skills",
+    "description": "Sanmu's Agent Skills collection. Academic PDFs, textbooks and slides to Markdown with LaTeX validation, high-resolution figures and Zotero workflows.",
+    "description_zh": "Sanmu's Agent Skills collection. Academic PDFs, textbooks and slides to Markdown with LaTeX validation, high-resolution figures and Zotero workflows.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 12,
+    "license": "MIT"
   },
   {
     "id": "dsh-harness-ops",
@@ -918,6 +1076,24 @@
       "coding",
       "multi-agent",
       "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-comfyui-workbench",
+    "name": "dsh-comfyui-workbench",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/YuChenLiao/dsh-comfyui-workbench",
+    "description": "DSH ComfyUI workbench: asset library + arbitrary workflow runner",
+    "description_zh": "DSH ComfyUI workbench: asset library + arbitrary workflow runner",
+    "capabilities": [
+      "coding",
+      "ui",
       "workflow"
     ],
     "status": "active",
@@ -1138,6 +1314,42 @@
     "capabilities": [
       "coding",
       "git",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-zcode-cli-proxy",
+    "name": "dsh-zcode-cli-proxy",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/kyle123740/dsh-zcode-cli-proxy",
+    "description": "dsh-zcode cli反代 —— 把 ZCode CLI（客户端 agent）接入 DeepSeek Harness：app-server 常驻通道、Start Plan 额度直连、真流式、图片输入、工具委派",
+    "description_zh": "dsh-zcode cli反代 —— 把 ZCode CLI（客户端 agent）接入 DeepSeek Harness：app-server 常驻通道、Start Plan 额度直连、真流式、图片输入、工具委派",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-pstack",
+    "name": "dsh-pstack",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/l246804/dsh-pstack",
+    "description": "pstack for DeepSeek Harness: rigorous agent workflows ported from cursor/plugins.",
+    "description_zh": "pstack for DeepSeek Harness: rigorous agent workflows ported from cursor/plugins.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
       "workflow"
     ],
     "status": "active",
@@ -1545,6 +1757,23 @@
     "stars": 6
   },
   {
+    "id": "dsh-plugin-chatgpt-siwc",
+    "name": "dsh-plugin-chatgpt-siwc",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Fanch-hui/dsh-plugin-chatgpt-siwc",
+    "description": "ChatGPT plan connection for DeepSeek Harness through Sign in with ChatGPT      通过官方接口将你的ChatGPT订阅接入dsh使用",
+    "description_zh": "ChatGPT plan connection for DeepSeek Harness through Sign in with ChatGPT      通过官方接口将你的ChatGPT订阅接入dsh使用",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-companion-1-1",
     "name": "dsh-companion",
     "type": "workflow",
@@ -1738,6 +1967,22 @@
     "capabilities": [
       "coding",
       "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-planning-mode",
+    "name": "dsh-task-planning-mode",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/TBTNCT/dsh-task-planning-mode",
+    "description": "DSH「任务规划」模式：先把你要的效果问清楚，再拆成可执行的规划与提示词（只规划、不实现）",
+    "description_zh": "DSH「任务规划」模式：先把你要的效果问清楚，再拆成可执行的规划与提示词（只规划、不实现）",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -2285,6 +2530,94 @@
     "status": "active",
     "verified": false,
     "stars": 4
+  },
+  {
+    "id": "delivery-board",
+    "name": "delivery-board",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/jerryxff26-alt/delivery-board",
+    "description": "Plan, owners, status & handoffs in one delivery.json next to your code. No SaaS. Diffable in PRs.",
+    "description_zh": "Plan, owners, status & handoffs in one delivery.json next to your code. No SaaS. Diffable in PRs.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-zcode-startplan",
+    "name": "dsh-zcode-startplan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Venshell/dsh-zcode-startplan",
+    "description": "DSH（DeepSeek Harness）接入 ZCode 赠送免费 plan：多账号池 + Web UI 管理面板 + bigmodel/zai 双渠道登录，零运行时依赖",
+    "description_zh": "DSH（DeepSeek Harness）接入 ZCode 赠送免费 plan：多账号池 + Web UI 管理面板 + bigmodel/zai 双渠道登录，零运行时依赖",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "dsh-dynamic-workflow",
+    "name": "dsh-Dynamic-Workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/orion-nebula-dev/dsh-Dynamic-Workflow",
+    "description": "通过 /workflow 运行 JSON 工作流、查看进度、选择子 Agent 模型并保留已完成结果继续执行。 JSON workflows via /workflow with progress, model selection and resumable Agent sessions.",
+    "description_zh": "通过 /workflow 运行 JSON 工作流、查看进度、选择子 Agent 模型并保留已完成结果继续执行。 JSON workflows via /workflow with progress, model selection and resumable Agent sessions.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
+    "id": "dsh-hindsight-gui",
+    "name": "dsh-hindsight-gui",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/KouzakiUmi/dsh-hindsight-gui",
+    "description": "A settings page for the Hindsight memory stack in the DeepSeek Harness sidebar, plus Windows deployment automation for a Hindsight server.",
+    "description_zh": "A settings page for the Hindsight memory stack in the DeepSeek Harness sidebar, plus Windows deployment automation for a Hindsight server.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-great-plan",
+    "name": "dsh-great-plan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/onefl666/dsh-great-plan",
+    "description": "DSH Web plugin: choose model and reasoning effort, then execute, compact-and-execute, or start fresh with a reviewed plan.",
+    "description_zh": "DSH Web plugin: choose model and reasoning effort, then execute, compact-and-execute, or start fresh with a reviewed plan.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
   },
   {
     "id": "dsh-agent-orchestration",
@@ -3251,6 +3584,130 @@
       "coding",
       "git",
       "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-openai-siwc",
+    "name": "dsh-openai-siwc",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/HackForJoy/dsh-openai-siwc",
+    "description": "Community DeepSeek Harness (DSH) LLM provider using OpenAI Sign in with ChatGPT (ChatGPT plan usage for open-source clients). Not affiliated with OpenAI or DeepSeek.",
+    "description_zh": "Community DeepSeek Harness (DSH) LLM provider using OpenAI Sign in with ChatGPT (ChatGPT plan usage for open-source clients). Not affiliated with OpenAI or DeepSeek.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "ds-pstack",
+    "name": "ds-pstack",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/monkeyin92/ds-pstack",
+    "description": "pstack for DeepSeek Harness: rigorous agent workflows, with every subagent's model chosen from the models you checked. 56 skills, deterministic role routing, zero extra API calls.",
+    "description_zh": "pstack for DeepSeek Harness: rigorous agent workflows, with every subagent's model chosen from the models you checked. 56 skills, deterministic role routing, zero extra API calls.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workflow-kit",
+    "name": "dsh-workflow-kit",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Ke-wood/dsh-workflow-kit",
+    "description": "DeepSeek Harness workflow kit: 5 agent presets + 18 skills + routing table",
+    "description_zh": "DeepSeek Harness workflow kit: 5 agent presets + 18 skills + routing table",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-team-conductor",
+    "name": "dsh-team-conductor",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/LittleAlety/dsh-team-conductor",
+    "description": "Unified control plane for DeepSeek Harness Agent Teams: context-pressure visibility, member add/edit/rename/reassign/delete, runtime capacity, subagent steering, duplicate settlement-notice guard.",
+    "description_zh": "Unified control plane for DeepSeek Harness Agent Teams: context-pressure visibility, member add/edit/rename/reassign/delete, runtime capacity, subagent steering, duplicate settlement-notice guard.",
+    "capabilities": [
+      "coding",
+      "context",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "review-workflow-1",
+    "name": "review-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/YaoleWu/review-workflow",
+    "description": "Structured agent reviews with independent panelists, disagreement resolution, and a separate critic.",
+    "description_zh": "Structured agent reviews with independent panelists, disagreement resolution, and a separate critic.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-usage-state",
+    "name": "dsh-usage-state",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/takboo/dsh-usage-state",
+    "description": "DSH plugin: show account balance (API mode) or coding-plan quota usage (5h/7d) for the model in use",
+    "description_zh": "DSH plugin: show account balance (API mode) or coding-plan quota usage (5h/7d) for the model in use",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ops-kit-1",
+    "name": "dsh-ops-kit",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/YaoleWu/dsh-ops-kit",
+    "description": "Evidence-driven memory, orchestration, benchmarks, and release workflows for DeepSeek Harness.",
+    "description_zh": "Evidence-driven memory, orchestration, benchmarks, and release workflows for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "memory",
       "workflow"
     ],
     "status": "active",
@@ -4734,6 +5191,297 @@
     "repository": "https://github.com/Akiyuki1130/dsh-ark-coding-provider",
     "description": "火山方舟 Coding Plan (Volcengine Ark) 的 DeepSeek Harness 提供商插件：多账户、内置 arkcli、官方套餐额度、12 模型实测容量",
     "description_zh": "火山方舟 Coding Plan (Volcengine Ark) 的 DeepSeek Harness 提供商插件：多账户、内置 arkcli、官方套餐额度、12 模型实测容量",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-verified-search-1",
+    "name": "dsh-plugin-verified-search",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Chih-Kai-Wang/dsh-plugin-verified-search",
+    "description": "Verified current-source search workflow for DeepSeek Harness",
+    "description_zh": "Verified current-source search workflow for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-popup-cards",
+    "name": "dsh-popup-cards",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Leo1958923515/dsh-popup-cards",
+    "description": "Topmost DSH-styled Windows cards for DeepSeek Harness approvals, questions, plan reviews and finished runs — click to jump back to the app that started the session (DSH by default), close with the × button, or let it close when you return.",
+    "description_zh": "Topmost DSH-styled Windows cards for DeepSeek Harness approvals, questions, plan reviews and finished runs — click to jump back to the app that started the session (DSH by default), close with the × button, or let it close when you return.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-semantic-recall",
+    "name": "dsh-semantic-recall",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/zhaohualiuyuejun/dsh-semantic-recall",
+    "description": "换新对话也不失忆：跨工作区索引最近 N 天的对话，用模糊描述就能召回旧话题与原话；不确定时会反问而不是硬编（DSH 插件）。",
+    "description_zh": "换新对话也不失忆：跨工作区索引最近 N 天的对话，用模糊描述就能召回旧话题与原话；不确定时会反问而不是硬编（DSH 插件）。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-team-planner",
+    "name": "dsh-agent-team-planner",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/haistar/dsh-agent-team-planner",
+    "description": "A DeepSeek Harness plugin for managing agent software R&D teams, which delivers functions including standardized software R&D process management, document management, software development and operation & maintenance. It enables you to easily own an agent software R&D team and complete software development efficiently.",
+    "description_zh": "A DeepSeek Harness plugin for managing agent software R&D teams, which delivers functions including standardized software R&D process management, document management, software development and operation & maintenance. It enables you to easily own an agent software R&D team and complete software development efficiently.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ultracode-4",
+    "name": "dsh-ultracode",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Srelka/dsh-ultracode",
+    "description": "Ultracode for DeepSeek Harness: dynamic standard-preset inheritance, bounded multi-agent workflows, floating progress viewer, and subtle composer glow.",
+    "description_zh": "Ultracode for DeepSeek Harness: dynamic standard-preset inheritance, bounded multi-agent workflows, floating progress viewer, and subtle composer glow.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "academic-agent",
+    "name": "academic-agent",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/kw78/academic-agent",
+    "description": "Local-first academic assistant with event-sourced courses/tasks/plans, course materials, DSH plugin and Agent tools.",
+    "description_zh": "Local-first academic assistant with event-sourced courses/tasks/plans, course materials, DSH plugin and Agent tools.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "video-understanding-kit",
+    "name": "video-understanding-kit",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/yangjili6/video-understanding-kit",
+    "description": "DSH专用，这个工具不同于传统的AI理解视频流程（定时切帧-切出的帧猜测上下文），而是以5-12FPS一帧来尽可能获取视频的内容，再以网格的形式存入每一帧；网格使用预训练模型进行分组（相同的场景/内容会尽可能在一个网格大组中），这样你的AI在使用了这个插件/工具后能够更好的形容看到的视频，并且不会花什么token；我接下来会在缩短完成这个流程所需要的时长上做努力（目前中端手机在OCR与ASR全开启的情况下让AI完成一个这样的工作流时长需要原视频的1.5倍～3倍左右），解决这个工具最大的痛点。",
+    "description_zh": "DSH专用，这个工具不同于传统的AI理解视频流程（定时切帧-切出的帧猜测上下文），而是以5-12FPS一帧来尽可能获取视频的内容，再以网格的形式存入每一帧；网格使用预训练模型进行分组（相同的场景/内容会尽可能在一个网格大组中），这样你的AI在使用了这个插件/工具后能够更好的形容看到的视频，并且不会花什么token；我接下来会在缩短完成这个流程所需要的时长上做努力（目前中端手机在OCR与ASR全开启的情况下让AI完成一个这样的工作流时长需要原视频的1.5倍～3倍左右），解决这个工具最大的痛点。",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workflow-map",
+    "name": "dsh-workflow-map",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Joz739/dsh-workflow-map",
+    "description": "DSH 分步工作流地图：热注入/可核验进度条/单页面布局 | Requires DSH 0.2.1 (rc.1-rc.5, engines.dsh >=0.2.1-rc.1 <0.3.0-0)",
+    "description_zh": "DSH 分步工作流地图：热注入/可核验进度条/单页面布局 | Requires DSH 0.2.1 (rc.1-rc.5, engines.dsh >=0.2.1-rc.1 <0.3.0-0)",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workplan",
+    "name": "dsh-workplan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/abbaababa/dsh-workplan",
+    "description": "给 AI 助手装上「先出计划、再派活、随时看进度」的能力，安全证据对齐 ISO/IEC 15408:2026 结构，一条命令安装 / Plan-first multi-agent orchestration for AI assistants, security evidence aligned with ISO/IEC 15408:2026 structure, one-command install",
+    "description_zh": "给 AI 助手装上「先出计划、再派活、随时看进度」的能力，安全证据对齐 ISO/IEC 15408:2026 结构，一条命令安装 / Plan-first multi-agent orchestration for AI assistants, security evidence aligned with ISO/IEC 15408:2026 structure, one-command install",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-dsml-guard",
+    "name": "dsh-dsml-guard",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Jessicaisleep/dsh-dsml-guard",
+    "description": "DSH plugin: strips DSML markers leaked into assistant prose and auto-continues only turns that truly produced nothing.",
+    "description_zh": "DSH plugin: strips DSML markers leaked into assistant prose and auto-continues only turns that truly produced nothing.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "claude-on-dsh",
+    "name": "claude-on-dsh",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/huajikano/claude-on-dsh",
+    "description": "DSH plugin: Claude runs the opening question and plan, DSH executes the project.",
+    "description_zh": "DSH plugin: Claude runs the opening question and plan, DSH executes the project.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2
+  },
+  {
+    "id": "dsh-quiet-hours",
+    "name": "dsh-quiet-hours",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/rnfmabjE/dsh-quiet-hours",
+    "description": "dsh-quiet-hours 给微信机器人加上「静音时段」：工作日固定时段内不调用模型，来消息只回一条固定文案 梁文峰不是我兄弟，梁文谷才是 ，群聊仅在被 @ 时回；时段外自动恢复。",
+    "description_zh": "dsh-quiet-hours 给微信机器人加上「静音时段」：工作日固定时段内不调用模型，来消息只回一条固定文案 梁文峰不是我兄弟，梁文谷才是 ，群聊仅在被 @ 时回；时段外自动恢复。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-translation-assistant",
+    "name": "dsh-translation-assistant",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/coldgust/dsh-translation-assistant",
+    "description": "面向 DeepSeek Harness 的 AI 翻译工作流插件：文本、文件、截图与整个文件夹由 AI 翻译，术语与文风规范自动附带；评分与评语转化为重写指令，支持双模型协作，一个负责翻译、一个负责评审。/ An AI translation workflow plugin for DeepSeek Harness: text, files, screenshots, and whole folders translated with your guidelines attached; scores and comments become rewrite instructions; one model translates, another reviews.",
+    "description_zh": "面向 DeepSeek Harness 的 AI 翻译工作流插件：文本、文件、截图与整个文件夹由 AI 翻译，术语与文风规范自动附带；评分与评语转化为重写指令，支持双模型协作，一个负责翻译、一个负责评审。/ An AI translation workflow plugin for DeepSeek Harness: text, files, screenshots, and whole folders translated with your guidelines attached; scores and comments become rewrite instructions; one model translates, another reviews.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-agent-team-scheduler",
+    "name": "dsh-agent-team-scheduler",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Rinai-R/dsh-agent-team-scheduler",
+    "description": "Dispatch queue and fork-from-teammate for DeepSeek Harness Agent Teams",
+    "description_zh": "Dispatch queue and fork-from-teammate for DeepSeek Harness Agent Teams",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mathmodeling-workflow",
+    "name": "dsh-mathmodeling-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/xzwwwwww/dsh-mathmodeling-workflow",
+    "description": "数学建模竞赛全流程工作流（DSH 插件）：赛题目录 → 8 步流水线（分析·建模·编程·图表·流程图·逻辑复核·论文·编译）→ 完整 LaTeX 论文 PDF。Math modeling competition workflow for DeepSeek Harness (CUMCM / MCM).",
+    "description_zh": "数学建模竞赛全流程工作流（DSH 插件）：赛题目录 → 8 步流水线（分析·建模·编程·图表·流程图·逻辑复核·论文·编译）→ 完整 LaTeX 论文 PDF。Math modeling competition workflow for DeepSeek Harness (CUMCM / MCM).",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "short-drama-director-dsh",
+    "name": "short-drama-director-dsh",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/ijgvt/short-drama-director-dsh",
+    "description": "DeepSeek Harness short-drama director plugin for script-to-assets, video prompts and ComfyUI workflows",
+    "description_zh": "DeepSeek Harness short-drama director plugin for script-to-assets, video prompts and ComfyUI workflows",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2
+  },
+  {
+    "id": "dsh-artex-plugin",
+    "name": "dsh-artex-plugin",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Clever-rain/dsh-artex-plugin",
+    "description": "ARTEX-style dual-graph planner/worker orchestration for DeepSeek Harness (DSH plugin)",
+    "description_zh": "ARTEX-style dual-graph planner/worker orchestration for DeepSeek Harness (DSH plugin)",
     "capabilities": [
       "coding",
       "workflow"
@@ -7773,6 +8521,874 @@
     "description_zh": "WorkBuddy multi-account console for DeepSeek Harness: batch check-in for every account, pending growth tasks, live session-health checks, check-in history with a credit trend chart, automation jobs and the model pool. Bilingual (zh/en). Served by DSH itself.",
     "capabilities": [
       "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-32",
+    "name": "dsh-plugin",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/2nianbanjgb/dsh-plugin",
+    "description": "DeepSeek Harness 插件集合：dsh-trajectory-workflow",
+    "description_zh": "DeepSeek Harness 插件集合：dsh-trajectory-workflow",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-plugins-118",
+    "name": "dsh-plugins",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/uptick7/dsh-plugins",
+    "description": "Community plugins for DeepSeek Harness (DSH). UI enhancements, session tools, and workflow extensions",
+    "description_zh": "Community plugins for DeepSeek Harness (DSH). UI enhancements, session tools, and workflow extensions",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "agent-loop-workflow-1",
+    "name": "agent-loop-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/YaoleWu/agent-loop-workflow",
+    "description": "A project-agnostic multi-agent collaboration protocol for the DeepSeek Harness: loop guards that stop runaway agent loops, a six-field handoff format, risk-tiered review routing, and a fixed verify→commit→push→review→close sequence. One skill instead of the same rules copy-pasted into every agent's instructions.",
+    "description_zh": "A project-agnostic multi-agent collaboration protocol for the DeepSeek Harness: loop guards that stop runaway agent loops, a six-field handoff format, risk-tiered review routing, and a fixed verify→commit→push→review→close sequence. One skill instead of the same rules copy-pasted into every agent's instructions.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workflow-plugin",
+    "name": "dsh-workflow-plugin",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/huaComPj/dsh-workflow-plugin",
+    "description": "Configurable serial agent-team workflows for DeepSeek Harness, with Manager coordination, role actors, independent judging, and a visual editor.",
+    "description_zh": "Configurable serial agent-team workflows for DeepSeek Harness, with Manager coordination, role actors, independent judging, and a visual editor.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-codex-usage",
+    "name": "dsh-codex-usage",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/leonardoxr/dsh-codex-usage",
+    "description": "OpenAI Codex plan usage indicator for DeepSeek Harness",
+    "description_zh": "OpenAI Codex plan usage indicator for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pdf-reader-2",
+    "name": "dsh-pdf-reader",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/ydlstartx/dsh-pdf-reader",
+    "description": "AI-powered PDF reader for DeepSeek Harness with annotations, multi-PDF workflows, mixed image-text evidence, and on-demand OCR.",
+    "description_zh": "AI-powered PDF reader for DeepSeek Harness with annotations, multi-PDF workflows, mixed image-text evidence, and on-demand OCR.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-graphgpt",
+    "name": "dsh-plugin-graphgpt",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/BrucePayton/dsh-plugin-graphgpt",
+    "description": "Run validated GraphGPT workflows as native DeepSeek Harness tools",
+    "description_zh": "Run validated GraphGPT workflows as native DeepSeek Harness tools",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-volcengine-usage",
+    "name": "dsh-volcengine-usage",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/helloworld1631/dsh-volcengine-usage",
+    "description": "Draggable Volcengine Coding Plan usage monitor for DeepSeek Harness Web.",
+    "description_zh": "Draggable Volcengine Coding Plan usage monitor for DeepSeek Harness Web.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-health-scheduler",
+    "name": "dsh-health-scheduler",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/zhiheng-zhang-Mera/dsh-health-scheduler",
+    "description": "DSH plugin: device/runtime health monitoring, restart-pressure scoring, maintenance scheduling and action decisions for DeepSeek Harness. It never restarts anything itself.",
+    "description_zh": "DSH plugin: device/runtime health monitoring, restart-pressure scoring, maintenance scheduling and action decisions for DeepSeek Harness. It never restarts anything itself.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-auto-continue-2",
+    "name": "dsh-auto-continue",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/mengge237/dsh-auto-continue",
+    "description": "DSH 断档自动接着跑：max-tokens 截断、429 限流、上下文压缩吞轮三种中断各补一枪，不用手动点继续 ｜ Keeps a DSH turn going across three kinds of stall: max-tokens truncation, 429 rate limits, and turns swallowed by context compaction",
+    "description_zh": "DSH 断档自动接着跑：max-tokens 截断、429 限流、上下文压缩吞轮三种中断各补一枪，不用手动点继续 ｜ Keeps a DSH turn going across three kinds of stall: max-tokens truncation, 429 rate limits, and turns swallowed by context compaction",
+    "capabilities": [
+      "coding",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-mxpage",
+    "name": "dsh-mxpage",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/kim1232aa/dsh-mxpage",
+    "description": "DeepSeek Harness plugin: MxPage ecommerce product-image pipeline (analyze → plan → VPA → generate).",
+    "description_zh": "DeepSeek Harness plugin: MxPage ecommerce product-image pipeline (analyze → plan → VPA → generate).",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-qq-farm",
+    "name": "dsh-qq-farm",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Moosphan/dsh-qq-farm",
+    "description": "DeepSeek Harness plugin: agent-driven QQ Farm automation (vision in the model, clicks in the plugin)",
+    "description_zh": "DeepSeek Harness plugin: agent-driven QQ Farm automation (vision in the model, clicks in the plugin)",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-orchestrator-3",
+    "name": "dsh-orchestrator",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/SShiRkiT/dsh-orchestrator",
+    "description": "Plan-only main agent with a plan-mode toggle; delegated workers on a switchable default route for DeepSeek Harness",
+    "description_zh": "Plan-only main agent with a plan-mode toggle; delegated workers on a switchable default route for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-glm-usage",
+    "name": "dsh-glm-usage",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/zhangaiyu1996/dsh-glm-usage",
+    "description": "展示智谱 GLM Coding Plan 用量的 DSH 插件 — sidebar quota card for Zhipu / Z.AI Coding Plan in DeepSeek Harness",
+    "description_zh": "展示智谱 GLM Coding Plan 用量的 DSH 插件 — sidebar quota card for Zhipu / Z.AI Coding Plan in DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dacw",
+    "name": "DACW",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/stmcw1/DACW",
+    "description": "Defensive Agent Coding Workflow: Writer → deterministic runner → separate reviewer → human gate. The dacw_run tool writes, tests and audits code in an isolated workspace; nothing is merged without human review",
+    "description_zh": "Defensive Agent Coding Workflow: Writer → deterministic runner → separate reviewer → human gate. The dacw_run tool writes, tests and audits code in an isolated workspace; nothing is merged without human review",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-computer-use-16",
+    "name": "dsh-computer-use",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/esch30636/dsh-computer-use",
+    "description": "Codex-style Windows computer use for DeepSeek Harness: UI Automation + screenshots + SendInput, liquid-glass screen overlay, ESC kill switch. Install: dsh plugin --profile web add github:esch30636/dsh-computer-use",
+    "description_zh": "Codex-style Windows computer use for DeepSeek Harness: UI Automation + screenshots + SendInput, liquid-glass screen overlay, ESC kill switch. Install: dsh plugin --profile web add github:esch30636/dsh-computer-use",
+    "capabilities": [
+      "browser",
+      "coding",
+      "git",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-coding-plan-quota",
+    "name": "dsh-coding-plan-quota",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/sxwer001/dsh-coding-plan-quota",
+    "description": "Quota ring in the DSH composer bar that tracks OpenCode Go and 14 other coding-plan quotas or balances, cycles 5-hour weekly and monthly windows on click, and colours itself by urgency.",
+    "description_zh": "Quota ring in the DSH composer bar that tracks OpenCode Go and 14 other coding-plan quotas or balances, cycles 5-hour weekly and monthly windows on click, and colours itself by urgency.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-automation-monitor",
+    "name": "dsh-automation-monitor",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/litongtong256/dsh-automation-monitor",
+    "description": "DSH automation monitor: a read-only \"Automations\" tab in the conversation view. Shows what runs automatically, when it last ran, when it runs next, and how many tokens it burns.",
+    "description_zh": "DSH automation monitor: a read-only \"Automations\" tab in the conversation view. Shows what runs automatically, when it last ran, when it runs next, and how many tokens it burns.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-llm-minimax",
+    "name": "dsh-llm-minimax",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/elfgzp/dsh-llm-minimax",
+    "description": "MiniMax open-platform models for DeepSeek Harness: paste the API key in Settings, get MiniMax-M3.1-Flash / M3 in the model picker, and see M Plan quota.",
+    "description_zh": "MiniMax open-platform models for DeepSeek Harness: paste the API key in Settings, get MiniMax-M3.1-Flash / M3 in the model picker, and see M Plan quota.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-remote-automation",
+    "name": "dsh-remote-automation",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/knight8818/dsh-remote-automation",
+    "description": "Cloud automation tasks for DeepSeek Harness: run scheduled scripts on a remote Aliyun ECS through Cloud Assistant, with a dedicated sidebar page and agent tools.",
+    "description_zh": "Cloud automation tasks for DeepSeek Harness: run scheduled scripts on a remote Aliyun ECS through Cloud Assistant, with a dedicated sidebar page and agent tools.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-agent-workflow-1",
+    "name": "dsh-plugin-agent-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/flynow-harness/dsh-plugin-agent-workflow",
+    "description": "DeepSeek Harness Web UI 插件：以用户轮次为入口查看模型请求、响应与工具调用链路（适配 dsh@0.2.2-alpha.2）",
+    "description_zh": "DeepSeek Harness Web UI 插件：以用户轮次为入口查看模型请求、响应与工具调用链路（适配 dsh@0.2.2-alpha.2）",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-connect-zcode",
+    "name": "dsh-connect-zcode",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/shudaozhang/dsh-connect-zcode",
+    "description": "把 ZCode 账号的套餐额度（Start Plan / Coding Plan）接入 DeepSeek​ Harness（DSH） 的本地插件。",
+    "description_zh": "把 ZCode 账号的套餐额度（Start Plan / Coding Plan）接入 DeepSeek​ Harness（DSH） 的本地插件。",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-notify-22",
+    "name": "dsh-notify",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/NotLinky671/dsh-notify",
+    "description": "Native Windows toast notifications for DeepSeek Harness: task done/failed, approvals, questions, context pressure and daily token budget. Windows only (macOS planned).",
+    "description_zh": "Native Windows toast notifications for DeepSeek Harness: task done/failed, approvals, questions, context pressure and daily token budget. Windows only (macOS planned).",
+    "capabilities": [
+      "coding",
+      "context",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-comfyui-studio",
+    "name": "dsh-comfyui-studio",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/xingyeai23/dsh-comfyui-studio",
+    "description": "ComfyUI studio plugin for DeepSeek Harness: workflows, prompts, LoRA quick edit, node editor, native canvas and image lightbox.",
+    "description_zh": "ComfyUI studio plugin for DeepSeek Harness: workflows, prompts, LoRA quick edit, node editor, native canvas and image lightbox.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-notify-interactive",
+    "name": "dsh-notify-interactive",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/wuqiuwangtian/dsh-notify-interactive",
+    "description": "Interactive DSH Web reminders: approvals, questions, plan reviews, and turn completion with sound, an always-on-top DSH-styled popup, and Windows notifications.",
+    "description_zh": "Interactive DSH Web reminders: approvals, questions, plan reviews, and turn completion with sound, an always-on-top DSH-styled popup, and Windows notifications.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-matt-flow",
+    "name": "dsh-matt-flow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/yuwang/dsh-matt-flow",
+    "description": "把 Matt Pocock 技能套件编成六阶段带前置条件的开发工作流：拷问、规范、任务、实现、评审、收尾。含输入框工具行的阶段胶囊与决策卡片。A six-stage gated development workflow preset for DSH: grill, spec, tickets, implement, review, wrap-up. Adds a stage chip in the composer and decision cards. Built on the Matt Pocock skill suite.",
+    "description_zh": "把 Matt Pocock 技能套件编成六阶段带前置条件的开发工作流：拷问、规范、任务、实现、评审、收尾。含输入框工具行的阶段胶囊与决策卡片。A six-stage gated development workflow preset for DSH: grill, spec, tickets, implement, review, wrap-up. Adds a stage chip in the composer and decision cards. Built on the Matt Pocock skill suite.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-jingle-notch",
+    "name": "dsh-jingle-notch",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/5ysy/dsh-jingle-notch",
+    "description": "鲸铃 Jingle · macOS notch companion for DeepSeek Harness: tool approvals, plan reviews, structured questions and live multi-session activity.",
+    "description_zh": "鲸铃 Jingle · macOS notch companion for DeepSeek Harness: tool approvals, plan reviews, structured questions and live multi-session activity.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-send-later",
+    "name": "dsh-send-later",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/iasiv5/dsh-send-later",
+    "description": "DSH 插件：在输入框旁设定延时或指定时间，向当前会话发送一条消息（默认「继续」）https://www.npmjs.com/package/dsh-send-later",
+    "description_zh": "DSH 插件：在输入框旁设定延时或指定时间，向当前会话发送一条消息（默认「继续」）https://www.npmjs.com/package/dsh-send-later",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-parent-message",
+    "name": "dsh-subagent-parent-message",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/zhyunran/dsh-subagent-parent-message",
+    "description": "DSH plugin: bidirectional subagent messaging - subagent_parent_message (child to parent; one-shot/workflow OK) + subagent_send_message (parent to direct continuable child). 子 agent 双向：直连父会话 + 父联系直接子。",
+    "description_zh": "DSH plugin: bidirectional subagent messaging - subagent_parent_message (child to parent; one-shot/workflow OK) + subagent_send_message (parent to direct continuable child). 子 agent 双向：直连父会话 + 父联系直接子。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-disk-cleaner",
+    "name": "dsh-disk-cleaner",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/stallenlu/dsh-disk-cleaner",
+    "description": "Disk Cleaner for DeepSeek Harness: scan known-safe caches, assess what cannot be cleaned, get a ranked plan",
+    "description_zh": "Disk Cleaner for DeepSeek Harness: scan known-safe caches, assess what cannot be cleaned, get a ranked plan",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "workflow-canvas-sidebar",
+    "name": "workflow-canvas-sidebar",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/zzz123123lll/workflow-canvas-sidebar",
+    "description": "Visual AI project workflows for DeepSeek Harness: sources, discussions, revisions and deliverables.",
+    "description_zh": "Visual AI project workflows for DeepSeek Harness: sources, discussions, revisions and deliverables.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-deepsearch",
+    "name": "dsh-deepsearch",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/NeptuneRY/dsh-deepsearch",
+    "description": "Multi-round deep research for DeepSeek Harness: the same session keeps drilling into a topic round after round and writes a cited report in the right sidebar.",
+    "description_zh": "Multi-round deep research for DeepSeek Harness: the same session keeps drilling into a topic round after round and writes a cited report in the right sidebar.",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-xiumi",
+    "name": "dsh-xiumi",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/oobitoooo/dsh-xiumi",
+    "description": "DeepSeek Harness 插件：秀米（XIUMI）图文排版自动化 skill，用 Playwright/CDP 操作已登录浏览器完成批量排版、滑动图集、换图、保存与审核核对",
+    "description_zh": "DeepSeek Harness 插件：秀米（XIUMI）图文排版自动化 skill，用 Playwright/CDP 操作已登录浏览器完成批量排版、滑动图集、换图、保存与审核核对",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-laci-engine",
+    "name": "dsh-laci-engine",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Atlantis-LA/dsh-laci-engine",
+    "description": "LACI local model scheduler for DSH: sidebar entry, bundled console, engine/model import, OpenAI-compatible gateway",
+    "description_zh": "LACI local model scheduler for DSH: sidebar entry, bundled console, engine/model import, OpenAI-compatible gateway",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-research-mode",
+    "name": "dsh-research-mode",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/peishenglai3-hash/dsh-research-mode",
+    "description": "Evidence-first research workflow for DeepSeek Harness: immutable artifacts, seven-face provenance, local-first, and honest about what it cannot prove.",
+    "description_zh": "Evidence-first research workflow for DeepSeek Harness: immutable artifacts, seven-face provenance, local-first, and honest about what it cannot prove.",
+    "capabilities": [
+      "coding",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-job-hunting-plugin",
+    "name": "dsh-job-hunting-plugin",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/yuanyu5018/dsh-job-hunting-plugin",
+    "description": "DeepSeek Harness 求职自动化插件：Boss直聘/猎聘自动投递、画像驱动的 HR 消息回复、值守定时巡检。Job hunting automation plugin for DeepSeek Harness.",
+    "description_zh": "DeepSeek Harness 求职自动化插件：Boss直聘/猎聘自动投递、画像驱动的 HR 消息回复、值守定时巡检。Job hunting automation plugin for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-qq-mail",
+    "name": "dsh-qq-mail",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/kerwingod/dsh-qq-mail",
+    "description": "QQ 邮箱 DSH 插件：收发管理 + 与 DSH 双向消息互传 + 定时会话摘要投递邮箱（用户各自登录自己的账号）",
+    "description_zh": "QQ 邮箱 DSH 插件：收发管理 + 与 DSH 双向消息互传 + 定时会话摘要投递邮箱（用户各自登录自己的账号）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-five-session-evolution",
+    "name": "dsh-five-session-evolution",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/liuhuishang/dsh-five-session-evolution",
+    "description": "每五次项目会话结束自动复盘，积累可追溯经验与工作流候选。Evidence-backed project memory and workflow drafts for DeepSeek Harness.",
+    "description_zh": "每五次项目会话结束自动复盘，积累可追溯经验与工作流候选。Evidence-backed project memory and workflow drafts for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "exe",
+    "name": "eXe",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/zccz14/eXe",
+    "description": "eXe (Executable) — zero-trusted devices execution plane. 远程设备连接执行",
+    "description_zh": "eXe (Executable) — zero-trusted devices execution plane. 远程设备连接执行",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-workflow-timeline",
+    "name": "dsh-workflow-timeline",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/ruaruaTon/dsh-workflow-timeline",
+    "description": "ZCode 风格的工作流时间线面板：横向/纵向响应式、表情状态机小脸、阶段级模型/并发配置、右栏子代理对话、历史持久化。",
+    "description_zh": "ZCode 风格的工作流时间线面板：横向/纵向响应式、表情状态机小脸、阶段级模型/并发配置、右栏子代理对话、历史持久化。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gitlines",
+    "name": "dsh-gitlines",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/xiaowuDev/dsh-gitlines",
+    "description": "Git history, AI commit overviews, file-tree diffs and session-traced workflows for DeepSeek Harness.",
+    "description_zh": "Git history, AI commit overviews, file-tree diffs and session-traced workflows for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "git",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-weeklyreport-whenoneweekfinish",
+    "name": "DSH-WeeklyReport-WhenOneWeekFinish",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/xkzdwb/DSH-WeeklyReport-WhenOneWeekFinish",
+    "description": "每周固定时刻把本周 token 用量与工作汇总发到邮箱，数字取自 DSH 会话日志（只填价格），零依赖 SMTP 自实现",
+    "description_zh": "每周固定时刻把本周 token 用量与工作汇总发到邮箱，数字取自 DSH 会话日志（只填价格），零依赖 SMTP 自实现",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "deepclean-mydisk-plugin",
+    "name": "deepclean-mydisk-plugin",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/huangxiaoliang/deepclean-mydisk-plugin",
+    "description": "DeepClean MyDisk — DSH plugin for macOS/Windows: read-only disk audit, undoable cleanup to Trash or quarantine, space breakdown, similar photos, cross-disk moves, read-only AI explanations. 中文：只读体检、可撤销清理（废纸篓/隔离区）、空间分析、相似照片、跨盘移动的 DSH 磁盘工具。",
+    "description_zh": "DeepClean MyDisk — DSH plugin for macOS/Windows: read-only disk audit, undoable cleanup to Trash or quarantine, space breakdown, similar photos, cross-disk moves, read-only AI explanations. 中文：只读体检、可撤销清理（废纸篓/隔离区）、空间分析、相似照片、跨盘移动的 DSH 磁盘工具。",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "ai-calendar-deepseek-harness",
+    "name": "ai-calendar-deepseek-harness",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/dengyinxi100-crypto/ai-calendar-deepseek-harness",
+    "description": "把 「AI 智能日历」 嵌进 DeepSeek Harness 的插件：侧栏多一个「日历」面板，主区域内嵌完整日历界面；同时给 Agent 注册一组日历工具，并挂一个可拖拽 / 可缩放的定时任务浮窗。",
+    "description_zh": "把 「AI 智能日历」 嵌进 DeepSeek Harness 的插件：侧栏多一个「日历」面板，主区域内嵌完整日历界面；同时给 Agent 注册一组日历工具，并挂一个可拖拽 / 可缩放的定时任务浮窗。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-toolkit-4",
+    "name": "dsh-toolkit",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/j62268781-alt/dsh-toolkit",
+    "description": "给 DSH 配上一套工具箱——外观、自动化、设备、通知和桌宠，一次安装，九个模块分别开关。",
+    "description_zh": "给 DSH 配上一套工具箱——外观、自动化、设备、通知和桌宠，一次安装，九个模块分别开关。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-minimax-byapi",
+    "name": "dsh-minimax-byapi",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/NingYuanLee/dsh-minimax-byapi",
+    "description": "Native MiniMax for DeepSeek Harness: chat with a subscription (Coding Plan) key or a pay-as-you-go API key, plus image, video, speech and music generation over the official MiniMax API.",
+    "description_zh": "Native MiniMax for DeepSeek Harness: chat with a subscription (Coding Plan) key or a pay-as-you-go API key, plus image, video, speech and music generation over the official MiniMax API.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-todo-note",
+    "name": "dsh-todo-note",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/lp86ndlb/dsh-todo-note",
+    "description": "Per-session draggable todo sticky note for DeepSeek Harness: short-term tasks, a long-term plan with real phase progress, and three todo_note_* tools so the agent and you share the same note.",
+    "description_zh": "Per-session draggable todo sticky note for DeepSeek Harness: short-term tasks, a long-term plan with real phase progress, and three todo_note_* tools so the agent and you share the same note.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-kit-3",
+    "name": "dsh-kit",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Mola-maker/dsh-kit",
+    "description": "DeepSeek Harness kit: multi-channel deep search, workflow skills, memory-plugin benchmark",
+    "description_zh": "DeepSeek Harness kit: multi-channel deep search, workflow skills, memory-plugin benchmark",
+    "capabilities": [
+      "coding",
+      "memory",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-scheduler",
+    "name": "dsh-agent-scheduler",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Rinai-R/dsh-agent-scheduler",
+    "description": "Agent Scheduler for DeepSeek Harness: a lead agent that forks per input, long-lived worker agents, and a right-sidebar roster",
+    "description_zh": "Agent Scheduler for DeepSeek Harness: a lead agent that forks per input, long-lived worker agents, and a right-sidebar roster",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-commandcode-quota-1",
+    "name": "dsh-commandcode-quota",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/miko-cn/dsh-commandcode-quota",
+    "description": "Command Code usage panel for DeepSeek Harness: credits, 5-hour/weekly windows, request stats, plan tiers, API key editor; Settings tab + draggable floating capsule",
+    "description_zh": "Command Code usage panel for DeepSeek Harness: credits, 5-hour/weekly windows, request stats, plan tiers, API key editor; Settings tab + draggable floating capsule",
+    "capabilities": [
+      "coding",
+      "ui",
       "workflow"
     ],
     "status": "active",

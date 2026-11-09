@@ -71,25 +71,25 @@ DeepSeek Harness（`dsh`）是 DeepSeek AI 开源的智能体 Harness，围绕�
 | # | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|---|
 | 1 | [deepseek-harness](resources/deepseek-harness.md) | ⭐210,647 | DeepSeek Harness: Everything is a Plugin. | ✅ 活跃 |
-| 2 | [open-design](resources/open-design.md) | ⭐90,033 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode / Hermes & 20+ CLIs via BYOK. | ✅ 活跃 |
-| 3 | [DeerFlow](resources/deer-flow.md) | ⭐80,462 | 字节跳动开源的长时间跨度 SuperAgent harness：技能、记忆、沙箱、子代理、工具与消息网关。 | ✅ 活跃 |
-| 4 | [ruflo](resources/ruflo.md) | ⭐69,896 | Agent 元级 harness：多智能体集群部署、自主工作流编排、自适应记忆、自学习智能、RAG 集成，原生支持 Claude Code / Codex 等。 | ✅ 活跃 |
-| 5 | [Reactive Resume](resources/reactive-resume.md) | ⭐42,520 | 开源、注重隐私的简历构建器，提供 MCP 服务器与 Agent Skills，可从 DeepSeek Harness 调用。 | ✅ 活跃 |
-| 6 | [CodeWhale](resources/codewhale.md) | ⭐40,830 | 开源、社区驱动的 Agent Harness。 | ✅ 活跃 |
-| 7 | [awesome-deepseek-integration](resources/awesome-deepseek-integration.md) | ⭐38,897 | 官方：DeepSeek 生态集成目录 | ✅ 活跃 |
-| 8 | [OpenViking](resources/openviking.md) | ⭐36,784 | 面向 AI Agent 的自进化上下文数据库，统一 Agent 记忆、知识 RAG 与技能。 | ✅ 活跃 |
-| 9 | [archify](resources/archify.md) | ⭐36,264 | Agent 技能：生成漂亮、可验证的架构图、流程图、时序图、数据流与生命周期图——自包含、可审查。 | ✅ 活跃 |
-| 10 | [DeepSeek-Reasonix](resources/deepseek-reasonix.md) | ⭐35,284 | 面向终端、DeepSeek 原生的 AI 编程代理，围绕前缀缓存稳定性设计——可常驻运行。 | ✅ 活跃 |
-| 11 | [awesome-gpt-image-2](resources/awesome-gpt-image-2.md) | ⭐31,449 | GPT Image 的提示词即代码库：530+ 逆向工程案例、20+ 工业级模板与可复用 Skills。 | ✅ 活跃 |
-| 12 | [agentmemory](resources/agentmemory.md) | ⭐27,233 | 基于真实基准的 AI 编码 Agent 持久记忆（DSH agentmemory 移植的上游项目）。 | ✅ 活跃 |
-| 13 | [PicGo](resources/picgo.md) | ⭐27,181 | 跨平台图片上传桌面应用，支持 60+ 图床，可配合 DeepSeek Harness 工作流使用。 | ✅ 活跃 |
-| 14 | [Distilly](resources/distilly.md) | ⭐24,650 | 把人的思维方式蒸馏为可复用 Skills，适用于任意 Agent 或 Bot。 | ✅ 活跃 |
-| 15 | [NocoBase](resources/nocobase.md) | ⭐24,175 | 开源 AI + 无代码平台，用于快速构建业务系统，内置 AI Agent 与工作流自动化。 | ✅ 活跃 |
-| 16 | [deepseek-harness-desktop (Anywhere Labs)](resources/anywhere-labs-desktop.md) | ⭐22,589 | 为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）。 | ✅ 活跃 |
-| 17 | [WeKnora](resources/weknora.md) | ⭐22,553 | 开源 LLM 知识平台：把文档转化为可查询 RAG、自主推理 Agent 与自维护 wiki。 | ✅ 活跃 |
-| 18 | [voyager](resources/voyager-1.md) | ⭐20,250 | Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。 | ✅ 活跃 |
-| 19 | [voyager](resources/voyager.md) | ⭐19,755 | Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 | ✅ 活跃 |
-| 20 | [claudian](resources/claudian.md) | ⭐15,753 | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault | ✅ 活跃 |
+| 2 | [cc-switch](resources/cc-switch.md) | ⭐152,058 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io | ✅ 活跃 |
+| 3 | [open-design](resources/open-design.md) | ⭐90,033 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode / Hermes & 20+ CLIs via BYOK. | ✅ 活跃 |
+| 4 | [DeerFlow](resources/deer-flow.md) | ⭐80,462 | 字节跳动开源的长时间跨度 SuperAgent harness：技能、记忆、沙箱、子代理、工具与消息网关。 | ✅ 活跃 |
+| 5 | [Mole](resources/mole.md) | ⭐74,358 | 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps. | ✅ 活跃 |
+| 6 | [ruflo](resources/ruflo.md) | ⭐69,896 | Agent 元级 harness：多智能体集群部署、自主工作流编排、自适应记忆、自学习智能、RAG 集成，原生支持 Claude Code / Codex 等。 | ✅ 活跃 |
+| 7 | [Reactive Resume](resources/reactive-resume.md) | ⭐42,520 | 开源、注重隐私的简历构建器，提供 MCP 服务器与 Agent Skills，可从 DeepSeek Harness 调用。 | ✅ 活跃 |
+| 8 | [CodeWhale](resources/codewhale.md) | ⭐40,830 | 开源、社区驱动的 Agent Harness。 | ✅ 活跃 |
+| 9 | [awesome-deepseek-integration](resources/awesome-deepseek-integration.md) | ⭐38,897 | 官方：DeepSeek 生态集成目录 | ✅ 活跃 |
+| 10 | [nuwa-skill](resources/nuwa-skill.md) | ⭐37,579 | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. | ✅ 活跃 |
+| 11 | [OpenViking](resources/openviking.md) | ⭐36,784 | 面向 AI Agent 的自进化上下文数据库，统一 Agent 记忆、知识 RAG 与技能。 | ✅ 活跃 |
+| 12 | [next-ai-draw-io](resources/next-ai-draw-io.md) | ⭐36,710 | Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code. | ✅ 活跃 |
+| 13 | [archify](resources/archify.md) | ⭐36,264 | Agent 技能：生成漂亮、可验证的架构图、流程图、时序图、数据流与生命周期图——自包含、可审查。 | ✅ 活跃 |
+| 14 | [DeepSeek-Reasonix](resources/deepseek-reasonix.md) | ⭐35,284 | 面向终端、DeepSeek 原生的 AI 编程代理，围绕前缀缓存稳定性设计——可常驻运行。 | ✅ 活跃 |
+| 15 | [awesome-gpt-image-2](resources/awesome-gpt-image-2.md) | ⭐31,449 | GPT Image 的提示词即代码库：530+ 逆向工程案例、20+ 工业级模板与可复用 Skills。 | ✅ 活跃 |
+| 16 | [huashu-design](resources/huashu-design.md) | ⭐28,768 | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent | ✅ 活跃 |
+| 17 | [AiToEarn](resources/aitoearn.md) | ⭐27,300 | Let's use AI to Earn! | ✅ 活跃 |
+| 18 | [agentmemory](resources/agentmemory.md) | ⭐27,233 | 基于真实基准的 AI 编码 Agent 持久记忆（DSH agentmemory 移植的上游项目）。 | ✅ 活跃 |
+| 19 | [PicGo](resources/picgo.md) | ⭐27,181 | 跨平台图片上传桌面应用，支持 60+ 图床，可配合 DeepSeek Harness 工作流使用。 | ✅ 活跃 |
+| 20 | [Distilly](resources/distilly.md) | ⭐24,650 | 把人的思维方式蒸馏为可复用 Skills，适用于任意 Agent 或 Bot。 | ✅ 活跃 |
 
 ---
 

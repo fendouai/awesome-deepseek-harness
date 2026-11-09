@@ -1,0 +1,28 @@
+---
+title: "dsh-bossintroduce"
+description: "DeepSeek Harness 插件 / skill：在 Boss 直聘求职者侧逐条浏览岗位，为每条 JD 生成只属于它的自我介绍并发给 HR —— 可见浏览器 + CDP 状态机 + 文案护栏，引擎零第三方依赖"
+keywords: "dsh-bossintroduce, learning, skill, coding, deepseek harness, dsh"
+---
+# dsh-bossintroduce
+
+> ⭐ **1** · ✅ active · skill
+
+| | | | |
+|---|---|---|---|
+| Type | skill | Category | Learning |
+| Stars | ⭐ 1 | Status | ✅ active |
+| Author | [RaganaBloodedge](https://github.com/RaganaBloodedge) | Updated | — |
+
+## One-liner
+
+> DeepSeek Harness 插件 / skill：在 Boss 直聘求职者侧逐条浏览岗位，为每条 JD 生成只属于它的自我介绍并发给 HR —— 可见浏览器 + CDP 状态机 + 文案护栏，引擎零第三方依赖
+
+## About
+
+DeepSeek Harness 插件 / skill：在 Boss 直聘求职者侧逐条浏览岗位，为每条 JD 生成只属于它的自我介绍并发给 HR —— 可见浏览器 + CDP 状态机 + 文案护栏，引擎零第三方依赖
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/RaganaBloodedge/dsh-bossintroduce)
+- [Full README](https://github.com/RaganaBloodedge/dsh-bossintroduce#readme)
+- [Back to the Skills list](../skills.md)

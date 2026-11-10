@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "Top 10 and full list of 153 curated tutorials & learning for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 157 curated tutorials & learning for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [NamiDSH](resources/namidsh.md) | ⭐189 | 对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent | ✅ active |
 | 10 | [wpsnote-skills](resources/wpsnote-skills.md) | ⭐184 | WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Server 让 DeepSeek Harness、灵犀、WorkBuddy、Claude Code、Codex、Cursor 直接驱动你的笔记知识库（读写、搜索、导入、排版与学习）。 | ✅ active |
 
-## Complete list (153)
+## Complete list (157)
 
 
-**Learning (153)**
+**Learning (157)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -98,6 +98,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-course-assistant](resources/dsh-course-assistant.md) | ⭐3 | DeepSeek Harness 插件：课程文件（PPTX/PDF/DOCX/MD）→ 目录识别 · 分章知识点 · B 站网课推荐 · Markdown/PDF 学习报告 | ✅ active |
 | [dsh-cx-learn](resources/dsh-cx-learn.md) | ⭐3 | DSH 插件：超星学习通自动看课（CDP 驱动真实 Chromium） | ✅ active |
 | [dsh-deeptutor](resources/dsh-deeptutor.md) | ⭐3 | Learning assistant extension for DeepSeek Harness (dsh): brings DeepTutor tutoring to your agent — deep explanations, self-test questions, learning paths, personal knowledge-base search (RAG), and note archiving. | 面向 DeepSeek Harness 的学习辅助扩展:为 agent 接入 DeepTutor 辅导能力 —— 深度讲解、自测题、学习路径规划、个人知识库检索(RAG)与笔记归档。 | ✅ active |
+| [dsh-english-cards](resources/dsh-english-cards.md) | ⭐3 | Save English learning cards while interacting with DeepSeek Harness. 在DeepSeek Harness里使用英文时，自动保存英语学习卡片，利用和Agent的日常交互提高英语。 | ✅ active |
 | [dsh-okf-memory](resources/dsh-okf-memory.md) | ⭐3 | dsh-okf-memory: 会话记忆 → OKF 知识沉淀插件(神经自我学习驱动)。Session-to-OKF memory plugin: predictive recall, uncertainty-driven capture, reinforcement feedback, consolidation & forgetting. | ✅ active |
 | [dsh-plugin-companion-memory](resources/dsh-plugin-companion-memory.md) | ⭐3 | DSH 情感陪伴记忆插件：人也记不住每次闲聊。主动学习用户画像，提炼你在意、会自己记住的经历；三层渐进披露、缓存与总结复用。 | ✅ active |
 | [dsh-plugin-dev-tutorial](resources/dsh-plugin-dev-tutorial.md) | ⭐3 | 《从 0 到 1 开发 DSH Plugin》—— 完整教程，从概念到实战，从小白到大神，11 章 55,000 字，26 个可运行代码文件。 | ✅ active |
@@ -174,8 +175,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-study-kit](resources/dsh-study-kit.md) | ⭐1 | 面向个人的 AI 学习系统：多会话分工、文件记忆、学科插件（DSH 插件包） | ✅ active |
 | [dsh-study-planner](resources/dsh-study-planner.md) | ⭐1 | DSH（DeepSeek Harness）学习计划插件：会话视图里的「学习计划」标签，显示每日计划、课后题与打卡进度可视化，计划由对话生成。 | ✅ active |
 | [dsh-super-memory](resources/dsh-super-memory.md) | ⭐1 | 跨压缩记忆插件：在同一个超长会话里被上下文压缩过几次之后，你早先问过 / 定过的事，模型先看到它，再作为参考结合这次的新条件综合回答——不会当新问题从零重来。 | ✅ active |
+| [dsh-teach-me](resources/dsh-teach-me.md) | ⭐1 | DeepSeek Harness 教学模式：交互课程、练习评估与学习档案 | ✅ active |
 | [dsh-volc-mem0](resources/dsh-volc-mem0.md) | ⭐1 | 为 DeepSeek Harness（DSH）接入火山引擎 Mem0，支持跨会话记忆、自动召回、后台学习与经验自进化，并提供多项目管理和原生设置页面。 | ✅ active |
 | [dsh-Webroad](resources/dsh-webroad.md) | ⭐1 | DeepSeek Harness 手机访问一体化插件：设置页内嵌「📱 手机访问」，扫码即用（局域网+公网+固定域名），8 位 PIN 认证、零配置信任围栏；含 Tailscale Funnel 手动教程。 | ✅ active |
+| [dsh-whale-panel](resources/dsh-whale-panel.md) | ⭐1 | B站 策展浮窗（DSH 插件）：按概率学习兴趣、按半衰期淡忘，把每日金额上限换算成 token 额度后挑片，契合度达标才 @ 你；评论有日上限，政治/政府/前沿科学三类话题一律不评价；带总开关可一键彻底停手。 | ✅ active |
 | [dsh-word-master](resources/dsh-word-master.md) | ⭐1 | Word Master for DeepSeek Harness — agent preset 形式把素材做成规范 Word 文档：素材转换 → 规格冻结 → 逐节写作 → 质检门 → 审阅界面 → 渲染闸门 → 导出。架构范式学习自 PPT Master。 | ✅ active |
 | [DSH-Workshop](resources/dsh-workshop-1.md) | ⭐1 | 为 DeepSeek Harness 打造的插件市场：复刻 Steam 创意工坊的浏览、筛选、订阅与安装体验，管理和分发 Harness 扩展功能（主题、效率工具、Agent 预设、教程等）。 | ✅ active |
 | [dsh-writing-style-learner](resources/dsh-writing-style-learner.md) | ⭐1 | 一个可学习任意写作风格的 DeepSeek Harness 插件 | ✅ active |
@@ -184,6 +187,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [lazeword](resources/lazeword.md) | ⭐1 | lazeword is a word-anchored bilingual learning system — learning as simulation, trajectory as log | ✅ active |
 | [learn-skill](resources/learn-skill.md) | ⭐1 | 学习+链接 → 全自动采集·AI总结·亮点·术语·评分·图谱·深度OCR·入库 | One link → AI analysis+highlights+glossary+rating+knowledge graph → KB import (v3.5) | ✅ active |
 | [learning-dsh](resources/learning-dsh.md) | ⭐1 | Just learning — versioned bilingual (EN/ZH) source-code learning pages for DeepSeek Harness (dsh), served as a dsh plugin at /learning | ✅ active |
+| [lucubratio-public](resources/lucubratio-public.md) | ⭐1 | Lucubratio 流水线 + 查看器：把任意课程内容编译成可离线学习的内容包。不含任何课程素材。 | ✅ active |
 | [MALTS](resources/malts.md) | ⭐1 | Multi-Agent Long-Task Scheduling and Growth System for AI coding agents, with file-based state, verification, handoff, and reusable learning. | ✅ active |
 | [project-learning-helper](resources/project-learning-helper.md) | ⭐1 | 一个助力包括我在内的萌新进行项目式学习的dsh preset | ✅ active |
 | [think-zh](resources/think-zh.md) | ⭐1 | 让 AI 的英文推理流实时变中文：75,353 句 DeepSeek 精修库随包、本地 1.8B 实时 + 7B 空闲校正的三层质量、OpenAI 兼容端点一键接入，数据不出你的显卡。MIT，附 22 条踩坑实录的智能体自举手册。 | ✅ active |

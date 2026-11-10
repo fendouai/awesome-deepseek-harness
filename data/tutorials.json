@@ -1280,6 +1280,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-english-cards",
+    "name": "dsh-english-cards",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/aoilang/dsh-english-cards",
+    "description": "Save English learning cards while interacting with DeepSeek Harness. 在DeepSeek Harness里使用英文时，自动保存英语学习卡片，利用和Agent的日常交互提高英语。",
+    "description_zh": "Save English learning cards while interacting with DeepSeek Harness. 在DeepSeek Harness里使用英文时，自动保存英语学习卡片，利用和Agent的日常交互提高英语。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-protocol-doctor",
     "name": "deepseek-protocol-doctor",
     "type": "tutorial",
@@ -2652,6 +2669,54 @@
     "status": "active",
     "verified": false,
     "stars": 1
+  },
+  {
+    "id": "dsh-whale-panel",
+    "name": "dsh-whale-panel",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/bilihave/dsh-whale-panel",
+    "description": "B站 策展浮窗（DSH 插件）：按概率学习兴趣、按半衰期淡忘，把每日金额上限换算成 token 额度后挑片，契合度达标才 @ 你；评论有日上限，政治/政府/前沿科学三类话题一律不评价；带总开关可一键彻底停手。",
+    "description_zh": "B站 策展浮窗（DSH 插件）：按概率学习兴趣、按半衰期淡忘，把每日金额上限换算成 token 额度后挑片，契合度达标才 @ 你；评论有日上限，政治/政府/前沿科学三类话题一律不评价；带总开关可一键彻底停手。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "lucubratio-public",
+    "name": "lucubratio-public",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Albusriddle/lucubratio-public",
+    "description": "Lucubratio 流水线 + 查看器：把任意课程内容编译成可离线学习的内容包。不含任何课程素材。",
+    "description_zh": "Lucubratio 流水线 + 查看器：把任意课程内容编译成可离线学习的内容包。不含任何课程素材。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-teach-me",
+    "name": "dsh-teach-me",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Mieah108/dsh-teach-me",
+    "description": "DeepSeek Harness 教学模式：交互课程、练习评估与学习档案",
+    "description_zh": "DeepSeek Harness 教学模式：交互课程、练习评估与学习档案",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "BSD-3-Clause"
   },
   {
     "id": "deepseek-harness-brain",

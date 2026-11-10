@@ -5602,6 +5602,38 @@
     "stars": 2
   },
   {
+    "id": "dsh-local-market",
+    "name": "dsh-local-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/YML0823/dsh-local-market",
+    "description": "DSH 中文插件市场：实时社区目录、中文检索、界面预览与一键安装",
+    "description_zh": "DSH 中文插件市场：实时社区目录、中文检索、界面预览与一键安装",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-awesome-optimizer",
+    "name": "dsh-awesome-optimizer",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Jaylor-Wang/dsh-awesome-optimizer",
+    "description": "⚡ High-performance runtime policy, PTC composite batch tools, reactive prompt engine (~80% token savings), and A/B turn telemetry for DeepSeek Harness",
+    "description_zh": "⚡ High-performance runtime policy, PTC composite batch tools, reactive prompt engine (~80% token savings), and A/B turn telemetry for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-dsh-plugins-oslook-1",
     "name": "awesome-dsh-plugins",
     "type": "awesome-list",
@@ -9069,6 +9101,176 @@
     "capabilities": [
       "coding",
       "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-market-3",
+    "name": "dsh-skill-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/QQ-M/dsh-skill-market",
+    "description": "DSH 设置页技能市场：从 GitHub 搜索并一键安装技能到 ~/.dsh/skills。Skill Market in the DeepSeek Harness settings page: search GitHub for skills and install them into ~/.dsh/skills with one click.",
+    "description_zh": "DSH 设置页技能市场：从 GitHub 搜索并一键安装技能到 ~/.dsh/skills。Skill Market in the DeepSeek Harness settings page: search GitHub for skills and install them into ~/.dsh/skills with one click.",
+    "capabilities": [
+      "coding",
+      "git",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-research-commands",
+    "name": "dsh-research-commands",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/hzh5021/dsh-research-commands",
+    "description": "Registers fifteen slash commands (/idea, /review, /poster, ...) that inject the matching research skill's SKILL.md as a user message, so installed skills run without a marketplace.",
+    "description_zh": "Registers fifteen slash commands (/idea, /review, /poster, ...) that inject the matching research skill's SKILL.md as a user message, so installed skills run without a marketplace.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-market-24",
+    "name": "dsh-plugin-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/tangyixiao/dsh-plugin-market",
+    "description": "Tangyixiao DSH plugin market — an independent format-1 index for DeepSeek Harness",
+    "description_zh": "Tangyixiao DSH plugin market — an independent format-1 index for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-input-history-6",
+    "name": "dsh-input-history",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Dogtiti/dsh-input-history",
+    "description": "Shell-style prompt history for the DeepSeek Harness composer: ArrowUp walks back through the messages you already sent, ArrowDown walks forward and restores your draft.",
+    "description_zh": "Shell-style prompt history for the DeepSeek Harness composer: ArrowUp walks back through the messages you already sent, ArrowDown walks forward and restores your draft.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-privacy-gateway",
+    "name": "dsh-privacy-gateway",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/xbzbing/dsh-privacy-gateway",
+    "description": "DSH 插件：密钥、Cookie、个人信息在发给模型前自动脱敏，回复里还原。装上即用，覆盖所有模型。 / A DSH plugin: keys, cookies and personal data are redacted before they reach the model, and restored in the reply. Install once, covers every model.",
+    "description_zh": "DSH 插件：密钥、Cookie、个人信息在发给模型前自动脱敏，回复里还原。装上即用，覆盖所有模型。 / A DSH plugin: keys, cookies and personal data are redacted before they reach the model, and restored in the reply. Install once, covers every model.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "sports-desk-ops",
+    "name": "Sports-desk-ops",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/bw496915-cmyk/Sports-desk-ops",
+    "description": "Production intelligence, downline risk surveillance, 10-Mode Forensic/Risk/Cross-Market/Reconciliation engine, Cloudflare R2 edge portal, Qwen3.5-4B neuron token taxonomy, and automated reporting pipeline built on the Bun runtime (v1.4.4) for SportsDesk and Fa",
+    "description_zh": "Production intelligence, downline risk surveillance, 10-Mode Forensic/Risk/Cross-Market/Reconciliation engine, Cloudflare R2 edge portal, Qwen3.5-4B neuron token taxonomy, and automated reporting pipeline built on the Bun runtime (v1.4.4) for SportsDesk and Fa",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-rag-1",
+    "name": "dsh-rag",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Fqh22/dsh-rag",
+    "description": "Cross-session project memory for DeepSeek Harness - MCP server + archive daemon + panel. Local-first SQLite store with handoff packs tuned for prompt-cache prefixes.",
+    "description_zh": "Cross-session project memory for DeepSeek Harness - MCP server + archive daemon + panel. Local-first SQLite store with handoff packs tuned for prompt-cache prefixes.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "memory",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-vpn",
+    "name": "dsh-vpn",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/operatingtag/dsh-vpn",
+    "description": "A Windows 11 style VPN control panel for DeepSeek Harness: Proton browser sign-in, geolocation-ranked WireGuard servers, automatic configuration, leak-proof kill switch, one-click restore. Apache-2.0.",
+    "description_zh": "A Windows 11 style VPN control panel for DeepSeek Harness: Proton browser sign-in, geolocation-ranked WireGuard servers, automatic configuration, leak-proof kill switch, one-click restore. Apache-2.0.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "deepseek-plugin-market",
+    "name": "deepseek-plugin-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/zxwk1998/deepseek-plugin-market",
+    "description": "励志做github最好用的deepseek hamess 插件市场",
+    "description_zh": "励志做github最好用的deepseek hamess 插件市场",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-thirdparty-memory",
+    "name": "dsh-thirdparty-memory",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/steel-dsh-memory/dsh-thirdparty-memory",
+    "description": "Long-term memory for DeepSeek Harness: five memory kinds, relevance-filtered injection, review inbox, local SQLite store, zero runtime dependencies. Unofficial third-party project.",
+    "description_zh": "Long-term memory for DeepSeek Harness: five memory kinds, relevance-filtered injection, review inbox, local SQLite store, zero runtime dependencies. Unofficial third-party project.",
+    "capabilities": [
+      "coding",
+      "memory"
     ],
     "status": "active",
     "verified": false,

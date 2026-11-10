@@ -3712,6 +3712,57 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-delegation-hub",
+    "name": "dsh-delegation-hub",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/tkaiz0406/dsh-delegation-hub",
+    "description": "DSH plugin: pin a separate LLM route for delegated subagents (Agency experts, Agent Teams members) while the main agent keeps its own model. Settings page included.",
+    "description_zh": "DSH plugin: pin a separate LLM route for delegated subagents (Agency experts, Agent Teams members) while the main agent keeps its own model. Settings page included.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-auto-model-routing",
+    "name": "dsh-auto-model-routing",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/prgrmrwy/dsh-auto-model-routing",
+    "description": "DeepSeek Harness plugin: use Jev to adjust reasoning effort per turn without changing the selected model, with configurable subagent routing",
+    "description_zh": "DeepSeek Harness plugin: use Jev to adjust reasoning effort per turn without changing the selected model, with configurable subagent routing",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-model-policy",
+    "name": "dsh-subagent-model-policy",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/ChenMuDX/dsh-subagent-model-policy",
+    "description": "DeepSeek Harness plugin: session-scoped subagent model selection policy, model pool, concurrency limits and execution evidence. 子智能体模型选择策略。",
+    "description_zh": "DeepSeek Harness plugin: session-scoped subagent model selection policy, model pool, concurrency limits and execution evidence. 子智能体模型选择策略。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-supervisor",
     "name": "dsh-supervisor",
     "type": "agent",
@@ -6488,6 +6539,109 @@
       "coding",
       "multi-agent",
       "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-download-progress-5",
+    "name": "dsh-download-progress",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/MorixMa/dsh-download-progress",
+    "description": "专为 DSH 的下载任务做的进度指示器：会话头里常驻的下载图标，自动发现正在跑的下载与后台任务，环形进度 + 动画进度条 + 速率 + 剩余时间；已完成文件单击即开，零第三方依赖。 · A download-progress indicator built for DSH's download tasks: a persistent session-header icon with a progress ring, animated bars, speed and ETA. Click a finished file to open it. No third-party plugin required.",
+    "description_zh": "专为 DSH 的下载任务做的进度指示器：会话头里常驻的下载图标，自动发现正在跑的下载与后台任务，环形进度 + 动画进度条 + 速率 + 剩余时间；已完成文件单击即开，零第三方依赖。 · A download-progress indicator built for DSH's download tasks: a persistent session-header icon with a progress ring, animated bars, speed and ETA. Click a finished file to open it. No third-party plugin required.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-team-model-selection",
+    "name": "dsh-agent-team-model-selection",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/devloom1024/dsh-agent-team-model-selection",
+    "description": "DeepSeek Harness plugin: per-teammate LLM route (provider/model/reasoning effort) for Agent Teams, with a model catalog tool and settings page",
+    "description_zh": "DeepSeek Harness plugin: per-teammate LLM route (provider/model/reasoning effort) for Agent Teams, with a model catalog tool and settings page",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-staff",
+    "name": "dsh-staff",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Coolwyd/dsh-staff",
+    "description": "Persistent employee roster, task ledger, group chat and an in-UI staff center that turn DSH Agent Teams into a managed team.",
+    "description_zh": "Persistent employee roster, task ledger, group chat and an in-UI staff center that turn DSH Agent Teams into a managed team.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-qoder-cn-subagent",
+    "name": "dsh-qoder-cn-subagent",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Zxznb666/dsh-qoder-cn-subagent",
+    "description": "把 Qoder CN 注册为 DeepSeek Harness 的子智能体后端：复用原生登录与设置，一次委派一个任务。",
+    "description_zh": "把 Qoder CN 注册为 DeepSeek Harness 的子智能体后端：复用原生登录与设置，一次委派一个任务。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-dev-runner",
+    "name": "dsh-dev-runner",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/1020252969/dsh-dev-runner",
+    "description": "One-click start for a whole dev stack: discover projects and their run commands, orchestrate a backend plus any frontends, follow every log from the right sidebar.",
+    "description_zh": "One-click start for a whole dev stack: discover projects and their run commands, orchestrate a backend plus any frontends, follow every log from the right sidebar.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-dynamic-multiagent",
+    "name": "dsh-dynamic-multiagent",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Silasvanceneo/dsh-dynamic-multiagent",
+    "description": "Dynamic multi-agent orchestration for DeepSeek Harness (dsh): task graphs of child agents with per-node role, model, reasoning effort, and tools, plus a settings UI and per-conversation switch.",
+    "description_zh": "Dynamic multi-agent orchestration for DeepSeek Harness (dsh): task graphs of child agents with per-node role, model, reasoning effort, and tools, plus a settings UI and per-conversation switch.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
     ],
     "status": "active",
     "verified": false,

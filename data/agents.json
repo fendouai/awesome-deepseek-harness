@@ -281,27 +281,6 @@
     "growth": 2
   },
   {
-    "id": "dsh-tianshu-build",
-    "name": "dsh-tianshu-build",
-    "type": "agent",
-    "category": "multi-agent",
-    "repository": "https://github.com/huiliyi37/dsh-tianshu-build",
-    "description": "DeepSeek X Tianshu  Harness build 是一款完全体开源 coding agent:在 dsh harness 基础之上带视觉、跨会话记忆、验证门、agent 路由、语义 + 图谱代码检索、文件回滚和全屏终端 UI——全部以插件组合。  它是 DeepSeek Harness(dsh)的友好 MIT fork, 它保留了上游一切皆插件的架构，并将以harness最佳形态和架构往下演进。",
-    "description_zh": "DeepSeek X Tianshu  Harness build 是一款完全体开源 coding agent:在 dsh harness 基础之上带视觉、跨会话记忆、验证门、agent 路由、语义 + 图谱代码检索、文件回滚和全屏终端 UI——全部以插件组合。  它是 DeepSeek Harness(dsh)的友好 MIT fork, 它保留了上游一切皆插件的架构，并将以harness最佳形态和架构往下演进。",
-    "capabilities": [
-      "coding",
-      "multi-agent",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 36,
-    "_source_description": "Oh My Tianshu 是一款完全体开源 coding agent:在 dsh harness 基础之上带视觉、跨会话记忆、验证门、agent 路由、语义 + 图谱代码检索、文件回滚和全屏终端 UI——全部以插件组合。它是 DeepSeek Harness(dsh)的友好 MIT fork,保留上游一切皆插件的架构,界面交互对标 oh-my-pi。",
-    "_updated": "2026-08-20",
-    "_stars_prev": 34,
-    "growth": 2
-  },
-  {
     "id": "dsh-interconnect",
     "name": "dsh-interconnect",
     "type": "agent",
@@ -5131,24 +5110,6 @@
     "license": "MIT"
   },
   {
-    "id": "dsh-zcode-farm",
-    "name": "dsh-zcode-farm",
-    "type": "agent",
-    "category": "multi-agent",
-    "repository": "https://github.com/BOWLUNA/dsh-zcode-farm",
-    "description": "Multi-instance ComfyUI orchestration for DeepSeek Harness: give the agent a live view of every GPU in the farm and dispatch each generation job to the idlest instance instead of always hitting the busiest endpoint.",
-    "description_zh": "Multi-instance ComfyUI orchestration for DeepSeek Harness: give the agent a live view of every GPU in the farm and dispatch each generation job to the idlest instance instead of always hitting the busiest endpoint.",
-    "capabilities": [
-      "coding",
-      "multi-agent",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 1,
-    "license": "MIT"
-  },
-  {
     "id": "dsh-agents",
     "name": "dsh-agents",
     "type": "agent",
@@ -5274,23 +5235,6 @@
     "repository": "https://github.com/frederico-kluser/dsh-orquestrator",
     "description": "DeepSeek Harness plugin: pick the model your subagents run on — with a reasoning-effort ceiling and an output-token cap — enforced in code on every child DSH starts, whichever tool starts it.",
     "description_zh": "DeepSeek Harness plugin: pick the model your subagents run on — with a reasoning-effort ceiling and an output-token cap — enforced in code on every child DSH starts, whichever tool starts it.",
-    "capabilities": [
-      "coding",
-      "multi-agent"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 1,
-    "license": "MIT"
-  },
-  {
-    "id": "dsh-agent-group",
-    "name": "dsh-agent-group",
-    "type": "agent",
-    "category": "multi-agent",
-    "repository": "https://github.com/BOWLUNA/dsh-agent-group",
-    "description": "DSH 多智能体群聊插件：多个角色在同一会话里各自独立人设地对话｜Multi-agent group chat plugin for DeepSeek Harness",
-    "description_zh": "DSH 多智能体群聊插件：多个角色在同一会话里各自独立人设地对话｜Multi-agent group chat plugin for DeepSeek Harness",
     "capabilities": [
       "coding",
       "multi-agent"
@@ -5522,24 +5466,6 @@
     "license": "MIT"
   },
   {
-    "id": "dsh-session-remove",
-    "name": "dsh-session-remove",
-    "type": "agent",
-    "category": "multi-agent",
-    "repository": "https://github.com/BG0EXM/dsh-session-remove",
-    "description": "Stop & delete DeepSeek Harness sessions from the sidebar menu — cancels the running turn, subagents, background jobs and reminders, then removes the log, projection cache and workspace record. 「停止」与「删除」会话：先停工作，再删日志、缓存与工作区记录，并在有新版本时提示。",
-    "description_zh": "Stop & delete DeepSeek Harness sessions from the sidebar menu — cancels the running turn, subagents, background jobs and reminders, then removes the log, projection cache and workspace record. 「停止」与「删除」会话：先停工作，再删日志、缓存与工作区记录，并在有新版本时提示。",
-    "capabilities": [
-      "coding",
-      "multi-agent",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 1,
-    "license": "MIT"
-  },
-  {
     "id": "dsh-orchestrator2",
     "name": "dsh-orchestrator2",
     "type": "agent",
@@ -5652,22 +5578,6 @@
     "capabilities": [
       "coding",
       "multi-agent"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 1,
-    "license": "MIT"
-  },
-  {
-    "id": "dsh-multi-agent-gateway",
-    "name": "dsh-multi-agent-gateway",
-    "type": "agent",
-    "category": "multi-agent",
-    "repository": "https://github.com/a1141171521/dsh-multi-agent-gateway",
-    "description": "Free Token —— 把各平台的免费额度，装进 DSH 的模型选择器。",
-    "description_zh": "Free Token —— 把各平台的免费额度，装进 DSH 的模型选择器。",
-    "capabilities": [
-      "coding"
     ],
     "status": "active",
     "verified": false,

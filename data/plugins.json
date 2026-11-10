@@ -79163,34 +79163,6 @@
     "subcategory": "web-search"
   },
   {
-    "id": "dsh-transparent-ui-plugin-1",
-    "name": "dsh-transparent-ui-plugin",
-    "type": "plugin",
-    "category": "search",
-    "repository": "https://github.com/Hearingimpaired-conversion320/DSH-Transparent-UI-Plugin",
-    "description": "Transform DeepSeek Harness's web UI into customizable frosted glass with Mica or Compatibility modes, adjustable blur, and live wallpapers.",
-    "description_zh": "Transform DeepSeek Harness's web UI into customizable frosted glass with Mica or Compatibility modes, adjustable blur, and live wallpapers.",
-    "capabilities": [
-      "coding",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2,
-    "_license": "MIT",
-    "_topics": [
-      "cpp",
-      "data-structures",
-      "datascience",
-      "deepseek-harness",
-      "faang-questions",
-      "github",
-      "github-api",
-      "github-stats"
-    ],
-    "subcategory": "web-search"
-  },
-  {
     "id": "dsh-ui-customizer",
     "name": "dsh-ui-customizer",
     "type": "plugin",
@@ -79211,30 +79183,6 @@
       "dsh-plugin",
       "theme",
       "ui-customizer"
-    ],
-    "subcategory": "skins-themes"
-  },
-  {
-    "id": "dsh-solo-leveling",
-    "name": "dsh-solo-leveling",
-    "type": "plugin",
-    "category": "ui",
-    "repository": "https://github.com/zzyyyds88/dsh-solo-leveling",
-    "description": "DeepSeek Harness（DSH）插件集：访问门禁（登录 + HTTPS 反代）、默认值、手机端适配、桌宠、任务套件（看板 / 统计 / Git 图谱 / 皮肤），浏览器 / 手机 / 局域网公网随时调用。",
-    "description_zh": "DeepSeek Harness（DSH）插件集：访问门禁（登录 + HTTPS 反代）、默认值、手机端适配、桌宠、任务套件（看板 / 统计 / Git 图谱 / 皮肤），浏览器 / 手机 / 局域网公网随时调用。",
-    "capabilities": [
-      "coding",
-      "git"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2,
-    "_license": "MIT",
-    "_topics": [
-      "deepseek",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin"
     ],
     "subcategory": "skins-themes"
   },
@@ -79613,27 +79561,6 @@
       "typescript"
     ],
     "subcategory": "sidebar-panels"
-  },
-  {
-    "id": "dsh-appearance",
-    "name": "dsh-appearance",
-    "type": "plugin",
-    "category": "search",
-    "repository": "https://github.com/levi52/dsh-appearance",
-    "description": "DeepSeek Harness Web UI 的外观设置插件，一键个性化你的 Web UI【NPM】",
-    "description_zh": "DeepSeek Harness Web UI 的外观设置插件，一键个性化你的 Web UI【NPM】",
-    "capabilities": [
-      "coding",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2,
-    "_license": "MIT",
-    "_topics": [
-      "dsh-plugin"
-    ],
-    "subcategory": "web-search"
   },
   {
     "id": "dsh-autonomy-1",

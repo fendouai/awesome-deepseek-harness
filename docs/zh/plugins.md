@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（10254 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（10251 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [webnovel-writer](resources/webnovel-writer.md) | ⭐7,265 | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 | ✅ 活跃 |
 
-## 完整列表（10254）
+## 完整列表（10251）
 
 
 **视觉与多模态（3638）**
@@ -3682,7 +3682,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-trellis-dashboard](resources/dsh-trellis-dashboard.md) | – | 支持在Deepseek Harness(dsh)中，通过对话tab查看trellis任务状态、工作区信息等。需配合trellis使用：https://github.com/mindfold-ai/Trellis | ✅ 活跃 |
 | [dsh-usb](resources/dsh-usb.md) | – | DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible) | ✅ 活跃 |
 
-**搜索与研究（2021）**
+**搜索与研究（2019）**
 
 *其他（1343）*
 
@@ -5031,7 +5031,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [weibo-wallpaper-dsh-plugin](resources/weibo-wallpaper-dsh-plugin.md) | ⭐1 | 把微博博主的相册变成(DSH)Web 界面壁纸的宿主插件。每次打开 DSH 自动检查微博:同一天跳过,跨天/跨月增量下载,按月归档到本地 YYYY-MM 文件夹，首次启用自动回填今年1月到上个月的历史相册。即一个插件、一个你本人的微博 Cookie,就可同时跟踪多位博主(每人独立文件夹与状态) 三种显示模式 + 月份切换,控制条常驻页面底部。A DSH host plugin that syncs a Weibo blogger's album by month into local folders and shows them as the wallpaper behind  the DSH web UI. Cookie is required and stay local. | ✅ 活跃 |
 | [xechat-dsh](resources/xechat-dsh.md) | ⭐1 | DSH 侧边栏聊天插件：在 DeepSeek Harness 里常驻一条可停靠的 XEChat 鱼塘会话——Markdown 图文与表情、#showServer/#login 切服、在线成员、全屏遮盖，单条 WebSocket 保活。Dockable XEChat chat sidebar for DeepSeek Harness (DSH). | ✅ 活跃 |
 | [dsh-goofish-mcp](resources/dsh-goofish-mcp.md) | – | DeepSeek Harness 的闲鱼只读监控：驱动 goofish-cli MCP 服务器，暴露搜索 / 商品详情 / 在售列表 / 会话历史 / 类目识别等只读工具，写操作一律过滤。 | ✅ 活跃 |
-*🌐 网页搜索（671）*
+*🌐 网页搜索（669）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -5406,7 +5406,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-answer-sound](resources/dsh-answer-sound.md) | ⭐2 | Agent answer sound effects for the DeepSeek Harness web GUI: start/done/error tones following the answering lifecycle, per-kind volume, custom audio files, master switch. | ✅ 活跃 |
 | [dsh-api-balance](resources/dsh-api-balance-3.md) | ⭐2 | DeepSeek account balance readout for DSH Web (dsh-plugin) | ✅ 活跃 |
 | [dsh-api-usage](resources/dsh-api-usage.md) | ⭐2 | 在 DSH Web 界面侧边栏底部提供常驻小部件，实时展示 DeepSeek API 的当前余额、今日消费、Token 用量与请求次数，并附 24 小时消费柱状图，点击即可直达 DeepSeek 充值页。 | ✅ 活跃 |
-| [dsh-appearance](resources/dsh-appearance.md) | ⭐2 | DeepSeek Harness Web UI 的外观设置插件，一键个性化你的 Web UI【NPM】 | ✅ 活跃 |
 | [dsh-archive-manager](resources/dsh-archive-manager-2.md) | ⭐2 | Archived-session management (show/unarchive/permanently delete) for the DSH Web GUI, with zero changes to official packages. | ✅ 活跃 |
 | [dsh-artifact-library](resources/dsh-artifact-library.md) | ⭐2 | DSH 产物库：DeepSeek Harness 的产出/资料管理插件——自动采集 AI 产物、AI 精化整理、全文检索、项目总览，本地优先。Artifact & reference library for DeepSeek Harness. | ✅ 活跃 |
 | [dsh-auto-exit](resources/dsh-auto-exit.md) | ⭐2 | DSH plugin: exit the CLI process automatically when the Web UI closes (equivalent to Ctrl+C). Install via `dsh plugin --profile web add dsh-auto-exit` | ✅ 活跃 |
@@ -5503,7 +5502,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-token-heatmap](resources/dsh-token-heatmap.md) | ⭐2 | DSH web plugin: GitHub-style daily token-usage heatmap on the new-session screen with a selectable calendar-year view, green/blue color schemes and a display switch, plus today / this-month / all-time totals. | ✅ 活跃 |
 | [dsh-token-usage](resources/dsh-token-usage-4.md) | ⭐2 | DeepSeek Harness Web GUI Token 用量展示插件：单会话胶囊 + 全局每日/按模型消耗面板（只读日志，零配置）| Token usage display plugin: per-session pill + global daily/per-model consumption panel | ✅ 活跃 |
 | [dsh-trajectory-reader](resources/dsh-trajectory-reader.md) | ⭐2 | 轨迹解读 · Trajectory Reader — DeepSeek Harness (DSH) web client plugin: a new 轨迹解读 tab that interprets what the assistant did per user round (rules-based + optional LLM narrative), user messages unchanged. | ✅ 活跃 |
-| [dsh-transparent-ui-plugin](resources/dsh-transparent-ui-plugin-1.md) | ⭐2 | Transform DeepSeek Harness's web UI into customizable frosted glass with Mica or Compatibility modes, adjustable blur, and live wallpapers. | ✅ 活跃 |
 | [dsh-turn-marks](resources/dsh-turn-marks.md) | ⭐2 | DSH web UI plugin: Claude Code / Codex style turn-marks strip on the left edge of the conversation - one bar per user message, click to jump, hover for preview, active bar turns white. | ✅ 活跃 |
 | [dsh-ui-progress](resources/dsh-ui-progress-1.md) | ⭐2 | DSH Web UI 会话进度插件：输入框停靠区常驻会话进度条（todos 真实进度 / 实时 token 生成速率 / 中断橘红态 / 待办提醒），零核心改动 | ✅ 活跃 |
 | [dsh-ui-state](resources/dsh-ui-state.md) | ⭐2 | DSH Web GUI 界面状态持久化插件：侧边栏开合/宽度/详情面板/对话滚动位置恢复 | ✅ 活跃 |
@@ -7580,7 +7578,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | DeepSeek Harness 一键重启：网页按钮（外加 dsh_restart Agent 工具）把重启交给独立 helper，等端口释放后以完全相同的命令拉起新宿主，页面自动重连；新宿主启动失败时由恢复控制台显示启动错误。 | ✅ 活跃 |
 
-**界面与体验（1420）**
+**界面与体验（1419）**
 
 *其他（1130）*
 
@@ -8810,7 +8808,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-plugin-cost](resources/dsh-plugin-cost.md) | – | Session cost estimate in the DSH Web composer dock (tokenUsage × configurable price table, one-click official-price refresh). | ✅ 活跃 |
 | [dsh-pr-checks](resources/dsh-pr-checks.md) | – | DSH 插件（宿主端 + Web 客户端）：在侧边栏底部按工作区/项目分组展示各打开 PR 的 GitHub Actions 检查状态与进度。 | 🧪 实验性 |
 | [dshwiki-plugin](resources/dshwiki-plugin.md) | – | Sidebar panel listing 12 curated DeepSeek Harness plugins in eight languages, with copyable install commands — data fetched live from dshwiki.com｜dsh 侧边栏里的精选插件库，八种语言，安装命令一键复制 | ✅ 活跃 |
-*🎨 皮肤与主题（89）*
+*🎨 皮肤与主题（88）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -8876,7 +8874,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-refined](resources/dsh-refined.md) | ⭐2 | DeepSeek-Refined 的 DeepSeek Harness 移植版 为 DeepSeek Harness（DSH）前端注入 Obsidian Border 风格的 Markdown 美化与多主题配色。 | ✅ 活跃 |
 | [dsh-skin-picker](resources/dsh-skin-picker.md) | ⭐2 | DeepSeek Harness 换肤插件：10 套预设皮肤 + 自然语言换肤 + 自定义背景图片 + 界面控件联动，设置→通用→「皮肤」行内切换，settings.yaml 跨设备同步。 | ✅ 活跃 |
 | [dsh-skin-studio](resources/dsh-skin-studio-2.md) | ⭐2 | A local token-safe DSH theme generator, editor, auditor, and exporter | ✅ 活跃 |
-| [dsh-solo-leveling](resources/dsh-solo-leveling.md) | ⭐2 | DeepSeek Harness（DSH）插件集：访问门禁（登录 + HTTPS 反代）、默认值、手机端适配、桌宠、任务套件（看板 / 统计 / Git 图谱 / 皮肤），浏览器 / 手机 / 局域网公网随时调用。 | ✅ 活跃 |
 | [dsh-theme-cyberpunk](resources/dsh-theme-cyberpunk.md) | ⭐2 | DeepSeek Harness 赛博朋克主题插件：RGB 流动霓虹、自定义背景图库、本地音乐播放器与一键启停。 | ✅ 活跃 |
 | [dsh-theme-picker](resources/dsh-theme-picker.md) | ⭐2 | DeepSeek Harness 主题选择插件：管理应用主题与已安装主题插件，同一时间仅一个主题生效。 | ✅ 活跃 |
 | [dsh-theme-switch](resources/dsh-theme-switch.md) | ⭐2 | 一款轻量级的 DSH 主题外观切换插件：自动检测已装皮肤，一键互斥切换，全部停用时回退官方外观，即时生效、重启保留。 | ✅ 活跃 |

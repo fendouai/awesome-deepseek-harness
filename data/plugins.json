@@ -59421,23 +59421,6 @@
     "license": "MIT"
   },
   {
-    "id": "dsh-mihome",
-    "name": "dsh-mihome",
-    "type": "plugin",
-    "category": "vision",
-    "repository": "https://github.com/SiriusWJ/dsh-mihome",
-    "description": "Mi Home (米家) control for DeepSeek Harness agents — list homes/devices, read props, control devices behind a human approval gate.",
-    "description_zh": "Mi Home (米家) control for DeepSeek Harness agents — list homes/devices, read props, control devices behind a human approval gate.",
-    "capabilities": [
-      "coding",
-      "multi-agent"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 3,
-    "license": "MIT"
-  },
-  {
     "id": "dsh-webgis",
     "name": "DSH-WebGIS",
     "type": "plugin",

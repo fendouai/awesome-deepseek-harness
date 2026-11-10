@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "DeepSeek Harness (dsh) 精选 agents & multi-agent：🔥 Top 10 与完整列表（362 条）。"
+description: "DeepSeek Harness (dsh) 精选 agents & multi-agent：🔥 Top 10 与完整列表（361 条）。"
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ 活跃 |
 | 10 | [dsh-liketavern](resources/dsh-liketavern.md) | ⭐111 | A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime. | ✅ 活跃 |
 
-## 完整列表（362）
+## 完整列表（361）
 
 
-**多智能体（359）**
+**多智能体（358）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -91,7 +91,6 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-monkey-desk](resources/dsh-monkey-desk.md) | ⭐7 | A visual multi-agent workspace for DeepSeek Harness (DSH) Web. | ✅ 活跃 |
 | [dsh-subagent-model-router](resources/dsh-subagent-model-router.md) | ⭐7 | Deepseek Harness plugin that allows automatic delegation of subtasks to different models based on user preferences | ✅ 活跃 |
 | [dsh-a2a](resources/dsh-a2a-1.md) | ⭐6 | 面向 Harness 的 Agent2Agent 网状网络。 | ✅ 活跃 |
-| [dsh-plugin-omoslim](resources/dsh-plugin-omoslim.md) | ⭐6 | DeepSeek Harness bundle: oh-my-opencode-slim style Orchestrator agent preset with model-pinned specialist subagents | ✅ 活跃 |
 | [dsh-reasoning-settings](resources/dsh-reasoning-settings.md) | ⭐6 | 让 DeepSeek Harness 的第三方 API 支持低、中、高等推理强度，并可为每次子 Agent 调用选择模型｜Add Low, Medium, High, and other reasoning levels to third-party APIs, with model selection for each subagent call | ✅ 活跃 |
 | [dsh-roleplay](resources/dsh-roleplay.md) | ⭐6 | Deepseek Harness 角色扮演插件 Role-play conversations, character-card authoring and image generation for DeepSeek Harness | ✅ 活跃 |
 | [dsh-shadow-mind](resources/dsh-shadow-mind.md) | ⭐6 | Independent Shadow agent orchestration plugin for DeepSeek Harness | ✅ 活跃 |

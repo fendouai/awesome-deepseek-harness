@@ -1122,26 +1122,6 @@
     ]
   },
   {
-    "id": "dsh-plugin-omoslim",
-    "name": "dsh-plugin-omoslim",
-    "type": "agent",
-    "category": "multi-agent",
-    "repository": "https://github.com/tevenfeng/dsh-plugin-omoslim",
-    "description": "DeepSeek Harness bundle: oh-my-opencode-slim style Orchestrator agent preset with model-pinned specialist subagents",
-    "description_zh": "DeepSeek Harness bundle: oh-my-opencode-slim style Orchestrator agent preset with model-pinned specialist subagents",
-    "capabilities": [
-      "coding",
-      "multi-agent"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 6,
-    "_license": "MIT",
-    "_topics": [
-      "dsh-plugin"
-    ]
-  },
-  {
     "id": "dsh-shadow-mind",
     "name": "dsh-shadow-mind",
     "type": "agent",

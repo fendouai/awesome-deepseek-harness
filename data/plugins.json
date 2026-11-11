@@ -22978,31 +22978,6 @@
     "subcategory": "vision-tools"
   },
   {
-    "id": "dsh-plugin-doctor",
-    "name": "dsh-plugin-doctor",
-    "type": "plugin",
-    "category": "ui",
-    "repository": "https://github.com/zoahdev/dsh-plugin-doctor",
-    "description": "Health checks for DeepSeek Harness plugins: manifest, patch, entry, build, pack, fresh-profile install verification — CLI + agent-callable plugin_check tool (RFC #1629 dsh plugin check).",
-    "description_zh": "Health checks for DeepSeek Harness plugins: manifest, patch, entry, build, pack, fresh-profile install verification — CLI + agent-callable plugin_check tool (RFC #1629 dsh plugin check).",
-    "capabilities": [
-      "coding",
-      "multi-agent",
-      "ui"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 7,
-    "_license": "MIT",
-    "_topics": [
-      "cli",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh-plugin",
-      "health-check"
-    ]
-  },
-  {
     "id": "dsh-mpkg-wallpaper",
     "name": "dsh-mpkg-wallpaper",
     "type": "plugin",

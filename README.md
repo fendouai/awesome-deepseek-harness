@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-#### Complete list (10435)
+#### Complete list (10434)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn! (✅ active)
@@ -1491,7 +1491,6 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-peer-link](https://github.com/czm15053/dsh-peer-link) ⭐7 — 点对点消息工具:让 DeepSeek Harness(dsh)会话与其他本机 agent 会话(如 Claude Code)通过 unix socket 互发消息。 (✅ active)
 - [dsh-pinned-panel](https://github.com/OuQiL/dsh-pinned-panel) ⭐7 — A dedicated Pinned area for DeepSeek Harness: a pinned group atop the sidebar session list plus a full Pinned page, opening every conversation in its original workspace. (✅ active)
 - [dsh-plugin-diff-review](https://github.com/Civitasv/dsh-plugin-diff-review) ⭐7 — Diff Review Plugin for DeepSeek Harness (✅ active)
-- [dsh-plugin-doctor](https://github.com/zoahdev/dsh-plugin-doctor) ⭐7 — Health checks for DeepSeek Harness plugins: manifest, patch, entry, build, pack, fresh-profile install verification — CLI + agent-callable plugin_check tool (RFC #1629 dsh plugin check). (✅ active)
 - [dsh-plugin-merge-tool-calls](https://github.com/HuanLinOTO/dsh-plugin-merge-tool-calls) ⭐7 — 把 WebUI 会话流中连续相邻的同工具调用合并为「主卡片+紧凑子行」树状展示，默认覆盖所有内置通用行工具 | Merges consecutive same-tool calls in the WebUI chat flow into a main-card + compact-child-rows tree view, all built-in generic tools by default (✅ active)
 - [dsh-plugin-moments](https://github.com/yunyunyunyunsuan/dsh-plugin-moments) ⭐7 — AI 的朋友圈 —— DeepSeek 蓝色大肥鱼每天根据真实任务自动发朋友圈的 DSH 插件（LLM 生成 · 基于事实 · 仿微信 UI） (✅ active)
 - [dsh-plugin-ponytail](https://github.com/makuralymi/dsh-plugin-ponytail) ⭐7 — Ponytail whip easter egg plugin for the DeepSeek Harness web GUI (✅ active)
@@ -13980,7 +13979,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [Mirage](https://github.com/strukto-ai/mirage) | ⭐3,624 | Virtual terminal and virtual filesystem for AI agents, with a sandboxed bash tool. | ✅ active |
 | 10 | [ReMe](https://github.com/agentscope-ai/ReMe) | ⭐3,448 | Memory management kit for agents: remember, refine and reuse memory across sessions. | ✅ active |
 
-#### Complete list (1930)
+#### Complete list (1929)
 
 - [Reactive Resume](https://github.com/reactive-resume/reactive-resume) ⭐42,520 — Open-source, privacy-first resume builder; ships an MCP server and agent skills that can be driven from DeepSeek Harness. (✅ active)
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐36,784 — Self-evolving context database for AI agents that unifies agent memory, knowledge RAG and skills. (✅ active)
@@ -14015,7 +14014,6 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [TOMC](https://github.com/ZipengWu365/TOMC) ⭐267 — TOMC Memory: CPU context compression and task memory for Codex, Claude Code, Cursor, TRAE, WorkBuddy and other MCP clients. (✅ active)
 - [mcp-for-stata](https://github.com/SepineTam/mcp-for-stata) ⭐259 — A MCP server for integrating Stata into your agent loop with a safety-first design. (✅ active)
 - [nature-academic-search](https://github.com/wp-a/nature-academic-search) ⭐237 — Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。 (✅ active)
-- [filens](https://github.com/IceWhaleTech/filens) ⭐217 — 📄 Office / PDF / iWork / CAD / 3D / RAW / 360° 🔒 Browser-local preview & conversion 🤖 Agent CLI with OCR, structured text & layout extraction ⚡ Rust + WebAssembly 🧩 Vue 3 integration. Open-source, local-first. Your files, your device. (✅ active)
 - [dsh-popout-sidebar](https://github.com/e2mcc/dsh-popout-sidebar) ⭐209 — A sidebar can pop out a separate browser tab (drag it to another monitor) (✅ active)
 - [FlowX](https://github.com/AIpRoBuilder/FlowX) ⭐202 — MCP server and Python SDK that generates, runs and refines AI agent workflows from natural language (Generative Workflow, A2A, FastAPI). (✅ active)
 - [codex-mobile-bridge](https://github.com/try2love/codex-mobile-bridge) ⭐199 — 从手机、平板或电脑浏览器继续 Codex Claude DSH Zcode App、CLI、WSL CLI 会话，兼容官方登录、API 与自定义模型服务。Self-hosted browser access to your existing Codex Claude DSH Zcode App、CLI、WSL CLI chats, with local/SSH sessions, approvals and notifications. (✅ active)
@@ -16812,7 +16810,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-#### Complete list (10435)
+#### Complete list (10434)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn! (✅ active)
@@ -18133,7 +18131,6 @@ awesome-deepseek-harness/
 - [dsh-peer-link](https://github.com/czm15053/dsh-peer-link) ⭐7 — 点对点消息工具:让 DeepSeek Harness(dsh)会话与其他本机 agent 会话(如 Claude Code)通过 unix socket 互发消息。 (✅ active)
 - [dsh-pinned-panel](https://github.com/OuQiL/dsh-pinned-panel) ⭐7 — A dedicated Pinned area for DeepSeek Harness: a pinned group atop the sidebar session list plus a full Pinned page, opening every conversation in its original workspace. (✅ active)
 - [dsh-plugin-diff-review](https://github.com/Civitasv/dsh-plugin-diff-review) ⭐7 — Diff Review Plugin for DeepSeek Harness (✅ active)
-- [dsh-plugin-doctor](https://github.com/zoahdev/dsh-plugin-doctor) ⭐7 — Health checks for DeepSeek Harness plugins: manifest, patch, entry, build, pack, fresh-profile install verification — CLI + agent-callable plugin_check tool (RFC #1629 dsh plugin check). (✅ active)
 - [dsh-plugin-merge-tool-calls](https://github.com/HuanLinOTO/dsh-plugin-merge-tool-calls) ⭐7 — 把 WebUI 会话流中连续相邻的同工具调用合并为「主卡片+紧凑子行」树状展示，默认覆盖所有内置通用行工具 | Merges consecutive same-tool calls in the WebUI chat flow into a main-card + compact-child-rows tree view, all built-in generic tools by default (✅ active)
 - [dsh-plugin-moments](https://github.com/yunyunyunyunsuan/dsh-plugin-moments) ⭐7 — AI 的朋友圈 —— DeepSeek 蓝色大肥鱼每天根据真实任务自动发朋友圈的 DSH 插件（LLM 生成 · 基于事实 · 仿微信 UI） (✅ active)
 - [dsh-plugin-ponytail](https://github.com/makuralymi/dsh-plugin-ponytail) ⭐7 — Ponytail whip easter egg plugin for the DeepSeek Harness web GUI (✅ active)
@@ -30622,7 +30619,7 @@ awesome-deepseek-harness/
 | 9 | [Mirage](https://github.com/strukto-ai/mirage) | ⭐3,624 | Virtual terminal and virtual filesystem for AI agents, with a sandboxed bash tool. | ✅ active |
 | 10 | [ReMe](https://github.com/agentscope-ai/ReMe) | ⭐3,448 | Memory management kit for agents: remember, refine and reuse memory across sessions. | ✅ active |
 
-#### Complete list (1930)
+#### Complete list (1929)
 
 - [Reactive Resume](https://github.com/reactive-resume/reactive-resume) ⭐42,520 — Open-source, privacy-first resume builder; ships an MCP server and agent skills that can be driven from DeepSeek Harness. (✅ active)
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐36,784 — Self-evolving context database for AI agents that unifies agent memory, knowledge RAG and skills. (✅ active)
@@ -30657,7 +30654,6 @@ awesome-deepseek-harness/
 - [TOMC](https://github.com/ZipengWu365/TOMC) ⭐267 — TOMC Memory: CPU context compression and task memory for Codex, Claude Code, Cursor, TRAE, WorkBuddy and other MCP clients. (✅ active)
 - [mcp-for-stata](https://github.com/SepineTam/mcp-for-stata) ⭐259 — A MCP server for integrating Stata into your agent loop with a safety-first design. (✅ active)
 - [nature-academic-search](https://github.com/wp-a/nature-academic-search) ⭐237 — Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。 (✅ active)
-- [filens](https://github.com/IceWhaleTech/filens) ⭐217 — 📄 Office / PDF / iWork / CAD / 3D / RAW / 360° 🔒 Browser-local preview & conversion 🤖 Agent CLI with OCR, structured text & layout extraction ⚡ Rust + WebAssembly 🧩 Vue 3 integration. Open-source, local-first. Your files, your device. (✅ active)
 - [dsh-popout-sidebar](https://github.com/e2mcc/dsh-popout-sidebar) ⭐209 — A sidebar can pop out a separate browser tab (drag it to another monitor) (✅ active)
 - [FlowX](https://github.com/AIpRoBuilder/FlowX) ⭐202 — MCP server and Python SDK that generates, runs and refines AI agent workflows from natural language (Generative Workflow, A2A, FastAPI). (✅ active)
 - [codex-mobile-bridge](https://github.com/try2love/codex-mobile-bridge) ⭐199 — 从手机、平板或电脑浏览器继续 Codex Claude DSH Zcode App、CLI、WSL CLI 会话，兼容官方登录、API 与自定义模型服务。Self-hosted browser access to your existing Codex Claude DSH Zcode App、CLI、WSL CLI chats, with local/SSH sessions, approvals and notifications. (✅ active)

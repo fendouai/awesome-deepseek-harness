@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "DeepSeek Harness (dsh) 精选 mcp & integrations：🔥 Top 10 与完整列表（1930 条）。"
+description: "DeepSeek Harness (dsh) 精选 mcp & integrations：🔥 Top 10 与完整列表（1929 条）。"
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [Mirage](resources/mirage.md) | ⭐3,624 | 面向 AI Agent 的虚拟终端与虚拟文件系统，提供沙箱化 bash 工具。 | ✅ 活跃 |
 | 10 | [ReMe](resources/reme.md) | ⭐3,448 | 面向 Agent 的记忆管理套件：跨会话记住、提炼并复用记忆。 | ✅ 活跃 |
 
-## 完整列表（1930）
+## 完整列表（1929）
 
 
 **MCP（571）**
@@ -1425,14 +1425,13 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-ssh-hub](resources/dsh-ssh-hub.md) | – | Multi-server SSH terminal panel for DeepSeek Harness Web GUI — multiple SSH terminals in a bottom panel | ✅ 活跃 |
 | [dsh-wechat-bridge](resources/dsh-wechat-bridge-2.md) | – | 个人微信桥接插件：扫码绑定后直接在微信里与本机 DeepSeek Harness Agent 对话（文字/图片/语音/文件、流式回复、会话持久化、三端通用）。 | ✅ 活跃 |
 
-**浏览器控制（292）**
+**浏览器控制（291）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [Browser4](resources/browser4.md) | ⭐1,132 | Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation. | ✅ 活跃 |
 | [dsh-browser](resources/dsh-browser-5.md) | ⭐746 | Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。 | ✅ 活跃 |
 | [ccteam](resources/ccteam.md) | ⭐538 | ccteam turns the coding agents you already run (Claude Code, Codex, Grok, DeepSeek Harness, Kimi, Pi) into one team — any session can spawn, dispatch, and collect work from any vendor on any machine, while you steer it all from Telegram, Lark, or a browser tab. 把你在用的编程 agent 编成一支团队,跨厂商跨机器派活,Telegram/飞书/网页统一指挥。 | ✅ 活跃 |
-| [filens](resources/filens.md) | ⭐217 | 📄 Office / PDF / iWork / CAD / 3D / RAW / 360° 🔒 Browser-local preview & conversion 🤖 Agent CLI with OCR, structured text & layout extraction ⚡ Rust + WebAssembly 🧩 Vue 3 integration. Open-source, local-first. Your files, your device. | ✅ 活跃 |
 | [dsh-popout-sidebar](resources/dsh-popout-sidebar.md) | ⭐209 | A sidebar can pop out a separate browser tab (drag it to another monitor) | ✅ 活跃 |
 | [codex-mobile-bridge](resources/codex-mobile-bridge.md) | ⭐199 | 从手机、平板或电脑浏览器继续 Codex Claude DSH Zcode App、CLI、WSL CLI 会话，兼容官方登录、API 与自定义模型服务。Self-hosted browser access to your existing Codex Claude DSH Zcode App、CLI、WSL CLI chats, with local/SSH sessions, approvals and notifications. | ✅ 活跃 |
 | [dsh-tabbit](resources/dsh-tabbit.md) | ⭐96 | Tabbit Browser plugins for Deepseek Harness | ✅ 活跃 |

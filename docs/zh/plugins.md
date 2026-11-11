@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（10435 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（10434 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-## 完整列表（10435）
+## 完整列表（10434）
 
 
 **视觉与多模态（3702）**
@@ -7707,9 +7707,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | DeepSeek Harness 一键重启：网页按钮（外加 dsh_restart Agent 工具）把重启交给独立 helper，等端口释放后以完全相同的命令拉起新宿主，页面自动重连；新宿主启动失败时由恢复控制台显示启动错误。 | ✅ 活跃 |
 
-**界面与体验（1448）**
+**界面与体验（1447）**
 
-*其他（1159）*
+*其他（1158）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -7849,7 +7849,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-hub-workshop](resources/dsh-hub-workshop.md) | ⭐7 | Plugin intake and current-baseline verification are documented in INTAKE.md and INTAKE.zh.md. The three integration modes are transactional Profile Bundle, managed Repository Plugin configuration, and guided integration; pending review is an independent review | ✅ 活跃 |
 | [dsh-intelligent-ui](resources/dsh-intelligent-ui-5.md) | ⭐7 | Intelligent UI extension for DeepSeek Harness: render OpenUI Lang answers as interactive pages. | ✅ 活跃 |
 | [dsh-pinned-panel](resources/dsh-pinned-panel.md) | ⭐7 | A dedicated Pinned area for DeepSeek Harness: a pinned group atop the sidebar session list plus a full Pinned page, opening every conversation in its original workspace. | ✅ 活跃 |
-| [dsh-plugin-doctor](resources/dsh-plugin-doctor.md) | ⭐7 | Health checks for DeepSeek Harness plugins: manifest, patch, entry, build, pack, fresh-profile install verification — CLI + agent-callable plugin_check tool (RFC #1629 dsh plugin check). | ✅ 活跃 |
 | [dsh-plugin-moments](resources/dsh-plugin-moments.md) | ⭐7 | AI 的朋友圈 —— DeepSeek 蓝色大肥鱼每天根据真实任务自动发朋友圈的 DSH 插件（LLM 生成 · 基于事实 · 仿微信 UI） | ✅ 活跃 |
 | [dsh-vault](resources/dsh-vault.md) | ⭐7 | Encrypted credential vault for DeepSeek Harness — AES-256-GCM + TOTP, model tools + Settings UI | ✅ 活跃 |
 | [dsh-weather-panel](resources/dsh-weather-panel.md) | ⭐7 | DeepSeek Harness 天气面板：自动定位、5 天预报、逐小时降水、中央气象台预警与台风路径（纯浏览器端，无需 API key） | ✅ 活跃 |

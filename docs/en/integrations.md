@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "Top 10 and full list of 1930 curated mcp & integrations for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 1929 curated mcp & integrations for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [Mirage](resources/mirage.md) | ⭐3,624 | Virtual terminal and virtual filesystem for AI agents, with a sandboxed bash tool. | ✅ active |
 | 10 | [ReMe](resources/reme.md) | ⭐3,448 | Memory management kit for agents: remember, refine and reuse memory across sessions. | ✅ active |
 
-## Complete list (1930)
+## Complete list (1929)
 
 
 **MCP (571)**
@@ -1425,14 +1425,13 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-ssh-hub](resources/dsh-ssh-hub.md) | – | Multi-server SSH terminal panel for DeepSeek Harness Web GUI — multiple SSH terminals in a bottom panel | ✅ active |
 | [dsh-wechat-bridge](resources/dsh-wechat-bridge-2.md) | – | Personal WeChat bridge for DeepSeek Harness: scan QR to bind, then chat with your local DSH agent directly inside WeChat (text/image/voice/file, streamed replies, persisted sessions). | ✅ active |
 
-**Browser control (292)**
+**Browser control (291)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [Browser4](resources/browser4.md) | ⭐1,132 | Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation. | ✅ active |
 | [dsh-browser](resources/dsh-browser-5.md) | ⭐746 | Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。 | ✅ active |
 | [ccteam](resources/ccteam.md) | ⭐538 | ccteam turns the coding agents you already run (Claude Code, Codex, Grok, DeepSeek Harness, Kimi, Pi) into one team — any session can spawn, dispatch, and collect work from any vendor on any machine, while you steer it all from Telegram, Lark, or a browser tab. 把你在用的编程 agent 编成一支团队,跨厂商跨机器派活,Telegram/飞书/网页统一指挥。 | ✅ active |
-| [filens](resources/filens.md) | ⭐217 | 📄 Office / PDF / iWork / CAD / 3D / RAW / 360° 🔒 Browser-local preview & conversion 🤖 Agent CLI with OCR, structured text & layout extraction ⚡ Rust + WebAssembly 🧩 Vue 3 integration. Open-source, local-first. Your files, your device. | ✅ active |
 | [dsh-popout-sidebar](resources/dsh-popout-sidebar.md) | ⭐209 | A sidebar can pop out a separate browser tab (drag it to another monitor) | ✅ active |
 | [codex-mobile-bridge](resources/codex-mobile-bridge.md) | ⭐199 | 从手机、平板或电脑浏览器继续 Codex Claude DSH Zcode App、CLI、WSL CLI 会话，兼容官方登录、API 与自定义模型服务。Self-hosted browser access to your existing Codex Claude DSH Zcode App、CLI、WSL CLI chats, with local/SSH sessions, approvals and notifications. | ✅ active |
 | [dsh-tabbit](resources/dsh-tabbit.md) | ⭐96 | Tabbit Browser plugins for Deepseek Harness | ✅ active |

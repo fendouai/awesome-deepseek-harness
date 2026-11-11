@@ -593,25 +593,6 @@
     "license": "MIT"
   },
   {
-    "id": "filens",
-    "name": "filens",
-    "type": "integration",
-    "category": "browser",
-    "repository": "https://github.com/IceWhaleTech/filens",
-    "description": "📄 Office / PDF / iWork / CAD / 3D / RAW / 360° 🔒 Browser-local preview & conversion 🤖 Agent CLI with OCR, structured text & layout extraction ⚡ Rust + WebAssembly 🧩 Vue 3 integration. Open-source, local-first. Your files, your device.",
-    "description_zh": "📄 Office / PDF / iWork / CAD / 3D / RAW / 360° 🔒 Browser-local preview & conversion 🤖 Agent CLI with OCR, structured text & layout extraction ⚡ Rust + WebAssembly 🧩 Vue 3 integration. Open-source, local-first. Your files, your device.",
-    "capabilities": [
-      "browser",
-      "coding",
-      "multi-agent",
-      "multimodal"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 217,
-    "license": "MIT"
-  },
-  {
     "id": "dsh-popout-sidebar",
     "name": "dsh-popout-sidebar",
     "type": "integration",

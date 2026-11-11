@@ -6279,6 +6279,22 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-portable-2",
+    "name": "dsh-portable",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/wjf1/dsh-portable",
+    "description": "DeepSeek Harness 配置的离线/在线导入导出与迁移：profiles、插件、技能、hooks、boards · Offline/online import-export and migration for DeepSeek Harness: profiles, plugins, skills, hooks, boards",
+    "description_zh": "DeepSeek Harness 配置的离线/在线导入导出与迁移：profiles、插件、技能、hooks、boards · Offline/online import-export and migration for DeepSeek Harness: profiles, plugins, skills, hooks, boards",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-review-skills",
     "name": "dsh-review-skills",
     "type": "skill",
@@ -15122,6 +15138,293 @@
       "coding",
       "context",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-medical-device-skills",
+    "name": "dsh-medical-device-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Liao199/dsh-medical-device-skills",
+    "description": "MedXpert medical-device regulatory skills packaged as a DeepSeek Harness (dsh) profile bundle.",
+    "description_zh": "MedXpert medical-device regulatory skills packaged as a DeepSeek Harness (dsh) profile bundle.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-ai-studio",
+    "name": "dsh-ai-studio",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/mjw0531/dsh-ai-studio",
+    "description": "Install-and-use AI Studio for DeepSeek Harness: workspace dashboard, roles, tasks, verification, decision desk, merge governance, and portable project bundles.",
+    "description_zh": "Install-and-use AI Studio for DeepSeek Harness: workspace dashboard, roles, tasks, verification, decision desk, merge governance, and portable project bundles.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-dot",
+    "name": "dsh-plugin-dot",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/h958661134/dsh-plugin-dot",
+    "description": "Dot for DeepSeek Harness: a personal chief-of-staff agent with memory, tasks, safety rules, a session dispatch desk and an on-screen pet. DSH 个人总管插件",
+    "description_zh": "Dot for DeepSeek Harness: a personal chief-of-staff agent with memory, tasks, safety rules, a session dispatch desk and an on-screen pet. DSH 个人总管插件",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wch-debug",
+    "name": "dsh-wch-debug",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/lishuo4096/dsh-wch-debug",
+    "description": "Drive WCH CH32 microcontrollers from the CLI through an isolated private copy of WCH's OpenOCD plus WCH-Link. DSH plugin: 20 tools + an agent skill. MIT.",
+    "description_zh": "Drive WCH CH32 microcontrollers from the CLI through an isolated private copy of WCH's OpenOCD plus WCH-Link. DSH plugin: 20 tools + an agent skill. MIT.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-gogo",
+    "name": "dsh-skill-gogo",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/fanghedeng/dsh-skill-gogo",
+    "description": "Skill GoGo: a DSH panel plugin to browse, group, preview, export, install and rename skills, plus a multi-select skill menu in the composer.",
+    "description_zh": "Skill GoGo: a DSH panel plugin to browse, group, preview, export, install and rename skills, plus a multi-select skill menu in the composer.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workspace-atlas",
+    "name": "dsh-workspace-atlas",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Asteroid-Code-Channel/dsh-workspace-atlas",
+    "description": "AGENTS & Skills 工作台 · edit AGENTS.md, manage multiple skills, and install from four public skill catalogs.",
+    "description_zh": "AGENTS & Skills 工作台 · edit AGENTS.md, manage multiple skills, and install from four public skill catalogs.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-comfyui-album",
+    "name": "dsh-comfyui-album",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/YuChenLiao/dsh-comfyui-album",
+    "description": "DSH 相册插件：把 dsh-comfyui-image 生成的图片收成相册，侧边栏浏览，悬浮复制图片/提示词、导出工作流、加入当前对话、删除。",
+    "description_zh": "DSH 相册插件：把 dsh-comfyui-image 生成的图片收成相册，侧边栏浏览，悬浮复制图片/提示词、导出工作流、加入当前对话、删除。",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-experts",
+    "name": "dsh-skill-experts",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/ownduck/dsh-skill-experts",
+    "description": "Manage skill experts in the sidebar and summon them from the composer or @ menu",
+    "description_zh": "Manage skill experts in the sidebar and summon them from the composer or @ menu",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cost-chip-1",
+    "name": "dsh-cost-chip",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Yearngg/dsh-cost-chip",
+    "description": "Per-turn and per-session token usage with peak/idle cost in the DeepSeek Harness Web UI, plus a bundled task-token-cost skill.",
+    "description_zh": "Per-turn and per-session token usage with peak/idle cost in the DeepSeek Harness Web UI, plus a bundled task-token-cost skill.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-icloud-sync",
+    "name": "dsh-icloud-sync",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/mkoalade/dsh-icloud-sync",
+    "description": "Sync DSH profiles, plugin manifests, and skills between Macs through iCloud Drive.",
+    "description_zh": "Sync DSH profiles, plugin manifests, and skills between Macs through iCloud Drive.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-upm",
+    "name": "dsh-upm",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/qizhuxu/dsh-upm",
+    "description": "DeepSeek Harness native plugin for ui-ux-pro-max: bundled skill data, native search / design-system tools, auto re-vendor from upstream",
+    "description_zh": "DeepSeek Harness native plugin for ui-ux-pro-max: bundled skill data, native search / design-system tools, auto re-vendor from upstream",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "stronger-dsh",
+    "name": "stronger-dsh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/nothurry/stronger-dsh",
+    "description": "Native DSH interface, motion, bounded context recall, scoped skills and agent collaboration.",
+    "description_zh": "Native DSH interface, motion, bounded context recall, scoped skills and agent collaboration.",
+    "capabilities": [
+      "coding",
+      "context",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-todo-progress-guard",
+    "name": "dsh-todo-progress-guard",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/LaochenFEIZHAI/dsh-todo-progress-guard",
+    "description": "DSH host plugin: keeps todo_write progress in sync by nudging the agent mid-turn and completing stranded tasks when a turn ends normally.",
+    "description_zh": "DSH host plugin: keeps todo_write progress in sync by nudging the agent mid-turn and completing stranded tasks when a turn ends normally.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "action-hub",
+    "name": "action-hub",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/AhaCrazy/action-hub",
+    "description": "可移植 Agent Skill 库：DSH、Pi、OMP 原生适配器",
+    "description_zh": "可移植 Agent Skill 库：DSH、Pi、OMP 原生适配器",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "legacy-firmware-reversing",
+    "name": "legacy-firmware-reversing",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Gladess1102/legacy-firmware-reversing",
+    "description": "Agent Skill + DSH plugin: field-tested black-box legacy firmware RE methodology (SigmaTel STMP35xx case study). 零变砖刷写·全量汉化·DSP JIT 仿真·证伪矩阵",
+    "description_zh": "Agent Skill + DSH plugin: field-tested black-box legacy firmware RE methodology (SigmaTel STMP35xx case study). 零变砖刷写·全量汉化·DSP JIT 仿真·证伪矩阵",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-academic-skills",
+    "name": "dsh-academic-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/xuelinzheng41-maker/dsh-academic-skills",
+    "description": "Unofficial DSH port of ARS academic-paper-reviewer (Phase 1: reviewer only). CC BY-NC 4.0 - non-commercial.",
+    "description_zh": "Unofficial DSH port of ARS academic-paper-reviewer (Phase 1: reviewer only). CC BY-NC 4.0 - non-commercial.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "meshy-dsh",
+    "name": "meshy-dsh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/meshy-dev/meshy-dsh",
+    "description": "Meshy 3D generation and 3D printing skills for DeepSeek Harness (dsh)",
+    "description_zh": "Meshy 3D generation and 3D printing skills for DeepSeek Harness (dsh)",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

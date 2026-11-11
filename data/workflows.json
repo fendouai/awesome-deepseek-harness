@@ -3755,6 +3755,40 @@
     "license": "MIT"
   },
   {
+    "id": "offline-ai-agent",
+    "name": "offline-ai-agent",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/AaronKal-ECU/offline-ai-agent",
+    "description": "Run AI on your own hardware, never deal with the cloud and create AI that can handle sensitive data. This repo showcases how to run AI on your own computer, and how to build specialised tools for it to use. I showcase a real setup where I developed tools in Deepseek Harness, that solved real automation engineering problems",
+    "description_zh": "Run AI on your own hardware, never deal with the cloud and create AI that can handle sensitive data. This repo showcases how to run AI on your own computer, and how to build specialised tools for it to use. I showcase a real setup where I developed tools in Deepseek Harness, that solved real automation engineering problems",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-virtual-coding-plan",
+    "name": "dsh-virtual-coding-plan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/17-qxm/dsh-virtual-coding-plan",
+    "description": "A local, simulated coding plan for DeepSeek Harness — meters spend in CNY, enforces rolling 5-hour and weekly caps, and refuses requests before any provider call when the cap is hit.",
+    "description_zh": "A local, simulated coding plan for DeepSeek Harness — meters spend in CNY, enforces rolling 5-hour and weekly caps, and refuses requests before any provider call when the cap is hit.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
     "id": "dsh-plugin-verified-search",
     "name": "dsh-plugin-verified-search",
     "type": "workflow",
@@ -9864,6 +9898,212 @@
     "description_zh": "DSH 插件 · 微博：按作息自动刷微博、写日记、定时发博（支持超话）、自动回评。纯 HTTP，无需浏览器。",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-open-source-first",
+    "name": "dsh-plugin-open-source-first",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/wjc300000000-beep/dsh-plugin-open-source-first",
+    "description": "DSH plugin: injects an auditable open-source-first workflow (search -> three-tier evaluation -> build) into the system prompt at order 50.",
+    "description_zh": "DSH plugin: injects an auditable open-source-first workflow (search -> three-tier evaluation -> build) into the system prompt at order 50.",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-flow-1",
+    "name": "dsh-flow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/El1mir/dsh-flow",
+    "description": "一个意在实现自动化软件工厂的dsh流控制项目",
+    "description_zh": "一个意在实现自动化软件工厂的dsh流控制项目",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-group-status",
+    "name": "dsh-group-status",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/dsh-plugin-collection/dsh-group-status",
+    "description": "DSH 侧栏折叠分组聚合徽标：收起的文件夹行显示进行中 / 待审批 / 已完成 / 定时任务 / 等待评审的聚合状态，带数字与悬停明细。分组状态 / 折叠徽标 / 侧栏状态。｜ Aggregate status badges on collapsed workspace folders in the DSH sidebar: running, pending, done, scheduled and waiting-review states, with counts and hover details.",
+    "description_zh": "DSH 侧栏折叠分组聚合徽标：收起的文件夹行显示进行中 / 待审批 / 已完成 / 定时任务 / 等待评审的聚合状态，带数字与悬停明细。分组状态 / 折叠徽标 / 侧栏状态。｜ Aggregate status badges on collapsed workspace folders in the DSH sidebar: running, pending, done, scheduled and waiting-review states, with counts and hover details.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-second-opinion",
+    "name": "dsh-second-opinion",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/xfgil/dsh-second-opinion",
+    "description": "DSH 跨会话第二意见插件：一个会话卡住时，把问题交给独立的「顾问会话」单独分析，方案作为工具结果直接回到求助方手里。每个求助会话有自己专属的顾问（自动创建、标题写成「辅助+求助会话标题前三字」，一眼看出在辅助谁），同一个问题还能再要第 2、3 个完全独立的顾问分头想。不需要用户转述，也不冒充用户发言。A second-opinion plugin for DeepSeek Harness: hand a stuck question to an independent advisor session and get the plan back inline.",
+    "description_zh": "DSH 跨会话第二意见插件：一个会话卡住时，把问题交给独立的「顾问会话」单独分析，方案作为工具结果直接回到求助方手里。每个求助会话有自己专属的顾问（自动创建、标题写成「辅助+求助会话标题前三字」，一眼看出在辅助谁），同一个问题还能再要第 2、3 个完全独立的顾问分头想。不需要用户转述，也不冒充用户发言。A second-opinion plugin for DeepSeek Harness: hand a stuck question to an independent advisor session and get the plan back inline.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-doxygen",
+    "name": "dsh-doxygen",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/FantastyQAQ/dsh-doxygen",
+    "description": "Doxygen comment workflow for C/C++ (including Qt) sources: file headers, functions, module groups, trailing and short comments, plus a scan that flags comments whose signature fingerprint went stale. Installable as a DSH plugin (skill).",
+    "description_zh": "Doxygen comment workflow for C/C++ (including Qt) sources: file headers, functions, module groups, trailing and short comments, plus a scan that flags comments whose signature fingerprint went stale. Installable as a DSH plugin (skill).",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-superpowers-4",
+    "name": "dsh-superpowers",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/blugart-dev/dsh-superpowers",
+    "description": "Superpowers (obra/superpowers) for DeepSeek Harness: full skill library, session-start bootstrap, optional workflow gate",
+    "description_zh": "Superpowers (obra/superpowers) for DeepSeek Harness: full skill library, session-start bootstrap, optional workflow gate",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-model-usage-1",
+    "name": "dsh-model-usage",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/PonyDevAI/dsh-model-usage",
+    "description": "DSH Web 插件：模型供应商额度与用量（DeepSeek / GLM Coding Plan / OpenRouter / Kimi Coding + 自定义适配器）",
+    "description_zh": "DSH Web 插件：模型供应商额度与用量（DeepSeek / GLM Coding Plan / OpenRouter / Kimi Coding + 自定义适配器）",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-computeruse-enhance",
+    "name": "DSH_Computeruse_Enhance",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/scarlet20252025-cloud/DSH_Computeruse_Enhance",
+    "description": "DSH Computer Use Enhance: rebuild ZCode Computer Use as a DSH plugin with performance and contract hardening. get_app_state 400-element 1432ms -> ~250ms. Windows native backend (PowerShell 5.1 + UI Automation + C# tree walker).",
+    "description_zh": "DSH Computer Use Enhance: rebuild ZCode Computer Use as a DSH plugin with performance and contract hardening. get_app_state 400-element 1432ms -> ~250ms. Windows native backend (PowerShell 5.1 + UI Automation + C# tree walker).",
+    "capabilities": [
+      "browser",
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-kimi-provider",
+    "name": "dsh-kimi-provider",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/youmu129/dsh-kimi-provider",
+    "description": "DSH 插件：播种 Kimi Coding Plan 供应商，对话输入区底部显示用量（5 小时 / 周 / 月度配额）。",
+    "description_zh": "DSH 插件：播种 Kimi Coding Plan 供应商，对话输入区底部显示用量（5 小时 / 周 / 月度配额）。",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-cloudflare-media",
+    "name": "dsh-cloudflare-media",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/dmscode/dsh-cloudflare-media",
+    "description": "Cloudflare Workers AI multimedia tools for DeepSeek Harness: image generation, TTS and STT from the free plan, with a settings page for per-capability model selection.",
+    "description_zh": "Cloudflare Workers AI multimedia tools for DeepSeek Harness: image generation, TTS and STT from the free plan, with a settings page for per-capability model selection.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugins-25",
+    "name": "dsh-plugins",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/TianzeLuo/dsh-plugins",
+    "description": "A curated index of DSH plugins for academic search, paper reading, session workflows, notifications, and math rendering — each plugin links to its own repository.",
+    "description_zh": "A curated index of DSH plugins for academic search, paper reading, session workflows, notifications, and math rendering — each plugin links to its own repository.",
+    "capabilities": [
+      "coding",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-connect-trae-models",
+    "name": "dsh-connect-trae-models",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/DragonHorizon-xtihc/dsh-connect-trae-models",
+    "description": "Multi-account Trae model pool plugin for DeepSeek Harness: auto-failover, check-in automation, credits",
+    "description_zh": "Multi-account Trae model pool plugin for DeepSeek Harness: auto-failover, check-in automation, credits",
+    "capabilities": [
+      "coding",
+      "workflow"
     ],
     "status": "active",
     "verified": false,

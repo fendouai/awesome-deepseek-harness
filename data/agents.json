@@ -2385,6 +2385,24 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-team-progress",
+    "name": "dsh-team-progress",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/ucfjoe/dsh-team-progress",
+    "description": "DeepSeek Harness GUI plugin: four views of a running agent team — who is on what, tracked defects, goal rounds, and what needs a human now. Every number counts durable state; a source it cannot read says so instead of showing 0.",
+    "description_zh": "DeepSeek Harness GUI plugin: four views of a running agent team — who is on what, tracked defects, goal rounds, and what needs a human now. Every number counts durable state; a source it cannot read says so instead of showing 0.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-crosstalk-1",
     "name": "dsh-crosstalk",
     "type": "agent",
@@ -6588,6 +6606,124 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-orchestration",
+    "name": "dsh-orchestration",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Player-MINEPIG/dsh-orchestration",
+    "description": "Independent typed decisions and a durable task / multi-device execution suite for DeepSeek Harness, with optional channel adapters and WebUI.",
+    "description_zh": "Independent typed decisions and a durable task / multi-device execution suite for DeepSeek Harness, with optional channel adapters and WebUI.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-token-breakdown-stats",
+    "name": "dsh-token-breakdown-stats",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Minggle/dsh-token-breakdown-stats",
+    "description": "dsh plugin: replaces the composer-dock stats pill so a session's token total covers the main agent plus every subagent it called, with a click-open breakdown by bucket, by subagent, and by model.",
+    "description_zh": "dsh plugin: replaces the composer-dock stats pill so a session's token total covers the main agent plus every subagent it called, with a click-open breakdown by bucket, by subagent, and by model.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-team-flow",
+    "name": "dsh-team-flow",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/jidekaixin2dian/dsh-team-flow",
+    "description": "DeepSeek Harness Agent Teams 插话插件：主代理等待队友时使用 Steer，队友继续工作。Alpha 预览版。",
+    "description_zh": "DeepSeek Harness Agent Teams 插话插件：主代理等待队友时使用 Steer，队友继续工作。Alpha 预览版。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-model-switch",
+    "name": "dsh-subagent-model-switch",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/YuMo-233/dsh-subagent-model-switch",
+    "description": "DSH ??:???/?????????????--??????????,????? turn ?????",
+    "description_zh": "DSH ??:???/?????????????--??????????,????? turn ?????",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-a2a-3",
+    "name": "dsh-a2a",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/zyfgood/dsh-a2a",
+    "description": "DeepSeek Harness A2A (Agent2Agent) plugin: expose DSH agents as standard A2A servers (agent card, message/send, message/stream SSE, tasks) + a2a_* tools to call remote A2A agents",
+    "description_zh": "DeepSeek Harness A2A (Agent2Agent) plugin: expose DSH agents as standard A2A servers (agent card, message/send, message/stream SSE, tasks) + a2a_* tools to call remote A2A agents",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-custom",
+    "name": "dsh-subagent-custom",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/xingzhen199186/dsh-subagent-custom",
+    "description": "DeepSeek Harness 子代理模型管控与 Jev 智能分流插件（合并自 vitas/dsh-jev-subagent-dispatch 与 ringoage/dsh-subagent-model-picker）",
+    "description_zh": "DeepSeek Harness 子代理模型管控与 Jev 智能分流插件（合并自 vitas/dsh-jev-subagent-dispatch 与 ringoage/dsh-subagent-model-picker）",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-toolkit-1",
+    "name": "dsh-subagent-toolkit",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Kadima-code/dsh-subagent-toolkit",
+    "description": "子代理工具箱（DSH 插件）：按使用批次分组折叠、行内/整组删除子代理会话、子代理模型名单实时同步（逐任务选模型）。Subagent Toolkit for DeepSeek Harness.",
+    "description_zh": "子代理工具箱（DSH 插件）：按使用批次分组折叠、行内/整组删除子代理会话、子代理模型名单实时同步（逐任务选模型）。Subagent Toolkit for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "BSD-3-Clause"
   },
   {
     "id": "dsh-skill-evolve",

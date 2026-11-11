@@ -11826,6 +11826,110 @@
     "stars": 3
   },
   {
+    "id": "dsh-recovery-2",
+    "name": "dsh-recovery",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ElioFanyu/dsh-recovery",
+    "description": "一个独立的桌面恢复控制台，让 DeepSeek Harness 在无法正常启动时仍然可以被修复。",
+    "description_zh": "一个独立的桌面恢复控制台，让 DeepSeek Harness 在无法正常启动时仍然可以被修复。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "cortex",
+    "name": "Cortex",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Revcloudi/Cortex",
+    "description": "local-first pentest intelligence hub. One SQLite memory shared by a pure stdio MCP server for agents, a ctx CLI and a desktop dashboard for humans.",
+    "description_zh": "local-first pentest intelligence hub. One SQLite memory shared by a pure stdio MCP server for agents, a ctx CLI and a desktop dashboard for humans.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "agent-web-sandbox",
+    "name": "agent-web-sandbox",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/AshenSeeker/agent-web-sandbox",
+    "description": "Personal agent web-browsing sandbox for DeepSeek Harness: sanitizes fetched web content and scans third-party pages for prompt injection (DSH desktop plugin).",
+    "description_zh": "Personal agent web-browsing sandbox for DeepSeek Harness: sanitizes fetched web content and scans third-party pages for prompt injection (DSH desktop plugin).",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "feiyu-chat-companion",
+    "name": "feiyu-chat-companion",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/AirPineApplea/feiyu-chat-companion",
+    "description": "给 DeepSeek Harness 的桌面桌宠：一只住在屏幕上的鲸鱼娘，会自己开口、能右键问一句。一句话 0.1 分。",
+    "description_zh": "给 DeepSeek Harness 的桌面桌宠：一只住在屏幕上的鲸鱼娘，会自己开口、能右键问一句。一句话 0.1 分。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-desktop-sidecar",
+    "name": "dsh-desktop-sidecar",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/111xjyuan/dsh-desktop-sidecar",
+    "description": "让 AI 在 Windows 上看屏幕、点按钮、打字：微信/Office/浏览器/网课都能操作；侧边栏「指挥台」可随时打字纠偏，内置网页通道，动手前先等你停手。零外部运行时。",
+    "description_zh": "让 AI 在 Windows 上看屏幕、点按钮、打字：微信/Office/浏览器/网课都能操作；侧边栏「指挥台」可随时打字纠偏，内置网页通道，动手前先等你停手。零外部运行时。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-rayrun-computer",
+    "name": "dsh-rayrun-computer",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/RayrunOS/dsh-rayrun-computer",
+    "description": "Rayrun cloud computers for DeepSeek Harness: create, manage and open remote Linux desktops (noVNC) in the sidebar, and hand agent tasks to the same machines with rayrun_* tools. Per-session cloud/local routing, password or WeChat login, token kept in the Harness vault.",
+    "description_zh": "Rayrun cloud computers for DeepSeek Harness: create, manage and open remote Linux desktops (noVNC) in the sidebar, and hand agent tasks to the same machines with rayrun_* tools. Per-session cloud/local routing, password or WeChat login, token kept in the Harness vault.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-portable-launcher",
     "name": "dsh-portable-launcher",
     "type": "client",
@@ -27371,6 +27475,644 @@
     "repository": "https://github.com/zhing99-hash/dsh-dafeiyu-jinrong",
     "description": "DeepSeek Harness 桌面大肥鱼伙伴：可编辑气泡、动作包、行情情绪、只读 dsh-meme 斗图。",
     "description_zh": "DeepSeek Harness 桌面大肥鱼伙伴：可编辑气泡、动作包、行情情绪、只读 dsh-meme 斗图。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-remote-wecom",
+    "name": "dsh-remote-wecom",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/lukeinx/dsh-remote-wecom",
+    "description": "DeepSeek Harness plugin: control Desktop sessions from WeCom (企业微信) on your phone",
+    "description_zh": "DeepSeek Harness plugin: control Desktop sessions from WeCom (企业微信) on your phone",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tray-restart",
+    "name": "dsh-tray-restart",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Joshua1ya/dsh-tray-restart",
+    "description": "Restart the DeepSeek Harness desktop app and its host process from a session header button or the system tray (Windows).",
+    "description_zh": "Restart the DeepSeek Harness desktop app and its host process from a session header button or the system tray (Windows).",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-huawei-connect",
+    "name": "dsh-huawei-connect",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/wang111928/dsh-huawei-connect",
+    "description": "将华为云 CodeArts（码道）与 OfficeAce（果办）桌面客户端已登录的模型接入 DeepSeek Harness，一处登录、积分余量、模型勾选，官方客户端同形态请求伪装",
+    "description_zh": "将华为云 CodeArts（码道）与 OfficeAce（果办）桌面客户端已登录的模型接入 DeepSeek Harness，一处登录、积分余量、模型勾选，官方客户端同形态请求伪装",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-float-1",
+    "name": "dsh-float",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/xiangshu2026/dsh-float",
+    "description": "Android 悬浮窗：把 DeepSeek Harness 的手机页面置顶显示，边打字边看 AI 回复。零第三方依赖，APK 约 33 KB。",
+    "description_zh": "Android 悬浮窗：把 DeepSeek Harness 的手机页面置顶显示，边打字边看 AI 回复。零第三方依赖，APK 约 33 KB。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-phone-butler",
+    "name": "dsh-phone-butler",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/Void-LifeStream/dsh-phone-butler",
+    "description": "DeepSeek Harness plugin: treat a real Android phone as a device the agent can inspect and tidy up over adb — free up storage, find what is eating the disk, clear caches, uninstall, screenshot. No root required. / 免 root 的手机设备管家：查存储、清缓存、卸载应用、截图。",
+    "description_zh": "DeepSeek Harness plugin: treat a real Android phone as a device the agent can inspect and tidy up over adb — free up storage, find what is eating the disk, clear caches, uninstall, screenshot. No root required. / 免 root 的手机设备管家：查存储、清缓存、卸载应用、截图。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-split-workspace",
+    "name": "dsh-split-workspace",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/mhlywxl/dsh-split-workspace",
+    "description": "Split-screen workspace for DeepSeek Harness (DSH) Desktop: unlimited native panes, side-by-side, stacked and 2x2 grid layouts, drag to rearrange.",
+    "description_zh": "Split-screen workspace for DeepSeek Harness (DSH) Desktop: unlimited native panes, side-by-side, stacked and 2x2 grid layouts, drag to rearrange.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mobile-remote-6",
+    "name": "dsh-mobile-remote",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/0231071/dsh-mobile-remote",
+    "description": "🐳 手机扫码远程控制 DSH 桌面客户端：局域网 / 公网隧道双模，二维码一键连接（浏览器或微信）。DSH 仍旧只听 127.0.0.1，不改绑定地址，鉴权交给 DSH 自己。",
+    "description_zh": "🐳 手机扫码远程控制 DSH 桌面客户端：局域网 / 公网隧道双模，二维码一键连接（浏览器或微信）。DSH 仍旧只听 127.0.0.1，不改绑定地址，鉴权交给 DSH 自己。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-remote-use",
+    "name": "dsh-plugin-remote-use",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Hope-Phenom/dsh-plugin-remote-use",
+    "description": "把 DSH 里需要真实桌面的任务（GUI 自动化测试、只有看屏幕才能验证的结果）委托给局域网里已配对的工作节点执行，像调用子 Agent 一样驱动它 —— 自动化不再和操作者抢鼠标、键盘和焦点。任务以指令经 ACP over WebSocket 下发，由工作节点本地的 DSH 执行；提权一律进人工审批，沙箱无法被证明时拒绝启用，凭据不回传浏览器。 / Offload desktop-bound DSH tasks to a paired LAN worker over ACP, driven like a subagent.",
+    "description_zh": "把 DSH 里需要真实桌面的任务（GUI 自动化测试、只有看屏幕才能验证的结果）委托给局域网里已配对的工作节点执行，像调用子 Agent 一样驱动它 —— 自动化不再和操作者抢鼠标、键盘和焦点。任务以指令经 ACP over WebSocket 下发，由工作节点本地的 DSH 执行；提权一律进人工审批，沙箱无法被证明时拒绝启用，凭据不回传浏览器。 / Offload desktop-bound DSH tasks to a paired LAN worker over ACP, driven like a subagent.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-prompt-enhance",
+    "name": "dsh-plugin-prompt-enhance",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/MapleLeafWH/dsh-plugin-prompt-enhance",
+    "description": "DSH Desktop 提示词增强插件：1:1 复刻 WorkBuddy 的增强按钮，含插件详情页配置面板与 dsh-cost-meter 费用估算",
+    "description_zh": "DSH Desktop 提示词增强插件：1:1 复刻 WorkBuddy 的增强按钮，含插件详情页配置面板与 dsh-cost-meter 费用估算",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-quicknotes",
+    "name": "dsh-quicknotes",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/liusaipu/dsh-quicknotes",
+    "description": "DSH Desktop 随手记：flomo 风格随手记录，邮箱文件夹跨设备同步。",
+    "description_zh": "DSH Desktop 随手记：flomo 风格随手记录，邮箱文件夹跨设备同步。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-model-check",
+    "name": "dsh-model-check",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/motionalpha84/dsh-model-check",
+    "description": "DeepSeek Harness 模型检测插件 · 桌面 / Web 通用 · v0.1.0",
+    "description_zh": "DeepSeek Harness 模型检测插件 · 桌面 / Web 通用 · v0.1.0",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-notice-card",
+    "name": "dsh-notice-card",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Maple-Yoli/dsh-notice-card",
+    "description": "Windows 桌面端专用的 DeepSeek Harness 通知卡：任务跑完、等你审批、等你回答时在屏幕角落弹出。跟随系统主题与 DPI，落在鼠标那块屏幕，文字用 GDI ClearType 绘制，不抢焦点。没有网页端那一半，不提供浏览器通知、页面浮层或标签页标题标记。Windows desktop only, no web build: a native notice card that never takes focus.",
+    "description_zh": "Windows 桌面端专用的 DeepSeek Harness 通知卡：任务跑完、等你审批、等你回答时在屏幕角落弹出。跟随系统主题与 DPI，落在鼠标那块屏幕，文字用 GDI ClearType 绘制，不抢焦点。没有网页端那一半，不提供浏览器通知、页面浮层或标签页标题标记。Windows desktop only, no web build: a native notice card that never takes focus.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-donevoice",
+    "name": "dsh-donevoice",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/zywnb-2/dsh-donevoice",
+    "description": "dsh桌面任务提醒，点击桌面提醒可快速回到dsh页面。可自定义上传的音效",
+    "description_zh": "dsh桌面任务提醒，点击桌面提醒可快速回到dsh页面。可自定义上传的音效",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-auto-maximize",
+    "name": "dsh-auto-maximize",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/FideFeiPlane/dsh-auto-maximize",
+    "description": "DeepSeek Harness 桌面版插件：启动自动最大化主窗口（等同于手动点击最大化按钮） | DeepSeek Harness Desktop Plugin: Auto‑maximize main window on launch (same as clicking the Maximize button manually)",
+    "description_zh": "DeepSeek Harness 桌面版插件：启动自动最大化主窗口（等同于手动点击最大化按钮） | DeepSeek Harness Desktop Plugin: Auto‑maximize main window on launch (same as clicking the Maximize button manually)",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-petpal",
+    "name": "dsh-petpal",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/flowers-59f/dsh-petpal",
+    "description": "PetPal: petdex.dev desktop pets for DeepSeek Harness",
+    "description_zh": "PetPal: petdex.dev desktop pets for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-restart-button-5",
+    "name": "dsh-restart-button",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/13520rygvv/dsh-restart-button",
+    "description": "DSH 桌面插件：在设置页加一行「重启」、在账号菜单「退出登录」上方再加一个入口，或者用自定义快捷键，一键重启 DeepSeek Harness。仅限 Windows 桌面版。",
+    "description_zh": "DSH 桌面插件：在设置页加一行「重启」、在账号菜单「退出登录」上方再加一个入口，或者用自定义快捷键，一键重启 DeepSeek Harness。仅限 Windows 桌面版。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-window-size-1",
+    "name": "dsh-window-size",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/home-i/dsh-window-size",
+    "description": "记住 DeepSeek Harness 桌面版的窗口尺寸：重启后自动恢复、默认水平垂直居中，并提供设置页手动调整。",
+    "description_zh": "记住 DeepSeek Harness 桌面版的窗口尺寸：重启后自动恢复、默认水平垂直居中，并提供设置页手动调整。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mobile-ui-3",
+    "name": "dsh-mobile-ui",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/kaijia323/dsh-mobile-ui",
+    "description": "DSH Web 的移动端外壳插件：抽屉式导航、触控尺寸控件、安全区适配、对话区占满整屏，桌面端行为不变。",
+    "description_zh": "DSH Web 的移动端外壳插件：抽屉式导航、触控尺寸控件、安全区适配、对话区占满整屏，桌面端行为不变。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-use-computer",
+    "name": "dsh-use-computer",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/sxwsc667/dsh-use-computer",
+    "description": "DSH 插件：让模型直接操作 Windows 桌面——坐标不进对话，先用 UIA 控件树、再用专用 2B 定位模型；支持脚本化连续操作和连按三次 ESC 急停。",
+    "description_zh": "DSH 插件：让模型直接操作 Windows 桌面——坐标不进对话，先用 UIA 控件树、再用专用 2B 定位模型；支持脚本化连续操作和连按三次 ESC 急停。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wallpaper-14",
+    "name": "dsh-wallpaper",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/liuleiyu121520/dsh-wallpaper",
+    "description": "把当前桌面壁纸作为 DeepSeek Harness 界面的半透明实时背景（macOS / Windows / Linux）",
+    "description_zh": "把当前桌面壁纸作为 DeepSeek Harness 界面的半透明实时背景（macOS / Windows / Linux）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-desktop-bridge",
+    "name": "dsh-desktop-bridge",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ElioFanyu/dsh-desktop-bridge",
+    "description": "在屏幕右下角弹 Windows 系统通知：会话需要你确认时一条，任务完成时一条，执行失败时一条。",
+    "description_zh": "在屏幕右下角弹 Windows 系统通知：会话需要你确认时一条，任务完成时一条，执行失败时一条。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-pet-chat-1",
+    "name": "dsh-pet-chat",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ybytlai78-dev/dsh-pet-chat",
+    "description": "点桌面上的鲸鱼娘提问：它抓取当前屏幕，交给正在运行的 dsh 会话回答。Click the desktop pet to ask — it captures your screen and asks your running dsh session.",
+    "description_zh": "点桌面上的鲸鱼娘提问：它抓取当前屏幕，交给正在运行的 dsh 会话回答。Click the desktop pet to ask — it captures your screen and asks your running dsh session.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ready",
+    "name": "dsh-ready",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/onblog/dsh-ready",
+    "description": "One-click desktop launcher for DeepSeek Harness: install, run, upgrade. DeepSeek Harness 一键桌面启动器：装好、启动、升级。",
+    "description_zh": "One-click desktop launcher for DeepSeek Harness: install, run, upgrade. DeepSeek Harness 一键桌面启动器：装好、启动、升级。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-zcode-native",
+    "name": "dsh-zcode-native",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ORIOW/dsh-zcode-native",
+    "description": "DSH 原生插件：把 ZCode(Z.ai) 桌面端接成状态看板 + CDP 派活闭环 + 原生子代理 subagent_zcode",
+    "description_zh": "DSH 原生插件：把 ZCode(Z.ai) 桌面端接成状态看板 + CDP 派活闭环 + 原生子代理 subagent_zcode",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-theme-neon-arcade",
+    "name": "dsh-theme-neon-arcade",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Time-233/dsh-theme-neon-arcade",
+    "description": "NEON ARCADE · DeepSeek Harness 桌面端霓虹像素主题，支持可开关空战背景、鼠标拖动战机与无限复活。",
+    "description_zh": "NEON ARCADE · DeepSeek Harness 桌面端霓虹像素主题，支持可开关空战背景、鼠标拖动战机与无限复活。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-ponytail-5",
+    "name": "dsh-ponytail",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/KB1SLN-Labs/dsh-ponytail",
+    "description": "Unofficial Ponytail 5 adapter for DeepSeek Harness with native desktop settings, mode picker, status band, and usage dashboard.",
+    "description_zh": "Unofficial Ponytail 5 adapter for DeepSeek Harness with native desktop settings, mode picker, status band, and usage dashboard.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-digital-pet",
+    "name": "dsh-digital-pet",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/openLabBean/dsh-digital-pet",
+    "description": "DSH 电子宠物：用 DeepSeek Harness 的 Token 换金币，养一只陪你工作六个月的像素宠物。A desktop pet for DeepSeek Harness.",
+    "description_zh": "DSH 电子宠物：用 DeepSeek Harness 的 Token 换金币，养一只陪你工作六个月的像素宠物。A desktop pet for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-desktop-notify-4",
+    "name": "dsh-desktop-notify",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/MikatoMisaka/dsh-desktop-notify",
+    "description": "DSH（DeepSeek Harness）桌面端通知插件：任务完成 / 等待回答时弹 Windows 通知，点通知回到对应会话。",
+    "description_zh": "DSH（DeepSeek Harness）桌面端通知插件：任务完成 / 等待回答时弹 Windows 通知，点通知回到对应会话。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "codex-dsh-bridge-1",
+    "name": "codex-dsh-bridge",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/linglanxin/codex-dsh-bridge",
+    "description": "Codex supervises DeepSeek Harness Desktop on Windows: MCP delegation, blocking questions, stage review, revisions and artifact verification.",
+    "description_zh": "Codex supervises DeepSeek Harness Desktop on Windows: MCP delegation, blocking questions, stage review, revisions and artifact verification.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-claude-quote",
+    "name": "dsh-claude-quote",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/XIUDENBENNY/dsh-claude-quote",
+    "description": "Claude Code Desktop 风格的 DeepSeek Harness 选区引用插件：针对选中段落回复、侧边对话、输入框引用卡片。",
+    "description_zh": "Claude Code Desktop 风格的 DeepSeek Harness 选区引用插件：针对选中段落回复、侧边对话、输入框引用卡片。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-feishu-pilot",
+    "name": "dsh-feishu-pilot",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/pxvp2008/dsh-feishu-pilot",
+    "description": "把飞书变成 DSH 的远程控制台：桌面 GUI 会话的任务、审批、提问都能在手机上继续；任务结束主动通知；GUI 与飞书双端同时受理。扫码即可接入，离开电脑也不停。",
+    "description_zh": "把飞书变成 DSH 的远程控制台：桌面 GUI 会话的任务、审批、提问都能在手机上继续；任务结束主动通知；GUI 与飞书双端同时受理。扫码即可接入，离开电脑也不停。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-xiaoqi-pet",
+    "name": "dsh-xiaoqi-pet",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/white-source/dsh-xiaoqi-pet",
+    "description": "Xiaoqi Desk Pet — a DSH companion with a real macOS desktop pet, task-specific progress, checklist steps and notices.",
+    "description_zh": "Xiaoqi Desk Pet — a DSH companion with a real macOS desktop pet, task-specific progress, checklist steps and notices.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-big-whale",
+    "name": "dsh-big-whale",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Aliciawque/dsh-big-whale",
+    "description": "大鲸鱼 / Big Whale / 大クジラ — a trilingual DSH desktop companion with lip sync, expressions, idle motions and context-compaction rice.",
+    "description_zh": "大鲸鱼 / Big Whale / 大クジラ — a trilingual DSH desktop companion with lip sync, expressions, idle motions and context-compaction rice.",
+    "capabilities": [
+      "coding",
+      "context",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-workbuddy-model",
+    "name": "dsh-workbuddy-model",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/arnen7000/dsh-workbuddy-model",
+    "description": "Brings the models available in your signed-in WorkBuddy / WorkBuddy AI desktop app into DeepSeek Harness.",
+    "description_zh": "Brings the models available in your signed-in WorkBuddy / WorkBuddy AI desktop app into DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "united-nation-skin-deepseek-harness",
+    "name": "united_nation_skin_deepseek_harness",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/muzapar00/united_nation_skin_deepseek_harness",
+    "description": "DSH × UN：一个面向 DeepSeek Harness 的联合国风格主题皮肤，支持 WebUI 与桌面 GUI（Linux / macOS / Windows）。内置覆盖上千种语言的母语搜索语言切换器，不改变任何核心功能按键。非商业、社区驱动，致力于让 AI 以每个人的母语抵达每个人。A UN-style skin for DSH with a native-name, searchable language switcher covering 1,000+ languages. Non-commercial,",
+    "description_zh": "DSH × UN：一个面向 DeepSeek Harness 的联合国风格主题皮肤，支持 WebUI 与桌面 GUI（Linux / macOS / Windows）。内置覆盖上千种语言的母语搜索语言切换器，不改变任何核心功能按键。非商业、社区驱动，致力于让 AI 以每个人的母语抵达每个人。A UN-style skin for DSH with a native-name, searchable language switcher covering 1,000+ languages. Non-commercial,",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "kanbanniang",
+    "name": "kanbanniang",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Evil-Wideplain/kanbanniang",
+    "description": "DSH 插件（DeepSeek Harness）：Tauri 2 + Live2D 桌面看板娘，内置 MCP 服务（11 个工具，Streamable HTTP）。安装后自动拉起看板娘，并把工具注入为 mcp__kanbanniang__*；兼容 Claude Desktop 等任意 MCP 客户端。",
+    "description_zh": "DSH 插件（DeepSeek Harness）：Tauri 2 + Live2D 桌面看板娘，内置 MCP 服务（11 个工具，Streamable HTTP）。安装后自动拉起看板娘，并把工具注入为 mcp__kanbanniang__*；兼容 Claude Desktop 等任意 MCP 客户端。",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-delete-session-3",
+    "name": "dsh-delete-session",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/qiaozheng9/dsh-delete-session",
+    "description": "Permanent conversation deletion for DeepSeek Harness Desktop 0.2.2-rc.1. Native confirmation, subagent cleanup, recovery and uninstall.",
+    "description_zh": "Permanent conversation deletion for DeepSeek Harness Desktop 0.2.2-rc.1. Native confirmation, subagent cleanup, recovery and uninstall.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-rst",
+    "name": "dsh-rst",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/JingYu-er/dsh-rst",
+    "description": "用 /rst 一条命令重启 DSH：由进程外启动器关掉当前进程并拉起新的，重启完成后把回执写回你发起重启的那条会话。| Use the /rst command to restart DSH: Start a new process from an external launcher and shut down the current one. After the restart is complete, write the response back to the session from which you initiated the restart.",
+    "description_zh": "用 /rst 一条命令重启 DSH：由进程外启动器关掉当前进程并拉起新的，重启完成后把回执写回你发起重启的那条会话。| Use the /rst command to restart DSH: Start a new process from an external launcher and shut down the current one. After the restart is complete, write the response back to the session from which you initiated the restart.",
     "capabilities": [
       "coding"
     ],

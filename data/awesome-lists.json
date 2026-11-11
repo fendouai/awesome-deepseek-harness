@@ -9377,6 +9377,191 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-cost-3",
+    "name": "dsh-cost",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Arun1016/dsh-cost",
+    "description": "Account balance and per-session cost pill for DeepSeek Harness (dsh) web GUI: official peak/off-peak pricing, per-model breakdown, no credentials stored.",
+    "description_zh": "Account balance and per-session cost pill for DeepSeek Harness (dsh) web GUI: official peak/off-peak pricing, per-model breakdown, no credentials stored.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-bin",
+    "name": "dsh-session-bin",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/jingmei2/dsh-session-bin",
+    "description": "Physically delete DeepSeek Harness Sessions through an undoable recycle bin: trash, restore, or purge for good.",
+    "description_zh": "Physically delete DeepSeek Harness Sessions through an undoable recycle bin: trash, restore, or purge for good.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-market-dock",
+    "name": "dsh-market-dock",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/xxxSnack/dsh-market-dock",
+    "description": "DeepSeek Harness 的行情面板：免登录看 A股/港股/美股实时行情、K线、热榜、快讯；本地持仓盈亏现算、可选的同花顺账本一次性导入、价格提醒，还有一键「行情隐身」。非雪球官方。",
+    "description_zh": "DeepSeek Harness 的行情面板：免登录看 A股/港股/美股实时行情、K线、热榜、快讯；本地持仓盈亏现算、可选的同花顺账本一次性导入、价格提醒，还有一键「行情隐身」。非雪球官方。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-puppet-memory",
+    "name": "dsh-puppet-memory",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/xingyueDanYang/dsh-puppet-memory",
+    "description": "Cross-session memory for DeepSeek Harness: layered notes, a 600-char always-injected core card, social/multi-person records, session-scoped suppression, and a built-in backup/restore and setup doctor.",
+    "description_zh": "Cross-session memory for DeepSeek Harness: layered notes, a 600-char always-injected core card, social/multi-person records, session-scoped suppression, and a built-in backup/restore and setup doctor.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hard-gate",
+    "name": "dsh-hard-gate",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/yyfdfsyyf-source/dsh-hard-gate",
+    "description": "Stricter permission review and a workspace sandbox for DeepSeek Harness (dsh) that survives danger-full-access, with ZIP restore points and Recycle Bin copies.",
+    "description_zh": "Stricter permission review and a workspace sandbox for DeepSeek Harness (dsh) that survives danger-full-access, with ZIP restore points and Recycle Bin copies.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-game-market",
+    "name": "dsh-game-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/heswy/dsh-game-market",
+    "description": "A game marketplace and runtime for DeepSeek Harness.",
+    "description_zh": "A game marketplace and runtime for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-market-index",
+    "name": "dsh-market-index",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Silentforfar/dsh-market-index",
+    "description": "DSH plugin market index (format 1) listing the DeepSeek Harness bundles published by @Silentforfar.",
+    "description_zh": "DSH plugin market index (format 1) listing the DeepSeek Harness bundles published by @Silentforfar.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "awesome-agent-security",
+    "name": "awesome-agent-security",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/123caiji/awesome-agent-security",
+    "description": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
+    "description_zh": "AI Agent security tooling + DeepSeek Harness plugin ecosystem, curated and auto-refreshed daily by GitHub Actions.",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-effort-keeper",
+    "name": "dsh-effort-keeper",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/ChimeSky/dsh-effort-keeper",
+    "description": "Per-model reasoning-effort memory for DeepSeek Harness (DSH): remembers each model's last chosen effort and restores it when you switch back.",
+    "description_zh": "Per-model reasoning-effort memory for DeepSeek Harness (DSH): remembers each model's last chosen effort and restores it when you switch back.",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-brave-search-1",
+    "name": "dsh-brave-search",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/BuffMcBigHuge/dsh-brave-search",
+    "description": "Brave Search provider for DeepSeek Harness: one backend, no settings UI, key from the credential store.",
+    "description_zh": "Brave Search provider for DeepSeek Harness: one backend, no settings UI, key from the credential store.",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-sync-3",
+    "name": "dsh-sync",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/shangshuo/dsh-sync",
+    "description": "Encrypted, scheduled backup & restore of your DeepSeek Harness (DSH) profile — plugins, settings, skills, MCP, API keys — to S3-compatible storage, WebDAV or a local folder. 中英文双语界面",
+    "description_zh": "Encrypted, scheduled backup & restore of your DeepSeek Harness (DSH) profile — plugins, settings, skills, MCP, API keys — to S3-compatible storage, WebDAV or a local folder. 中英文双语界面",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-deepseek-harness-rodert-1",
     "name": "awesome-deepseek-harness",
     "type": "awesome-list",

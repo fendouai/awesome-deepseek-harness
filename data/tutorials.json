@@ -1297,6 +1297,23 @@
     "license": "MIT"
   },
   {
+    "id": "deepseek-servant",
+    "name": "deepseek-servant",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Tests4gptplay/deepseek-servant",
+    "description": "基于 DeepSeek Harness 的自主 AI 助理插件，支持目标规划、持续执行、多 Agent 协作、任务接续、故障恢复与技能学习。",
+    "description_zh": "基于 DeepSeek Harness 的自主 AI 助理插件，支持目标规划、持续执行、多 Agent 协作、任务接续、故障恢复与技能学习。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "deepseek-protocol-doctor",
     "name": "deepseek-protocol-doctor",
     "type": "tutorial",
@@ -2744,6 +2761,122 @@
     "description_zh": "让鲸鱼持续学习你的代码品味、审美风格和各种习惯",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-safety-toolkit",
+    "name": "dsh-safety-toolkit",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/SilverCrossing/dsh-safety-toolkit",
+    "description": "给 dsh 补上「破坏性操作可逆、写入门禁、结构化返回」这三件事。7 个工具，外加一个可独立开关的治理插件。",
+    "description_zh": "给 dsh 补上「破坏性操作可逆、写入门禁、结构化返回」这三件事。7 个工具，外加一个可独立开关的治理插件。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-skill-workshop",
+    "name": "dsh-skill-workshop",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Kerberos255/dsh-skill-workshop",
+    "description": "Self-learning agent skills for DeepSeek Harness: evidence-gated auto-publishing, bounded growth and safe recovery.",
+    "description_zh": "Self-learning agent skills for DeepSeek Harness: evidence-gated auto-publishing, bounded growth and safe recovery.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-yushe",
+    "name": "dsh-plugin-yushe",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/yuna78/dsh-plugin-yushe",
+    "description": "鱼社（dafeiyu / 大肥鱼）：点几下，就能养一条自己的大肥鱼。DSH 插件，可视化引导、一键配置，孵一条会聊天、会成长、会去 B站学习的 AI 鱼",
+    "description_zh": "鱼社（dafeiyu / 大肥鱼）：点几下，就能养一条自己的大肥鱼。DSH 插件，可视化引导、一键配置，孵一条会聊天、会成长、会去 B站学习的 AI 鱼",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "yanshifu-plugin-cn",
+    "name": "yanshifu-plugin-cn",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Yanshi-Robotics/yanshifu-plugin-cn",
+    "description": "偃师傅八号：把《偃师傅的 SO-101 落地指南》等四份资料做成一个能问的 DSH 插件（中文版）。英文版见 yanshifu-plugin，尚未开放。",
+    "description_zh": "偃师傅八号：把《偃师傅的 SO-101 落地指南》等四份资料做成一个能问的 DSH 插件（中文版）。英文版见 yanshifu-plugin，尚未开放。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-idle-scholar",
+    "name": "dsh-idle-scholar",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Smallballoons01/dsh-idle-scholar",
+    "description": "Idle-time micro-learning for DeepSeek Harness: turns agent waiting gaps into study cards. Ships English, Japanese, and 法考 (Chinese National Judicial Examination) seed decks; extensible with JSON course packs.",
+    "description_zh": "Idle-time micro-learning for DeepSeek Harness: turns agent waiting gaps into study cards. Ships English, Japanese, and 法考 (Chinese National Judicial Examination) seed decks; extensible with JSON course packs.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "runtime-self-learning-harness",
+    "name": "runtime-self-learning-harness",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/326sun/runtime-self-learning-harness",
+    "description": "Native DeepSeek Harness bundle for standalone long-term memory and provenance tools.",
+    "description_zh": "Native DeepSeek Harness bundle for standalone long-term memory and provenance tools.",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-study-mode",
+    "name": "dsh-study-mode",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/waspqj/dsh-study-mode",
+    "description": "学习模式（study-mode）agent 预设：主题知识库 + 检索优先的回答（命中标出处、查不到标未验证），侧边栏带知识库面板。",
+    "description_zh": "学习模式（study-mode）agent 预设：主题知识库 + 检索优先的回答（命中标出处、查不到标未验证），侧边栏带知识库面板。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,

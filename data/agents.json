@@ -6539,6 +6539,57 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-agent-team-roster",
+    "name": "dsh-agent-team-roster",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/yezitotempeace/dsh-agent-team-roster",
+    "description": "dsh Agent Teams roster administration: newest-first display order, bulk cleanup, teammate rename/delete | dsh Agent Teams 名册管理：倒序显示、批量清理、成员改名与删除",
+    "description_zh": "dsh Agent Teams roster administration: newest-first display order, bulk cleanup, teammate rename/delete | dsh Agent Teams 名册管理：倒序显示、批量清理、成员改名与删除",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-team-member-model",
+    "name": "dsh-team-member-model",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/liaiaaa/dsh-team-member-model",
+    "description": "dsh 插件：为团队模式（Agent Teams）里的每个子队友单独指定模型，或跟随主对话当前模型切换。Per-teammate model pin/follow for DeepSeek Harness Agent Teams.",
+    "description_zh": "dsh 插件：为团队模式（Agent Teams）里的每个子队友单独指定模型，或跟随主对话当前模型切换。Per-teammate model pin/follow for DeepSeek Harness Agent Teams.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-model-switcher",
+    "name": "dsh-subagent-model-switcher",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/star-kz/dsh-subagent-model-switcher",
+    "description": "给 DSH 子 agent 会话补上模型与思考强度切换，主会话保持不变。",
+    "description_zh": "给 DSH 子 agent 会话补上模型与思考强度切换，主会话保持不变。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-evolve",
     "name": "dsh-skill-evolve",
     "type": "agent",

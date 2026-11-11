@@ -2719,6 +2719,38 @@
     "license": "BSD-3-Clause"
   },
   {
+    "id": "dsh-gpt-auto-proxy",
+    "name": "Dsh-gpt-auto-proxy",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/TheCarey/Dsh-gpt-auto-proxy",
+    "description": "把自有订阅凭证在本机转成 OpenAI 兼容接口的 DSH 插件；非官方项目，与任何上游服务无关联，仅供个人学习研究。",
+    "description_zh": "把自有订阅凭证在本机转成 OpenAI 兼容接口的 DSH 插件；非官方项目，与任何上游服务无关联，仅供个人学习研究。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-code-taste",
+    "name": "dsh-code-taste",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/BaxterL/dsh-code-taste",
+    "description": "让鲸鱼持续学习你的代码品味、审美风格和各种习惯",
+    "description_zh": "让鲸鱼持续学习你的代码品味、审美风格和各种习惯",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",

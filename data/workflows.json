@@ -1022,6 +1022,26 @@
     "license": "MIT"
   },
   {
+    "id": "chelate-shell",
+    "name": "chelate-shell",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/JiamingShi-JsPhys/chelate-shell",
+    "description": "Orchestrating local agent skills into deterministic workflows. Built by @JiamingShi-JsPhys, Chelate Shell enforces a 4-layer routing architecture for scientific research.",
+    "description_zh": "Orchestrating local agent skills into deterministic workflows. Built by @JiamingShi-JsPhys, Chelate Shell enforces a 4-layer routing architecture for scientific research.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-deepresearch",
     "name": "dsh-deepresearch",
     "type": "workflow",
@@ -5545,6 +5565,25 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-harmonyos-agent",
+    "name": "dsh-harmonyos-agent",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/mobius-2046/dsh-harmonyos-agent",
+    "description": "DSH 的 HarmonyOS 应用开发 agent：plan / goal / build 三模式预设，ArkTS、hvigor、ohpm、hdc 技能，一个 harmony 工具（build/run/devices/deploy/logs），以及 Web GUI 里的 hilog 面板。",
+    "description_zh": "DSH 的 HarmonyOS 应用开发 agent：plan / goal / build 三模式预设，ArkTS、hvigor、ohpm、hdc 技能，一个 harmony 工具（build/run/devices/deploy/logs），以及 Web GUI 里的 hilog 面板。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-governance",
     "name": "dsh-governance",
     "type": "workflow",
@@ -9723,6 +9762,108 @@
       "coding",
       "ui",
       "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-im-alive",
+    "name": "dsh-im-alive",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Tangcuyu4/dsh-im-alive",
+    "description": "DSH IM 主动消息守护进程：不定时发家常主动消息，抖动间隔、免打扰时段、日预算、防重复",
+    "description_zh": "DSH IM 主动消息守护进程：不定时发家常主动消息，抖动间隔、免打扰时段、日预算、防重复",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-gui-guard",
+    "name": "dsh-gui-guard",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/7gzgn/dsh-gui-guard",
+    "description": "Windows GUI automation reliability layer: probe whether a window is minimized, foreground or DPI-scaled, then click and type with the coordinate space and activation order handled for you. Zero dependencies, local only.",
+    "description_zh": "Windows GUI automation reliability layer: probe whether a window is minimized, foreground or DPI-scaled, then click and type with the coordinate space and activation order handled for you. Zero dependencies, local only.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-superpowers-verified",
+    "name": "dsh-superpowers-verified",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/dkeviv/dsh-superpowers-verified",
+    "description": "Verified fork of Superpowers (obra/superpowers) for the DeepSeek Harness (DSH) — 15 skills for TDD, planning, debugging, and subagent-driven development, with a 64-test suite and a non-destructive, reversible install",
+    "description_zh": "Verified fork of Superpowers (obra/superpowers) for the DeepSeek Harness (DSH) — 15 skills for TDD, planning, debugging, and subagent-driven development, with a 64-test suite and a non-destructive, reversible install",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-cona",
+    "name": "dsh-cona",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/pomelotea-yuzu/dsh-cona",
+    "description": "A project development management plugin for DeepSeek Harness (DSH), connecting research, planning, coding, and validation through customizable project trees, ongoing analysis, cross-chat continuity, and optional spec-driven workflows. Currently in the design phase.",
+    "description_zh": "A project development management plugin for DeepSeek Harness (DSH), connecting research, planning, coding, and validation through customizable project trees, ongoing analysis, cross-chat continuity, and optional spec-driven workflows. Currently in the design phase.",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-auto-continue-3",
+    "name": "dsh-auto-continue",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/star-kz/dsh-auto-continue",
+    "description": "DSH Web 报错重试与可选自动继续（CONTINUE），仅主会话，带防循环上限。",
+    "description_zh": "DSH Web 报错重试与可选自动继续（CONTINUE），仅主会话，带防循环上限。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-weibo-dive",
+    "name": "dsh-weibo-dive",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/4353633qwe/dsh-weibo-dive",
+    "description": "DSH 插件 · 微博：按作息自动刷微博、写日记、定时发博（支持超话）、自动回评。纯 HTTP，无需浏览器。",
+    "description_zh": "DSH 插件 · 微博：按作息自动刷微博、写日记、定时发博（支持超话）、自动回评。纯 HTTP，无需浏览器。",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

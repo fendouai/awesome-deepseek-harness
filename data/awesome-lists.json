@@ -9278,6 +9278,105 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-web-tool-provider",
+    "name": "dsh-web-tool-provider",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/nhhc-lxr/dsh-web-tool-provider",
+    "description": "Tavily, Exa and Firecrawl as interchangeable ctx.web backends for DeepSeek Harness. Switch the engine behind web_search/web_fetch from a settings page, keys in the credential store, credential-free local fetch fallback.",
+    "description_zh": "Tavily, Exa and Firecrawl as interchangeable ctx.web backends for DeepSeek Harness. Switch the engine behind web_search/web_fetch from a settings page, keys in the credential store, credential-free local fetch fallback.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-publisher-radar",
+    "name": "dsh-publisher-radar",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/songrui111/dsh-publisher-radar",
+    "description": "面向 DSH 插件开发者的市场空白雷达：6,000+ 插件按大类拆到方向，标出空位/稀少/有竞争/红海，空位最多的排前面；全量浏览与安装命令是附带能力。 A market-gap radar for DSH plugin developers — ranks the emptiest directions first, and browses the full market with copy-ready install commands.",
+    "description_zh": "面向 DSH 插件开发者的市场空白雷达：6,000+ 插件按大类拆到方向，标出空位/稀少/有竞争/红海，空位最多的排前面；全量浏览与安装命令是附带能力。 A market-gap radar for DSH plugin developers — ranks the emptiest directions first, and browses the full market with copy-ready install commands.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-work-desk",
+    "name": "dsh-work-desk",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/sibetlyf/dsh-work-desk",
+    "description": "DSH plugin: a work desk for calendar, email and markets",
+    "description_zh": "DSH plugin: a work desk for calendar, email and markets",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "hk-jobmatch-ai",
+    "name": "hk-jobmatch-ai",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/zsw1363574747/hk-jobmatch-ai",
+    "description": "香港求职匹配台 · Local-first Hong Kong job-match workbench: scrape JobsDB, score every posting against your CV, and explain the salary and skills the market actually asks for. Zero-dependency Node app, runs on 127.0.0.1 only.",
+    "description_zh": "香港求职匹配台 · Local-first Hong Kong job-match workbench: scrape JobsDB, score every posting against your CV, and explain the salary and skills the market actually asks for. Zero-dependency Node app, runs on 127.0.0.1 only.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-disk-panel",
+    "name": "dsh-disk-panel",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/guyue55/dsh-disk-panel",
+    "description": "Left sidebar disk panel for the DeepSeek Harness Web UI: volume free space, per-Workspace folder sizes, Trash cleanup with audit log and restore, agent hand-off, and a host-side low-space watchdog.",
+    "description_zh": "Left sidebar disk panel for the DeepSeek Harness Web UI: volume free space, per-Workspace folder sizes, Trash cleanup with audit log and restore, agent hand-off, and a host-side low-space watchdog.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-market-watching",
+    "name": "dsh-market-watching",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Leni-More/dsh-market-watching",
+    "description": "DSH 侧栏行情卡片：加密货币、股票、外汇、黄金和指数的实时价格，可设置买入/做空价格与数量，实时显示盈亏金额；标的在 DSH 设置页里自选，无需登录。",
+    "description_zh": "DSH 侧栏行情卡片：加密货币、股票、外汇、黄金和指数的实时价格，可设置买入/做空价格与数量，实时显示盈亏金额；标的在 DSH 设置页里自选，无需登录。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-deepseek-harness-rodert-1",
     "name": "awesome-deepseek-harness",
     "type": "awesome-list",

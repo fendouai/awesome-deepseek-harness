@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（511 条）。"
+description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（517 条）。"
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-deepseek-harness](resources/awesome-deepseek-harness.md) | ⭐966 | Curated guide to DeepSeek Harness (dsh) and its best community plugins | ✅ 活跃 |
 | 10 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ 活跃 |
 
-## 完整列表（511）
+## 完整列表（517）
 
 
-**注册表（511）**
+**注册表（517）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -384,6 +384,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-dep-audit](resources/dsh-dep-audit-1.md) | ⭐1 | 检查依赖树的投毒与风险面：装包即执行的脚本、过宽版本、非 registry 来源 | ✅ 活跃 |
 | [dsh-desktop](resources/dsh-desktop-50.md) | ⭐1 | DeepSeek Harness 桌面版（Windows）：双击即用，选区截图直接问 AI · 系统托盘、会话管理 · Featured in awesome-dsh-plugin | ✅ 活跃 |
 | [dsh-discover-index](resources/dsh-discover-index.md) | ⭐1 | Aggregate DSH plugin catalogs into a plugin-market index format 1 document for the DeepSeek Harness Discover tab | ✅ 活跃 |
+| [dsh-disk-panel](resources/dsh-disk-panel.md) | ⭐1 | Left sidebar disk panel for the DeepSeek Harness Web UI: volume free space, per-Workspace folder sizes, Trash cleanup with audit log and restore, agent hand-off, and a host-side low-space watchdog. | ✅ 活跃 |
 | [dsh-dpharness](resources/dsh-dpharness.md) | ⭐1 | 在 dsh 里浏览 dpharness.com 的插件目录并一键安装 —— 严选插件（汉化优先 + 可信度筛选）。Curated dsh plugin catalog for DeepSeek Harness with one-click install. | ✅ 活跃 |
 | [dsh-draft-attachments](resources/dsh-draft-attachments.md) | ⭐1 | Persist DSH composer draft attachments across page switches and restarts. IndexedDB capture + official createDrafts restore. 让 DSH 输入框的草稿图片像文字一样切页不丢、重启可恢复。 | ✅ 活跃 |
 | [dsh-effort-memory](resources/dsh-effort-memory.md) | ⭐1 | Host-only DeepSeek Harness (DSH) bundle: remembers the reasoning effort last in effect per (provider, model) and restores it when a session switches back. | ✅ 活跃 |
@@ -414,6 +415,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-market-sidebar](resources/dsh-market-sidebar.md) | ⭐1 | 把 dshmarket 插件市场搬进 DSH 侧边栏 / Puts the dshmarket plugin market on the DSH sidebar | ✅ 活跃 |
 | [dsh-market-site](resources/dsh-market-site.md) | ⭐1 | Automated static site source and Cloudflare Pages deployment for DSH Plugin Marketplace | ✅ 活跃 |
 | [dsh-market-skill](resources/dsh-market-skill.md) | ⭐1 | DSH Market 全局 skill：教 Agent 发现、评估、安装 DeepSeek Harness 插件/技能。Global skill teaching agents to use DSH Market (dsh.market) to discover, evaluate and install DSH plugins and skills. | ✅ 活跃 |
+| [dsh-market-watching](resources/dsh-market-watching.md) | ⭐1 | DSH 侧栏行情卡片：加密货币、股票、外汇、黄金和指数的实时价格，可设置买入/做空价格与数量，实时显示盈亏金额；标的在 DSH 设置页里自选，无需登录。 | ✅ 活跃 |
 | [DSH-MarketSync-WhenNewPlugin](resources/dsh-marketsync-whennewplugin.md) | ⭐1 | 每天 00:00 把自己名下 DSH 插件仓库自动送进 dsh.market：补 dsh-plugin topic 与插件标记文件，零依赖、不调模型 | ✅ 活跃 |
 | [dsh-mcp-console](resources/dsh-mcp-console.md) | ⭐1 | Manage the MCP servers of a DeepSeek Harness profile: status, switch, edit, export; add from the official MCP Registry, by hand, or with AI; find local software to connect | ✅ 活跃 |
 | [dsh-mcp-manager](resources/dsh-mcp-manager-8.md) | ⭐1 | DSH（DeepSeek Harness）的 MCP 总管理器：一个页面装好、找到、开关、改配所有 MCP 服务器 —— 活体 MCP Registry / npm 目录搜索、卡片式一键安装、自定义 stdio 与流式 HTTP 接入。 | ✅ 活跃 |
@@ -482,6 +484,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-pro-max](resources/dsh-pro-max.md) | ⭐1 | DeepSeek Harness desktop launcher — one-click local web UI, Tailscale-secured remote access, plugin marketplace & model configuration. Built with Tauri 2 + React + TypeScript. | ✅ 活跃 |
 | [dsh-prompt-optimization-master](resources/dsh-prompt-optimization-master.md) | ⭐1 | DSH 输入框一键提示词增强按钮 | One-click prompt enhancement for the DeepSeek Harness composer: rewrite the unsent draft into a clearer, more specific prompt, restore the original with one click. Ported from Tencent WorkBuddy's EnhancePrompt design; independent model call that never touches the session log. | ✅ 活跃 |
 | [dsh-ptc-tool-search](resources/dsh-ptc-tool-search.md) | ⭐1 | Progressive tool discovery for DeepSeek Harness PTC using the official scoped registry | ✅ 活跃 |
+| [dsh-publisher-radar](resources/dsh-publisher-radar.md) | ⭐1 | 面向 DSH 插件开发者的市场空白雷达：6,000+ 插件按大类拆到方向，标出空位/稀少/有竞争/红海，空位最多的排前面；全量浏览与安装命令是附带能力。 A market-gap radar for DSH plugin developers — ranks the emptiest directions first, and browses the full market with copy-ready install commands. | ✅ 活跃 |
 | [dsh-rag](resources/dsh-rag-1.md) | ⭐1 | Cross-session project memory for DeepSeek Harness - MCP server + archive daemon + panel. Local-first SQLite store with handoff packs tuned for prompt-cache prefixes. | ✅ 活跃 |
 | [dsh-research-commands](resources/dsh-research-commands.md) | ⭐1 | Registers fifteen slash commands (/idea, /review, /poster, ...) that inject the matching research skill's SKILL.md as a user message, so installed skills run without a marketplace. | ✅ 活跃 |
 | [dsh-restore-archived-sessions](resources/dsh-restore-archived-sessions.md) | ⭐1 | 查看并恢复 Harness 中已被归档的会话 | ✅ 活跃 |
@@ -518,8 +521,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-tool-market-data](resources/dsh-tool-market-data.md) | ⭐1 | DSH 插件：多市场金融数据 — A 股、美股、加密货币行情/K 线/选股/基本面。 | ✅ 活跃 |
 | [dsh-trend-radar](resources/dsh-trend-radar.md) | ⭐1 | Ecosystem trend dashboard (行情面板) for dsh plugins: snapshot dsh-plugin topic + awesome list into local history, then report weekly trends — new plugins, star gainers, category heat, coverage — plus keyword radar | ✅ 活跃 |
 | [dsh-vpn](resources/dsh-vpn.md) | ⭐1 | A Windows 11 style VPN control panel for DeepSeek Harness: Proton browser sign-in, geolocation-ranked WireGuard servers, automatic configuration, leak-proof kill switch, one-click restore. Apache-2.0. | ✅ 活跃 |
+| [dsh-web-tool-provider](resources/dsh-web-tool-provider.md) | ⭐1 | Tavily, Exa and Firecrawl as interchangeable ctx.web backends for DeepSeek Harness. Switch the engine behind web_search/web_fetch from a settings page, keys in the credential store, credential-free local fetch fallback. | ✅ 活跃 |
 | [dsh-whale-market](resources/dsh-whale-market.md) | ⭐1 | 鲸鱼插件市场 / Whale Market — browse, search, one-click install & update DSH plugins from the GitHub dsh-plugin topic (Web settings UI + Agent tools) | ✅ 活跃 |
 | [dsh-win-pwsh7](resources/dsh-win-pwsh7.md) | ⭐1 | PowerShell 7 for the DSH `pwsh` tool on Windows: detect, validate, and install the self-updating Microsoft Store package — one install path, with the connection checked first. | ✅ 活跃 |
+| [dsh-work-desk](resources/dsh-work-desk.md) | ⭐1 | DSH plugin: a work desk for calendar, email and markets | ✅ 活跃 |
 | [dsh-workspace-kit](resources/dsh-workspace-kit.md) | ⭐1 | dsh (DeepSeek Harness) workspace kit: ⌘K Spotlight search, soft workspace archive/restore, per-workspace icons/colors, enhanced sidebar with drag reorder — Cordis bundle plugin (host tools + browser client). | ✅ 活跃 |
 | [dsh-wsl-registry](resources/dsh-wsl-registry.md) | ⭐1 | Read-only Windows registry access from WSL, restricted to an allowlist of key prefixes. | ✅ 活跃 |
 | [dsh-wsl-winctl](resources/dsh-wsl-winctl.md) | ⭐1 | Enumerate and control Windows top-level windows from WSL: activate, minimize, restore, move and resize. | ✅ 活跃 |
@@ -527,6 +532,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dshget-data](resources/dshget-data.md) | ⭐1 | Public catalog snapshot and source metadata for DSH Get, the DeepSeek Harness plugin directory. | ✅ 活跃 |
 | [error-knowledge-base](resources/error-knowledge-base.md) | ⭐1 | Error knowledge base for LLM tools: record a failure once, keep the fix, and hand it back before the model re-diagnoses. Windows CLI and daemon, DSH/Codex/Claude connectors, MCP server, PostgreSQL store. | ✅ 活跃 |
 | [financial-market-analysis](resources/financial-market-analysis.md) | ⭐1 | DeepSeek Harness 金融市场分析技能：A股/基金/QDII/黄金/亚太指数日报、指标追踪、决策追踪（可配置，零个人硬编码） | ✅ 活跃 |
+| [hk-jobmatch-ai](resources/hk-jobmatch-ai.md) | ⭐1 | 香港求职匹配台 · Local-first Hong Kong job-match workbench: scrape JobsDB, score every posting against your CV, and explain the salary and skills the market actually asks for. Zero-dependency Node app, runs on 127.0.0.1 only. | ✅ 活跃 |
 | [kidai-plugin-market-hub](resources/kidai-plugin-market-hub.md) | ⭐1 | KPM'H 纪代插件市场（Hub）：侧边栏一键启动的独立全屏市场页，支持多源目录（GitHub/npm/awesome）、一键安装、已装管理与卸载、孤儿插件扫描、通用安全防线（审计/入口校验/运行时兼容/自动修补）。 | ✅ 活跃 |
 | [market-watch](resources/market-watch.md) | ⭐1 | Financial market monitor for DeepSeek Harness (dsh bundle): real-time quotes, local watchlist, threshold alerts, periodic polling, ASCII/mermaid charts for A-share stocks, indices and crypto. | ✅ 活跃 |
 | [MarketSpider-Agent-Skill](resources/marketspider-agent-skill.md) | ⭐1 | MarketSpider Agent · 电商商品数据采集｜采集淘宝/天猫、京东、1688 的商品搜索结果（链接、名称、价格、图片、销量/评价、店铺、店铺链接），并导出为 JSON/CSV/XLSX/TXT/SQL/SQLite/Markdown。基于 zhangjiancong/MarketSpider 源码改造为无 GUI、可脚本调用、JSON 输出的工具链：支持登录 Cookie 获取/导入/校验、分页抓取、选择器诊断(probe)、价格与店铺统计、离线解析自检。触发词：抓取淘宝商品、爬京东价格、1688 批发价、电商比价数据、商品价格监控、MarketSpider、采集商品列表、竞品价格表。仅用于学习研究与合规范围内的数据采集，不用于绕过风控或大规模抓取。 | ✅ 活跃 |

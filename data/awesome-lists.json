@@ -1112,6 +1112,21 @@
     "license": "CC0-1.0"
   },
   {
+    "id": "dsh-hub-plugin-1",
+    "name": "dsh-hub-plugin",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/dsh-hub-managers/dsh-hub-plugin",
+    "description": "Native DSH Hub marketplace plugin for DeepSeek Harness",
+    "description_zh": "Native DSH Hub marketplace plugin for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 19
+  },
+  {
     "id": "dsh-delete-chat",
     "name": "dsh-delete-chat",
     "type": "awesome-list",
@@ -9555,6 +9570,57 @@
     "capabilities": [
       "coding",
       "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-delete-23",
+    "name": "dsh-session-delete",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/xffwlkjgzs88/dsh-session-delete",
+    "description": "给 DSH 会话列表加一个能真删除的按钮：让宿主 registry 遗忘、清掉正文与投影缓存。零依赖小插件，附说明与免责声明。",
+    "description_zh": "给 DSH 会话列表加一个能真删除的按钮：让宿主 registry 遗忘、清掉正文与投影缓存。零依赖小插件，附说明与免责声明。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skills-console-1",
+    "name": "dsh-skills-console",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/lengfengng-tech/dsh-skills-console",
+    "description": "A skill console inside DeepSeek Harness settings: discover, install, manage, and health-check the agent skills on this machine. Built on the npx skills CLI and market ecosystem — no self-hosted marketplace.",
+    "description_zh": "A skill console inside DeepSeek Harness settings: discover, install, manage, and health-check the agent skills on this machine. Built on the npx skills CLI and market ecosystem — no self-hosted marketplace.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pm-plugin",
+    "name": "dsh-pm-plugin",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/comeonzhj/dsh-pm-plugin",
+    "description": "DeepSeek Harness plugin market index (format 1) hosted on GitHub Pages",
+    "description_zh": "DeepSeek Harness plugin market index (format 1) hosted on GitHub Pages",
+    "capabilities": [
+      "coding",
+      "git"
     ],
     "status": "active",
     "verified": false,

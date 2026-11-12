@@ -728,6 +728,23 @@
     "stars": 10
   },
   {
+    "id": "dsh-moren-unlimited",
+    "name": "dsh-moren-unlimited",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/MorenLendan/dsh-moren-unlimited",
+    "description": "Moren unrestricted LiangShen mode for DSH: purge unrestricted + unrestricted subagents + LiangShen, wallpaper, media, codec, token guard and rollback.",
+    "description_zh": "Moren unrestricted LiangShen mode for DSH: purge unrestricted + unrestricted subagents + LiangShen, wallpaper, media, codec, token guard and rollback.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "task-passport",
     "name": "Task Passport",
     "type": "agent",
@@ -6724,6 +6741,57 @@
     "verified": false,
     "stars": 1,
     "license": "BSD-3-Clause"
+  },
+  {
+    "id": "dsh-kb-sync",
+    "name": "dsh-kb-sync",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/xinming-chenniang/dsh-kb-sync",
+    "description": "DeepSeek Harness plugin: pull DeepSeek web conversations into a local knowledge base (markdown + JSONL + catalog) with in-plugin search, orchestrate a sync/integrity command you already own, and run the pipeline's judgement step in process via the host llm service. Pull half reads a web token and calls chat.deepseek.com.",
+    "description_zh": "DeepSeek Harness plugin: pull DeepSeek web conversations into a local knowledge base (markdown + JSONL + catalog) with in-plugin search, orchestrate a sync/integrity command you already own, and run the pipeline's judgement step in process via the host llm service. Pull half reads a web token and calls chat.deepseek.com.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-moss-live",
+    "name": "dsh-moss-live",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/HudsonHuang/dsh-moss-live",
+    "description": "MOSS-Live full-duplex voice for DeepSeek Harness: speak to your agent, tasks run in subagents, results come back as speech.",
+    "description_zh": "MOSS-Live full-duplex voice for DeepSeek Harness: speak to your agent, tasks run in subagents, results come back as speech.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-airlock",
+    "name": "dsh-plugin-airlock",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/gabrielbav/dsh-plugin-airlock",
+    "description": "Security score for every DeepSeek Harness plugin, skill and subagent: quarantine, six security scanners and an optional LLM judge",
+    "description_zh": "Security score for every DeepSeek Harness plugin, skill and subagent: quarantine, six security scanners and an optional LLM judge",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "dsh-skill-evolve",

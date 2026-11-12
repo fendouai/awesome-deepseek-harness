@@ -2884,6 +2884,22 @@
     "license": "MIT"
   },
   {
+    "id": "edugraph-learning",
+    "name": "edugraph-learning",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/yagami-lightzxy/edugraph-learning",
+    "description": "EduGraph AI 学习模式 · DSH 插件：资料解析、知识图谱、学习计划、练习批改、间隔复习、外部 AI 课程包与面板内 AI 导师",
+    "description_zh": "EduGraph AI 学习模式 · DSH 插件：资料解析、知识图谱、学习计划、练习批改、间隔复习、外部 AI 课程包与面板内 AI 导师",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",

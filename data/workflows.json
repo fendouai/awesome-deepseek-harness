@@ -144,6 +144,24 @@
     "stars": 443
   },
   {
+    "id": "genie",
+    "name": "genie",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/automagik-si/genie",
+    "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+    "description_zh": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 352,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "opendirector",
     "name": "OpenDirector",
     "type": "workflow",
@@ -10103,6 +10121,42 @@
     "description_zh": "Multi-account Trae model pool plugin for DeepSeek Harness: auto-failover, check-in automation, credits",
     "capabilities": [
       "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "agent-model-scout",
+    "name": "agent-model-scout",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/ankepoipoi/agent-model-scout",
+    "description": "A Cordis plugin for DeepSeek Harness that probes all configured models with a cheap planning call, scores plans (quality vs. token cost), pops a picker card, and dispatches the task on the chosen model.",
+    "description_zh": "A Cordis plugin for DeepSeek Harness that probes all configured models with a cheap planning call, scores plans (quality vs. token cost), pops a picker card, and dispatches the task on the chosen model.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-creation-workbench",
+    "name": "dsh-creation-workbench",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/LEAFCHINA/dsh-creation-workbench",
+    "description": "AI 创作工作台 for DeepSeek Harness: workspaces + canvas, third-party image APIs and local ComfyUI workflows (image now; editing & video planned).",
+    "description_zh": "AI 创作工作台 for DeepSeek Harness: workspaces + canvas, third-party image APIs and local ComfyUI workflows (image now; editing & video planned).",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "ui",
       "workflow"
     ],
     "status": "active",

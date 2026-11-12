@@ -1232,6 +1232,23 @@
     "stars": 30
   },
   {
+    "id": "dsh-super-kanban",
+    "name": "dsh-super-kanban",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/topmindspace/dsh-super-kanban",
+    "description": "AI task kanban plugin for DeepSeek Harness — derives task goals, progress and issues from DSH sessions, with session hand-off, subtasks, artifacts and a dual full-page/sidebar UI.",
+    "description_zh": "AI task kanban plugin for DeepSeek Harness — derives task goals, progress and issues from DSH sessions, with session hand-off, subtasks, artifacts and a dual full-page/sidebar UI.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 30,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skills-manager",
     "name": "dsh-skills-manager",
     "type": "skill",
@@ -1351,6 +1368,23 @@
     "description_zh": "ios app 开发 skill",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 26,
+    "license": "MIT"
+  },
+  {
+    "id": "devflow-kit",
+    "name": "devflow-kit",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/chinhkrb113/devflow-kit",
+    "description": "Eleven complementary AI skills for requirements, architecture diagrams, interactive UI, implementation, code review, security audits and verification. Portable across Codex, Claude Code, DeepSeek Harness and Trae.",
+    "description_zh": "Eleven complementary AI skills for requirements, architecture diagrams, interactive UI, implementation, code review, security audits and verification. Portable across Codex, Claude Code, DeepSeek Harness and Trae.",
+    "capabilities": [
+      "coding",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -6295,6 +6329,39 @@
     "license": "MIT"
   },
   {
+    "id": "skills-4",
+    "name": "skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/iasiv5/skills",
+    "description": "Agent Skills · 𝓲-Collection",
+    "description_zh": "Agent Skills · 𝓲-Collection",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "chaosppt",
+    "name": "ChaosPPT",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/LingzhiGod/ChaosPPT",
+    "description": "An agent-first presentation engine and skill for designing slides with HTML, CSS, and JavaScript, featuring unified themes, layout diagnostics, and PDF/PPTX export.",
+    "description_zh": "An agent-first presentation engine and skill for designing slides with HTML, CSS, and JavaScript, featuring unified themes, layout diagnostics, and PDF/PPTX export.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
     "id": "dsh-review-skills",
     "name": "dsh-review-skills",
     "type": "skill",
@@ -8620,6 +8687,41 @@
     "description_zh": "文渊阁 — 把工作交给一支 AI 团队：有 owner 的 Task、独立验收、append-only 账本，与 DSH 原生模型目录联动。",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-code-review-8",
+    "name": "dsh-code-review",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/jkin8010/dsh-code-review",
+    "description": "基于 alibaba/open-code-review 的 DeepSeek Harness 代码评审插件：当前改动/提交/分支、项目架构、代码模块与信息流业务工作流四类评审，实时进度与动态、GitHub 风格提交热力图与项目/模块统计。Apache-2.0。",
+    "description_zh": "基于 alibaba/open-code-review 的 DeepSeek Harness 代码评审插件：当前改动/提交/分支、项目架构、代码模块与信息流业务工作流四类评审，实时进度与动态、GitHub 风格提交热力图与项目/模块统计。Apache-2.0。",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "3d-fabric",
+    "name": "3d-fabric",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/JiamingShi-JsPhys/3d-fabric",
+    "description": "The whole 3D toolchain for one machine, in one plugin: printable CAD by natural language through the local SolidCraft CLI (build, edit, measure, preview, inspect, repair), plus thirty Blender skills for organic modelling, materials, lighting, cameras, rendering, UV and animation. Ten agent hosts.",
+    "description_zh": "The whole 3D toolchain for one machine, in one plugin: printable CAD by natural language through the local SolidCraft CLI (build, edit, measure, preview, inspect, repair), plus thirty Blender skills for organic modelling, materials, lighting, cameras, rendering, UV and animation. Ten agent hosts.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -15425,6 +15527,140 @@
     "description_zh": "Meshy 3D generation and 3D printing skills for DeepSeek Harness (dsh)",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workspace-mesh",
+    "name": "dsh-workspace-mesh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/ChenXu233/dsh-workspace-mesh",
+    "description": "Workspace mesh for DeepSeek Harness: declare which workspace lives on which host, dispatch tasks by workspace across paired DSH instances.",
+    "description_zh": "Workspace mesh for DeepSeek Harness: declare which workspace lives on which host, dispatch tasks by workspace across paired DSH instances.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "insight-charts",
+    "name": "insight-charts",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Leon-S-7211/insight-charts",
+    "description": "研报级图表 Agent Skill：两套主题、七个 matplotlib 画法、放图时机与标题写法。Claude Code 插件 + DeepSeek Harness 插件。",
+    "description_zh": "研报级图表 Agent Skill：两套主题、七个 matplotlib 画法、放图时机与标题写法。Claude Code 插件 + DeepSeek Harness 插件。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-fleet-monitor",
+    "name": "dsh-fleet-monitor",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/xianfeng1012/dsh-fleet-monitor",
+    "description": "Multi-host SSH monitoring for the dsh web GUI: agentless metrics, hardware inventory, service probes, alerts, cron tasks, terminal, SFTP files, and agent tools. No agent to install, loopback-only.",
+    "description_zh": "Multi-host SSH monitoring for the dsh web GUI: agentless metrics, hardware inventory, service probes, alerts, cron tasks, terminal, SFTP files, and agent tools. No agent to install, loopback-only.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "terminal",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skills-fengshaoa",
+    "name": "dsh-skills-fengshaoA",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/fengshaoA/dsh-skills-fengshaoA",
+    "description": "Agent skills for DeepSeek Harness, installable via skills.sh. Includes decision-council: structured deliberation with a three-tier safety gate.",
+    "description_zh": "Agent skills for DeepSeek Harness, installable via skills.sh. Includes decision-council: structured deliberation with a three-tier safety gate.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-task-time",
+    "name": "dsh-task-time",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/priatewang/dsh-task-time",
+    "description": "deepseek harness 人工操作时间统计插件（牛马时间统计）",
+    "description_zh": "deepseek harness 人工操作时间统计插件（牛马时间统计）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wanfeng-studio",
+    "name": "dsh-wanfeng-studio",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/liweitan2046-cyber/dsh-wanfeng-studio",
+    "description": "爆款视频复刻工作台 · DSH 插件：原片 → 角色图（审核门）→ 换人 → 质检 → 成片，支持接入任意 RunningHub 工作流",
+    "description_zh": "爆款视频复刻工作台 · DSH 插件：原片 → 角色图（审核门）→ 换人 → 质检 → 成片，支持接入任意 RunningHub 工作流",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-local-superagent",
+    "name": "dsh-local-superagent",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/superchao5717/dsh-local-superagent",
+    "description": "Local Superagent task board plugin for DeepSeek Harness (DSH): local task dispatch, isolated worker sessions, supervisor review, minimal-interruption human decisions.",
+    "description_zh": "Local Superagent task board plugin for DeepSeek Harness (DSH): local task dispatch, isolated worker sessions, supervisor review, minimal-interruption human decisions.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-content-desk",
+    "name": "dsh-content-desk",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Yanren1225/dsh-content-desk",
+    "description": "DSH 文案工作台：审核/润色/改写文案、多模型对比、AI 配图，以及通用模型调用（ai_task / ai_models / ai_image）。零运行期依赖，只使用 DSH 已注册模型。",
+    "description_zh": "DSH 文案工作台：审核/润色/改写文案、多模型对比、AI 配图，以及通用模型调用（ai_task / ai_models / ai_image）。零运行期依赖，只使用 DSH 已注册模型。",
+    "capabilities": [
+      "coding",
+      "multimodal"
     ],
     "status": "active",
     "verified": false,

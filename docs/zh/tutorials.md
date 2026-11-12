@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（167 条）。"
+description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（168 条）。"
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [NamiDSH](resources/namidsh.md) | ⭐189 | 对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent | ✅ 活跃 |
 | 10 | [wpsnote-skills](resources/wpsnote-skills.md) | ⭐184 | WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Server 让 DeepSeek Harness、灵犀、WorkBuddy、Claude Code、Codex、Cursor 直接驱动你的笔记知识库（读写、搜索、导入、排版与学习）。 | ✅ 活跃 |
 
-## 完整列表（167）
+## 完整列表（168）
 
 
-**学习（167）**
+**学习（168）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -190,6 +190,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-word-master](resources/dsh-word-master.md) | ⭐1 | Word Master for DeepSeek Harness — agent preset 形式把素材做成规范 Word 文档：素材转换 → 规格冻结 → 逐节写作 → 质检门 → 审阅界面 → 渲染闸门 → 导出。架构范式学习自 PPT Master。 | ✅ 活跃 |
 | [DSH-Workshop](resources/dsh-workshop-1.md) | ⭐1 | 为 DeepSeek Harness 打造的插件市场：复刻 Steam 创意工坊的浏览、筛选、订阅与安装体验，管理和分发 Harness 扩展功能（主题、效率工具、Agent 预设、教程等）。 | ✅ 活跃 |
 | [dsh-writing-style-learner](resources/dsh-writing-style-learner.md) | ⭐1 | 一个可学习任意写作风格的 DeepSeek Harness 插件 | ✅ 活跃 |
+| [edugraph-learning](resources/edugraph-learning.md) | ⭐1 | EduGraph AI 学习模式 · DSH 插件：资料解析、知识图谱、学习计划、练习批改、间隔复习、外部 AI 课程包与面板内 AI 导师 | ✅ 活跃 |
 | [every-thing-is-possible](resources/every-thing-is-possible.md) | ⭐1 | 这是一个学习仓库 | ✅ 活跃 |
 | [jiufeng-invest](resources/jiufeng-invest.md) | ⭐1 | 玖峰金融工作台 (Jiufeng FinBox) - 把散落的金融工具装进一个桌面端 | Finance workbench plugin set for DeepSeek Harness: 7 workflows, 101 skills, 21 zero-key A-share data tools | ✅ 活跃 |
 | [lazeword](resources/lazeword.md) | ⭐1 | lazeword is a word-anchored bilingual learning system — learning as simulation, trajectory as log | ✅ 活跃 |

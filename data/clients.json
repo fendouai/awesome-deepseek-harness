@@ -130,6 +130,22 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "crossdesk",
+    "name": "crossdesk",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/kunkundi/crossdesk",
+    "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
+    "description_zh": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4741
+  },
+  {
     "id": "desktop-cc-gui",
     "name": "desktop-cc-gui",
     "type": "client",
@@ -16472,6 +16488,24 @@
     "license": "MIT"
   },
   {
+    "id": "automagik",
+    "name": "automagik",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/automagik-si/automagik",
+    "description": "Automagik's plugins for DeepSeek Harness (the Bot team, the welcome) and the Automagik desktop app",
+    "description_zh": "Automagik's plugins for DeepSeek Harness (the Bot team, the welcome) and the Automagik desktop app",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "dsh-desktop-app",
     "name": "dsh-desktop",
     "type": "client",
@@ -28115,6 +28149,192 @@
     "description_zh": "用 /rst 一条命令重启 DSH：由进程外启动器关掉当前进程并拉起新的，重启完成后把回执写回你发起重启的那条会话。| Use the /rst command to restart DSH: Start a new process from an external launcher and shut down the current one. After the restart is complete, write the response back to the session from which you initiated the restart.",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-restart-plugin-2",
+    "name": "dsh-restart-plugin",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/wdx0614/dsh-restart-plugin",
+    "description": "DSH 桌面版电源菜单：侧边栏一键「重启 DSH」/「关闭 DSH」。重启会自动重新打开应用，改完插件或配置不必再去托盘翻菜单。Windows/macOS，MIT。",
+    "description_zh": "DSH 桌面版电源菜单：侧边栏一键「重启 DSH」/「关闭 DSH」。重启会自动重新打开应用，改完插件或配置不必再去托盘翻菜单。Windows/macOS，MIT。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-web-access-1",
+    "name": "dsh-web-access",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/wenyio/dsh-web-access",
+    "description": "在本机浏览器打开正在运行的 DeepSeek Harness 桌面实例。",
+    "description_zh": "在本机浏览器打开正在运行的 DeepSeek Harness 桌面实例。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-wechat-session",
+    "name": "dsh-plugin-wechat-session",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/sweet560/dsh-plugin-wechat-session",
+    "description": "微信会话互通聚合包：桌面弹窗 / 系统通知 + 提示音，30/60 秒超时后经 dsh-im 微信机器人把带问题原文与编号选项的清单发到微信，可直接在微信里回复选择。",
+    "description_zh": "微信会话互通聚合包：桌面弹窗 / 系统通知 + 提示音，30/60 秒超时后经 dsh-im 微信机器人把带问题原文与编号选项的清单发到微信，可直接在微信里回复选择。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-quick-restart-3",
+    "name": "dsh-quick-restart",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/3309602454/dsh-quick-restart",
+    "description": "DSH 会话标题栏的一键重启按钮：重启前检查并警告正在运行的会话与后台任务，随后关闭并重新启动桌面端，全程不弹控制台窗口。 | One-click restart button for the DSH desktop app: warns about running work, then closes and relaunches the app without a console window.",
+    "description_zh": "DSH 会话标题栏的一键重启按钮：重启前检查并警告正在运行的会话与后台任务，随后关闭并重新启动桌面端，全程不弹控制台窗口。 | One-click restart button for the DSH desktop app: warns about running work, then closes and relaunches the app without a console window.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-axolotl",
+    "name": "dsh-plugin-axolotl",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/sdf123098/dsh-plugin-axolotl",
+    "description": "DSH plugin for the Axolotl Launcher (美西螈启动器): 269 MCP tools folded into 11 domain tools, screenshots as real images, token auth",
+    "description_zh": "DSH plugin for the Axolotl Launcher (美西螈启动器): 269 MCP tools folded into 11 domain tools, screenshots as real images, token auth",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hero-theme",
+    "name": "dsh-hero-theme",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Lhy723/dsh-hero-theme",
+    "description": "HeroUI v3 theme builder for DeepSeek Harness Web and Desktop — live accent, base, font, radius and appearance controls.",
+    "description_zh": "HeroUI v3 theme builder for DeepSeek Harness Web and Desktop — live accent, base, font, radius and appearance controls.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cua-driver",
+    "name": "dsh-cua-driver",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/internettrollwatt/dsh-cua-driver",
+    "description": "A self-contained DeepSeek Harness (DSH) profile plugin that adds background Windows desktop and browser control to DSH, powered by the cua-driver MCP server (trycua/cua, v0.46.1, MIT).",
+    "description_zh": "A self-contained DeepSeek Harness (DSH) profile plugin that adds background Windows desktop and browser control to DSH, powered by the cua-driver MCP server (trycua/cua, v0.46.1, MIT).",
+    "capabilities": [
+      "browser",
+      "coding",
+      "desktop",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-window-keeper",
+    "name": "dsh-window-keeper",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/mm24trg2gy-star/dsh-window-keeper",
+    "description": "记住 DeepSeek Harness 桌面窗口的位置/大小/最大化状态；脚本本体不依赖客户端版本。",
+    "description_zh": "记住 DeepSeek Harness 桌面窗口的位置/大小/最大化状态；脚本本体不依赖客户端版本。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-buddy",
+    "name": "dsh-buddy",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/tyr1105/dsh-buddy",
+    "description": "你的 OPC 专业团队。DeepSeek Harness 桌面版插件：像素办公室里看每位队友在做什么；谁能自己开工、一天最多自己花多少由你定；交代一句，负责人安排分工。",
+    "description_zh": "你的 OPC 专业团队。DeepSeek Harness 桌面版插件：像素办公室里看每位队友在做什么；谁能自己开工、一天最多自己花多少由你定；交代一句，负责人安排分工。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-acp-agents",
+    "name": "dsh-acp-agents",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ChisaAlter/dsh-acp-agents",
+    "description": "Independent ACP coding-agent plugin for DeepSeek Harness and WhaleIsle Desktop: agent switching, authentication, and managed delegation.",
+    "description_zh": "Independent ACP coding-agent plugin for DeepSeek Harness and WhaleIsle Desktop: agent switching, authentication, and managed delegation.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-desktop-tool-ocr",
+    "name": "dsh-desktop-tool-ocr",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/huanglihome1996-rgb/dsh-desktop-tool-ocr",
+    "description": "DSH 桌面端自动识图插件：视觉模型原图直传，非视觉模型自动调用可插拔本地 OCR 或线上视觉模型；支持 nbocr、自定义命令与 OpenAI-compatible API。",
+    "description_zh": "DSH 桌面端自动识图插件：视觉模型原图直传，非视觉模型自动调用可插拔本地 OCR 或线上视觉模型；支持 nbocr、自定义命令与 OpenAI-compatible API。",
+    "capabilities": [
+      "coding",
+      "multimodal"
     ],
     "status": "active",
     "verified": false,

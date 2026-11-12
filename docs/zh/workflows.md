@@ -1,6 +1,6 @@
 ---
 title: "Workflows & Automation"
-description: "DeepSeek Harness (dsh) 精选 workflows & automation：🔥 Top 10 与完整列表（544 条）。"
+description: "DeepSeek Harness (dsh) 精选 workflows & automation：🔥 Top 10 与完整列表（547 条）。"
 keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 ---
 # Workflows & Automation
@@ -27,13 +27,13 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | 6 | [obelisk](resources/obelisk.md) | ⭐688 | Every past session, subagent, and workflow -- queryable by your agent, browsable by you | ✅ 活跃 |
 | 7 | [dsh-jailbreak-workflow](resources/dsh-jailbreak-workflow.md) | ⭐655 | DSH 破甲词制作作工作流 | ✅ 活跃 |
 | 8 | [Molio](resources/molio.md) | ⭐443 | A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows. | ✅ 活跃 |
-| 9 | [OpenDirector](resources/opendirector.md) | ⭐278 | Build an easy-to-use workflow for the next generation of video creation with agent | ✅ 活跃 |
-| 10 | [dsh-workflows](resources/dsh-workflows.md) | ⭐218 | 工作流仓库 - dsh 插件的 .wflite.zip 工作流合集 by MingLin | ✅ 活跃 |
+| 9 | [genie](resources/genie.md) | ⭐352 | Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it. | ✅ 活跃 |
+| 10 | [OpenDirector](resources/opendirector.md) | ⭐278 | Build an easy-to-use workflow for the next generation of video creation with agent | ✅ 活跃 |
 
-## 完整列表（544）
+## 完整列表（547）
 
 
-**工作流（430）**
+**工作流（433）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -43,6 +43,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [obelisk](resources/obelisk.md) | ⭐688 | Every past session, subagent, and workflow -- queryable by your agent, browsable by you | ✅ 活跃 |
 | [dsh-jailbreak-workflow](resources/dsh-jailbreak-workflow.md) | ⭐655 | DSH 破甲词制作作工作流 | ✅ 活跃 |
 | [Molio](resources/molio.md) | ⭐443 | A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows. | ✅ 活跃 |
+| [genie](resources/genie.md) | ⭐352 | Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it. | ✅ 活跃 |
 | [OpenDirector](resources/opendirector.md) | ⭐278 | Build an easy-to-use workflow for the next generation of video creation with agent | ✅ 活跃 |
 | [dsh-workflows](resources/dsh-workflows.md) | ⭐218 | 工作流仓库 - dsh 插件的 .wflite.zip 工作流合集 by MingLin | ✅ 活跃 |
 | [dsh-agent-team-gui](resources/dsh-agent-team-gui.md) | ⭐159 | Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights. | ✅ 活跃 |
@@ -273,6 +274,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [agent-engineering-workflow](resources/agent-engineering-workflow.md) | ⭐1 | 面向 AI Coding Agent 的工程化工作流 Skills：状态机、风险分级、Code Graph 影响分析与安全增量修改 | ✅ 活跃 |
 | [agent-loop-workflow](resources/agent-loop-workflow.md) | ⭐1 | A project-agnostic multi-agent collaboration protocol for the DeepSeek Harness: loop guards that stop runaway agent loops, a six-field handoff format, risk-tiered review routing, and a fixed verify→commit→push→review→close sequence. One skill instead of the same rules copy-pasted into every agent's instructions. | ✅ 活跃 |
 | [agent-loop-workflow](resources/agent-loop-workflow-1.md) | ⭐1 | A project-agnostic multi-agent collaboration protocol for the DeepSeek Harness: loop guards that stop runaway agent loops, a six-field handoff format, risk-tiered review routing, and a fixed verify→commit→push→review→close sequence. One skill instead of the same rules copy-pasted into every agent's instructions. | ✅ 活跃 |
+| [agent-model-scout](resources/agent-model-scout.md) | ⭐1 | A Cordis plugin for DeepSeek Harness that probes all configured models with a cheap planning call, scores plans (quality vs. token cost), pops a picker card, and dispatches the task on the chosen model. | ✅ 活跃 |
 | [AmberFlow](resources/amberflow.md) | ⭐1 | 冻结计划的自动化中间件（TypeScript / Node ≥ 22.6）：LLM 只规划一次，执行由本地规则与决策模型逐步完成，演示一次后既可端侧执行。 | ✅ 活跃 |
 | [clean-dev](resources/clean-dev.md) | ⭐1 | Lean agent skill for AI assisted development, plan-first development, approved phases, clean code, AGENTS.md, architecture notes, and decision records | ✅ 活跃 |
 | [code-tutor-dsh](resources/code-tutor-dsh.md) | ⭐1 | DeepSeek Harness plugin: a code-explanation skill that answers in three concise parts - what the code does, the syntax it uses, then a line-by-line walkthrough. | ✅ 活跃 |
@@ -307,6 +309,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-connect-zcode](resources/dsh-connect-zcode.md) | ⭐1 | 把 ZCode 账号的套餐额度（Start Plan / Coding Plan）接入 DeepSeek​ Harness（DSH） 的本地插件。 | ✅ 活跃 |
 | [dsh-continuum](resources/dsh-continuum.md) | ⭐1 | Durable project state and checkpoint engine for DeepSeek Harness (DSH). Prevents context exhaustion in long-running multi-agent workflows by persisting tasks, evidence, and checkpoints to disk. | ✅ 活跃 |
 | [dsh-contract-drafting-agent](resources/dsh-contract-drafting-agent.md) | ⭐1 | Professional contract-drafting agent mode for DeepSeek Harness: 11-stage lawyer workflow with 5-way parallel AI review, decision gate, and domain packs (general contract / employment / equity investment) | ✅ 活跃 |
+| [dsh-creation-workbench](resources/dsh-creation-workbench.md) | ⭐1 | AI 创作工作台 for DeepSeek Harness: workspaces + canvas, third-party image APIs and local ComfyUI workflows (image now; editing & video planned). | ✅ 活跃 |
 | [dsh-credentials-keychain](resources/dsh-credentials-keychain.md) | ⭐1 | Planned OS-backed credential provider for DeepSeek Harness | ✅ 活跃 |
 | [dsh-deep-research](resources/dsh-deep-research-1.md) | ⭐1 | Kestrel: normalized quotation admission, source anchoring and evidence-processing tools with verified offline workflows | ✅ 活跃 |
 | [dsh-deepsearch](resources/dsh-deepsearch.md) | ⭐1 | Multi-round deep research for DeepSeek Harness: the same session keeps drilling into a topic round after round and writes a cited report in the right sidebar. | ✅ 活跃 |

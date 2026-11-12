@@ -193095,5 +193095,23 @@
     "stars": 0,
     "license": "MIT",
     "install": "dsh plugin --profile web add https://github.com/Feskel2/dsh-extras/releases/download/v1.1.0/dsh-topmost-notify.tgz"
+  },
+  {
+    "id": "dsh-workboard",
+    "name": "dsh-workboard",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/lukeinx/dsh-workboard",
+    "description": "Modular dashboard page for DeepSeek Harness with 34 built-in widgets (agent sessions and jobs, to-dos, ICS calendar, weather, trending lists, RSS feeds, markets, system monitor) and sandboxed custom widgets that the agent builds on request.",
+    "description_zh": "DeepSeek Harness 模块化工作台页面：内置 34 个 widget（会话与后台任务、待办、ICS 日历、天气、热榜、RSS 订阅、行情、系统监控），并可让 Agent 按描述生成沙箱隔离的自定义 widget。",
+    "capabilities": [
+      "ui",
+      "automation"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "license": "MIT",
+    "install": "dsh plugin --profile web add dsh-workboard"
   }
 ]

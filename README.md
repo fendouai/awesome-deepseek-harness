@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-#### Complete list (10695)
+#### Complete list (10696)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn! (✅ active)
@@ -10863,6 +10863,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-werewolf](https://github.com/AdenChenCoder/dsh-werewolf)  — AI-powered Werewolf game plugin for the DeepSeek Harness Web UI (✅ active)
 - [dsh-word-docs](https://github.com/Ei-Ayw/dsh-word-docs)  — Word document toolkit for DeepSeek Harness: generate, edit, extract, stat and convert .docx with a pure-stdlib Python engine (zero dependencies), registering the word_docs tool and word-docs skill. / DeepSeek Harness 的 Word 文档工具：纯 Python 标准库生成、编辑、提取、统计并转换 .docx，零依赖。 (✅ active)
 - [dsh-workbench](https://github.com/cupen/dsh-workbench)  — Oh, come on! Get the shit done. (✅ active)
+- [dsh-workboard](https://github.com/lukeinx/dsh-workboard)  — Modular dashboard page for DeepSeek Harness with 34 built-in widgets (agent sessions and jobs, to-dos, ICS calendar, weather, trending lists, RSS feeds, markets, system monitor) and sandboxed custom widgets that the agent builds on request. (✅ active)
 - [dsh-wps](https://github.com/zhengjy01/dsh-wps)  — WPS / Kingsoft cloud-docs integration for DSH: official SkillHub MCP, custom browser authorization, cloud-drive ops + text/sheet/presentation/PDF content under mcp__wps__*. (✅ active)
 - [dsh-wsl-expose](https://github.com/jack-ranbo/dsh-wsl-expose)  — wsl下公网访问dsh的插件 (✅ active)
 - [dsh-zsxq](https://github.com/zhengjy01/dsh-zsxq)  — Knowledge Planet (知识星球 zsxq) integration for DSH: cookie/QR login against the unofficial web API, agent tools for groups / topic lists / topic detail / search / publish / comment / like, plus a web settings panel. (✅ active)
@@ -17219,7 +17220,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-#### Complete list (10695)
+#### Complete list (10696)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn! (✅ active)
@@ -27912,6 +27913,7 @@ awesome-deepseek-harness/
 - [dsh-werewolf](https://github.com/AdenChenCoder/dsh-werewolf)  — AI-powered Werewolf game plugin for the DeepSeek Harness Web UI (✅ active)
 - [dsh-word-docs](https://github.com/Ei-Ayw/dsh-word-docs)  — Word document toolkit for DeepSeek Harness: generate, edit, extract, stat and convert .docx with a pure-stdlib Python engine (zero dependencies), registering the word_docs tool and word-docs skill. / DeepSeek Harness 的 Word 文档工具：纯 Python 标准库生成、编辑、提取、统计并转换 .docx，零依赖。 (✅ active)
 - [dsh-workbench](https://github.com/cupen/dsh-workbench)  — Oh, come on! Get the shit done. (✅ active)
+- [dsh-workboard](https://github.com/lukeinx/dsh-workboard)  — Modular dashboard page for DeepSeek Harness with 34 built-in widgets (agent sessions and jobs, to-dos, ICS calendar, weather, trending lists, RSS feeds, markets, system monitor) and sandboxed custom widgets that the agent builds on request. (✅ active)
 - [dsh-wps](https://github.com/zhengjy01/dsh-wps)  — WPS / Kingsoft cloud-docs integration for DSH: official SkillHub MCP, custom browser authorization, cloud-drive ops + text/sheet/presentation/PDF content under mcp__wps__*. (✅ active)
 - [dsh-wsl-expose](https://github.com/jack-ranbo/dsh-wsl-expose)  — wsl下公网访问dsh的插件 (✅ active)
 - [dsh-zsxq](https://github.com/zhengjy01/dsh-zsxq)  — Knowledge Planet (知识星球 zsxq) integration for DSH: cookie/QR login against the unofficial web API, agent tools for groups / topic lists / topic detail / search / publish / comment / like, plus a web settings panel. (✅ active)

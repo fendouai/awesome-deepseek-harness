@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 10695 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 10696 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-## Complete list (10695)
+## Complete list (10696)
 
 
 **Vision & multimodal (3797)**
@@ -7881,9 +7881,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | One-click restart for DeepSeek Harness: a web button (plus a dsh_restart agent tool) hands the relaunch to a detached helper that waits for the port to free, relaunches the same command, auto-reconnects the page, and shows boot errors in a recovery console when the new host fails. | ✅ active |
 
-**UI & experience (1493)**
+**UI & experience (1494)**
 
-*Other (1204)*
+*Other (1205)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -9091,6 +9091,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ui-enhance](resources/dsh-ui-enhance.md) | – | Deepseek Harness 增强工具 | ✅ active |
 | [dsh-updater](resources/dsh-updater-3.md) | – | Track DeepSeek Harness's own releases and update in one click: reads the npm dist-tags and the GitHub changelog, shows every change between the running build and the target, grades the risk (prerelease, breaking-change wording, duplicate installs, plugin range compatibility, backup and rollback readiness), then hands the install to a detached helper that backs the current install up with an atomic rename, runs npm, verifies what landed, relaunches, and rolls back when the new build does not come up. | ✅ active |
 | [dsh-url-trace](resources/dsh-url-trace.md) | – | URL footprint for DeepSeek Harness: automatically records every link opened from the DSH page (click or window.open), with frequency-sorted, recent, starred and searchable views in a panel beside the chat input, optional local Edge history merge, and all data kept in local storage. | ✅ active |
+| [dsh-workboard](resources/dsh-workboard.md) | – | Modular dashboard page for DeepSeek Harness with 34 built-in widgets (agent sessions and jobs, to-dos, ICS calendar, weather, trending lists, RSS feeds, markets, system monitor) and sandboxed custom widgets that the agent builds on request. | ✅ active |
 *🖥️ Sidebars & panels (90)*
 
 | Project | Stars | Description | Status |

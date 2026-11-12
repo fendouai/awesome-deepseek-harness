@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-#### 完整列表（10695）
+#### 完整列表（10696）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn!（✅ 活跃）
@@ -10864,6 +10864,7 @@ dsh web
 - [dsh-werewolf](https://github.com/AdenChenCoder/dsh-werewolf)  — AI-powered Werewolf game plugin for the DeepSeek Harness Web UI（✅ 活跃）
 - [dsh-word-docs](https://github.com/Ei-Ayw/dsh-word-docs)  — DeepSeek Harness 的 Word 文档工具：纯 Python 标准库实现，生成、编辑、提取、统计并转换 .docx，零依赖，注册 word_docs 工具与 word-docs 技能。（✅ 活跃）
 - [dsh-workbench](https://github.com/cupen/dsh-workbench)  — Oh, come on! Get the shit done.（✅ 活跃）
+- [dsh-workboard](https://github.com/lukeinx/dsh-workboard)  — DeepSeek Harness 模块化工作台页面：内置 34 个 widget（会话与后台任务、待办、ICS 日历、天气、热榜、RSS 订阅、行情、系统监控），并可让 Agent 按描述生成沙箱隔离的自定义 widget。（✅ 活跃）
 - [dsh-wps](https://github.com/zhengjy01/dsh-wps)  — WPS / 金山文档云文档集成插件：官方 SkillHub MCP，自定义浏览器授权，云盘操作 + 文字/表格/演示/PDF 内容读写，工具以 mcp__wps__* 在会话中可用。（✅ 活跃）
 - [dsh-wsl-expose](https://github.com/jack-ranbo/dsh-wsl-expose)  — wsl下公网访问dsh的插件（✅ 活跃）
 - [dsh-zsxq](https://github.com/zhengjy01/dsh-zsxq)  — DeepSeek Harness 的知识星球（zsxq）集成：Cookie/扫码登录非官方 Web API，提供星球列表 / 主题列表 / 主题详情 / 搜索 / 发布 / 评论 / 点赞工具与 Web 设置面板。（✅ 活跃）
@@ -17220,7 +17221,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-#### 完整列表（10695）
+#### 完整列表（10696）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn!（✅ 活跃）
@@ -27913,6 +27914,7 @@ awesome-deepseek-harness/
 - [dsh-werewolf](https://github.com/AdenChenCoder/dsh-werewolf)  — AI-powered Werewolf game plugin for the DeepSeek Harness Web UI（✅ 活跃）
 - [dsh-word-docs](https://github.com/Ei-Ayw/dsh-word-docs)  — DeepSeek Harness 的 Word 文档工具：纯 Python 标准库实现，生成、编辑、提取、统计并转换 .docx，零依赖，注册 word_docs 工具与 word-docs 技能。（✅ 活跃）
 - [dsh-workbench](https://github.com/cupen/dsh-workbench)  — Oh, come on! Get the shit done.（✅ 活跃）
+- [dsh-workboard](https://github.com/lukeinx/dsh-workboard)  — DeepSeek Harness 模块化工作台页面：内置 34 个 widget（会话与后台任务、待办、ICS 日历、天气、热榜、RSS 订阅、行情、系统监控），并可让 Agent 按描述生成沙箱隔离的自定义 widget。（✅ 活跃）
 - [dsh-wps](https://github.com/zhengjy01/dsh-wps)  — WPS / 金山文档云文档集成插件：官方 SkillHub MCP，自定义浏览器授权，云盘操作 + 文字/表格/演示/PDF 内容读写，工具以 mcp__wps__* 在会话中可用。（✅ 活跃）
 - [dsh-wsl-expose](https://github.com/jack-ranbo/dsh-wsl-expose)  — wsl下公网访问dsh的插件（✅ 活跃）
 - [dsh-zsxq](https://github.com/zhengjy01/dsh-zsxq)  — DeepSeek Harness 的知识星球（zsxq）集成：Cookie/扫码登录非官方 Web API，提供星球列表 / 主题列表 / 主题详情 / 搜索 / 发布 / 评论 / 点赞工具与 Web 设置面板。（✅ 活跃）

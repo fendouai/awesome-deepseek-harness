@@ -60358,22 +60358,6 @@
     "license": "MIT"
   },
   {
-    "id": "dsh-maestro-sync",
-    "name": "dsh-maestro-sync",
-    "type": "plugin",
-    "category": "memory",
-    "repository": "https://github.com/ddtcorex/dsh-maestro-sync",
-    "description": "Maestro harness sync — merge memories and sessions across machines (publishable)",
-    "description_zh": "Maestro harness sync — merge memories and sessions across machines (publishable)",
-    "capabilities": [
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 3,
-    "license": "MIT"
-  },
-  {
     "id": "dsh-sidebar-explorer-plus",
     "name": "dsh-sidebar-Explorer-Plus",
     "type": "plugin",

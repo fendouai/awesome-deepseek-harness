@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（10949 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（10948 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-## 完整列表（10949）
+## 完整列表（10948）
 
 
 **视觉与多模态（3881）**
@@ -9630,9 +9630,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-computer-use-windows](resources/dsh-computer-use-windows-1.md) | ⭐1 | Windows Computer Use tools for DeepSeek Harness: self-contained UIA native helper, occlusion-aware screenshots, safety-gated input | ✅ 活跃 |
 | [dsh-llm-kimi](resources/dsh-llm-kimi.md) | ⭐1 | Kimi (Moonshot AI) LLM adapter plugin for DeepSeek Harness — three routes: kimi-code (Kimi Code subscription), kimi-cn, kimi-global. Streaming, thinking mode, tool calling, image input, plus a built-in Kimi settings page. | ✅ 活跃 |
 
-**记忆与上下文（1072）**
+**记忆与上下文（1071）**
 
-*其他（833）*
+*其他（832）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -9825,7 +9825,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-jev-thinkout](resources/dsh-jev-thinkout.md) | ⭐3 | JeV 思维链外显：将 DeepSeek 长思考中的任务规划、执行进度与阶段小结呈现为聊天正文，支持 DSH 原生翻译、轻量摘要和父子任务流程图，保持主模型上下文不变。 | ✅ 活跃 |
 | [dsh-linghun](resources/dsh-linghun.md) | ⭐3 | 灵魂（Linghun）— 给 DeepSeek Harness 装一个会思考的自我：认知循环 + 海马体三层记忆（序时账/情景归档/低置信降权遗忘）+ A2A 记忆管理团队联动。收口者身份锚点 + 边界判断纪律。 | ✅ 活跃 |
 | [dsh-local-vector-memory](resources/dsh-local-vector-memory.md) | ⭐3 | Fully local vector memory plugin for DeepSeek Harness: local embeddings, SQLite storage, automatic recall injection, dedup with conflict detection, soft-delete recycle bin, online backup. | ✅ 活跃 |
-| [dsh-maestro-sync](resources/dsh-maestro-sync.md) | ⭐3 | Maestro harness sync — merge memories and sessions across machines (publishable) | ✅ 活跃 |
 | [dsh-mem0-plugin](resources/dsh-mem0-plugin.md) | ⭐3 | mem0 long-term memory for DeepSeek Harness — in-process TypeScript SDK, no Python sidecar, Elasticsearch 8 + pluggable embeddings. | ✅ 活跃 |
 | [dsh-memo](resources/dsh-memo.md) | ⭐3 | 给 DSH 加一组按需查备忘录的工具：目录 / 按节 / 全文搜索 / 项目卡 / 速查 / 精简，一次几百 token 就能查到事实，不用把整份 MEMO.md 读进上下文；附带分类面板与三维书架动画。 | ✅ 活跃 |
 | [dsh-memory](resources/dsh-memory-18.md) | ⭐3 | Two-layer long-term memory for DeepSeek Harness (DSH): global + per-project markdown, live re-read, zero extra LLM cost, with a Settings panel. 给 DSH 的两层长期记忆。 | ✅ 活跃 |

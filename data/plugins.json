@@ -77863,33 +77863,6 @@
     "subcategory": "vision-tools"
   },
   {
-    "id": "dsh-community-installer",
-    "name": "dsh-community-installer",
-    "type": "plugin",
-    "category": "vision",
-    "repository": "https://github.com/openrect/dsh-community-installer",
-    "description": "Clean Windows installer and auto-update companion for DeepSeek Harness (DSH), with lightweight online and offline setups.",
-    "description_zh": "Clean Windows installer and auto-update companion for DeepSeek Harness (DSH), with lightweight online and offline setups.",
-    "capabilities": [
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2,
-    "_license": "MIT",
-    "_topics": [
-      "automatic-updates",
-      "community",
-      "deepseek",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin",
-      "installer",
-      "nodejs"
-    ],
-    "subcategory": "vision-tools"
-  },
-  {
     "id": "dsh-updater",
     "name": "dsh-updater",
     "type": "plugin",
@@ -78016,24 +77989,6 @@
     "subcategory": "vision-tools"
   },
   {
-    "id": "dsh-plugin-quarantine",
-    "name": "dsh-plugin-quarantine",
-    "type": "plugin",
-    "category": "vision",
-    "repository": "https://github.com/supengpeng/dsh-plugin-quarantine",
-    "description": "Crash isolation and safe-boot supervisor for DeepSeek Harness plugins",
-    "description_zh": "Crash isolation and safe-boot supervisor for DeepSeek Harness plugins",
-    "capabilities": [
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2,
-    "_license": null,
-    "_topics": [],
-    "subcategory": "vision-tools"
-  },
-  {
     "id": "dsh-timed-goal",
     "name": "dsh-timed-goal",
     "type": "plugin",
@@ -78055,28 +78010,6 @@
       "timed-goal"
     ],
     "subcategory": "web-search"
-  },
-  {
-    "id": "dsh-plus",
-    "name": "dsh-plus",
-    "type": "plugin",
-    "category": "vision",
-    "repository": "https://github.com/A-G-guy/dsh-plus",
-    "description": "DSH+ —— DeepSeek Harness 自定义插件 monorepo：移动端窄屏适配 / 任务结束邮件通知 / 子代理独立模型 / 自定义 LLM 路由 / ......",
-    "description_zh": "DSH+ —— DeepSeek Harness 自定义插件 monorepo：移动端窄屏适配 / 任务结束邮件通知 / 子代理独立模型 / 自定义 LLM 路由 / ......",
-    "capabilities": [
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2,
-    "_license": "MIT",
-    "_topics": [
-      "ai-agents",
-      "dsh",
-      "dsh-plugin"
-    ],
-    "subcategory": "vision-tools"
   },
   {
     "id": "dsh-fix-dsv4p0813-overfit",
@@ -78216,26 +78149,6 @@
       "navigation",
       "settings",
       "web-ui"
-    ]
-  },
-  {
-    "id": "dsh-settings-sections",
-    "name": "dsh-settings-sections",
-    "type": "plugin",
-    "category": "developer",
-    "repository": "https://github.com/ovo669/dsh-settings-sections",
-    "description": "设置的板块管理，避免插件太多",
-    "description_zh": "设置的板块管理，避免插件太多",
-    "capabilities": [
-      "coding"
-    ],
-    "status": "active",
-    "verified": false,
-    "stars": 2,
-    "_license": "MIT",
-    "_topics": [
-      "dsh-plugin",
-      "dsh-plugins"
     ]
   },
   {

@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-#### 完整列表（10948）
+#### 完整列表（10944）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn!（✅ 活跃）
@@ -4093,7 +4093,6 @@ dsh web
 - [dsh-command-palette](https://github.com/hajimixiaojie/dsh-command-palette) ⭐2 — 给 DeepSeek Harness（DSH）加一个「命令面板」,本插件的目标是在保留图形化界面的同时实现「去光标化」（✅ 活跃）
 - [dsh-commandcode-goat](https://github.com/Plocr/dsh-commandcode-goat) ⭐2 — DeepSeek Harness (dsh) plugin: publishes a Command Code subscription (GOAT / Pro / Max) as llm-pi-ai provider routes, with account usage and web search on the same credential.（✅ 活跃）
 - [dsh-community-hot](https://github.com/littleboylittlegirl/dsh-community-hot) ⭐2 — 24h 社区热门悬浮面板：热门话题 + 热门插件 TOP10（✅ 活跃）
-- [dsh-community-installer](https://github.com/openrect/dsh-community-installer) ⭐2 — Clean Windows installer and auto-update companion for DeepSeek Harness (DSH), with lightweight online and offline setups.（✅ 活跃）
 - [dsh-compact](https://github.com/zixin947/dsh-compact) ⭐2 — DeepSeek Harness 上下文自动压缩、手动压缩与溢出恢复插件（✅ 活跃）
 - [dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐2 — 压缩一体化插件：AgentCompactEngine 挂载 compaction 服务 + session_compact 工具原语（爱丽丝自主决策压缩）（✅ 活跃）
 - [dsh-compact-threshold](https://github.com/xlcg10086/dsh-compact-threshold) ⭐2 — Live context-compaction threshold control (20%-80%) for the DeepSeek Harness composer. | DSH ????????????????????（✅ 活跃）
@@ -4832,7 +4831,6 @@ dsh web
 - [dsh-plugin-promotenhance](https://github.com/EstimateFaster/dsh-plugin-promotenhance) ⭐2 — DSH side-panel prompt enhancer: clarify a rough prompt in a short Q&A, inspect the workspace read-only, and insert the finished prompt — without creating a session.（✅ 活跃）
 - [dsh-plugin-provider-badge](https://github.com/Robert-Wang-08/dsh-plugin-provider-badge) ⭐2 — DSH Web plugin: 4-letter provider badge rendered right before the composer model seat（✅ 活跃）
 - [dsh-plugin-qcc](https://github.com/Samge0/dsh-plugin-qcc) ⭐2 — Qichacha (企查查) company-data plugin for DeepSeek Harness — 5 agent tools + settings-page QR login. Unofficial, for personal study.（✅ 活跃）
-- [dsh-plugin-quarantine](https://github.com/supengpeng/dsh-plugin-quarantine) ⭐2 — Crash isolation and safe-boot supervisor for DeepSeek Harness plugins（✅ 活跃）
 - [dsh-plugin-quick-chat](https://github.com/enteguo/dsh-plugin-quick-chat) ⭐2 — deepseek plugin：quick chat（✅ 活跃）
 - [dsh-plugin-quick-draw-Tool-](https://github.com/Yinbenfeng/dsh-plugin-quick-draw-Tool-) ⭐2 — 使用comfyui本地给DSH建立快速的/免费的/强大的绘画能力。（✅ 活跃）
 - [dsh-plugin-quota-monitor](https://github.com/DoggyHU/dsh-plugin-quota-monitor) ⭐2 — DSH sidebar footer quota & balance monitor: DeepSeek Rage + OpenCode Go HP/MP/SP + SCNet (国家超算) Credits local estimate. 设置→插件管理可配置数据源与费率表。（✅ 活跃）
@@ -4898,7 +4896,6 @@ dsh web
 - [dsh-plugins-extra](https://github.com/vivekpal1/dsh-plugins-extra) ⭐2 — Community plugins, session importers, and cozy themes for DeepSeek Harness（✅ 活跃）
 - [dsh-plugins-plus](https://github.com/SparkElf/dsh-plugins-plus) ⭐2 — SparkElf-maintained independent plugins for DeepSeek Harness (dsh), installable on upstream dsh via profile composition bundles.（✅ 活跃）
 - [dsh-plugins-pm](https://github.com/FaithsCode/dsh-plugins-pm) ⭐2 — DeepSeek Harness 项目记忆插件：零 SQLite/零向量库/零服务端，两个 markdown 文件即全部状态；每步动态快照注入，压缩免疫；密钥拦截+热冷分离写入纪律；附原生 GUI 文档看板。检索式记忆插件记「聊过什么」，本套件记「项目现在怎样、为什么」。（✅ 活跃）
-- [dsh-plus](https://github.com/A-G-guy/dsh-plus) ⭐2 — DSH+ —— DeepSeek Harness 自定义插件 monorepo：移动端窄屏适配 / 任务结束邮件通知 / 子代理独立模型 / 自定义 LLM 路由 / ......（✅ 活跃）
 - [dsh-pm](https://github.com/mqhe2007/dsh-pm) ⭐2 — dsh-pm is the ChunSun × DeepSeek Harness reference plugin: an AI-native project-delivery loop driven by ChunSun. Requirements / Runs / Steps / acceptance scenarios & cases / work-memory, a session delivery panel, and 28 chunsun_* model tools — with the platform as the single source of truth. MIT.（✅ 活跃）
 - [dsh-pocket](https://github.com/daha1216/dsh-pocket) ⭐2 — 把 DeepSeek Harness 装进口袋：手机扫码同步操控电脑端 DSH（局域网/公网直连 + 移动端抽屉布局）（✅ 活跃）
 - [dsh-pocket-oauth](https://github.com/ds-hu/dsh-pocket-oauth) ⭐2 — 把 DeepSeek Harness 装进你的口袋：插件只开 3081 一个端口，用 Gitee OAuth 登录，隧道由你自己建（固定域名），手机即可远程实时同屏访问电脑上的 DSH。｜DSH Pocket: Gitee OAuth sign-in on a single port, bring your own tunnel.（✅ 活跃）
@@ -5116,7 +5113,6 @@ dsh web
 - [dsh-setting-manager](https://github.com/coderHeJiyu/dsh-setting-manager) ⭐2 — DSH 插件：右键设置页的分区导航，弹出勾选菜单，控制各设置分区的显示与隐藏。（✅ 活跃）
 - [dsh-settings-organizer](https://github.com/baihejiangnan/dsh-settings-organizer) ⭐2 — Customizable hierarchical DSH settings navigation organizer（✅ 活跃）
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) ⭐2 — ██████╗  ███████╗ ██╗  ██╗（✅ 活跃）
-- [dsh-settings-sections](https://github.com/ovo669/dsh-settings-sections) ⭐2 — 设置的板块管理，避免插件太多（✅ 活跃）
 - [dsh-share](https://github.com/zljr/dsh-share) ⭐2 — Share a DeepSeek Harness session over your LAN as a read-only, token-guarded snapshot.（✅ 活跃）
 - [dsh-shareone-plugin](https://github.com/sudoprivacy/dsh-shareone-plugin) ⭐2 — ShareOne tools for DeepSeek Harness（✅ 活跃）
 - [dsh-shortcuts](https://github.com/laoshi1991/dsh-shortcuts) ⭐2 — Quick prompt phrases plugin for DeepSeek Harness (dsh) web composer — rainbow keycap tags that fill the draft with one click（✅ 活跃）
@@ -17622,7 +17618,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-#### 完整列表（10948）
+#### 完整列表（10944）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn!（✅ 活跃）
@@ -21544,7 +21540,6 @@ awesome-deepseek-harness/
 - [dsh-command-palette](https://github.com/hajimixiaojie/dsh-command-palette) ⭐2 — 给 DeepSeek Harness（DSH）加一个「命令面板」,本插件的目标是在保留图形化界面的同时实现「去光标化」（✅ 活跃）
 - [dsh-commandcode-goat](https://github.com/Plocr/dsh-commandcode-goat) ⭐2 — DeepSeek Harness (dsh) plugin: publishes a Command Code subscription (GOAT / Pro / Max) as llm-pi-ai provider routes, with account usage and web search on the same credential.（✅ 活跃）
 - [dsh-community-hot](https://github.com/littleboylittlegirl/dsh-community-hot) ⭐2 — 24h 社区热门悬浮面板：热门话题 + 热门插件 TOP10（✅ 活跃）
-- [dsh-community-installer](https://github.com/openrect/dsh-community-installer) ⭐2 — Clean Windows installer and auto-update companion for DeepSeek Harness (DSH), with lightweight online and offline setups.（✅ 活跃）
 - [dsh-compact](https://github.com/zixin947/dsh-compact) ⭐2 — DeepSeek Harness 上下文自动压缩、手动压缩与溢出恢复插件（✅ 活跃）
 - [dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐2 — 压缩一体化插件：AgentCompactEngine 挂载 compaction 服务 + session_compact 工具原语（爱丽丝自主决策压缩）（✅ 活跃）
 - [dsh-compact-threshold](https://github.com/xlcg10086/dsh-compact-threshold) ⭐2 — Live context-compaction threshold control (20%-80%) for the DeepSeek Harness composer. | DSH ????????????????????（✅ 活跃）
@@ -22283,7 +22278,6 @@ awesome-deepseek-harness/
 - [dsh-plugin-promotenhance](https://github.com/EstimateFaster/dsh-plugin-promotenhance) ⭐2 — DSH side-panel prompt enhancer: clarify a rough prompt in a short Q&A, inspect the workspace read-only, and insert the finished prompt — without creating a session.（✅ 活跃）
 - [dsh-plugin-provider-badge](https://github.com/Robert-Wang-08/dsh-plugin-provider-badge) ⭐2 — DSH Web plugin: 4-letter provider badge rendered right before the composer model seat（✅ 活跃）
 - [dsh-plugin-qcc](https://github.com/Samge0/dsh-plugin-qcc) ⭐2 — Qichacha (企查查) company-data plugin for DeepSeek Harness — 5 agent tools + settings-page QR login. Unofficial, for personal study.（✅ 活跃）
-- [dsh-plugin-quarantine](https://github.com/supengpeng/dsh-plugin-quarantine) ⭐2 — Crash isolation and safe-boot supervisor for DeepSeek Harness plugins（✅ 活跃）
 - [dsh-plugin-quick-chat](https://github.com/enteguo/dsh-plugin-quick-chat) ⭐2 — deepseek plugin：quick chat（✅ 活跃）
 - [dsh-plugin-quick-draw-Tool-](https://github.com/Yinbenfeng/dsh-plugin-quick-draw-Tool-) ⭐2 — 使用comfyui本地给DSH建立快速的/免费的/强大的绘画能力。（✅ 活跃）
 - [dsh-plugin-quota-monitor](https://github.com/DoggyHU/dsh-plugin-quota-monitor) ⭐2 — DSH sidebar footer quota & balance monitor: DeepSeek Rage + OpenCode Go HP/MP/SP + SCNet (国家超算) Credits local estimate. 设置→插件管理可配置数据源与费率表。（✅ 活跃）
@@ -22349,7 +22343,6 @@ awesome-deepseek-harness/
 - [dsh-plugins-extra](https://github.com/vivekpal1/dsh-plugins-extra) ⭐2 — Community plugins, session importers, and cozy themes for DeepSeek Harness（✅ 活跃）
 - [dsh-plugins-plus](https://github.com/SparkElf/dsh-plugins-plus) ⭐2 — SparkElf-maintained independent plugins for DeepSeek Harness (dsh), installable on upstream dsh via profile composition bundles.（✅ 活跃）
 - [dsh-plugins-pm](https://github.com/FaithsCode/dsh-plugins-pm) ⭐2 — DeepSeek Harness 项目记忆插件：零 SQLite/零向量库/零服务端，两个 markdown 文件即全部状态；每步动态快照注入，压缩免疫；密钥拦截+热冷分离写入纪律；附原生 GUI 文档看板。检索式记忆插件记「聊过什么」，本套件记「项目现在怎样、为什么」。（✅ 活跃）
-- [dsh-plus](https://github.com/A-G-guy/dsh-plus) ⭐2 — DSH+ —— DeepSeek Harness 自定义插件 monorepo：移动端窄屏适配 / 任务结束邮件通知 / 子代理独立模型 / 自定义 LLM 路由 / ......（✅ 活跃）
 - [dsh-pm](https://github.com/mqhe2007/dsh-pm) ⭐2 — dsh-pm is the ChunSun × DeepSeek Harness reference plugin: an AI-native project-delivery loop driven by ChunSun. Requirements / Runs / Steps / acceptance scenarios & cases / work-memory, a session delivery panel, and 28 chunsun_* model tools — with the platform as the single source of truth. MIT.（✅ 活跃）
 - [dsh-pocket](https://github.com/daha1216/dsh-pocket) ⭐2 — 把 DeepSeek Harness 装进口袋：手机扫码同步操控电脑端 DSH（局域网/公网直连 + 移动端抽屉布局）（✅ 活跃）
 - [dsh-pocket-oauth](https://github.com/ds-hu/dsh-pocket-oauth) ⭐2 — 把 DeepSeek Harness 装进你的口袋：插件只开 3081 一个端口，用 Gitee OAuth 登录，隧道由你自己建（固定域名），手机即可远程实时同屏访问电脑上的 DSH。｜DSH Pocket: Gitee OAuth sign-in on a single port, bring your own tunnel.（✅ 活跃）
@@ -22567,7 +22560,6 @@ awesome-deepseek-harness/
 - [dsh-setting-manager](https://github.com/coderHeJiyu/dsh-setting-manager) ⭐2 — DSH 插件：右键设置页的分区导航，弹出勾选菜单，控制各设置分区的显示与隐藏。（✅ 活跃）
 - [dsh-settings-organizer](https://github.com/baihejiangnan/dsh-settings-organizer) ⭐2 — Customizable hierarchical DSH settings navigation organizer（✅ 活跃）
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) ⭐2 — ██████╗  ███████╗ ██╗  ██╗（✅ 活跃）
-- [dsh-settings-sections](https://github.com/ovo669/dsh-settings-sections) ⭐2 — 设置的板块管理，避免插件太多（✅ 活跃）
 - [dsh-share](https://github.com/zljr/dsh-share) ⭐2 — Share a DeepSeek Harness session over your LAN as a read-only, token-guarded snapshot.（✅ 活跃）
 - [dsh-shareone-plugin](https://github.com/sudoprivacy/dsh-shareone-plugin) ⭐2 — ShareOne tools for DeepSeek Harness（✅ 活跃）
 - [dsh-shortcuts](https://github.com/laoshi1991/dsh-shortcuts) ⭐2 — Quick prompt phrases plugin for DeepSeek Harness (dsh) web composer — rainbow keycap tags that fill the draft with one click（✅ 活跃）

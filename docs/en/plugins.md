@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 10948 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 10944 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-## Complete list (10948)
+## Complete list (10944)
 
 
-**Vision & multimodal (3881)**
+**Vision & multimodal (3878)**
 
 *Other (2858)*
 
@@ -2897,7 +2897,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [zeroclave-dsh-privacy](resources/zeroclave-dsh-privacy.md) | ⭐1 | Privacy firewall for DeepSeek Harness: detect and redact sensitive text before sending. | ✅ active |
 | [zhaoyu-restart](resources/zhaoyu-restart.md) | ⭐1 | One-click silent DSH restart button for DeepSeek Harness (dsh-plugin) | ✅ active |
 | [zhiji-DSH-Plugin](resources/zhiji-dsh-plugin.md) | ⭐1 | zhiji DSH Plugin：面向 DeepSeek Harness 的日志与复盘适配插件 | ✅ active |
-*👁️ Vision tools (1023)*
+*👁️ Vision tools (1020)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -3424,7 +3424,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-codex-app-server](resources/dsh-codex-app-server.md) | ⭐2 | DeepSeek Harness AgentFactory provider for the official Codex App Server | ✅ active |
 | [dsh-color](resources/dsh-color.md) | ⭐2 | Color toolbox for DeepSeek Harness (dsh): parse/convert any CSS color (hex, rgb, hsl, hwb, named), WCAG contrast ratios with AA/AAA verdicts, named-color lookup, harmonious palettes (7 types), and color adjustments — zero runtime dependencies, pure math | ✅ active |
 | [dsh-command-palette](resources/dsh-command-palette.md) | ⭐2 | 给 DeepSeek Harness（DSH）加一个「命令面板」,本插件的目标是在保留图形化界面的同时实现「去光标化」 | ✅ active |
-| [dsh-community-installer](resources/dsh-community-installer.md) | ⭐2 | Clean Windows installer and auto-update companion for DeepSeek Harness (DSH), with lightweight online and offline setups. | ✅ active |
 | [dsh-compaction-cacheaware](resources/dsh-compaction-cacheaware.md) | ⭐2 | Reasonix-style cache-aware compaction backend for DeepSeek Harness (DSH). Modular compact plugin with auto-sync from esengine/DeepSeek-Reasonix. | ✅ active |
 | [dsh-concurrency-meter](resources/dsh-concurrency-meter.md) | ⭐2 | Read-only model request concurrency monitoring for DeepSeek Harness | ✅ active |
 | [dsh-content-studio](resources/dsh-content-studio.md) | ⭐2 | DSH bundle plugin: screenshots, screen recording, Markdown→Xiaohongshu image cards, dev.to publishing, and human-in-the-loop review for DeepSeek Harness | ✅ active |
@@ -3522,13 +3521,11 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-plugin-pkgseek](resources/dsh-plugin-pkgseek.md) | ⭐2 | PkgSeek Linux package, command and CVE intelligence as native DeepSeek Harness (dsh) tools | ✅ active |
 | [dsh-plugin-project-management](resources/dsh-plugin-project-management.md) | ⭐2 | A DeepSeek Harness plugin that interviews the user about a project, generates a project timeline / Gantt chart, and exports it as Word or Excel. | ✅ active |
 | [dsh-plugin-qcc](resources/dsh-plugin-qcc.md) | ⭐2 | Qichacha (企查查) company-data plugin for DeepSeek Harness — 5 agent tools + settings-page QR login. Unofficial, for personal study. | ✅ active |
-| [dsh-plugin-quarantine](resources/dsh-plugin-quarantine.md) | ⭐2 | Crash isolation and safe-boot supervisor for DeepSeek Harness plugins | ✅ active |
 | [dsh-plugin-security-review](resources/dsh-plugin-security-review.md) | ⭐2 | DSH 动态 Cordis 插件安装安全审查守卫 (DeepSeek Harness plugin install security review gate, security-first) | ✅ active |
 | [dsh-plugins](resources/dsh-plugins-5.md) | ⭐2 | DeepSeek Harness (dsh) 官方 bundle 规范插件集合: dsh-vision 看图 + dsh-sensenova-image 生图 + dsh-client-stats-decimal 统计两位小数 | ✅ active |
 | [dsh-plugins](resources/dsh-plugins-7.md) | ⭐2 | A monorepo for composable DeepSeek Harness (DSH) plugins. | ✅ active |
 | [dsh-plugins](resources/dsh-plugins-8.md) | ⭐2 | Practical plugins for DeepSeek Harness: session archive, composer attachment upload, and a one-click steer button. | ✅ active |
 | [dsh-plugins-plus](resources/dsh-plugins-plus.md) | ⭐2 | SparkElf-maintained independent plugins for DeepSeek Harness (dsh), installable on upstream dsh via profile composition bundles. | ✅ active |
-| [dsh-plus](resources/dsh-plus.md) | ⭐2 | DSH+ —— DeepSeek Harness 自定义插件 monorepo：移动端窄屏适配 / 任务结束邮件通知 / 子代理独立模型 / 自定义 LLM 路由 / ...... | ✅ active |
 | [dsh-poison-guard](resources/dsh-poison-guard.md) | ⭐2 | Pre-install supply-chain poison scanner for DeepSeek Harness plugins: AST (JS-X-Ray) + deobfuscation + regex. Catches obfuscated exfiltration, eval, hidden shell commands. | ✅ active |
 | [dsh-project-file-explorer](resources/dsh-project-file-explorer.md) | ⭐2 | DeepSeek Harness 项目文件浏览器插件：右侧停靠文件树 + 一键预览（代码/文本/图片/音视频/PDF），新增工作区自动停靠，窄屏响应式抽屉 | ✅ active |
 | [dsh-prometheus](resources/dsh-prometheus.md) | ⭐2 | Privacy-conscious Prometheus metrics and Grafana dashboards for DeepSeek Harness | ✅ active |
@@ -6040,9 +6037,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ active |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**Developer tools (1988)**
+**Developer tools (1987)**
 
-*Other (1770)*
+*Other (1769)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -6710,7 +6707,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-setting-manager](resources/dsh-setting-manager.md) | ⭐2 | DSH 插件：右键设置页的分区导航，弹出勾选菜单，控制各设置分区的显示与隐藏。 | ✅ active |
 | [dsh-settings-organizer](resources/dsh-settings-organizer.md) | ⭐2 | Customizable hierarchical DSH settings navigation organizer | ✅ active |
 | [dsh-settings-plus](resources/dsh-settings-plus.md) | ⭐2 | ██████╗  ███████╗ ██╗  ██╗ | ✅ active |
-| [dsh-settings-sections](resources/dsh-settings-sections.md) | ⭐2 | 设置的板块管理，避免插件太多 | ✅ active |
 | [dsh-side-chat-plus-plus](resources/dsh-side-chat-plus-plus.md) | ⭐2 | Codex 式多标签侧聊增强 - dsh-side-chat 破坏式 fork(多标签+整条消息引用+去 More details) | ✅ active |
 | [dsh-side-session](resources/dsh-side-session.md) | ⭐2 | DSH side-chat (旁会话) plugin: launch a fresh continuable parallel session from the conversation header while the main session keeps running. | ✅ active |
 | [dsh-siyuan-note](resources/dsh-siyuan-note.md) | ⭐2 | integrate SiYuan Note as a DSH knowledge base | ✅ active |

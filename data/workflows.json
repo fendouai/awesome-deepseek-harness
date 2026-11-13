@@ -5636,6 +5636,24 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-minimax-api",
+    "name": "dsh-minimax-api",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/NingYuanLee/dsh-minimax-api",
+    "description": "Native MiniMax for DeepSeek Harness: chat with a subscription (Coding Plan) key or a pay-as-you-go API key, plus image, video, speech and music generation over the official MiniMax API.",
+    "description_zh": "Native MiniMax for DeepSeek Harness: chat with a subscription (Coding Plan) key or a pay-as-you-go API key, plus image, video, speech and music generation over the official MiniMax API.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-governance",
     "name": "dsh-governance",
     "type": "workflow",
@@ -10163,6 +10181,55 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-cron-scheduler",
+    "name": "dsh-cron-scheduler",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Mappedinfo/dsh-cron-scheduler",
+    "description": "DSH 系统级 cron 定时任务插件:规则存为 Cron 表达式,由用户 crontab 在进程外执行 headless 任务,Web 端管理规则与运行结果",
+    "description_zh": "DSH 系统级 cron 定时任务插件:规则存为 Cron 表达式,由用户 crontab 在进程外执行 headless 任务,Web 端管理规则与运行结果",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-context-studio",
+    "name": "dsh-plugin-context-studio",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/h958661134/dsh-plugin-context-studio",
+    "description": "Context Studio for DeepSeek Harness: start from sessions to see which ones form a chain and which are independent, which memories (instructions, skills) each session loaded and whether they are stale; then clean, transplant across projects and compose a starting context for a new session.",
+    "description_zh": "Context Studio for DeepSeek Harness: start from sessions to see which ones form a chain and which are independent, which memories (instructions, skills) each session loaded and whether they are stale; then clean, transplant across projects and compose a starting context for a new session.",
+    "capabilities": [
+      "coding",
+      "context",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-rpa-center",
+    "name": "dsh-plugin-rpa-center",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/108943962/dsh-plugin-rpa-center",
+    "description": "RPA 中心（DSH 插件）：拼多多推广/订单/财务/账户余额等日常自动化的统一入口，作业 × 店铺",
+    "description_zh": "RPA 中心（DSH 插件）：拼多多推广/订单/财务/账户余额等日常自动化的统一入口，作业 × 店铺",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "dsh-plugin-skill",

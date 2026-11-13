@@ -8729,6 +8729,38 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-incremental",
+    "name": "dsh-incremental",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/hg1048596-pixel/dsh-incremental",
+    "description": "DeepSeek Harness 的只读 AI 增量代码审查插件：复用审查结果，仅重跑受变更影响的任务。 | Read-only incremental AI code review for DeepSeek Harness. Reuse results and rerun only tasks affected by changes.",
+    "description_zh": "DeepSeek Harness 的只读 AI 增量代码审查插件：复用审查结果，仅重跑受变更影响的任务。 | Read-only incremental AI code review for DeepSeek Harness. Reuse results and rerun only tasks affected by changes.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-frontend-review",
+    "name": "dsh-frontend-review",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/1120370331/dsh-frontend-review",
+    "description": "Frontend review canvas plugin + Skill for DeepSeek Harness: pin fixed page versions, annotate visually, and route feedback back into the bound conversation.",
+    "description_zh": "Frontend review canvas plugin + Skill for DeepSeek Harness: pin fixed page versions, annotate visually, and route feedback back into the bound conversation.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "mattpocock-skills-dsh-zh",
     "name": "mattpocock-skills-dsh-zh",
     "type": "skill",
@@ -15661,6 +15693,202 @@
     "capabilities": [
       "coding",
       "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-windows-guard",
+    "name": "dsh-plugin-windows-guard",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Pasumao/dsh-plugin-windows-guard",
+    "description": "DeepSeek Harness (dsh) Windows 环境防坑插件：防坑 skill + 三层主动防护（乱码检测提示 / 危险写拦截 / 编码诊断修复工具）。Windows guard plugin for DeepSeek Harness (dsh).",
+    "description_zh": "DeepSeek Harness (dsh) Windows 环境防坑插件：防坑 skill + 三层主动防护（乱码检测提示 / 危险写拦截 / 编码诊断修复工具）。Windows guard plugin for DeepSeek Harness (dsh).",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ponytail-7",
+    "name": "dsh-ponytail",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/maci0/dsh-ponytail",
+    "description": "Ponytail (lazy senior dev mode) for DeepSeek Harness: six skills, an always-on anti-over-engineering ruleset, and a Plugin configuration card.",
+    "description_zh": "Ponytail (lazy senior dev mode) for DeepSeek Harness: six skills, an always-on anti-over-engineering ruleset, and a Plugin configuration card.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-config-sync-1",
+    "name": "dsh-config-sync",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/bxzfxl/dsh-config-sync",
+    "description": "DSH multi-device config sync plugin: Git-based capture/apply of profiles, plugin manifests and skills",
+    "description_zh": "DSH multi-device config sync plugin: Git-based capture/apply of profiles, plugin manifests and skills",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-taskbearing",
+    "name": "dsh-taskbearing",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/wangshouyong/dsh-taskbearing",
+    "description": "在长对话里，AI 从来不缺上下文，缺上下文的是你。” 这是一个为 开发者打造的 DSH 插件。它不做发号施令的老板，只做你的 AI 任务外脑与方向仪表盘。",
+    "description_zh": "在长对话里，AI 从来不缺上下文，缺上下文的是你。” 这是一个为 开发者打造的 DSH 插件。它不做发号施令的老板，只做你的 AI 任务外脑与方向仪表盘。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "vizreport",
+    "name": "vizreport",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/MagicalYuYu/vizreport",
+    "description": "Rich interactive HTML reports for everyone. One file. Zero dependencies. Claude Code skill.",
+    "description_zh": "Rich interactive HTML reports for everyone. One file. Zero dependencies. Claude Code skill.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workbench-14",
+    "name": "dsh-workbench",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/ityyq777/dsh-workbench",
+    "description": "Personal Workbench for DeepSeek Harness: local-first tasks, tags and sites plugins",
+    "description_zh": "Personal Workbench for DeepSeek Harness: local-first tasks, tags and sites plugins",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ppt-studio-2",
+    "name": "dsh-ppt-studio",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Anon1009/dsh-ppt-studio",
+    "description": "DeepSeek Harness (dsh) 一站式 PPT 创作与美化插件包：内置设计规范 Skill、6 套主题色板、0–100 审美体检与一键美化、300 DPI 图表与图示生成。",
+    "description_zh": "DeepSeek Harness (dsh) 一站式 PPT 创作与美化插件包：内置设计规范 Skill、6 套主题色板、0–100 审美体检与一键美化、300 DPI 图表与图示生成。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "scenes-skill-creator",
+    "name": "scenes-skill-creator",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/huaweicloudskill/scenes-skill-creator",
+    "description": "在 DeepSeek Harness 的 Web 界面里，用一套完整面板创建技能：填写需求 → 调用官方 creator → 实时查看阶段 / 日志 → 10 分制评测 → 未达标打回修复，直到达标或用完轮数。",
+    "description_zh": "在 DeepSeek Harness 的 Web 界面里，用一套完整面板创建技能：填写需求 → 调用官方 creator → 实时查看阶段 / 日志 → 10 分制评测 → 未达标打回修复，直到达标或用完轮数。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-project-console",
+    "name": "dsh-project-console",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/revive123456/dsh-project-console",
+    "description": "A multi-task workbench for Deepseek Harness - isolated worktrees, agent sessions, evidence-backend acceptance and human-confirmed integration",
+    "description_zh": "A multi-task workbench for Deepseek Harness - isolated worktrees, agent sessions, evidence-backend acceptance and human-confirmed integration",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-project-development",
+    "name": "dsh-project-development",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/wsqept/dsh-project-development",
+    "description": "Risk-adaptive development coordination skill for DeepSeek Harness: choose the smallest sufficient process for each change.",
+    "description_zh": "Risk-adaptive development coordination skill for DeepSeek Harness: choose the smallest sufficient process for each change.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tool-hub",
+    "name": "dsh-tool-hub",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/FenrirCait/dsh-tool-hub",
+    "description": "One panel for the plugins and skills a DSH installation runs: per-row switches, groups, presets, rule-based auto grouping.",
+    "description_zh": "One panel for the plugins and skills a DSH installation runs: per-row switches, groups, presets, rule-based auto grouping.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-groups",
+    "name": "dsh-task-groups",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/spike237/dsh-task-groups",
+    "description": "Task groups and an activity bell for the DeepSeek Harness sidebar",
+    "description_zh": "Task groups and an activity bell for the DeepSeek Harness sidebar",
+    "capabilities": [
+      "coding",
+      "ui"
     ],
     "status": "active",
     "verified": false,

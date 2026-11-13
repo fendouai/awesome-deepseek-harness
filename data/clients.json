@@ -3623,6 +3623,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-codex-model-effort-selector",
+    "name": "dsh-codex-model-effort-selector",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ABING1111/dsh-codex-model-effort-selector",
+    "description": "Codex desktop style model + reasoning-effort selector for DeepSeek Harness",
+    "description_zh": "Codex desktop style model + reasoning-effort selector for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 22,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-mobile-4",
     "name": "dsh-mobile",
     "type": "client",
@@ -6309,6 +6326,23 @@
     "verified": false,
     "stars": 8,
     "license": "MIT"
+  },
+  {
+    "id": "finsafe",
+    "name": "finsafe",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/finogeeks/finsafe",
+    "description": "Process level sandbox for any AI agents. Act as lightweight security guard and privacy protector for desktops",
+    "description_zh": "Process level sandbox for any AI agents. Act as lightweight security guard and privacy protector for desktops",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 8
   },
   {
     "id": "gxinxing-tui",
@@ -16504,6 +16538,23 @@
     "verified": false,
     "stars": 2,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-go-plugin-adb",
+    "name": "dsh-go-plugin-adb",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/JMINN0/dsh-go-plugin-adb",
+    "description": "安卓手机上的 adb 插件：在手机内部给自己开一个 adb shell，无需 root、无需电脑，关 WiFi 也能用。AI 助手用它可以装 App、看日志、截图、执行 shell 命令。 / Android adb plugin that gives an AI agent a real adb shell from inside the phone — no root, no PC.",
+    "description_zh": "安卓手机上的 adb 插件：在手机内部给自己开一个 adb shell，无需 root、无需电脑，关 WiFi 也能用。AI 助手用它可以装 App、看日志、截图、执行 shell 命令。 / Android adb plugin that gives an AI agent a real adb shell from inside the phone — no root, no PC.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
   },
   {
     "id": "dsh-desktop-app",
@@ -28335,6 +28386,194 @@
     "capabilities": [
       "coding",
       "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-acrylic-light",
+    "name": "dsh-acrylic-light",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/YSDLNGF/dsh-acrylic-light",
+    "description": "DeepSeek Harness desktop: Windows Acrylic material + layered frosted panels",
+    "description_zh": "DeepSeek Harness desktop: Windows Acrylic material + layered frosted panels",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-deepseek-companion",
+    "name": "dsh-deepseek-companion",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/mycherish/dsh-deepseek-companion",
+    "description": "DeepSeek 网页伴侣插件：在 DSH Web 中使用自己的 DeepSeek 账号，支持流式聊天、深度思考、搜索、图片与历史会话，以及 Dock / Float / Pop-out 三窗口。适用于 macOS，暂不支持 Desktop。",
+    "description_zh": "DeepSeek 网页伴侣插件：在 DSH Web 中使用自己的 DeepSeek 账号，支持流式聊天、深度思考、搜索、图片与历史会话，以及 Dock / Float / Pop-out 三窗口。适用于 macOS，暂不支持 Desktop。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-paper-deepread",
+    "name": "DSH-Paper-DeepRead",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/HaoKuo/DSH-Paper-DeepRead",
+    "description": "DSH-Paper-DeepRead — DeepSeek Harness (dsh) plugin: bundle the 文献精读库 paper library + paper-deepread-html deep-read skill. Browse reports, upload PDFs to a managed library, let an agent deep-read them, then manage/rebuild the library in a sidebar panel. | 文献精读库与精读技能打包成 dsh 插件：浏览报告、上传 PDF、由 Agent 精读成稿、管理书库。",
+    "description_zh": "DSH-Paper-DeepRead — DeepSeek Harness (dsh) plugin: bundle the 文献精读库 paper library + paper-deepread-html deep-read skill. Browse reports, upload PDFs to a managed library, let an agent deep-read them, then manage/rebuild the library in a sidebar panel. | 文献精读库与精读技能打包成 dsh 插件：浏览报告、上传 PDF、由 Agent 精读成稿、管理书库。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-purge-fixed",
+    "name": "dsh-purge-fixed",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/usi112/dsh-purge-fixed",
+    "description": "dsh-purge 1.1.75+upstream.1.1.71 — 基于上游 dsh-purge 1.1.71（作者 小杨，MIT）的修复分支，专为 DSH Go 手机版（Android + proot）适配：84 条补丁，能按 7 种状态看、能整批回滚、每条写明原因和怎么处理；另有两个 dsh-go 原生界面插件。 Fixed fork of dsh-purge 1.1.71 for DSH Go.",
+    "description_zh": "dsh-purge 1.1.75+upstream.1.1.71 — 基于上游 dsh-purge 1.1.71（作者 小杨，MIT）的修复分支，专为 DSH Go 手机版（Android + proot）适配：84 条补丁，能按 7 种状态看、能整批回滚、每条写明原因和怎么处理；另有两个 dsh-go 原生界面插件。 Fixed fork of dsh-purge 1.1.71 for DSH Go.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dshweb",
+    "name": "dshweb",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/zwkit/dshweb",
+    "description": "DSH remote web access plugin — open the DeepSeek Harness desktop UI from a phone/tablet browser over LAN.",
+    "description_zh": "DSH remote web access plugin — open the DeepSeek Harness desktop UI from a phone/tablet browser over LAN.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "see-on-phone",
+    "name": "see-on-phone",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/SAOS-3624/see-on-phone",
+    "description": "鱼眼 / See on Phone —— 让 AI 住进手机：在手机上直接和模型聊天，需要时用自己的摄像头看世界（取帧 → 挑帧 → 拼宫格）。导盲只是其中一个可选读者。An Android app + a DSH plugin that let an agent chat on the phone and see the real world. Blind navigation is one optional mode, not the product.",
+    "description_zh": "鱼眼 / See on Phone —— 让 AI 住进手机：在手机上直接和模型聊天，需要时用自己的摄像头看世界（取帧 → 挑帧 → 拼宫格）。导盲只是其中一个可选读者。An Android app + a DSH plugin that let an agent chat on the phone and see the real world. Blind navigation is one optional mode, not the product.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-familiar-dsweb",
+    "name": "dsh-familiar-dsweb",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Corangam/dsh-familiar-dsweb",
+    "description": "DSH 桌面端的悬浮小助手：可拖拽悬浮窗内嵌 DeepSeek 网页版，跟随宿主深浅主题，水波外框 + 上浮气泡。A floating companion for DSH Desktop.",
+    "description_zh": "DSH 桌面端的悬浮小助手：可拖拽悬浮窗内嵌 DeepSeek 网页版，跟随宿主深浅主题，水波外框 + 上浮气泡。A floating companion for DSH Desktop.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-next-multi-launcher",
+    "name": "dsh-next-multi-launcher",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/xinspark/dsh-next-multi-launcher",
+    "description": "DSH-NEXT 应用多开启动器：同一份 DSH-NEXT 跑多个隔离实例（Tauri 2 + Svelte 5）",
+    "description_zh": "DSH-NEXT 应用多开启动器：同一份 DSH-NEXT 跑多个隔离实例（Tauri 2 + Svelte 5）",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chat-modes",
+    "name": "dsh-chat-modes",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/TongenShen/dsh-chat-modes",
+    "description": "把 Chat / Extreme Chat 两个聊天模式打包成一个插件，设置页可逐个开关。 Bundles two DeepSeek Harness chat presets, Chat and Extreme Chat, with a per-mode switch.",
+    "description_zh": "把 Chat / Extreme Chat 两个聊天模式打包成一个插件，设置页可逐个开关。 Bundles two DeepSeek Harness chat presets, Chat and Extreme Chat, with a per-mode switch.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pack-and-go",
+    "name": "dsh-pack-and-go",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/VermilionPasvikin/dsh-pack-and-go",
+    "description": "打包就走。 把 DSH 的「对话 + 工作区」装进一个 .dshpack 文件，换台电脑（或换个平台）继续用。",
+    "description_zh": "打包就走。 把 DSH 的「对话 + 工作区」装进一个 .dshpack 文件，换台电脑（或换个平台）继续用。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-restart-foot",
+    "name": "dsh-restart-foot",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/1207291706/dsh-restart-foot",
+    "description": "Restart button at the DSH sidebar foot, just above the account entry: two clicks stop the desktop app and bring it back, with no console window.",
+    "description_zh": "Restart button at the DSH sidebar foot, just above the account entry: two clicks stop the desktop app and bring it back, with no console window.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
     ],
     "status": "active",
     "verified": false,

@@ -6794,6 +6794,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-recursive-best-of-n",
+    "name": "dsh-recursive-best-of-n",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/xiong4huo/dsh-recursive-best-of-n",
+    "description": "DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。",
+    "description_zh": "DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-evolve",
     "name": "dsh-skill-evolve",
     "type": "agent",

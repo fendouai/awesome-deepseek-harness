@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "Top 10 and full list of 376 curated agents & multi-agent for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 377 curated agents & multi-agent for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ active |
 | 10 | [dsh-liketavern](resources/dsh-liketavern.md) | ⭐111 | A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime. | ✅ active |
 
-## Complete list (376)
+## Complete list (377)
 
 
-**Multi-agent (373)**
+**Multi-agent (374)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -323,6 +323,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-preset-flash-director](resources/dsh-preset-flash-director.md) | ⭐1 | Flash 主控 · Pro 专家 — DeepSeek Harness agent preset: flash orchestrator + pro (deepseek-v4-pro) expert subagents with enforced delegation budget. 省 token 的 flash 主控 + pro 专家模式预设。 | ✅ active |
 | [dsh-prime-orchestrator](resources/dsh-prime-orchestrator.md) | ⭐1 | Prime Agent orchestration for DeepSeek Harness (dsh): delegation engine, prime_agent tool, Web fleet column, settings section, and the prime-orchestrator agent preset — one installable plugin package | ✅ active |
 | [dsh-qoder-cn-subagent](resources/dsh-qoder-cn-subagent.md) | ⭐1 | 把 Qoder CN 注册为 DeepSeek Harness 的子智能体后端：复用原生登录与设置，一次委派一个任务。 | ✅ active |
+| [dsh-recursive-best-of-n](resources/dsh-recursive-best-of-n.md) | ⭐1 | DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。 | ✅ active |
 | [dsh-remote-subagent](resources/dsh-remote-subagent.md) | ⭐1 | DSH (DeepSeek Harness) remote subagent: dispatch tasks from a local session to a DSH running on another machine over SSH (dsh headless --json), stream its run events, and continue the same remote conversation | ✅ active |
 | [dsh-req-miner](resources/dsh-req-miner.md) | ⭐1 | Requirements-mining sidebar plugin for DeepSeek Harness: per-session interview window driven by a continuable subagent, one-click prompt return | ✅ active |
 | [dsh-researchcraft](resources/dsh-researchcraft.md) | ⭐1 | ResearchCraft as a DeepSeek Harness (DSH) profile plugin: research persona, scientific skills catalogue, living lab notebook, and specialist subagents. | ✅ active |

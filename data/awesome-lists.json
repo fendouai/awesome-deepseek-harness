@@ -1315,6 +1315,38 @@
     "license": "BSD-3-Clause"
   },
   {
+    "id": "dsh-cookie-cleaner",
+    "name": "dsh-cookie-cleaner",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/drscrewdriver/dsh-cookie-cleaner",
+    "description": "DSH plugin: reports the local dsh-auth-* entries left in the desktop client cookie store and ships a standalone command that purges them once the client is fully closed.",
+    "description_zh": "DSH plugin: reports the local dsh-auth-* entries left in the desktop client cookie store and ships a standalone command that purges them once the client is fully closed.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 14,
+    "license": "MIT"
+  },
+  {
+    "id": "ai-reverse-resources",
+    "name": "ai-reverse-resources",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/zhizhuodemao/ai-reverse-resources",
+    "description": "Plugin marketplace for AI-assisted reverse engineering across Codex and Claude Code.",
+    "description_zh": "Plugin marketplace for AI-assisted reverse engineering across Codex and Claude Code.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 14
+  },
+  {
     "id": "awesome-deepseek-harness-jiji262-1",
     "name": "awesome-deepseek-harness (jiji262)",
     "type": "awesome-list",
@@ -5649,6 +5681,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-skill-panel-2",
+    "name": "dsh-skill-panel",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Ztqing4Agents/dsh-skill-panel",
+    "description": "Skill panel for the DSH web GUI: built-in, local and market-installed skills in one list, each with an on/off switch.",
+    "description_zh": "Skill panel for the DSH web GUI: built-in, local and market-installed skills in one list, each with an on/off switch.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "BSD-3-Clause"
+  },
+  {
     "id": "awesome-dsh-plugins-oslook-1",
     "name": "awesome-dsh-plugins",
     "type": "awesome-list",
@@ -9621,6 +9670,76 @@
     "capabilities": [
       "coding",
       "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-labscript",
+    "name": "dsh-labscript",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/ycAlphi/dsh-labscript",
+    "description": "DeepSeek Harness plugin for labscript-suite: runmanager panel read/write, engage + wait, YAML fixed-operation protocols with postprocess write-back, panel snapshots/restore, hard limits, and per-shot HDF5 analysis.",
+    "description_zh": "DeepSeek Harness plugin for labscript-suite: runmanager panel read/write, engage + wait, YAML fixed-operation protocols with postprocess write-back, panel snapshots/restore, hard limits, and per-shot HDF5 analysis.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-control-plane",
+    "name": "dsh-agent-control-plane",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/yulongbai-nov/dsh-agent-control-plane",
+    "description": "External Agent control plane for DeepSeek Harness: persistent sidebar session tree, six task avatars, team model overrides, workflow map, local telemetry, plugin market — real-GUI E2E, zero-cost mock CI",
+    "description_zh": "External Agent control plane for DeepSeek Harness: persistent sidebar session tree, six task avatars, team model overrides, workflow map, local telemetry, plugin market — real-GUI E2E, zero-cost mock CI",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-market-seed",
+    "name": "dsh-market-seed",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/ldq0102261819/dsh-market-seed",
+    "description": "Seed DeepSeek Harness plugin-market index sources on startup, so the Discover tab can search and install community plugins right after install.",
+    "description_zh": "Seed DeepSeek Harness plugin-market index sources on startup, so the Discover tab can search and install community plugins right after install.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-recovery-memory",
+    "name": "dsh-recovery-memory",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/zilta-amaze/dsh-recovery-memory",
+    "description": "DeepSeek Harness plugin: pack a conversation into a 20-letter recovery code and restore its memory in a new conversation.",
+    "description_zh": "DeepSeek Harness plugin: pack a conversation into a 20-letter recovery code and restore its memory in a new conversation.",
+    "capabilities": [
+      "coding",
+      "memory"
     ],
     "status": "active",
     "verified": false,

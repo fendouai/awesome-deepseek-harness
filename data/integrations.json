@@ -7995,6 +7995,22 @@
     "license": "MIT"
   },
   {
+    "id": "looki-plugin",
+    "name": "looki-plugin",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/looki-ai/looki-plugin",
+    "description": "Looki MCP Plugin for AI assistants",
+    "description_zh": "Looki MCP Plugin for AI assistants",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5
+  },
+  {
     "id": "picgo-dsh-plugin",
     "name": "PicGo DSH Plugin",
     "type": "integration",
@@ -20848,6 +20864,40 @@
       "coding",
       "ui",
       "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-token-frugal-1",
+    "name": "dsh-token-frugal",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/Dreverie/dsh-token-frugal",
+    "description": "Cut the input-token cost of long DeepSeek Harness sessions: source-side tool-output compression on tools/post-execute plus per-agent tool-catalogue visibility, with a measurement script.",
+    "description_zh": "Cut the input-token cost of long DeepSeek Harness sessions: source-side tool-output compression on tools/post-execute plus per-agent tool-catalogue visibility, with a measurement script.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gpt-adapter",
+    "name": "dsh-gpt-adapter",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/oh-dsh-plugins/dsh-gpt-adapter",
+    "description": "DeepSeek Harness plugin for GPT models and Codex instructions, skills, plugin resources, and MCP configuration.",
+    "description_zh": "DeepSeek Harness plugin for GPT models and Codex instructions, skills, plugin resources, and MCP configuration.",
+    "capabilities": [
+      "coding",
+      "mcp"
     ],
     "status": "active",
     "verified": false,
@@ -36491,6 +36541,447 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-matlab-bridge",
+    "name": "dsh-matlab-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/rencl3/dsh-matlab-bridge",
+    "description": "DSH plugin + MATLAB daemon bridging AI and MATLAB R2025b via file IPC — 20 matlab_* tools for editor code and Simulink models. No COM, no network.基于文件 IPC 的 AI ↔ MATLAB R2025b 深度交互：读写编辑器代码、创建/修改/运行 Simulink 模型，无 COM、无网络。",
+    "description_zh": "DSH plugin + MATLAB daemon bridging AI and MATLAB R2025b via file IPC — 20 matlab_* tools for editor code and Simulink models. No COM, no network.基于文件 IPC 的 AI ↔ MATLAB R2025b 深度交互：读写编辑器代码、创建/修改/运行 Simulink 模型，无 COM、无网络。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "filens",
+    "name": "filens",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/orca-zhang/filens",
+    "description": "📄 Office / PDF / iWork / CAD / 3D / RAW / 360° 🔒 Browser-local preview & conversion 🤖 Agent CLI with OCR, structured text & layout extraction ⚡ Rust + WebAssembly 🧩 Vue 3 integration. Open-source, local-first. Your files, your device.",
+    "description_zh": "📄 Office / PDF / iWork / CAD / 3D / RAW / 360° 🔒 Browser-local preview & conversion 🤖 Agent CLI with OCR, structured text & layout extraction ⚡ Rust + WebAssembly 🧩 Vue 3 integration. Open-source, local-first. Your files, your device.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "multi-agent",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-blender-mcp-bridge",
+    "name": "dsh-blender-mcp-bridge",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/XuezuoYS/dsh-blender-mcp-bridge",
+    "description": "此项目是对 Deepseek Harness 开发的插件，旨在包装与桥接 Blender MCP Add-on，使 DSH 上的模型可便捷对接接入当前用户工作的 Blender 以辅助创作，且满足基础安全需要。",
+    "description_zh": "此项目是对 Deepseek Harness 开发的插件，旨在包装与桥接 Blender MCP Add-on，使 DSH 上的模型可便捷对接接入当前用户工作的 Blender 以辅助创作，且满足基础安全需要。",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "draw-io-gomcp",
+    "name": "draw-io-gomcp",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/aosfather/draw-io-gomcp",
+    "description": "the mcp server（stdio） for draw-io ，port from next-ai-draw-io",
+    "description_zh": "the mcp server（stdio） for draw-io ，port from next-ai-draw-io",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-dungeon-master",
+    "name": "dsh-dungeon-master",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/SuperChipper/dsh-dungeon-master",
+    "description": "QQ Bot IM channel and D&D 5e Dungeon Master plugin for DeepSeek Harness (dsh)",
+    "description_zh": "QQ Bot IM channel and D&D 5e Dungeon Master plugin for DeepSeek Harness (dsh)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chat-search-3",
+    "name": "dsh-chat-search",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/P-PPJ/dsh-chat-search",
+    "description": "Ctrl+F search inside the open conversation for DeepSeek Harness: in-text highlights, previous/next, a match list, a live count, no block opened, no reading position lost.",
+    "description_zh": "Ctrl+F search inside the open conversation for DeepSeek Harness: in-text highlights, previous/next, a match list, a live count, no block opened, no reading position lost.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mcp-manager-14",
+    "name": "dsh-mcp-manager",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/LimeBlogs/dsh-mcp-manager",
+    "description": "DeepSeek Harness MCP Manager",
+    "description_zh": "DeepSeek Harness MCP Manager",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "nyaterm-bridge",
+    "name": "nyaterm-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/visualcjy/nyaterm-bridge",
+    "description": "Run AI commands in real NyaTerm terminal sessions, with a per-workspace allowlist over NyaTerm groups and hosts.",
+    "description_zh": "Run AI commands in real NyaTerm terminal sessions, with a per-workspace allowlist over NyaTerm groups and hosts.",
+    "capabilities": [
+      "coding",
+      "terminal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mcp-switch",
+    "name": "dsh-mcp-switch",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/subeichen1/dsh-mcp-switch",
+    "description": "MCP panel for DSH: turn a whole server on or off, hide individual tools, and see how many context tokens each server's tool definitions use. Suggestions and feedback are welcome via Issues.",
+    "description_zh": "MCP panel for DSH: turn a whole server on or off, hide individual tools, and see how many context tokens each server's tool definitions use. Suggestions and feedback are welcome via Issues.",
+    "capabilities": [
+      "coding",
+      "context",
+      "mcp",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-hifleet-mcp",
+    "name": "dsh-hifleet-mcp",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/LiuHongXuMaritime/dsh-hifleet-mcp",
+    "description": "a dsh pulgin aim to get data from hifleet so as to do research >",
+    "description_zh": "a dsh pulgin aim to get data from hifleet so as to do research >",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-context-compression-panel",
+    "name": "dsh-context-compression-panel",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/Chen199545/dsh-context-compression-panel",
+    "description": "A DSH plugin, provide in-conversation panel to adjust context compaction threshold and retain ratio.",
+    "description_zh": "A DSH plugin, provide in-conversation panel to adjust context compaction threshold and retain ratio.",
+    "capabilities": [
+      "coding",
+      "context",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-persona-memory-2",
+    "name": "dsh-persona-memory",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/PaangGaaSam/dsh-persona-memory",
+    "description": "Daily cross-workspace session digest that grows a user profile and a companion personality, gated by evidence, and injects both into every prompt.",
+    "description_zh": "Daily cross-workspace session digest that grows a user profile and a companion personality, gated by evidence, and injects both into every prompt.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-a2ui-1",
+    "name": "dsh-a2ui",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/ChimeSky/dsh-a2ui",
+    "description": "Generative UI for DeepSeek Harness: renders Google A2UI 1.0 surfaces inside the conversation with an agent -> UI -> agent interaction loop.",
+    "description_zh": "Generative UI for DeepSeek Harness: renders Google A2UI 1.0 surfaces inside the conversation with an agent -> UI -> agent interaction loop.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-feishu-digest",
+    "name": "dsh-feishu-digest",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/subeichen1/dsh-feishu-digest",
+    "description": "DeepSeek Harness plugin: digest every finished turn into a Feishu (Lark) group message",
+    "description_zh": "DeepSeek Harness plugin: digest every finished turn into a Feishu (Lark) group message",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-selection-toolbar-1",
+    "name": "dsh-selection-toolbar",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/flyhye/dsh-selection-toolbar",
+    "description": "A floating text-selection toolbar for the DeepSeek Harness Web UI: quote a transcript selection into the composer as a numbered reference chip that expands on send, or fork the Session into a side conversation in the right sidebar.",
+    "description_zh": "A floating text-selection toolbar for the DeepSeek Harness Web UI: quote a transcript selection into the composer as a numbered reference chip that expands on send, or fork the Session into a side conversation in the right sidebar.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-super-agent-source-wechat",
+    "name": "dsh-super-agent-source-wechat",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/LeoAndJellyfish/dsh-super-agent-source-wechat",
+    "description": "DSH Super Agent series · Part 01. Read local WeChat history through WeFlow API v2 in DeepSeek Harness.",
+    "description_zh": "DSH Super Agent series · Part 01. Read local WeChat history through WeFlow API v2 in DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hosted-image",
+    "name": "dsh-hosted-image",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/AWMC-Codex/dsh-hosted-image",
+    "description": "DSH plugin: generate images inside the DeepSeek Harness chat window through a sub2api hosted-image Responses endpoint.",
+    "description_zh": "DSH plugin: generate images inside the DeepSeek Harness chat window through a sub2api hosted-image Responses endpoint.",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-process-narration",
+    "name": "dsh-process-narration",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/I-WANNASLEEP/dsh-process-narration",
+    "description": "DSH plugin: makes the agent narrate each step in plain words before it runs tools, and guards against plugins that collide with dsh-human-steps.",
+    "description_zh": "DSH plugin: makes the agent narrate each step in plain words before it runs tools, and guards against plugins that collide with dsh-human-steps.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-synced-tabs",
+    "name": "dsh-synced-tabs",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/mujiannan/dsh-synced-tabs",
+    "description": "Cross-device session tabs for the DeepSeek Harness (DSH) Web GUI: one shared set of open sessions across every device, with workspace grouping, status dots and a phone-first bottom bar.",
+    "description_zh": "Cross-device session tabs for the DeepSeek Harness (DSH) Web GUI: one shared set of open sessions across every device, with workspace grouping, status dots and a phone-first bottom bar.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wdx-git",
+    "name": "dsh-wdx-git",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/wdxtub/dsh-wdx-git",
+    "description": "Git inside your AI session: one sync button that fetches, pulls, or pushes; a default commit tab; AI-written commit messages for DeepSeek Harness.",
+    "description_zh": "Git inside your AI session: one sync button that fetches, pulls, or pushes; a default commit tab; AI-written commit messages for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "swnx-switch",
+    "name": "swnx-switch",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/27painter/swnx-switch",
+    "description": "SolidWorks (.sldprt) <-> Siemens NX (.prt) interoperability: AI-readable neutral CAD model + tolerance-verified conversion (Parasolid/STEP), CLI + MCP tools + DSH plugin.",
+    "description_zh": "SolidWorks (.sldprt) <-> Siemens NX (.prt) interoperability: AI-readable neutral CAD model + tolerance-verified conversion (Parasolid/STEP), CLI + MCP tools + DSH plugin.",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-telegram-style",
+    "name": "dsh-telegram-style",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/xmlans/dsh-telegram-style",
+    "description": "A telegram themes for deepseek harness.",
+    "description_zh": "A telegram themes for deepseek harness.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-skill-mcp-nexus",
+    "name": "dsh-skill-mcp-nexus",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/nyvaelefluffRuaRua/dsh-skill-mcp-nexus",
+    "description": "DSH 面板：在一个界面里统一管理 skill 与 MCP。全局/工作区/会话三层开关、别名备注、分组、悬停提示、自建 MCP 服务器。",
+    "description_zh": "DSH 面板：在一个界面里统一管理 skill 与 MCP。全局/工作区/会话三层开关、别名备注、分组、悬停提示、自建 MCP 服务器。",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-bottom-tabs",
+    "name": "dsh-bottom-tabs",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/bd233/dsh-bottom-tabs",
+    "description": "Browser-style session tab bar for the DSH Web UI · 窗口底部的浏览器风格会话标签栏",
+    "description_zh": "Browser-style session tab bar for the DSH Web UI · 窗口底部的浏览器风格会话标签栏",
+    "capabilities": [
+      "browser",
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-team-roles",
+    "name": "dsh-agent-team-roles",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/StarSpacePX/dsh-agent-team-roles",
+    "description": "DSH 插件：把 agent team 每个角色做成独立 preset，并在 Web GUI 里可视化管理角色能力（工具/技能/MCP/分组/loop/AGENTS.md）",
+    "description_zh": "DSH 插件：把 agent team 每个角色做成独立 preset，并在 Web GUI 里可视化管理角色能力（工具/技能/MCP/分组/loop/AGENTS.md）",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-bridge-4",
+    "name": "dsh-agent-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/wfz2006/dsh-agent-bridge",
+    "description": "DSH 插件：浏览本机 Agent 项目、记忆和 Skills，导入与导出交接。",
+    "description_zh": "DSH 插件：浏览本机 Agent 项目、记忆和 Skills，导入与导出交接。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "dsh-wechat-bridge-2",

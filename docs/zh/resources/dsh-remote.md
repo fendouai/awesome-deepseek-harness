@@ -1,6 +1,6 @@
 ---
 title: "dsh-remote"
-description: "远程工作区：SSH 连接远程主机，用 rw_pick_workspace/rw_read_file/rw_exec 等工具远程操作。"
+description: "DSH 的 SSH 远程工作区：多主机项目并行、文件浏览与编辑、递归搜索、终端、Git 差异，以及 Agent 远程编辑、构建与测试；可选 IDE 布局。"
 keywords: "dsh-remote, developer, plugin, automation, files, deepseek harness, dsh"
 ---
 # dsh-remote
@@ -16,7 +16,7 @@ keywords: "dsh-remote, developer, plugin, automation, files, deepseek harness, d
 
 ## 一句话介绍
 
-> 远程工作区：SSH 连接远程主机，用 rw_pick_workspace/rw_read_file/rw_exec 等工具远程操作。
+> DSH 的 SSH 远程工作区：多主机项目并行、文件浏览与编辑、递归搜索、终端、Git 差异，以及 Agent 远程编辑、构建与测试；可选 IDE 布局。
 
 ## 详细介绍
 

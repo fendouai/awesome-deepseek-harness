@@ -7822,7 +7822,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-open-in-vscode](resources/dsh-open-in-vscode.md) | ⭐53 | 从 Web GUI 直接在工作区中打开 VS Code 目录/文件。 | ✅ 活跃 |
 | [dsh-deepread](resources/dsh-deepread.md) | ⭐41 | Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs. | ✅ 活跃 |
 | [dsh-plugin-mineru](resources/dsh-plugin-mineru.md) | ⭐38 | 向模型暴露 MinerU 文档解析：PDF/图片/DOCX/PPTX/XLSX 转结构化 Markdown/JSON。 | ✅ 活跃 |
-| [dsh-remote](resources/dsh-remote.md) | ⭐31 | 远程工作区：SSH 连接远程主机，用 rw_pick_workspace/rw_read_file/rw_exec 等工具远程操作。 | ✅ 活跃 |
+| [dsh-remote](resources/dsh-remote.md) | ⭐31 | DSH 的 SSH 远程工作区：多主机项目并行、文件浏览与编辑、递归搜索、终端、Git 差异，以及 Agent 远程编辑、构建与测试；可选 IDE 布局。 | ✅ 活跃 |
 | [dsh-lorebookmd](resources/dsh-lorebookmd.md) | ⭐19 | DSH lorebook-driven fiction writer plugin: import Tavern/SillyTavern character cards & world books, save local Markdown settings, generate novel prose referencing the world. | ✅ 活跃 |
 | [dsh-evolve](resources/dsh-evolve.md) | ⭐12 | 自进化插件：agent 在 session 内随对话给自己长出/剪掉能力 —— evolve_add 热挂载持久化 cordis 插件（下一 step 工具即可见），evolve_remove 可逆卸载，重启自动恢复 | ✅ 活跃 |
 | [dsh-data-quality](resources/dsh-data-quality.md) | ⭐11 | 确定性数据画像、清洗与核验，提供 data_profile/data_clean/data_verify 工具。 | ✅ 活跃 |

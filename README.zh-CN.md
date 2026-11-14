@@ -584,7 +584,7 @@ dsh web
 - [deepseek-harness-digital-life](https://github.com/nefelibata5136-code/deepseek-harness-digital-life) ⭐31 — 基于 DeepSeek Harness 的多数字生命系统 | Multi Digital Life: native agents, independent life workers, durable communication and owner-bound private services.（✅ 活跃）
 - [deepseek-harness-shorekeeper-theme](https://github.com/SoliSpark/deepseek-harness-shorekeeper-theme) ⭐31 — 启动节奏对齐早期版本：影片速率 1.25、线稿约 2.1 秒画完、完整线稿停留约 0.95 秒；视频调色为 contrast(1.12) saturate(1.08) brightness(1)；环境光点随动画立即启动。（✅ 活跃）
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) ⭐31 — 记忆主权归用户的本地跨会话记忆：SQLite + 可人工编辑的 Markdown 镜像，autoDream 后台巩固。（✅ 活跃）
-- [dsh-remote](https://github.com/flymysql/dsh-remote) ⭐31 — 远程工作区：SSH 连接远程主机，用 rw_pick_workspace/rw_read_file/rw_exec 等工具远程操作。（✅ 活跃）
+- [dsh-remote](https://github.com/flymysql/dsh-remote) ⭐31 — DSH 的 SSH 远程工作区：多主机项目并行、文件浏览与编辑、递归搜索、终端、Git 差异，以及 Agent 远程编辑、构建与测试；可选 IDE 布局。（✅ 活跃）
 - [dsh-remote](https://github.com/Blank-not-black/dsh-Remote) ⭐31 — DSH Remote · 口袋里的 DSH 控制台 会话 · 审批 · 提问 · 文件传输，局域网 / Tailscale 直连 多服务器自动选优，聊天记录离线可看 带 Token 鉴权，数据只在你的设备之间流动 Sessions · approvals · questions · file transfer over LAN / Tailscale. Automatic fastest-server selection. Chat history available offline. Token-authenticated — your data flows only between your devices.（✅ 活跃）
 - [dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) ⭐31 — 深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。（✅ 活跃）
 - [minecraft-mod-dev](https://github.com/yan-mc/minecraft-mod-dev) ⭐31 — DeepSeek Harness plugin + Minecraft 1.20.1 Forge probe for agent-driven mod development, in-game testing and YAML test cards.（✅ 活跃）
@@ -18031,7 +18031,7 @@ awesome-deepseek-harness/
 - [deepseek-harness-digital-life](https://github.com/nefelibata5136-code/deepseek-harness-digital-life) ⭐31 — 基于 DeepSeek Harness 的多数字生命系统 | Multi Digital Life: native agents, independent life workers, durable communication and owner-bound private services.（✅ 活跃）
 - [deepseek-harness-shorekeeper-theme](https://github.com/SoliSpark/deepseek-harness-shorekeeper-theme) ⭐31 — 启动节奏对齐早期版本：影片速率 1.25、线稿约 2.1 秒画完、完整线稿停留约 0.95 秒；视频调色为 contrast(1.12) saturate(1.08) brightness(1)；环境光点随动画立即启动。（✅ 活跃）
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) ⭐31 — 记忆主权归用户的本地跨会话记忆：SQLite + 可人工编辑的 Markdown 镜像，autoDream 后台巩固。（✅ 活跃）
-- [dsh-remote](https://github.com/flymysql/dsh-remote) ⭐31 — 远程工作区：SSH 连接远程主机，用 rw_pick_workspace/rw_read_file/rw_exec 等工具远程操作。（✅ 活跃）
+- [dsh-remote](https://github.com/flymysql/dsh-remote) ⭐31 — DSH 的 SSH 远程工作区：多主机项目并行、文件浏览与编辑、递归搜索、终端、Git 差异，以及 Agent 远程编辑、构建与测试；可选 IDE 布局。（✅ 活跃）
 - [dsh-remote](https://github.com/Blank-not-black/dsh-Remote) ⭐31 — DSH Remote · 口袋里的 DSH 控制台 会话 · 审批 · 提问 · 文件传输，局域网 / Tailscale 直连 多服务器自动选优，聊天记录离线可看 带 Token 鉴权，数据只在你的设备之间流动 Sessions · approvals · questions · file transfer over LAN / Tailscale. Automatic fastest-server selection. Chat history available offline. Token-authenticated — your data flows only between your devices.（✅ 活跃）
 - [dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) ⭐31 — 深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。（✅ 活跃）
 - [minecraft-mod-dev](https://github.com/yan-mc/minecraft-mod-dev) ⭐31 — DeepSeek Harness plugin + Minecraft 1.20.1 Forge probe for agent-driven mod development, in-game testing and YAML test cards.（✅ 活跃）

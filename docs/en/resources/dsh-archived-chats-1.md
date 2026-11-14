@@ -5,12 +5,12 @@ keywords: "dsh-archived-chats, search, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-archived-chats
 
-> ⭐ **28** · ✅ active · plugin
+> ⭐ **30** · ✅ active · plugin
 
 | | | | |
 |---|---|---|---|
 | Type | plugin | Category | Search & research |
-| Stars | ⭐ 28 | Status | ✅ active |
+| Stars | ⭐ 30 | Status | ✅ active |
 | Author | [Ultroncn](https://github.com/Ultroncn) | Updated | — |
 
 ## One-liner

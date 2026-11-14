@@ -5,13 +5,13 @@ keywords: "Archive Management / 归档管理, ui, plugin, search, files, deepsee
 ---
 # Archive Management / 归档管理
 
-> ⭐ **29** · ✅ 活跃 · 插件
+> ⭐ **30** · ✅ 活跃 · 插件
 
 | | | | |
 |---|---|---|---|
 | 类型 | 插件 | 分类 | 界面与体验 |
-| 星数 | ⭐ 29 | 状态 | ✅ 活跃 |
-| 作者 | [Ultronen](https://github.com/Ultronen) | 更新时间 | — |
+| 星数 | ⭐ 30 | 状态 | ✅ 活跃 |
+| 作者 | [Ultroncn](https://github.com/Ultroncn) | 更新时间 | — |
 
 ## 一句话介绍
 
@@ -23,6 +23,6 @@ keywords: "Archive Management / 归档管理, ui, plugin, search, files, deepsee
 
 ## 🔗 链接
 
-- [GitHub 仓库](https://github.com/Ultronen/dsh-archived-chats)
-- [完整 README](https://github.com/Ultronen/dsh-archived-chats#readme)
+- [GitHub 仓库](https://github.com/Ultroncn/dsh-archived-chats)
+- [完整 README](https://github.com/Ultroncn/dsh-archived-chats#readme)
 - [返回Archive Management / 归档管理所在分类](../plugins.md)

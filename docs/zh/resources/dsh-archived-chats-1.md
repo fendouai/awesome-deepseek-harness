@@ -5,12 +5,12 @@ keywords: "dsh-archived-chats, search, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-archived-chats
 
-> ⭐ **28** · ✅ 活跃 · 插件
+> ⭐ **30** · ✅ 活跃 · 插件
 
 | | | | |
 |---|---|---|---|
 | 类型 | 插件 | 分类 | 搜索与研究 |
-| 星数 | ⭐ 28 | 状态 | ✅ 活跃 |
+| 星数 | ⭐ 30 | 状态 | ✅ 活跃 |
 | 作者 | [Ultroncn](https://github.com/Ultroncn) | 更新时间 | — |
 
 ## 一句话介绍

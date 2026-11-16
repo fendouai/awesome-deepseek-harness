@@ -1,6 +1,6 @@
 ---
 title: "dsh-liquid-glass"
-description: "Theme backgrounds for DeepSeek Harness — translucent surfaces with image or local video backgrounds."
+description: "Theme backgrounds for DeepSeek Harness: native-style collapsible settings, translucent surfaces, and local image/video wallpapers."
 keywords: "dsh-liquid-glass, ui, plugin, coding, multi-agent, deepseek harness, dsh"
 ---
 # dsh-liquid-glass
@@ -16,11 +16,11 @@ keywords: "dsh-liquid-glass, ui, plugin, coding, multi-agent, deepseek harness, 
 
 ## One-liner
 
-> Theme backgrounds for DeepSeek Harness — translucent surfaces with image or local video backgrounds.
+> Theme backgrounds for DeepSeek Harness: native-style collapsible settings, translucent surfaces, and local image/video wallpapers.
 
 ## About
 
-Theme backgrounds for DeepSeek Harness — translucent surfaces with image or local video backgrounds.
+Theme backgrounds for DeepSeek Harness: native-style collapsible settings, translucent surfaces, and local image/video wallpapers.
 
 ## 🔗 Links
 

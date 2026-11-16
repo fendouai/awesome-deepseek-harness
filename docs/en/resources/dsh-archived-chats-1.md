@@ -1,6 +1,6 @@
 ---
 title: "dsh-archived-chats"
-description: "Archive Management for DeepSeek Harness: search archived and unarchived chats, preview conversations, organize tags and notes, archive by workspace, keep ZIP backups, inspect origins and branches, check residual chats manually, and check for updates. Legacy recycle recovery is retained."
+description: "Archive Management for DeepSeek Harness: search archived and unarchived chats, preview conversations, organize tags and notes, archive by workspace, keep ZIP backups, inspect origins and branches, check residual chats manually, and check for updates."
 keywords: "dsh-archived-chats, search, plugin, coding, deepseek harness, dsh"
 ---
 # dsh-archived-chats
@@ -15,11 +15,11 @@ keywords: "dsh-archived-chats, search, plugin, coding, deepseek harness, dsh"
 
 ## One-liner
 
-> Archive Management for DeepSeek Harness: search archived and unarchived chats, preview conversations, organize tags and notes, archive by workspace, keep ZIP backups, inspect origins and branches, check residual chats manually, and check for updates. Legacy recycle recovery is retained.
+> Archive Management for DeepSeek Harness: search archived and unarchived chats, preview conversations, organize tags and notes, archive by workspace, keep ZIP backups, inspect origins and branches, check residual chats manually, and check for updates.
 
 ## About
 
-Archive Management for DeepSeek Harness: search archived and unarchived chats, preview conversations, organize tags and notes, archive by workspace, keep ZIP backups, inspect origins and branches, check residual chats manually, and check for updates. Legacy recycle recovery is retained.
+Archive Management for DeepSeek Harness: search archived and unarchived chats, preview conversations, organize tags and notes, archive by workspace, keep ZIP backups, inspect origins and branches, check residual chats manually, and check for updates.
 
 ## 🔗 Links
 

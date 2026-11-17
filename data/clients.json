@@ -9484,6 +9484,26 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-remote-dc",
+    "name": "dsh-remote-dc",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/lonelycrab888/dsh-remote-dc",
+    "description": "Access files, search logs, and run commands on paired machines from DeepSeek Harness using Desktop Commander’s official Remote MCP. No public IP, inbound ports, or SSH required.",
+    "description_zh": "Access files, search logs, and run commands on paired machines from DeepSeek Harness using Desktop Commander’s official Remote MCP. No public IP, inbound ports, or SSH required.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-workbench",
     "name": "deepseek-harness-workbench",
     "type": "client",
@@ -29162,6 +29182,143 @@
     "repository": "https://github.com/Znk1314/dsh-workspace-categories",
     "description": "把dsh桌面端侧边栏的工作区归入自定义分类。 每个分类是一个圆角矩形框，里面放着归入它的工作区和各自的会话； 长按标题即可拖动归类与排序，便于管理对话",
     "description_zh": "把dsh桌面端侧边栏的工作区归入自定义分类。 每个分类是一个圆角矩形框，里面放着归入它的工作区和各自的会话； 长按标题即可拖动归类与排序，便于管理对话",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-copy-fix",
+    "name": "dsh-copy-fix",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/lhh666-6/dsh-copy-fix",
+    "description": "Fix DSH Desktop copy buttons by bridging clipboard writes to the Electron main process.",
+    "description_zh": "Fix DSH Desktop copy buttons by bridging clipboard writes to the Electron main process.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "thaliris-dsh",
+    "name": "Thaliris-dsh",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Iris0fTheValley/Thaliris-dsh",
+    "description": "Thaliris plugin for DeepSeek Harness using native agents, subagents, Settings and shared Web/Desktop client extensions.",
+    "description_zh": "Thaliris plugin for DeepSeek Harness using native agents, subagents, Settings and shared Web/Desktop client extensions.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugins-enhanced",
+    "name": "dsh-plugins-enhanced",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Zhizhi-2986/dsh-plugins-enhanced",
+    "description": "Community plugins for DSH Desktop, maintained by @zhizhi-2986. The main plugin enhances the current Session's workspace files and native document preview.",
+    "description_zh": "Community plugins for DSH Desktop, maintained by @zhizhi-2986. The main plugin enhances the current Session's workspace files and native document preview.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-plugin-desktop-notify",
+    "name": "dsh-plugin-desktop-notify",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/chendaleiQ/dsh-plugin-desktop-notify",
+    "description": "Codex-style macOS notifications + Dock unread badge for the DeepSeek Harness desktop app (click the banner to jump back to the session)",
+    "description_zh": "Codex-style macOS notifications + Dock unread badge for the DeepSeek Harness desktop app (click the banner to jump back to the session)",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-borncode",
+    "name": "dsh-borncode",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/borncode-app/dsh-borncode",
+    "description": "The BornCode plugins for DeepSeek Harness in one repository and one Plugins entry: agent customization, desktop control, auto-continue, auto-shutdown, browser use, session instructions, session sync, and the side chat.",
+    "description_zh": "The BornCode plugins for DeepSeek Harness in one repository and one Plugins entry: agent customization, desktop control, auto-continue, auto-shutdown, browser use, session instructions, session sync, and the side chat.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "desktop",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gesture-control",
+    "name": "dsh-gesture-control",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/AXTUT/dsh-gesture-control",
+    "description": "DSH 手势控制实验插件：单手操作会话、可选语音输入与双端控制；需指定 Desktop 媒体权限补丁。预构建运行包。",
+    "description_zh": "DSH 手势控制实验插件：单手操作会话、可选语音输入与双端控制；需指定 Desktop 媒体权限补丁。预构建运行包。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plug-computeruse",
+    "name": "dsh-plug-computeruse",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/mannixS/dsh-plug-computeruse",
+    "description": "Computer use for DeepSeek Harness: operate Windows, macOS and Linux desktops with the Cua Driver core bundled — no separate driver install. Window-scoped screenshots, approval for state-changing actions, screenshot cleanup, a focus cursor, and a settings page.",
+    "description_zh": "Computer use for DeepSeek Harness: operate Windows, macOS and Linux desktops with the Cua Driver core bundled — no separate driver install. Window-scoped screenshots, approval for state-changing actions, screenshot cleanup, a focus cursor, and a settings page.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-update-guard-1",
+    "name": "dsh-update-guard",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/wsk114514/dsh-update-guard",
+    "description": "接管 DeepSeek Harness 桌面版在 Windows 上失败的自动安装：应用内更新因「优雅退出超时」放弃后，由计划任务把已下载的安装包静默装完。",
+    "description_zh": "接管 DeepSeek Harness 桌面版在 Windows 上失败的自动安装：应用内更新因「优雅退出超时」放弃后，由计划任务把已下载的安装包静默装完。",
     "capabilities": [
       "coding"
     ],

@@ -16397,6 +16397,86 @@
     "stars": 1
   },
   {
+    "id": "dsh-lmmarr",
+    "name": "dsh-lmmarr",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/RaganaBloodedge/dsh-lmmarr",
+    "description": "DeepSeek Harness 长期记忆插件：分层任务记忆 + 关系图谱 + 索引常驻稳定前缀；零运行时依赖，另附同源的 Agent skill 形态",
+    "description_zh": "DeepSeek Harness 长期记忆插件：分层任务记忆 + 关系图谱 + 索引常驻稳定前缀；零运行时依赖，另附同源的 Agent skill 形态",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "bilibili-subtitles",
+    "name": "bilibili-subtitles",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/FukangZ/bilibili-subtitles",
+    "description": "基于已有中文字幕，将哔哩哔哩（B 站）长视频整理成可通读的 Markdown 全文。支持 CLI、Agent Skill、Pi 和 DeepSeek Harness。",
+    "description_zh": "基于已有中文字幕，将哔哩哔哩（B 站）长视频整理成可通读的 Markdown 全文。支持 CLI、Agent Skill、Pi 和 DeepSeek Harness。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-social-skills-archive",
+    "name": "dsh-social-skills-archive",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/coder9403/dsh-social-skills-archive",
+    "description": "社媒数据采集 Skill 合集（DSH 插件）：覆盖小红书/抖音/快手/B站/微博/知乎/微信生态/蒲公英/百度/搜狐/汽车之家/懂车帝等平台",
+    "description_zh": "社媒数据采集 Skill 合集（DSH 插件）：覆盖小红书/抖音/快手/B站/微博/知乎/微信生态/蒲公英/百度/搜狐/汽车之家/懂车帝等平台",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-lazy-tools-1",
+    "name": "dsh-lazy-tools",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Chsw-CC/dsh-lazy-tools",
+    "description": "On-demand tool and skill loading for DeepSeek Assistant: one toolbox replaces the standing tool catalog, cutting prompt tokens.",
+    "description_zh": "On-demand tool and skill loading for DeepSeek Assistant: one toolbox replaces the standing tool catalog, cutting prompt tokens.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "whale-sentinel",
+    "name": "whale-sentinel",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/GreatBob0512/whale-sentinel",
+    "description": "小鲸哨 / Whale Sentinel — a task radar plugin for DeepSeek Harness: a sitting mascot shows live session progress, pending decisions and results. 不修改 DSH 核心。",
+    "description_zh": "小鲸哨 / Whale Sentinel — a task radar plugin for DeepSeek Harness: a sitting mascot shows live session progress, pending decisions and results. 不修改 DSH 核心。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
     "id": "dsh-news-briefing",
     "name": "dsh-news-briefing",
     "type": "skill",

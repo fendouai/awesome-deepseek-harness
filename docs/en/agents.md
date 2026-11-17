@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "Top 10 and full list of 389 curated agents & multi-agent for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 393 curated agents & multi-agent for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ active |
 | 10 | [dsh-liketavern](resources/dsh-liketavern.md) | ⭐111 | A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime. | ✅ active |
 
-## Complete list (389)
+## Complete list (393)
 
 
-**Multi-agent (386)**
+**Multi-agent (390)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -214,6 +214,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-subagent-router](resources/dsh-subagent-router-1.md) | ⭐2 | DeepSeek Harness 子代理模型路由插件：subagent_model 工具 + model:"auto" 路由策略（任务档位/失败升级/可审计），子代理不再继承父模型。Model-routed subagent delegation for DeepSeek Harness. | ✅ active |
 | [dsh-subagent-rules](resources/dsh-subagent-rules.md) | ⭐2 | dsh-subagent-rules 子代理模型与思考强度规定：subagent_flash 锁定 flash 模型路由，思考强度默认 max 且可按会话自定义，分发规则自动注入所有对话。零依赖 DSH 宿主平面插件。 | ✅ active |
 | [dsh-subagent-switch](resources/dsh-subagent-switch.md) | ⭐2 | DSH plugin: routes each subagent to the best local model — free-first, quota-aware, capability-matched — with a control panel. | ✅ active |
+| [dsh-subagent-tool-guard](resources/dsh-subagent-tool-guard.md) | ⭐2 | Keeps each DSH subagent limited to the tools its own agent preset declares, and removes every tool it would inherit from the global layer. Main agents are untouched. | ✅ active |
 | [dsh-subagent-tools](resources/dsh-subagent-tools.md) | ⭐2 | Per-call model/provider/persona/toolFilter overrides for subagent delegation with @preset references. | ✅ active |
 | [dsh-subagents-model](resources/dsh-subagents-model.md) | ⭐2 | Model visibility for DeepSeek Harness: a header chip naming the model and reasoning effort each Session runs on, a subagent dropdown marking which child carries its own route, and sidebar hover cards showing what each conversation did. | ✅ active |
 | [dsh-swarm-router](resources/dsh-swarm-router.md) | ⭐2 | DSH plugin: sub-agent matrix swarm — routes heterogeneous tasks to the most suitable model (OpenRouter-like + cfgpu.com/llm/square), dispatches each via in-process subagents. 32/32 benchmark green. | ✅ active |
@@ -247,6 +248,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-a2a](resources/dsh-a2a-3.md) | ⭐1 | DeepSeek Harness A2A (Agent2Agent) plugin: expose DSH agents as standard A2A servers (agent card, message/send, message/stream SSE, tasks) + a2a_* tools to call remote A2A agents | ✅ active |
 | [dsh-agent-clean](resources/dsh-agent-clean.md) | ⭐1 | Remove subagent entries from DeepSeek Harness session logs without breaking the log, delete orphaned projection caches, and purge whole sessions — always dry-run first, always with a backup. | ✅ active |
 | [dsh-agent-lead](resources/dsh-agent-lead.md) | ⭐1 | DSH 带队模式插件：主 Agent 只规划派活监工，改动交给 subagent，每次派活弹窗选子模型 | ✅ active |
+| [dsh-agent-roles](resources/dsh-agent-roles.md) | ⭐1 | Role management, per-role models and skills for native DeepSeek Harness Agent Teams | ✅ active |
 | [dsh-agent-router](resources/dsh-agent-router-1.md) | ⭐1 | Deterministic, inspectable delegation-time model routing for DeepSeek Harness (dsh) subagents | ✅ active |
 | [dsh-agent-skill-forge](resources/dsh-agent-skill-forge.md) | ⭐1 | 被动技能熔炉（Trace2Skill 思想落地）：后台采集会话轨迹索引（零 LLM 成本）+ 信号送达；蒸馏/合并/剪枝决策归爱丽丝；技能输出为 SKILL.md（DSH 技能目录原生可加载） | ✅ active |
 | [dsh-agent-taskboard](resources/dsh-agent-taskboard.md) | ⭐1 | 任务板插件：主人/任何 agent 可发布任务（异步队列），宿主 agent 空闲时自主领取并完成（不打断会话）。含发布/列表/领取/完成/状态工具与 JSON 持久化 + 新任务排队通知。 | ✅ active |
@@ -284,6 +286,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-external-workers](resources/dsh-external-workers.md) | ⭐1 | Give your DeepSeek Harness agent three more pairs of hands. It sends long tasks to Claude Code, Codex and Antigravity using your own subscription logins, keeps one persistent session per lane, and never loses a job.                       给 DeepSeek Harness 用的外部 agent 泳道：把长任务派给 Claude Code、Codex、Antigravity 三个 CLI，用你自己已有的订阅登录。每条泳道一个持久会话，作业重启和压缩都不会丢。 | ✅ active |
 | [dsh-flock](resources/dsh-flock.md) | ⭐1 | Self-organizing multi-agent clusters for DeepSeek Harness — real DSH subagents coordinating through a shared append-only log, no orchestrator | ✅ active |
 | [dsh-free-subagents](resources/dsh-free-subagents.md) | ⭐1 | Route delegated subagents and Agent Teams over free-tier models in DeepSeek Harness | ✅ active |
+| [dsh-global-prompt](resources/dsh-global-prompt-2.md) | ⭐1 | Global prompt (全局提示词) plugin for the agent runtime (DSH). Set it once in Settings → General; injected via ctx.systemPrompt.section() into every new conversation and subagent. Live save, no restart, no context bloat. | ✅ active |
 | [dsh-goal-quiescence](resources/dsh-goal-quiescence.md) | ⭐1 | Completion evidence gate for DeepSeek Harness goal-mode subagents | ✅ active |
 | [dsh-goalloop-agentteams](resources/dsh-goalloop-agentteams.md) | ⭐1 | Deterministic goal-completion gate for DSH: contract-first AC grammar, re-runs every verify command itself (zero model trust), binds verdicts to a tree digest, denies false completion on update_goal/update_task via tools/pre-execute. Ports goal-loop's judging face onto native Agent Teams + task board. | ✅ active |
 | [dsh-groupx](resources/dsh-groupx.md) | ⭐1 | Native GroupX multi-agent room integration for DeepSeek Harness | ✅ active |
@@ -313,6 +316,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-native-collab](resources/dsh-native-collab.md) | ⭐1 | 为 DeepSeek Harness (DSH) 提供子 Agent 沟通增强与 Team 模型选择支持。 Flexible Agent Teams and model selection for DSH, with enhanced communication between parent and child conversations. 非官方社区插件 / Unofficial community plugin. | ✅ active |
 | [dsh-opinionated-subagent](resources/dsh-opinionated-subagent.md) | ⭐1 | A minimal, opinionated subagent for DeepSeek Harness: you choose which models a child may run on and at which reasoning effort, and a correction reaches a working child at its next step | ✅ active |
 | [dsh-orchestration](resources/dsh-orchestration.md) | ⭐1 | Independent typed decisions and a durable task / multi-device execution suite for DeepSeek Harness, with optional channel adapters and WebUI. | ✅ active |
+| [dsh-orchestrator](resources/dsh-orchestrator-5.md) | ⭐1 | DSH 协调插件：主会话拆任务、派子会话、看回报、管台账 | ✅ active |
 | [dsh-orchestrator2](resources/dsh-orchestrator2.md) | ⭐1 | 自动开发调度器2.0（dsh-orchestrator2）：DSH agent preset 插件——交互设计 → goal 驱动开发流水线 → 验收修复循环。发布镜像：插件源码 + 最新安装包（当前 v2.9.0）。 | ✅ active |
 | [dsh-orquestrator](resources/dsh-orquestrator.md) | ⭐1 | DeepSeek Harness plugin: pick the model your subagents run on — with a reasoning-effort ceiling and an output-token cap — enforced in code on every child DSH starts, whichever tool starts it. | ✅ active |
 | [dsh-per-request-cost](resources/dsh-per-request-cost.md) | ⭐1 | DeepSeek Harness composer pill: balance, peak/off-peak phase, and per-request-priced session spend including subagent sessions and Search/Fetch fees. | ✅ active |

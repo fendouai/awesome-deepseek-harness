@@ -10492,6 +10492,75 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-drone-planner",
+    "name": "dsh-drone-planner",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/unhurriedly/dsh-drone-planner",
+    "description": "DeepSeek Harness panel plugin that serves a self-contained drone frustum route planning demo",
+    "description_zh": "DeepSeek Harness panel plugin that serves a self-contained drone frustum route planning demo",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "agent-workflow-viewer",
+    "name": "agent-workflow-viewer",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/hgognav233-netizen/agent-workflow-viewer",
+    "description": "DeepSeek Harness plugin: a live, zoomable map of what the model calls, what comes back, and which subagent it dispatches.",
+    "description_zh": "DeepSeek Harness plugin: a live, zoomable map of what the model calls, what comes back, and which subagent it dispatches.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workflow-library",
+    "name": "dsh-workflow-library",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/TianjunChi/dsh-workflow-library",
+    "description": "Third-party workflow library for DSH: review, save, parameterize and reuse successful task workflows.",
+    "description_zh": "Third-party workflow library for DSH: review, save, parameterize and reuse successful task workflows.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-computer-use-18",
+    "name": "dsh-computer-use",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/shalilongfei/dsh-computer-use",
+    "description": "Windows computer-use plugin for DeepSeek Harness: screenshot, mouse, keyboard, window control, UI Automation and clipboard",
+    "description_zh": "Windows computer-use plugin for DeepSeek Harness: screenshot, mouse, keyboard, window control, UI Automation and clipboard",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugin-skill",
     "name": "dsh-plugin-skill",
     "type": "workflow",

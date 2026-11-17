@@ -10054,6 +10054,22 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-plugin-buddy",
+    "name": "dsh-plugin-buddy",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/PilotHowe/dsh-plugin-buddy",
+    "description": "Stop browsing the DSH plugin market. Describe your task and Plugin Advisor finds, judges, and onboards the right community plugin — and asks before switching.",
+    "description_zh": "Stop browsing the DSH plugin market. Describe your task and Plugin Advisor finds, judges, and onboards the right community plugin — and asks before switching.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-deepseek-harness-rodert-1",
     "name": "awesome-deepseek-harness",
     "type": "awesome-list",

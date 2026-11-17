@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（557 条）。"
+description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（558 条）。"
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-deepseek-harness](resources/awesome-deepseek-harness.md) | ⭐966 | Curated guide to DeepSeek Harness (dsh) and its best community plugins | ✅ 活跃 |
 | 10 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ 活跃 |
 
-## 完整列表（557）
+## 完整列表（558）
 
 
-**注册表（557）**
+**注册表（558）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -464,6 +464,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-plgstore](resources/dsh-plgstore.md) | ⭐1 | 一款dsh的插件市场，点击链接一键直达： | ✅ 活跃 |
 | [dsh-plugin-archived-sessions](resources/dsh-plugin-archived-sessions.md) | ⭐1 | Manage archived DeepSeek Harness sessions: list, restore, and permanently delete with immediate sidebar synchronization. | ✅ 活跃 |
 | [dsh-plugin-backup](resources/dsh-plugin-backup.md) | ⭐1 | One-click export/restore of installed DSH plugins (JSON snapshot) · DSH 插件一键导出/还原 | ✅ 活跃 |
+| [dsh-plugin-buddy](resources/dsh-plugin-buddy.md) | ⭐1 | Stop browsing the DSH plugin market. Describe your task and Plugin Advisor finds, judges, and onboards the right community plugin — and asks before switching. | ✅ 活跃 |
 | [dsh-plugin-catalog](resources/dsh-plugin-catalog-1.md) | ⭐1 | 把 DeepSeek Harness Web GUI 的 设置 → 插件 页升级为一本插件目录: | ✅ 活跃 |
 | [dsh-plugin-chatgpt-crash-fix](resources/dsh-plugin-chatgpt-crash-fix.md) | ⭐1 | The ChatGPT desktop app on Windows opens fine, then the whole process tree exits after ~60-90 seconds with no system error dialog. The app log shows [windows-store-updater] Checking Windows Store for package updates right before it dies. Often triggered after  | ✅ 活跃 |
 | [dsh-plugin-cicd](resources/dsh-plugin-cicd.md) | ⭐1 | 发布台 (Release Console) for DeepSeek Harness: a sidebar entry and a main-panel page showing each repository's latest CI run, its releases, and whether the local checkout is ahead of the release — with one-click build / release / publish-draft. Reuses the machine's authenticated gh CLI and stores no credential. | ✅ 活跃 |

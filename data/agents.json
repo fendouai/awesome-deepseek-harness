@@ -3774,6 +3774,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-subagent-tool-guard",
+    "name": "dsh-subagent-tool-guard",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/z11y11w/dsh-subagent-tool-guard",
+    "description": "Keeps each DSH subagent limited to the tools its own agent preset declares, and removes every tool it would inherit from the global layer. Main agents are untouched.",
+    "description_zh": "Keeps each DSH subagent limited to the tools its own agent preset declares, and removes every tool it would inherit from the global layer. Main agents are untouched.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-supervisor",
     "name": "dsh-supervisor",
     "type": "agent",
@@ -7003,6 +7020,57 @@
     "repository": "https://github.com/Wanqiu12345/dsh-session-matrix",
     "description": "A multi-agent workspace for DeepSeek Harness. Run parallel sessions, visualize agent relationships, monitor context usage, and manage task handoffs.",
     "description_zh": "A multi-agent workspace for DeepSeek Harness. Run parallel sessions, visualize agent relationships, monitor context usage, and manage task handoffs.",
+    "capabilities": [
+      "coding",
+      "context",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-roles",
+    "name": "dsh-agent-roles",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Delthin/dsh-agent-roles",
+    "description": "Role management, per-role models and skills for native DeepSeek Harness Agent Teams",
+    "description_zh": "Role management, per-role models and skills for native DeepSeek Harness Agent Teams",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-orchestrator-5",
+    "name": "dsh-orchestrator",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/wjj865-code/dsh-orchestrator",
+    "description": "DSH 协调插件：主会话拆任务、派子会话、看回报、管台账",
+    "description_zh": "DSH 协调插件：主会话拆任务、派子会话、看回报、管台账",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-global-prompt-2",
+    "name": "dsh-global-prompt",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/SOCOOL666/dsh-global-prompt",
+    "description": "Global prompt (全局提示词) plugin for the agent runtime (DSH). Set it once in Settings → General; injected via ctx.systemPrompt.section() into every new conversation and subagent. Live save, no restart, no context bloat.",
+    "description_zh": "Global prompt (全局提示词) plugin for the agent runtime (DSH). Set it once in Settings → General; injected via ctx.systemPrompt.section() into every new conversation and subagent. Live save, no restart, no context bloat.",
     "capabilities": [
       "coding",
       "context",

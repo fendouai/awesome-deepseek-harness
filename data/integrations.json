@@ -14585,6 +14585,24 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-system-one-plugin-1",
+    "name": "dsh-system-one-plugin",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/semantic-router/dsh-system-one-plugin",
+    "description": "Make your agent think fast and slow. System One for DeepSeek Harness: fast decision models triage, guard, shield, mask and check every step, beside System Two, vllm-sr/auto. Free key on first run, for research and evaluation.",
+    "description_zh": "Make your agent think fast and slow. System One for DeepSeek Harness: fast decision models triage, guard, shield, mask and check every step, beside System Two, vllm-sr/auto. Free key on first run, for research and evaluation.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "dsh-github-integration",
     "name": "dsh-github-integration",
     "type": "integration",
@@ -21189,6 +21207,58 @@
     "capabilities": [
       "coding",
       "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "ft-ftp-mcp-stdio",
+    "name": "ft-ftp-mcp-stdio",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/ftrans-cn/ft-ftp-mcp-stdio",
+    "description": "FT FTP MCP 是一个通过 stdio 运行的本地 MCP Server，让支持 MCP 的 AI Agent 在受控范围内访问 FTP/SFTP 服务器。工程名、Python 包入口和 MCP 注册名统一使用 ft-ftp-mcp-stdio。",
+    "description_zh": "FT FTP MCP 是一个通过 stdio 运行的本地 MCP Server，让支持 MCP 的 AI Agent 在受控范围内访问 FTP/SFTP 服务器。工程名、Python 包入口和 MCP 注册名统一使用 ft-ftp-mcp-stdio。",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "xjtlu-library-mcp",
+    "name": "xjtlu-library-mcp",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/seally-web/xjtlu-library-mcp",
+    "description": "一个 MCP server，把西交利物浦大学图书馆塞进 AI agent 的工具箱：查馆藏、查论文、判断学校订没订、按需取全文；外加往年试卷库 / FYP / 学位论文的检索与下载。",
+    "description_zh": "一个 MCP server，把西交利物浦大学图书馆塞进 AI agent 的工具箱：查馆藏、查论文、判断学校订没订、按需取全文；外加往年试卷库 / FYP / 学位论文的检索与下载。",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wecom-soul-bot-1",
+    "name": "dsh-wecom-soul-bot",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/clickyotter/dsh-wecom-soul-bot",
+    "description": "企业微信智能机器人长连接 + 人设 + 长期记忆，DeepSeek Harness 插件",
+    "description_zh": "企业微信智能机器人长连接 + 人设 + 长期记忆，DeepSeek Harness 插件",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -38134,6 +38204,245 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-float-lamp",
+    "name": "dsh-float-lamp",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/shZhang1614/dsh-float-lamp",
+    "description": "Floating task-status lamp for DeepSeek Harness: green running, orange approval, blue question, grey idle — a borderless always-on-top window outside the DSH app.",
+    "description_zh": "Floating task-status lamp for DeepSeek Harness: green running, orange approval, blue question, grey idle — a borderless always-on-top window outside the DSH app.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-crawshrimp-browser",
+    "name": "dsh-crawshrimp-browser",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/howtimeschange/dsh-crawshrimp-browser",
+    "description": "抓虾浏览器插件｜DeepSeek Harness（DSH）API 优先网页自动化、实时预览、人工接管、上传下载、业务核验与可复用工作流，独立运行无需抓虾后端。",
+    "description_zh": "抓虾浏览器插件｜DeepSeek Harness（DSH）API 优先网页自动化、实时预览、人工接管、上传下载、业务核验与可复用工作流，独立运行无需抓虾后端。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-qqmusic-plugin",
+    "name": "dsh-qqmusic-plugin",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/banzhangdeerfenzhiyi/dsh-qqmusic-plugin",
+    "description": "QQ Music karaoke + AI cover singing for DeepSeek Harness WeChat/QQ persona bots (Demucs + RVC, native voice bubbles).",
+    "description_zh": "QQ Music karaoke + AI cover singing for DeepSeek Harness WeChat/QQ persona bots (Demucs + RVC, native voice bubbles).",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-dianleida-1688-ecommerce-product-selection",
+    "name": "dsh-dianleida-1688-ecommerce-product-selection",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/DianLeida/dsh-dianleida-1688-ecommerce-product-selection",
+    "description": "dianleida MCP packages five product selection capabilities—product library, product rankings, product analysis, product categories, and image search for similar items—into MCP (Model Context Protocol, a \"standard socket protocol\" between AI and data services). Once integrated, your go-to AI clients—Claude, ChatGPT, Coze, WorkBuddy, Codex, Doubao",
+    "description_zh": "dianleida MCP packages five product selection capabilities—product library, product rankings, product analysis, product categories, and image search for similar items—into MCP (Model Context Protocol, a \"standard socket protocol\" between AI and data services). Once integrated, your go-to AI clients—Claude, ChatGPT, Coze, WorkBuddy, Codex, Doubao",
+    "capabilities": [
+      "coding",
+      "context",
+      "mcp",
+      "multimodal",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-codex-bridge-5",
+    "name": "dsh-codex-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/bitqyh/dsh-codex-bridge",
+    "description": "DSH 插件：在输入框下方按具体项目分组列出可接续的 Codex 聊天，只插入草稿不自动发送",
+    "description_zh": "DSH 插件：在输入框下方按具体项目分组列出可接续的 Codex 聊天，只插入草稿不自动发送",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chatgpt-connect",
+    "name": "dsh-chatgpt-connect",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/yiyunet/dsh-chatgpt-connect",
+    "description": "Your ChatGPT subscription inside DeepSeek Harness: Codex models, GPT Image, quota, recovery, scoped HTTP(S) proxy. 把你的 ChatGPT 订阅接进 DeepSeek Harness：Codex 模型、GPT Image、额度、恢复、按插件隔离的 HTTP(S) 代理。Community Alpha · fork of dsh-codex-connect.",
+    "description_zh": "Your ChatGPT subscription inside DeepSeek Harness: Codex models, GPT Image, quota, recovery, scoped HTTP(S) proxy. 把你的 ChatGPT 订阅接进 DeepSeek Harness：Codex 模型、GPT Image、额度、恢复、按插件隔离的 HTTP(S) 代理。Community Alpha · fork of dsh-codex-connect.",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-browser-annotation",
+    "name": "dsh-browser-annotation",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/CloudSen/dsh-browser-annotation",
+    "description": "Native, lightweight element comments inside the built-in Browser — live attribute edits and numbered hoverable tags, no screenshots or provider replacement.",
+    "description_zh": "Native, lightweight element comments inside the built-in Browser — live attribute edits and numbered hoverable tags, no screenshots or provider replacement.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-md-live-edit",
+    "name": "dsh-md-live-edit",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/feifandiv/dsh-md-live-edit",
+    "description": "Edit Markdown in place inside the DeepSeek Harness sidebar preview, without switching to a code mode.",
+    "description_zh": "Edit Markdown in place inside the DeepSeek Harness sidebar preview, without switching to a code mode.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-sync-4",
+    "name": "dsh-sync",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/stone-yu/dsh-sync",
+    "description": "备份与同步 DSH 的配置、模型、MCP、插件清单、技能、记忆和自选目录到 WebDAV，每个内容项可单独设置方向；后续支持 GitHub 同步。",
+    "description_zh": "备份与同步 DSH 的配置、模型、MCP、插件清单、技能、记忆和自选目录到 WebDAV，每个内容项可单独设置方向；后续支持 GitHub 同步。",
+    "capabilities": [
+      "coding",
+      "git",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wechat-studio",
+    "name": "dsh-wechat-studio",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/lqshow/dsh-wechat-studio",
+    "description": "DeepSeek Harness 里的公众号成稿台：Markdown 改稿、朱雀质检、封面配图、SVG 动画卡、排版、排期与数据复盘。",
+    "description_zh": "DeepSeek Harness 里的公众号成稿台：Markdown 改稿、朱雀质检、封面配图、SVG 动画卡、排版、排期与数据复盘。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pm-workbench",
+    "name": "dsh-pm-workbench",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/wangkang183/dsh-pm-workbench",
+    "description": "Right-sidebar memo workbench for DSH: tags, due dates, calendar, AI item parsing, weekly digest, and host tools for conversational/WeChat todos.",
+    "description_zh": "Right-sidebar memo workbench for DSH: tags, due dates, calendar, AI item parsing, weekly digest, and host tools for conversational/WeChat todos.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "orimem",
+    "name": "OriMem",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Wen5555/OriMem",
+    "description": "Local Obsidian-vault memory for coding agents (Claude Code / Codex / DeepSeek Harness) over MCP: hybrid recall, verified write-back, conversation capture, daily summaries.",
+    "description_zh": "Local Obsidian-vault memory for coding agents (Claude Code / Codex / DeepSeek Harness) over MCP: hybrid recall, verified write-back, conversation capture, daily summaries.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-molecular-viewer",
+    "name": "dsh-molecular-viewer",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/lonelycrab888/dsh-molecular-viewer",
+    "description": "Open, inspect, compare, and analyze molecular structures from a DeepSeek Harness conversation, right sidebar, or workspace-file preview. The workbench uses the Mol* runtime from Codex Molecular Structure Viewer 0.1.96. WebGL rendering runs in the local browser",
+    "description_zh": "Open, inspect, compare, and analyze molecular structures from a DeepSeek Harness conversation, right sidebar, or workspace-file preview. The workbench uses the Mol* runtime from Codex Molecular Structure Viewer 0.1.96. WebGL rendering runs in the local browser",
+    "capabilities": [
+      "browser",
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-simulink-mcp",
+    "name": "dsh-simulink-mcp",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/yrsxy/dsh-simulink-mcp",
+    "description": "DSH plugin: build, wire, compile and simulate Simulink models on the MATLAB session you already have open.",
+    "description_zh": "DSH plugin: build, wire, compile and simulate Simulink models on the MATLAB session you already have open.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "dsh-wechat-bridge-2",

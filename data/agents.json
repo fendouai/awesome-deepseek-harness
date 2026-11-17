@@ -2420,6 +2420,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-better-1",
+    "name": "dsh-better",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/agi-fans/dsh-better",
+    "description": "A DeepSeek Harness (dsh) plugin bundle combining pi-better's codebase-grounded prompt deepening (/better) and subagent brief verification with DSH's Cordis host/web-client architecture.",
+    "description_zh": "A DeepSeek Harness (dsh) plugin bundle combining pi-better's codebase-grounded prompt deepening (/better) and subagent brief verification with DSH's Cordis host/web-client architecture.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-crosstalk-1",
     "name": "dsh-crosstalk",
     "type": "agent",
@@ -6803,6 +6820,192 @@
     "description_zh": "DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。",
     "capabilities": [
       "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-route-badges",
+    "name": "dsh-subagent-route-badges",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/alaxrpg/dsh-subagent-route-badges",
+    "description": "Display subagent provider, model, and reasoning effort badges in DeepSeek Harness",
+    "description_zh": "Display subagent provider, model, and reasoning effort badges in DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-imperial-court",
+    "name": "dsh-imperial-court",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/shilaoban666/dsh-imperial-court",
+    "description": "🏯 三省六部 · Imperial Senate：DeepSeek Harness（DSH）多工具协作插件。Claude Code、Codex、Gemini CLI 等一家拟方案、另一家审，六部并行办差，全程在隔离 git 分支里，批红才合并；丞相府一次交办一摞事。Multi-agent orchestration for DSH.",
+    "description_zh": "🏯 三省六部 · Imperial Senate：DeepSeek Harness（DSH）多工具协作插件。Claude Code、Codex、Gemini CLI 等一家拟方案、另一家审，六部并行办差，全程在隔离 git 分支里，批红才合并；丞相府一次交办一摞事。Multi-agent orchestration for DSH.",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-progress-nudge",
+    "name": "dsh-progress-nudge",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/buaaflyaway/dsh-progress-nudge",
+    "description": "DeepSeek Harness plugin: counts silent tool-only rounds and injects a progress reminder into the next model request, with a Settings page for threshold, wording, language and Agent Teams scope.",
+    "description_zh": "DeepSeek Harness plugin: counts silent tool-only rounds and injects a progress reminder into the next model request, with a Settings page for threshold, wording, language and Agent Teams scope.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-instructions",
+    "name": "dsh-task-instructions",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/you-qilin/dsh-task-instructions",
+    "description": "DeepSeek Harness 插件：输入框旁的「任务指令」按钮，把可复用的任务要求固定到整场会话，压缩上下文也不变形。",
+    "description_zh": "DeepSeek Harness 插件：输入框旁的「任务指令」按钮，把可复用的任务要求固定到整场会话，压缩上下文也不变形。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "cospan",
+    "name": "cospan",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/keli-wen/cospan",
+    "description": "Orchestrate every model in its native harness — unified async delegation across Antigravity, Codex, Claude Code, and DeepSeek Harness.",
+    "description_zh": "Orchestrate every model in its native harness — unified async delegation across Antigravity, Codex, Claude Code, and DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-free-subagents",
+    "name": "dsh-free-subagents",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/boldandigital/dsh-free-subagents",
+    "description": "Route delegated subagents and Agent Teams over free-tier models in DeepSeek Harness",
+    "description_zh": "Route delegated subagents and Agent Teams over free-tier models in DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-tree-2",
+    "name": "dsh-session-tree",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/plasticmemories-0823/dsh-session-tree",
+    "description": "Conversation trees, visible subagents, and task handoffs for DeepSeek Harness",
+    "description_zh": "Conversation trees, visible subagents, and task handoffs for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-code-factory",
+    "name": "dsh-code-factory",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/alexnobug/dsh-code-factory",
+    "description": "Code Factory for DeepSeek Harness: multi-agent software-team pipeline plugin",
+    "description_zh": "Code Factory for DeepSeek Harness: multi-agent software-team pipeline plugin",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-transfer-1",
+    "name": "dsh-session-transfer",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/879745uhjun/dsh-session-transfer",
+    "description": "Pack any DSH session, its subagent sessions and attachments into a portable .dshpack, and import it into another DSH installation.",
+    "description_zh": "Pack any DSH session, its subagent sessions and attachments into a portable .dshpack, and import it into another DSH installation.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-taskflow",
+    "name": "dsh-taskflow",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Oak-liuhj/dsh-taskflow",
+    "description": "DeepSeek Harness 智能任务编排插件：模型按任务复杂度生成持久层级清单，按需创建子会话，完成后自动勾选并通知直接父会话。",
+    "description_zh": "DeepSeek Harness 智能任务编排插件：模型按任务复杂度生成持久层级清单，按需创建子会话，完成后自动勾选并通知直接父会话。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-session-matrix",
+    "name": "dsh-session-matrix",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Wanqiu12345/dsh-session-matrix",
+    "description": "A multi-agent workspace for DeepSeek Harness. Run parallel sessions, visualize agent relationships, monitor context usage, and manage task handoffs.",
+    "description_zh": "A multi-agent workspace for DeepSeek Harness. Run parallel sessions, visualize agent relationships, monitor context usage, and manage task handoffs.",
+    "capabilities": [
+      "coding",
+      "context",
       "multi-agent"
     ],
     "status": "active",

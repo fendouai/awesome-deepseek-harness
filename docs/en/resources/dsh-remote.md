@@ -1,6 +1,6 @@
 ---
 title: "dsh-remote"
-description: "Remote workspace: connect a host over SSH and operate a remote directory with rw_* tools."
+description: "SSH remote workspaces for DSH with parallel projects across hosts, file browsing and editing, recursive search, terminals, Git diffs, and Agent tools to edit, build and test remotely. Optional IDE layout."
 keywords: "dsh-remote, developer, plugin, automation, files, deepseek harness, dsh"
 ---
 # dsh-remote
@@ -16,7 +16,7 @@ keywords: "dsh-remote, developer, plugin, automation, files, deepseek harness, d
 
 ## One-liner
 
-> Remote workspace: connect a host over SSH and operate a remote directory with rw_* tools.
+> SSH remote workspaces for DSH with parallel projects across hosts, file browsing and editing, recursive search, terminals, Git diffs, and Agent tools to edit, build and test remotely. Optional IDE layout.
 
 ## About
 

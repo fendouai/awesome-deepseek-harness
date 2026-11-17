@@ -101,6 +101,23 @@
     "stars": 347
   },
   {
+    "id": "bloomtutor",
+    "name": "BloomTutor",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Li-Evan/BloomTutor",
+    "description": "Open-source AI tutor for personalized learning: Socratic, adaptive lessons to learn anything. Claude Code skill + self-hosted web app. Bloom 2 Sigma · 开源 AI 家教",
+    "description_zh": "Open-source AI tutor for personalized learning: Socratic, adaptive lessons to learn anything. Claude Code skill + self-hosted web app. Bloom 2 Sigma · 开源 AI 家教",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 312,
+    "license": "MIT"
+  },
+  {
     "id": "qq-bridge",
     "name": "qq-bridge",
     "type": "tutorial",
@@ -257,6 +274,21 @@
     "verified": false,
     "stars": 120,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-infinite-gen-n",
+    "name": "dsh-infinite-gen-n",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Minglink/dsh-infinite-gen-n",
+    "description": "无限N代 - DeepSeek Harness 破甲插件（无限一代至四代原作者维护）| 288+ 道测试题全过 · DeepSeek V4.1-Flash 1017 实测适配         如果对你的研究有帮助的话，求一个star 支持一下开源技术分享！",
+    "description_zh": "无限N代 - DeepSeek Harness 破甲插件（无限一代至四代原作者维护）| 288+ 道测试题全过 · DeepSeek V4.1-Flash 1017 实测适配         如果对你的研究有帮助的话，求一个star 支持一下开源技术分享！",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 100
   },
   {
     "id": "dsh-web-studyhub",
@@ -2992,6 +3024,102 @@
     "status": "active",
     "verified": false,
     "stars": 1
+  },
+  {
+    "id": "bing",
+    "name": "bing",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/show-thesky/bing",
+    "description": "这是一个学习仓库",
+    "description_zh": "这是一个学习仓库",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "technical-english-companion",
+    "name": "technical-english-companion",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Calliope-Nicles/technical-english-companion",
+    "description": "Technical English Companion · 专业英语术语伴学。帮助开发者在 Codex 和 DeepSeek Harness 的中文对话中学习专业英语。",
+    "description_zh": "Technical English Companion · 专业英语术语伴学。帮助开发者在 Codex 和 DeepSeek Harness 的中文对话中学习专业英语。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-video-studio-skill",
+    "name": "dsh-video-studio-skill",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/znlgis/dsh-video-studio-skill",
+    "description": "DeepSeek Harness 技能插件：用代码从零生成中文视频。  写剧本 → edge-tts 旁白 → 实测时长排时间轴 → 提示点驱动配乐与音效 → PIL 或浏览器逐帧渲染 → ffmpeg 编码 → 采样级混音 → 四层质检（容器 / 信号 / 时间 / 页面）+ 四道新闸 （渲前资源预检 G0 / 词级时间戳 G10 / 全片 VMAF G11 / ASR 回读 G12）。 零素材、可复现、可断点续跑、可脚本化验收；装成插件后，整片生产流程随技能一起进入每个会话。",
+    "description_zh": "DeepSeek Harness 技能插件：用代码从零生成中文视频。  写剧本 → edge-tts 旁白 → 实测时长排时间轴 → 提示点驱动配乐与音效 → PIL 或浏览器逐帧渲染 → ffmpeg 编码 → 采样级混音 → 四层质检（容器 / 信号 / 时间 / 页面）+ 四道新闸 （渲前资源预检 G0 / 词级时间戳 G10 / 全片 VMAF G11 / ASR 回读 G12）。 零素材、可复现、可断点续跑、可脚本化验收；装成插件后，整片生产流程随技能一起进入每个会话。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-zhuoyu-ppt",
+    "name": "dsh-plugin-zhuoyu-ppt",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/koking0/dsh-plugin-zhuoyu-ppt",
+    "description": "DeepSeek Harness plugin · 琢玉PPT工坊：用川大模板从零做学术汇报 PPT（模板继承、四级字号、逐页参考文献、逐页渲染自检），零第三方运行时依赖",
+    "description_zh": "DeepSeek Harness plugin · 琢玉PPT工坊：用川大模板从零做学术汇报 PPT（模板继承、四级字号、逐页参考文献、逐页渲染自检），零第三方运行时依赖",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-tcm",
+    "name": "dsh-tcm",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/yeweiliang7063/dsh-tcm",
+    "description": "装上以后，DSH 里多出一个「中医 · 经方（学习版）」预设，能陪你按经方思路学中医：先像坐诊一样问清寒热、出汗、二便、睡眠、舌象、六部脉，再按《黄帝内经》《难经》《伤寒杂病论》讲清这个证属哪一经、病机在哪、该用哪一类方、该取哪几个穴，并教你服后怎么核对方向对不对。只讲思路，不给剂量，不出处方笺。npm 上的 dsh-tcm 1.3.0 是旧版、已废弃，请勿安装。",
+    "description_zh": "装上以后，DSH 里多出一个「中医 · 经方（学习版）」预设，能陪你按经方思路学中医：先像坐诊一样问清寒热、出汗、二便、睡眠、舌象、六部脉，再按《黄帝内经》《难经》《伤寒杂病论》讲清这个证属哪一经、病机在哪、该用哪一类方、该取哪几个穴，并教你服后怎么核对方向对不对。只讲思路，不给剂量，不出处方笺。npm 上的 dsh-tcm 1.3.0 是旧版、已废弃，请勿安装。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-bili-lesson",
+    "name": "dsh-bili-lesson",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/liweitan2046-cyber/dsh-bili-lesson",
+    "description": "星火课堂 — DSH 插件：B 站少儿科普片库 + 每周排片 + 课卡答题 + 错题本 + 勋章盲盒 + 家长锁 | Spark Classroom — a DSH plugin for curated Bilibili learning: weekly schedule, quiz cards, mistakes review, medals, parent lock",
+    "description_zh": "星火课堂 — DSH 插件：B 站少儿科普片库 + 每周排片 + 课卡答题 + 错题本 + 勋章盲盒 + 家长锁 | Spark Classroom — a DSH plugin for curated Bilibili learning: weekly schedule, quiz cards, mistakes review, medals, parent lock",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "deepseek-harness-brain",

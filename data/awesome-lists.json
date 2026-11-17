@@ -1581,6 +1581,22 @@
     "license": "MIT"
   },
   {
+    "id": "polymarket-proxy",
+    "name": "polymarket-proxy",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/dennisyang1986/polymarket-proxy",
+    "description": "Polymarket Proxy — a local Polymarket desk inside DeepSeek Harness: deposit address, portfolio, market radar and live trading when the official site is unavailable.",
+    "description_zh": "Polymarket Proxy — a local Polymarket desk inside DeepSeek Harness: deposit address, portfolio, market radar and live trading when the official site is unavailable.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 11,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-deepseek-harness-plugins-vvlife-1",
     "name": "awesome-deepseek-harness-plugins",
     "type": "awesome-list",
@@ -4332,6 +4348,24 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-workspace-status-board",
+    "name": "dsh-workspace-status-board",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/CYF736222347/dsh-workspace-status-board",
+    "description": "Status-first workspace board for the DSH sidebar: sorts workspaces and tasks by needs-input, running, then done; search, same-status drag ordering, archive/restore, and three status markers.",
+    "description_zh": "Status-first workspace board for the DSH sidebar: sorts workspaces and tasks by needs-input, running, then done; search, same-status drag ordering, archive/restore, and three status markers.",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-dsh-plugin-wgd753-1",
     "name": "awesome-dsh-plugin",
     "type": "awesome-list",
@@ -5696,6 +5730,55 @@
     "verified": false,
     "stars": 2,
     "license": "BSD-3-Clause"
+  },
+  {
+    "id": "dsh-market-radar-1",
+    "name": "dsh-market-radar",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/alwayXXX/dsh-market-radar",
+    "description": "黄金、A 股和美股的 DeepSeek Harness 轻量行情雷达",
+    "description_zh": "黄金、A 股和美股的 DeepSeek Harness 轻量行情雷达",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-bulk-update",
+    "name": "dsh-plugin-bulk-update",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/spheritier/dsh-plugin-bulk-update",
+    "description": "Check installed DSH registry plugins for compatible updates and apply the versions you select.",
+    "description_zh": "Check installed DSH registry plugins for compatible updates and apply the versions you select.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-nebula-mind",
+    "name": "dsh-nebula-mind",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Lng-ux/dsh-nebula-mind",
+    "description": "dsh-nebula-mind — cross-session memory for DeepSeek Harness, and a persistent mind rather than a store. It remembers across restarts and compaction, and forgets the way the sea does: nothing is deleted, things just sink. Hybrid retrieval (BM25 + dense + PPR) fused by RRF, affect as a multiplier, and a galaxy where every edge explains itself.",
+    "description_zh": "dsh-nebula-mind — cross-session memory for DeepSeek Harness, and a persistent mind rather than a store. It remembers across restarts and compaction, and forgets the way the sea does: nothing is deleted, things just sink. Hybrid retrieval (BM25 + dense + PPR) fused by RRF, affect as a multiplier, and a galaxy where every edge explains itself.",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
   },
   {
     "id": "awesome-dsh-plugins-oslook-1",
@@ -9740,6 +9823,230 @@
     "capabilities": [
       "coding",
       "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-manager-13",
+    "name": "dsh-session-manager",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/qewregrfhnm/dsh-session-manager",
+    "description": "Full session management plugin for DeepSeek Harness (DSH) web UI: delete/trash/restore, workspace grouping, move sessions between workspaces, unread markers, context compaction threshold. Fully local, bilingual zh/en.",
+    "description_zh": "Full session management plugin for DeepSeek Harness (DSH) web UI: delete/trash/restore, workspace grouping, move sessions between workspaces, unread markers, context compaction threshold. Fully local, bilingual zh/en.",
+    "capabilities": [
+      "coding",
+      "context",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "publish-kit",
+    "name": "publish-kit",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/EternalNight996/publish-kit",
+    "description": "Release playbook for AI agents covering npm / GitHub / Gitee / DSH marketplace / cargo crates.io / PyPI / PyInstaller multi-channel publish, bilingual README, git tag SOP, npm slimming.",
+    "description_zh": "Release playbook for AI agents covering npm / GitHub / Gitee / DSH marketplace / cargo crates.io / PyPI / PyInstaller multi-channel publish, bilingual README, git tag SOP, npm slimming.",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hidden-paths",
+    "name": "dsh-hidden-paths",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Gabrip780/dsh-hidden-paths",
+    "description": "Deny an AI agent access to .env files, credential stores, keys and any path you hide — across file tools, shell commands, search selectors and run_code. A DeepSeek Harness (dsh) plugin.",
+    "description_zh": "Deny an AI agent access to .env files, credential stores, keys and any path you hide — across file tools, shell commands, search selectors and run_code. A DeepSeek Harness (dsh) plugin.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-window-drag",
+    "name": "dsh-window-drag",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/angls4/dsh-window-drag",
+    "description": "DSH plugin: restores title-bar dragging and double-click zoom in DeepSeek Harness Desktop (macOS)",
+    "description_zh": "DSH plugin: restores title-bar dragging and double-click zoom in DeepSeek Harness Desktop (macOS)",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dshmarket",
+    "name": "dshmarket",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Sun-0306/dshmarket",
+    "description": "Visual plugin market inside DeepSeek Harness — browse, search, and one-click install community plugins. · DSH 可视化插件市场：逛一逛，点一下，装好。",
+    "description_zh": "Visual plugin market inside DeepSeek Harness — browse, search, and one-click install community plugins. · DSH 可视化插件市场：逛一逛，点一下，装好。",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-apikeys",
+    "name": "dsh-apikeys",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/XRC111/dsh-apikeys",
+    "description": "Multi-platform API keys for DeepSeek Harness: store keys for GitHub, Cloudflare, Vercel, npm, Docker Hub, Hugging Face and your own platforms, and let the model call their APIs as you via apikey_call / apikey_platforms / apikey_key.",
+    "description_zh": "Multi-platform API keys for DeepSeek Harness: store keys for GitHub, Cloudflare, Vercel, npm, Docker Hub, Hugging Face and your own platforms, and let the model call their APIs as you via apikey_call / apikey_platforms / apikey_key.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-open-card",
+    "name": "dsh-open-card",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/zenro21/dsh-open-card",
+    "description": "给 DeepSeek Harness Web UI 的任意面板加上可拖拽边框：点选后拉边框改长宽，还能收起、滚动、平移、置前，尺寸自动记忆并跨刷新恢复。 / Drag-to-resize any panel in the DeepSeek Harness Web UI: pick a block, drag its borders to set width and height, then collapse, scroll, move or raise it. Sizes persist and are restored on reload.",
+    "description_zh": "给 DeepSeek Harness Web UI 的任意面板加上可拖拽边框：点选后拉边框改长宽，还能收起、滚动、平移、置前，尺寸自动记忆并跨刷新恢复。 / Drag-to-resize any panel in the DeepSeek Harness Web UI: pick a block, drag its borders to set width and height, then collapse, scroll, move or raise it. Sizes persist and are restored on reload.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-arg-guard",
+    "name": "dsh-subagent-arg-guard",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/NekogamiJam/dsh-subagent-arg-guard",
+    "description": "Narrow DSH subagent argument recovery that restores normal defaults without taking over model routing",
+    "description_zh": "Narrow DSH subagent argument recovery that restores normal defaults without taking over model routing",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ai-for-memory",
+    "name": "dsh-ai-for-memory",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/kuugakw/dsh-ai-for-memory",
+    "description": "Test build 0.1 of a layered project memory plugin for DeepSeek Harness, rewritten from ai-game-for-memory: process log, archive, snapshots, context compaction and restore, local search, risk-reviewed decisions, Web panel.",
+    "description_zh": "Test build 0.1 of a layered project memory plugin for DeepSeek Harness, rewritten from ai-game-for-memory: process log, archive, snapshots, context compaction and restore, local search, risk-reviewed decisions, Web panel.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-market-seed-1",
+    "name": "dsh-market-seed",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/mysteriousPldq/dsh-market-seed",
+    "description": "Seed DeepSeek Harness plugin-market index sources on startup, so the Discover tab can search and install community plugins right after install.",
+    "description_zh": "Seed DeepSeek Harness plugin-market index sources on startup, so the Discover tab can search and install community plugins right after install.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-runtime-reconcile",
+    "name": "dsh-runtime-reconcile",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/shuai0503/dsh-runtime-reconcile",
+    "description": "Read-only live-runtime reconciliation for DeepSeek Harness profiles: find configured-but-missing providers, disabled bundles, inactive rows and tool-registry drift.",
+    "description_zh": "Read-only live-runtime reconciliation for DeepSeek Harness profiles: find configured-but-missing providers, disabled bundles, inactive rows and tool-registry drift.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "plugin-advisor",
+    "name": "Plugin-advisor",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/PilotHowe/Plugin-advisor",
+    "description": "Stop browsing the DSH plugin market. Describe your task and Plugin Advisor finds, judges, and onboards the right community plugin — and asks before switching.",
+    "description_zh": "Stop browsing the DSH plugin market. Describe your task and Plugin Advisor finds, judges, and onboards the right community plugin — and asks before switching.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-figma-mcp-1",
+    "name": "dsh-figma-mcp",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/yoobinkim541/dsh-figma-mcp",
+    "description": "Figma MCP over stdio for DeepSeek Harness and any MCP client: reuses the OAuth credential your host already stored. Zero LLM turns per call.",
+    "description_zh": "Figma MCP over stdio for DeepSeek Harness and any MCP client: reuses the OAuth credential your host already stored. Zero LLM turns per call.",
+    "capabilities": [
+      "coding",
+      "mcp"
     ],
     "status": "active",
     "verified": false,

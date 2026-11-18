@@ -10561,6 +10561,91 @@
     "license": "MIT"
   },
   {
+    "id": "anima-style-lora-workflow-bundle",
+    "name": "anima-style-lora-workflow-bundle",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Nana7mi0721/anima-style-lora-workflow-bundle",
+    "description": "DeepSeek Harness 插件包：Anima 风格 LoRA 数据集全流程引擎，覆盖抓图下载 → 去重筛选 → 文字检测修补 → 重排编号 → 打标洗标 → 训练配置。自带 anima_status/anima_stage/anima_job/anima_doctor 四个工具、Agent 预设与图形设置页，另有一套可脱离 DSH 独立运行的 15 阶段 Python CLI。",
+    "description_zh": "DeepSeek Harness 插件包：Anima 风格 LoRA 数据集全流程引擎，覆盖抓图下载 → 去重筛选 → 文字检测修补 → 重排编号 → 打标洗标 → 训练配置。自带 anima_status/anima_stage/anima_job/anima_doctor 四个工具、Agent 预设与图形设置页，另有一套可脱离 DSH 独立运行的 15 阶段 Python CLI。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-plan-execute",
+    "name": "dsh-plan-execute",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/FFFengMJL/dsh-plan-execute",
+    "description": "Same-session DSH plan approval extension: model and reasoning-effort selection, safe pre-plan compaction, and a layout-safe options panel.",
+    "description_zh": "Same-session DSH plan approval extension: model and reasoning-effort selection, safe pre-plan compaction, and a layout-safe options panel.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-chat-mode",
+    "name": "dsh-plugin-chat-mode",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/XiaoFeng7418/dsh-plugin-chat-mode",
+    "description": "Minimal, tool-free chat preset for DeepSeek Harness (DSH): no workflow prompt, no environment snapshot, no tool schemas. / DSH 极简省 Token 日常对话模式插件",
+    "description_zh": "Minimal, tool-free chat preset for DeepSeek Harness (DSH): no workflow prompt, no environment snapshot, no tool schemas. / DSH 极简省 Token 日常对话模式插件",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-endurance",
+    "name": "dsh-plugin-endurance",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Dynesshely/dsh-plugin-endurance",
+    "description": "DeepSeek Harness plugin: keep long-running tasks under convergence checks until they settle — stop on convergence or idempotent soak until the plan time.",
+    "description_zh": "DeepSeek Harness plugin: keep long-running tasks under convergence checks until they settle — stop on convergence or idempotent soak until the plan time.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-qwen-media",
+    "name": "dsh-qwen-media",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/sh-lsy/dsh-qwen-media",
+    "description": "DeepSeek Harness 用户级技能：在任何项目的会话中主动调用阿里云百炼 Token Plan（qwen-token-plan-cn）的图像/视频生成模型，消耗套餐 Credits（sk-sp- Key），Key 全程保密。",
+    "description_zh": "DeepSeek Harness 用户级技能：在任何项目的会话中主动调用阿里云百炼 Token Plan（qwen-token-plan-cn）的图像/视频生成模型，消耗套餐 Credits（sk-sp- Key），Key 全程保密。",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugin-skill",
     "name": "dsh-plugin-skill",
     "type": "workflow",

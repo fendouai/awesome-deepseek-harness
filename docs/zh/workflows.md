@@ -1,6 +1,6 @@
 ---
 title: "Workflows & Automation"
-description: "DeepSeek Harness (dsh) 精选 workflows & automation：🔥 Top 10 与完整列表（570 条）。"
+description: "DeepSeek Harness (dsh) 精选 workflows & automation：🔥 Top 10 与完整列表（575 条）。"
 keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 ---
 # Workflows & Automation
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | 9 | [genie](resources/genie.md) | ⭐352 | Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it. | ✅ 活跃 |
 | 10 | [OpenDirector](resources/opendirector.md) | ⭐278 | Build an easy-to-use workflow for the next generation of video creation with agent | ✅ 活跃 |
 
-## 完整列表（570）
+## 完整列表（575）
 
 
-**工作流（448）**
+**工作流（453）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -279,6 +279,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [agent-model-scout](resources/agent-model-scout.md) | ⭐1 | A Cordis plugin for DeepSeek Harness that probes all configured models with a cheap planning call, scores plans (quality vs. token cost), pops a picker card, and dispatches the task on the chosen model. | ✅ 活跃 |
 | [agent-workflow-viewer](resources/agent-workflow-viewer.md) | ⭐1 | DeepSeek Harness plugin: a live, zoomable map of what the model calls, what comes back, and which subagent it dispatches. | ✅ 活跃 |
 | [AmberFlow](resources/amberflow.md) | ⭐1 | 冻结计划的自动化中间件（TypeScript / Node ≥ 22.6）：LLM 只规划一次，执行由本地规则与决策模型逐步完成，演示一次后既可端侧执行。 | ✅ 活跃 |
+| [anima-style-lora-workflow-bundle](resources/anima-style-lora-workflow-bundle.md) | ⭐1 | DeepSeek Harness 插件包：Anima 风格 LoRA 数据集全流程引擎，覆盖抓图下载 → 去重筛选 → 文字检测修补 → 重排编号 → 打标洗标 → 训练配置。自带 anima_status/anima_stage/anima_job/anima_doctor 四个工具、Agent 预设与图形设置页，另有一套可脱离 DSH 独立运行的 15 阶段 Python CLI。 | ✅ 活跃 |
 | [clean-dev](resources/clean-dev.md) | ⭐1 | Lean agent skill for AI assisted development, plan-first development, approved phases, clean code, AGENTS.md, architecture notes, and decision records | ✅ 活跃 |
 | [code-tutor-dsh](resources/code-tutor-dsh.md) | ⭐1 | DeepSeek Harness plugin: a code-explanation skill that answers in three concise parts - what the code does, the syntax it uses, then a line-by-line walkthrough. | ✅ 活跃 |
 | [commandcode-usage](resources/commandcode-usage.md) | ⭐1 | Command Code plan usage for seven coding agents: one core, seven adapters. Runs locally, so checking your quota costs no quota. | ✅ 活跃 |
@@ -371,6 +372,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-petrinet](resources/dsh-petrinet.md) | ⭐1 | Workflow-net runtime for DeepSeek Harness: resource-aware concurrency, native loops and fan-out, static soundness checking before a plan becomes durable, and process mining over its own event log. | ✅ 活跃 |
 | [dsh-plan-act-models](resources/dsh-plan-act-models.md) | ⭐1 | 在 DeepSeek Harness 的对话框里加一个模式下拉框：Plan、Act 与自定义模式各用一组模型与思考复杂度，并可各带一段提示词；进入 plan 与批准计划时自动切换（思路来自 RooCode），Plan 与 Act 支持按工作区覆盖。 | ✅ 活跃 |
 | [dsh-plan-checkup](resources/dsh-plan-checkup.md) | ⭐1 | Plan Checkup for DeepSeek Harness: checks each step of a plan before you approve it and marks the results on the plan review card. | ✅ 活跃 |
+| [dsh-plan-execute](resources/dsh-plan-execute.md) | ⭐1 | Same-session DSH plan approval extension: model and reasoning-effort selection, safe pre-plan compaction, and a layout-safe options panel. | ✅ 活跃 |
 | [dsh-plan-gate](resources/dsh-plan-gate.md) | ⭐1 | 先澄清、再出方案、用户批准后才执行：给 DeepSeek Harness 加一道执行前闸门 | ✅ 活跃 |
 | [dsh-plan-mode-plus](resources/dsh-plan-mode-plus.md) | ⭐1 | ZCode-style plan mode for DeepSeek Harness: model-initiated enter_plan_mode, hard read-only enforcement, four-phase planning workflow | ✅ 活跃 |
 | [dsh-plan-plus](resources/dsh-plan-plus.md) | ⭐1 | DeepSeek Harness 计划评审增强插件：评审弹窗内直接提意见修改计划，随时回看、对比、编辑每一版计划 | ✅ 活跃 |
@@ -382,9 +384,11 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-plugin-aflare](resources/dsh-plugin-aflare.md) | ⭐1 | aflare workflow tools for DeepSeek Harness (DSH): generate, validate, run local-first deterministic workflows | ✅ 活跃 |
 | [dsh-plugin-agent-workflow](resources/dsh-plugin-agent-workflow-1.md) | ⭐1 | DeepSeek Harness Web UI 插件：以用户轮次为入口查看模型请求、响应与工具调用链路（适配 dsh@0.2.2-alpha.2） | ✅ 活跃 |
 | [dsh-plugin-cdp](resources/dsh-plugin-cdp.md) | ⭐1 | 基于浏览器扩展的自动化通道驱动不了部分网站： | ✅ 活跃 |
+| [dsh-plugin-chat-mode](resources/dsh-plugin-chat-mode.md) | ⭐1 | Minimal, tool-free chat preset for DeepSeek Harness (DSH): no workflow prompt, no environment snapshot, no tool schemas. / DSH 极简省 Token 日常对话模式插件 | ✅ 活跃 |
 | [dsh-plugin-context-studio](resources/dsh-plugin-context-studio.md) | ⭐1 | Context Studio for DeepSeek Harness: start from sessions to see which ones form a chain and which are independent, which memories (instructions, skills) each session loaded and whether they are stale; then clean, transplant across projects and compose a starting context for a new session. | ✅ 活跃 |
 | [dsh-plugin-dual-brain](resources/dsh-plugin-dual-brain.md) | ⭐1 | DeepSeek-V4.1-Flash plans, MiMo-V2.6-Flash executes — dual-brain agent presets for DeepSeek Harness. | ✅ 活跃 |
 | [dsh-plugin-education](resources/dsh-plugin-education.md) | ⭐1 | Education toolkit for DeepSeek Harness agents: lesson-plan skeletons by grade band, quiz scaffolding and answer-key validation, analytic rubrics, Anki/markdown flashcards, and readability levels | ✅ 活跃 |
+| [dsh-plugin-endurance](resources/dsh-plugin-endurance.md) | ⭐1 | DeepSeek Harness plugin: keep long-running tasks under convergence checks until they settle — stop on convergence or idempotent soak until the plan time. | ✅ 活跃 |
 | [dsh-plugin-git-commit-push](resources/dsh-plugin-git-commit-push.md) | ⭐1 | One-call Conventional-Commits git workflow for DSH: survey + commit + optional tag + push, plus a /commit-push slash command that runs with no model involvement. Windows and macOS/Linux. | ✅ 活跃 |
 | [dsh-plugin-graphgpt](resources/dsh-plugin-graphgpt.md) | ⭐1 | Run validated GraphGPT workflows as native DeepSeek Harness tools | ✅ 活跃 |
 | [dsh-plugin-local-life](resources/dsh-plugin-local-life.md) | ⭐1 | Local-life toolkit for DeepSeek Harness agents: budget planning, bill splitting, unit-price and discount math, common unit conversions (incl. jin/li/chi, C/F), and trip/outing checklists | ✅ 活跃 |
@@ -403,6 +407,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-py-codeact](resources/dsh-py-codeact.md) | ⭐1 | Python-based CodeAct for dsh with persistent state across cells, replacing Dynamic Workflows and code-mode | ✅ 活跃 |
 | [dsh-quota-dashboard](resources/dsh-quota-dashboard-1.md) | ⭐1 | dsh-cost-meter 的 fork:会话费用 / Token 缓存统计 + 统一额度看板——DeepSeek 余额、OpenCode GO、Kimi For Coding、GLM Coding Plan(智谱)、火山方舟订阅额度一屏尽览。 | ✅ 活跃 |
 | [dsh-quota-meter](resources/dsh-quota-meter-2.md) | ⭐1 | Plan usage, account balance and running cost in the DeepSeek Harness composer dock: DeepSeek wallet, OpenCode Go subscription windows, and a per-session cost estimate. Provider-extensible, plain JavaScript, no build step. | ✅ 活跃 |
+| [dsh-qwen-media](resources/dsh-qwen-media.md) | ⭐1 | DeepSeek Harness 用户级技能：在任何项目的会话中主动调用阿里云百炼 Token Plan（qwen-token-plan-cn）的图像/视频生成模型，消耗套餐 Credits（sk-sp- Key），Key 全程保密。 | ✅ 活跃 |
 | [dsh-report-studio](resources/dsh-report-studio.md) | ⭐1 | 把 DSH 会话变成可交付工作报告（日报/周报/交接/文章），带可验证凭证。 | ✅ 活跃 |
 | [dsh-research-mode](resources/dsh-research-mode.md) | ⭐1 | Evidence-first research workflow for DeepSeek Harness: immutable artifacts, seven-face provenance, local-first, and honest about what it cannot prove. | ✅ 活跃 |
 | [dsh-ronge-adaptive-skill-archive](resources/dsh-ronge-adaptive-skill-archive.md) | ⭐1 | Context-aware, self-evolving skill cockpit for DeepSeek Harness: recommendations with reasons, 10% exploration, live "now using", plan/immersive modes, experience memory, local safety scan, update diff/rollback, 6,399-skill index. MIT. | ✅ 活跃 |

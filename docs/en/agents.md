@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "Top 10 and full list of 393 curated agents & multi-agent for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 395 curated agents & multi-agent for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ active |
 | 10 | [dsh-liketavern](resources/dsh-liketavern.md) | ⭐111 | A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime. | ✅ active |
 
-## Complete list (393)
+## Complete list (395)
 
 
-**Multi-agent (390)**
+**Multi-agent (392)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -314,6 +314,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-mulanci](resources/dsh-mulanci.md) | ⭐1 | 木兰辞 · MulanCi — 多 Agent 编排与逐 Agent 认证管理；DeepSeek Harness 第三方源码预览 / multi-agent orchestration source preview | ✅ active |
 | [dsh-multirole](resources/dsh-multirole.md) | ⭐1 | DSH 多角色协作模式插件——人/顾问/总控/执行者四层架构，任务单制度 + 写入域互斥 + 授权模式 + 裁决日志，让大模型协作开发可控、可复用。DSH multi-role collaboration plugin — human/advisor/orchestrator/executor four-layer architecture with task manifests, write-set isolation, authorization modes, and audit logging for controllable, reusable LLM team development. | ✅ active |
 | [dsh-native-collab](resources/dsh-native-collab.md) | ⭐1 | 为 DeepSeek Harness (DSH) 提供子 Agent 沟通增强与 Team 模型选择支持。 Flexible Agent Teams and model selection for DSH, with enhanced communication between parent and child conversations. 非官方社区插件 / Unofficial community plugin. | ✅ active |
+| [dsh-opencode-client](resources/dsh-opencode-client.md) | ⭐1 | OpenCode as a native dsh subagent backend, plus a client for every remote opencode serve. | ✅ active |
 | [dsh-opinionated-subagent](resources/dsh-opinionated-subagent.md) | ⭐1 | A minimal, opinionated subagent for DeepSeek Harness: you choose which models a child may run on and at which reasoning effort, and a correction reaches a working child at its next step | ✅ active |
 | [dsh-orchestration](resources/dsh-orchestration.md) | ⭐1 | Independent typed decisions and a durable task / multi-device execution suite for DeepSeek Harness, with optional channel adapters and WebUI. | ✅ active |
 | [dsh-orchestrator](resources/dsh-orchestrator-5.md) | ⭐1 | DSH 协调插件：主会话拆任务、派子会话、看回报、管台账 | ✅ active |
@@ -370,6 +371,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-subagent-custom](resources/dsh-subagent-custom.md) | ⭐1 | DeepSeek Harness 子代理模型管控与 Jev 智能分流插件（合并自 vitas/dsh-jev-subagent-dispatch 与 ringoage/dsh-subagent-model-picker） | ✅ active |
 | [dsh-subagent-effort](resources/dsh-subagent-effort.md) | ⭐1 | DeepSeek Harness plugin: subagents with their own model & reasoning effort — GUI settings card + subagent_select tool | ✅ active |
 | [dsh-subagent-fold](resources/dsh-subagent-fold.md) | ⭐1 | DSH 子代理列表折叠：按使用批次分 历史/今日/上次/本次，本次始终展开，其余可折叠（不改原版头部） | ✅ active |
+| [dsh-subagent-forge](resources/dsh-subagent-forge.md) | ⭐1 | Configurable subagents for DeepSeek Harness: per-child system prompt, model allowlist, reasoning effort and an explicit delegation grant. | ✅ active |
 | [dsh-subagent-injection](resources/dsh-subagent-injection.md) | ⭐1 | DSH Web plugin: configure priority-ordered provider/model/reasoning-effort routes for subagent delegation, and gate subagent_fork | ✅ active |
 | [dsh-subagent-inspector](resources/dsh-subagent-inspector.md) | ⭐1 | Read-only live subagent process inspector for DeepSeek Harness Web | ✅ active |
 | [dsh-subagent-mgm](resources/dsh-subagent-mgm.md) | ⭐1 | DeepSeek Harness Web UI 插件（bundle）：管理子智能体的目录顺序与右侧栏面板，并在子智能体失败时把真实原因交给父智能体。 | ✅ active |

@@ -3122,6 +3122,40 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-socratic-mode",
+    "name": "dsh-socratic-mode",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/summersummer-liu/dsh-socratic-mode",
+    "description": "Socratic learning mode for DeepSeek Harness — a tutoring agent preset that gives one piece of real knowledge then asks one invitational question per turn. 先给再问，不讲课不审问。",
+    "description_zh": "Socratic learning mode for DeepSeek Harness — a tutoring agent preset that gives one piece of real knowledge then asks one invitational question per turn. 先给再问，不讲课不审问。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tcm-xueli",
+    "name": "dsh-tcm-xueli",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/yeweiliang7063/dsh-tcm-xueli",
+    "description": "装上以后，DSH 里多出一个「中医 · 经方（学习版）」预设，功能：点评现有处方， 问诊，辨证，讲方讲穴，治则与调护，会话归档。只讲思路，不给剂量，不出处方笺。npm 包名 dsh-tcm-xueli。",
+    "description_zh": "装上以后，DSH 里多出一个「中医 · 经方（学习版）」预设，功能：点评现有处方， 问诊，辨证，讲方讲穴，治则与调护，会话归档。只讲思路，不给剂量，不出处方笺。npm 包名 dsh-tcm-xueli。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",

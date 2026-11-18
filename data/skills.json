@@ -1492,6 +1492,22 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-projects-3",
+    "name": "DSH-projects",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/hovocope135-tech/DSH-projects",
+    "description": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
+    "description_zh": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 24,
+    "license": "MIT"
+  },
+  {
     "id": "video-shotcraft-dsh",
     "name": "video-shotcraft-dsh",
     "type": "skill",
@@ -1845,6 +1861,22 @@
     "verified": false,
     "stars": 16,
     "license": "GPL-3.0"
+  },
+  {
+    "id": "dsh-realman-studio",
+    "name": "dsh-realman-studio",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/liangdabiao/dsh-realman-studio",
+    "description": "真人剧工坊：真人实拍质感 Seedance 短剧 dsh 插件（skill 快照+即梦官方 CLI 出图出片+跨集接力+机械事故安检）「真人实拍质感 Seedance 分镜」skill 搬进 DeepSeek Harness，并接上即梦官方 CLI（dreamina-canvas）： 一句话故事 → 剧本 / 资产图 / 每集 15 秒真人感分镜 → 在即梦画布上出图出片 → 拼成一部片，全程不用离开对话。",
+    "description_zh": "真人剧工坊：真人实拍质感 Seedance 短剧 dsh 插件（skill 快照+即梦官方 CLI 出图出片+跨集接力+机械事故安检）「真人实拍质感 Seedance 分镜」skill 搬进 DeepSeek Harness，并接上即梦官方 CLI（dreamina-canvas）： 一句话故事 → 剧本 / 资产图 / 每集 15 秒真人感分镜 → 在即梦画布上出图出片 → 拼成一部片，全程不用离开对话。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 16,
+    "license": "MIT"
   },
   {
     "id": "pptwise",
@@ -16475,6 +16507,202 @@
     "status": "active",
     "verified": false,
     "stars": 1
+  },
+  {
+    "id": "visual-to-editable-ppt-skill",
+    "name": "visual-to-editable-ppt-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/yjm110517/visual-to-editable-ppt-skill",
+    "description": "把一张参考图片重建为真正可编辑的 PowerPoint：标题和正文仍是文本框，卡片、线条和箭头仍是原生形状，复杂图标与插画则作为独立、安全的图片资产保留。",
+    "description_zh": "把一张参考图片重建为真正可编辑的 PowerPoint：标题和正文仍是文本框，卡片、线条和箭头仍是原生形状，复杂图标与插画则作为独立、安全的图片资产保留。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-session-tools",
+    "name": "dsh-session-tools",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Ryuu-64/dsh-session-tools",
+    "description": "Delegate tasks between DeepSeek Harness (DSH) conversations: create sessions, send follow-ups, track replies, and control sending and receiving.",
+    "description_zh": "Delegate tasks between DeepSeek Harness (DSH) conversations: create sessions, send follow-ups, track replies, and control sending and receiving.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "software-design-test",
+    "name": "software-design-test",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Inceptzws/software-design-test",
+    "description": "DeepSeek Harness 插件：模拟真实用户做软件设计测试 / Simulate a real user to test software — personas, task cards, three input modes, screen evidence, zero input injection.",
+    "description_zh": "DeepSeek Harness 插件：模拟真实用户做软件设计测试 / Simulate a real user to test software — personas, task cards, three input modes, screen evidence, zero input injection.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hermes-recall",
+    "name": "dsh-hermes-recall",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/gebi-one/dsh-hermes-recall",
+    "description": "自动识别本机 Hermes 当前使用的记忆工具，把技能与记忆实时接入 DSH，检索始终可用。 · Auto-detects whichever memory tool local Hermes uses, then reuses its skills and memory in DeepSeek Harness, with always-available recall.",
+    "description_zh": "自动识别本机 Hermes 当前使用的记忆工具，把技能与记忆实时接入 DSH，检索始终可用。 · Auto-detects whichever memory tool local Hermes uses, then reuses its skills and memory in DeepSeek Harness, with always-available recall.",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-stock-research-1",
+    "name": "dsh-stock-research",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/liangdabiao/dsh-stock-research",
+    "description": "dsh-stock-research · 股票投资尽调 DeepSeek Harness（dsh）插件：8 阶段投资尽调研究框架——公司事实底座、行业周期分析、业务拆解、财务质量、股权治理、市场分歧、估值与护城河、综合报告（含信号评级),Stock due diligence dsh plugin: 8-phase framework, 7 skills, pure skill no API key",
+    "description_zh": "dsh-stock-research · 股票投资尽调 DeepSeek Harness（dsh）插件：8 阶段投资尽调研究框架——公司事实底座、行业周期分析、业务拆解、财务质量、股权治理、市场分歧、估值与护城河、综合报告（含信号评级),Stock due diligence dsh plugin: 8-phase framework, 7 skills, pure skill no API key",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "sci-agent",
+    "name": "sci-agent",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Richard-He-happy/sci-agent",
+    "description": "Scientific agent skills: literature reading, academic writing, scientific figures, presentations, skill design and agent pipelines (DSH plugin).",
+    "description_zh": "Scientific agent skills: literature reading, academic writing, scientific figures, presentations, skill design and agent pipelines (DSH plugin).",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-demian-drama-strip",
+    "name": "dsh-demian-drama-strip",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/demian-1013/dsh-demian-drama-strip",
+    "description": "DSH skill bundle that turns a short drama into a shot-by-shot storyboard and a shootable screenplay. Still frames only ever give composition, so camera moves and subject motion come from ffmpeg 4fps frame-diff sheets, and luma jumps locate cuts and flashbacks. Needs ffmpeg.",
+    "description_zh": "DSH skill bundle that turns a short drama into a shot-by-shot storyboard and a shootable screenplay. Still frames only ever give composition, so camera moves and subject motion come from ffmpeg 4fps frame-diff sheets, and luma jumps locate cuts and flashbacks. Needs ffmpeg.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-switcher",
+    "name": "dsh-skill-switcher",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/yyliucha/dsh-skill-switcher",
+    "description": "DeepSeek Harness plugin: switch each agent skill on, to user-only, or off from the composer and Settings, writing the SKILL.md invocation fields. 在输入框弹层与设置页里一键切换 agent 技能的调用状态。",
+    "description_zh": "DeepSeek Harness plugin: switch each agent skill on, to user-only, or off from the composer and Settings, writing the SKILL.md invocation fields. 在输入框弹层与设置页里一键切换 agent 技能的调用状态。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-specialist-team",
+    "name": "dsh-specialist-team",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/p33333333333333l/dsh-specialist-team",
+    "description": "DSH specialist teams: task routing, model selection, and scoped assignments | DSH 专家团队：任务路由、模型选择和范围分配",
+    "description_zh": "DSH specialist teams: task routing, model selection, and scoped assignments | DSH 专家团队：任务路由、模型选择和范围分配",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-architecture-trace",
+    "name": "dsh-architecture-trace",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/aXYer-SI/dsh-architecture-trace",
+    "description": "DSH plugin: record every task run as readable Markdown - system prompt, model calls, tool calls, TTFT. 把 DSH 一轮任务的全过程记录成可读的 Markdown。",
+    "description_zh": "DSH plugin: record every task run as readable Markdown - system prompt, model calls, tool calls, TTFT. 把 DSH 一轮任务的全过程记录成可读的 Markdown。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-categories-1",
+    "name": "dsh-skill-categories",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/kkqwq7/dsh-skill-categories",
+    "description": "DSH 技能分类中心：技能按分类折叠浏览与拖拽归类，和 skill-hub 共享分类数据。",
+    "description_zh": "DSH 技能分类中心：技能按分类折叠浏览与拖拽归类，和 skill-hub 共享分类数据。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "vps-proxy-doctor",
+    "name": "vps-proxy-doctor",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/1334104926/vps-proxy-doctor",
+    "description": "自建 VPS 代理（科学上网）排障：手机 Clash Meta、电脑 Clash Verge 连不上、网页打不开、部分网站不行、特别慢时用。Troubleshooting skill for self-hosted proxies.",
+    "description_zh": "自建 VPS 代理（科学上网）排障：手机 Clash Meta、电脑 Clash Verge 连不上、网页打不开、部分网站不行、特别慢时用。Troubleshooting skill for self-hosted proxies.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "dsh-news-briefing",

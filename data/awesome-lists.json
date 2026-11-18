@@ -237,6 +237,22 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "awesome-dsh-plugin-pro",
+    "name": "awesome-dsh-plugin-pro",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/bruc3van/awesome-dsh-plugin-pro",
+    "description": "DSH 插件精选目录专业版：人工核实真插件，剔除蹭标签和非插件项目，提供场景分类、精选推荐、热度排行与可订阅数据。DSH Market Pro 的社区数据源。",
+    "description_zh": "DSH 插件精选目录专业版：人工核实真插件，剔除蹭标签和非插件项目，提供场景分类、精选推荐、热度排行与可订阅数据。DSH Market Pro 的社区数据源。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 526,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-ai-pedia",
     "name": "Awesome-AI-Pedia",
     "type": "awesome-list",
@@ -1839,6 +1855,22 @@
     "verified": false,
     "stars": 9,
     "license": "CC0-1.0"
+  },
+  {
+    "id": "dsh-market-pro",
+    "name": "dsh-market-pro",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/bruc3van/dsh-market-pro",
+    "description": "DSH 插件市场专业版：精选真插件，集浏览、安装、更新及安装后 AI 安全审查于一体。",
+    "description_zh": "DSH 插件市场专业版：精选真插件，集浏览、安装、更新及安装后 AI 安全审查于一体。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "license": "MIT"
   },
   {
     "id": "dsh-composer-history",
@@ -4359,6 +4391,22 @@
       "coding",
       "search",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugins-108",
+    "name": "dsh-plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/kadaliao/dsh-plugins",
+    "description": "A collection of plugins for DeepSeek Harness: small, focused additions to the chat, the composer and the workspace.",
+    "description_zh": "A collection of plugins for DeepSeek Harness: small, focused additions to the chat, the composer and the workspace.",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -10061,6 +10109,40 @@
     "repository": "https://github.com/PilotHowe/dsh-plugin-buddy",
     "description": "Stop browsing the DSH plugin market. Describe your task and Plugin Advisor finds, judges, and onboards the right community plugin — and asks before switching.",
     "description_zh": "Stop browsing the DSH plugin market. Describe your task and Plugin Advisor finds, judges, and onboards the right community plugin — and asks before switching.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-llm-pi-ai-image-offload",
+    "name": "dsh-llm-pi-ai-image-offload",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/ender-candle/dsh-llm-pi-ai-image-offload",
+    "description": "Fixes image offload for DSH pi-ai routes: restores the missing imageRequestPricing so oversized base64 images stop eating the context window.为 DeepSeek Harness 的 pi-ai 路由补上图片 token 计量，让 dsh-spill-policy 能把超大 base64 图片移出请求，避免撑爆上下文窗口。",
+    "description_zh": "Fixes image offload for DSH pi-ai routes: restores the missing imageRequestPricing so oversized base64 images stop eating the context window.为 DeepSeek Harness 的 pi-ai 路由补上图片 token 计量，让 dsh-spill-policy 能把超大 base64 图片移出请求，避免撑爆上下文窗口。",
+    "capabilities": [
+      "coding",
+      "context",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-caoliao-qrcode",
+    "name": "dsh-caoliao-qrcode",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/caoliao/dsh-caoliao-qrcode",
+    "description": "草料二维码 DeepSeek Harness 插件：OAuth 连接、场景 Skill 与 Registry 材料",
+    "description_zh": "草料二维码 DeepSeek Harness 插件：OAuth 连接、场景 Skill 与 Registry 材料",
     "capabilities": [
       "coding"
     ],

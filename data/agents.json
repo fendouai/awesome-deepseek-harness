@@ -7082,6 +7082,40 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-opencode-client",
+    "name": "dsh-opencode-client",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/yhuan416/dsh-opencode-client",
+    "description": "OpenCode as a native dsh subagent backend, plus a client for every remote opencode serve.",
+    "description_zh": "OpenCode as a native dsh subagent backend, plus a client for every remote opencode serve.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-forge",
+    "name": "dsh-subagent-forge",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/00wz/dsh-subagent-forge",
+    "description": "Configurable subagents for DeepSeek Harness: per-child system prompt, model allowlist, reasoning effort and an explicit delegation grant.",
+    "description_zh": "Configurable subagents for DeepSeek Harness: per-child system prompt, model allowlist, reasoning effort and an explicit delegation grant.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-evolve",
     "name": "dsh-skill-evolve",
     "type": "agent",

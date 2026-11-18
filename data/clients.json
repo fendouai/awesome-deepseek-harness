@@ -1426,6 +1426,22 @@
     "stars": 149
   },
   {
+    "id": "chengmeng-a-life-support-assistant-designed-for-transgender-individuals-with-a-history-of-incarcerat",
+    "name": "Chengmeng-A-Life-Support-Assistant-Designed-for-Transgender-Individuals-with-a-History-of-Incarcerat",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/zararogers338-hash/Chengmeng-A-Life-Support-Assistant-Designed-for-Transgender-Individuals-with-a-History-of-Incarcerat",
+    "description": "Windows AI 桌面助手：自动记忆、本地 CPU 语义检索、文件与网络工具，基于 DeepSeek Harness。",
+    "description_zh": "Windows AI 桌面助手：自动记忆、本地 CPU 语义检索、文件与网络工具，基于 DeepSeek Harness。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 144,
+    "license": "MIT"
+  },
+  {
     "id": "open-record-replay",
     "name": "open-record-replay",
     "type": "client",
@@ -29321,6 +29337,174 @@
     "description_zh": "接管 DeepSeek Harness 桌面版在 Windows 上失败的自动安装：应用内更新因「优雅退出超时」放弃后，由计划任务把已下载的安装包静默装完。",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dshd-1",
+    "name": "dshd",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/chuchenai/dshd",
+    "description": "dshd is deepseek harness desktop",
+    "description_zh": "dshd is deepseek harness desktop",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chubby-whale",
+    "name": "dsh-chubby-whale",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/adengou/dsh-chubby-whale",
+    "description": "DSH 网页版桌面宠物「肥鲸」——蓝发鲸鱼娘：语音对话、念诗说书、饭点提醒",
+    "description_zh": "DSH 网页版桌面宠物「肥鲸」——蓝发鲸鱼娘：语音对话、念诗说书、饭点提醒",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-content-hub",
+    "name": "DSH-Content-Hub",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/flyingHX/DSH-Content-Hub",
+    "description": "一份内容，多个平台，事实不漂移。把长文/访谈/报告拆成六类可复用内容原子（观点、证据、故事、步骤、引语、问题），按文章/短视频的媒介语法重新编排，并打包检查跨稿事实一致性。DSH 插件。One source, many formats, zero fact drift. Atomize long-form content into six reusable units (claim, evidence, story, step, quote, question), adapt them to article and short-video templates, and audit cross-draft consistency. A DSH plugin.",
+    "description_zh": "一份内容，多个平台，事实不漂移。把长文/访谈/报告拆成六类可复用内容原子（观点、证据、故事、步骤、引语、问题），按文章/短视频的媒介语法重新编排，并打包检查跨稿事实一致性。DSH 插件。One source, many formats, zero fact drift. Atomize long-form content into six reusable units (claim, evidence, story, step, quote, question), adapt them to article and short-video templates, and audit cross-draft consistency. A DSH plugin.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-purge-fork",
+    "name": "dsh-purge-fork",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ssacko510-stack/dsh-purge-fork",
+    "description": "dsh-purge 1.1.71 个人维护分支 | DSH Desktop 0.2.1-rc.1 与 0.2.2-rc.2.1 兼容修复 | 基于 YuJunZhiXue/dsh-purge (MIT)",
+    "description_zh": "dsh-purge 1.1.71 个人维护分支 | DSH Desktop 0.2.1-rc.1 与 0.2.2-rc.2.1 兼容修复 | 基于 YuJunZhiXue/dsh-purge (MIT)",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-notify-25",
+    "name": "dsh-notify",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/HMYDK/dsh-notify",
+    "description": "Desktop notifications for DeepSeek Harness: turn-complete and approval-requested alerts.",
+    "description_zh": "Desktop notifications for DeepSeek Harness: turn-complete and approval-requested alerts.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workspace-migrate-1",
+    "name": "dsh-workspace-migrate",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/jockerbear/dsh-workspace-migrate",
+    "description": "备份与迁移：按工作区打包 DeepSeek Harness 的会话、项目文件与附件，在新电脑还原并重写历史路径（fork of lij0000-arch/dsh-workspace-migrate）",
+    "description_zh": "备份与迁移：按工作区打包 DeepSeek Harness 的会话、项目文件与附件，在新电脑还原并重写历史路径（fork of lij0000-arch/dsh-workspace-migrate）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-sync-5",
+    "name": "dsh-sync",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/FairmeHIT/dsh-sync",
+    "description": "本项目只做一件事：**在当前 DSH 0.2.2-rc.3 / 0.2.x 上，把任意 profile（包括 desktop）的插件清单和",
+    "description_zh": "本项目只做一件事：**在当前 DSH 0.2.2-rc.3 / 0.2.x 上，把任意 profile（包括 desktop）的插件清单和",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-app-controls",
+    "name": "dsh-app-controls",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/MiraculousGu/dsh-app-controls",
+    "description": "DeepSeek Harness Web GUI toolbar + KDE tray + plugin settings: tray toggle, per-feature visibility, remembered default window size, check/update DSH, quit/restart.",
+    "description_zh": "DeepSeek Harness Web GUI toolbar + KDE tray + plugin settings: tray toggle, per-feature visibility, remembered default window size, check/update DSH, quit/restart.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-cyrene-live2d",
+    "name": "dsh-plugin-cyrene-live2d",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/chelly4/dsh-plugin-cyrene-live2d",
+    "description": "A pink-white Cyrene (HSR) Live2D desktop pet for DeepSeek Harness: full-page theme, persona and worldbook injection, relationship memory, plus reminder and notes subplugins. Code MIT; character assets belong to miHoYo.",
+    "description_zh": "A pink-white Cyrene (HSR) Live2D desktop pet for DeepSeek Harness: full-page theme, persona and worldbook injection, relationship memory, plus reminder and notes subplugins. Code MIT; character assets belong to miHoYo.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "memory",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-tray-enhance",
+    "name": "dsh-tray-enhance",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Doubtun/dsh-tray-enhance",
+    "description": "Richer Windows tray menu for DeepSeek Harness (DSH): per-item icons, restart, update check, and a light/dark theme submenu.",
+    "description_zh": "Richer Windows tray menu for DeepSeek Harness (DSH): per-item icons, restart, update check, and a light/dark theme submenu.",
+    "capabilities": [
+      "coding",
+      "ui"
     ],
     "status": "active",
     "verified": false,

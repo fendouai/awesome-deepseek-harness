@@ -677,6 +677,24 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "numes-deepseek-harness",
+    "name": "numes-deepseek-harness",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/wwewtech/numes-deepseek-harness",
+    "description": "Zero-dependency local proxy wiring Numes's $0 :free model pool into DSH as an OpenAI-compatible provider, with never-give-up retries, Retry-After-aware backoff, and auto-discovery.",
+    "description_zh": "零依赖本地代理，将 Numes 的 $0 :free 模型池接入 DSH 作为 OpenAI 兼容 Provider，含不放弃重试、Retry-After 感知退避、免费模型自动发现。",
+    "capabilities": [
+      "coding",
+      "automation"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 0,
+    "install": "node tools/numes-free-failover.mjs, then add a Custom model API provider to DSH at http://127.0.0.1:8787/v1",
+    "license": "MIT"
+  },
+  {
     "id": "tokentracker",
     "name": "TokenTracker",
     "type": "plugin",

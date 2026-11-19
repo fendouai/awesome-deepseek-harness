@@ -1,6 +1,6 @@
 ---
 title: "Clients (Desktop & TUI)"
-description: "DeepSeek Harness (dsh) 精选 clients (desktop & tui)：🔥 Top 10 与完整列表（1630 条）。"
+description: "DeepSeek Harness (dsh) 精选 clients (desktop & tui)：🔥 Top 10 与完整列表（1644 条）。"
 keywords: "deepseek harness, dsh, clients, plugin, awesome"
 ---
 # Clients (Desktop & TUI)
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | 9 | [desktop-cc-gui](resources/desktop-cc-gui.md) | ⭐4,058 | Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. | ✅ 活跃 |
 | 10 | [OpenBitFun](resources/openbitfun-1.md) | ⭐3,986 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development. | ✅ 活跃 |
 
-## 完整列表（1630）
+## 完整列表（1644）
 
 
-**桌面端（1396）**
+**桌面端（1409）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -194,6 +194,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-claude-style](resources/dsh-claude-style.md) | ⭐22 | Claude Code Desktop theme for DeepSeek Harness｜ 为 DeepSeek Harness 网页 GUI 打造的 Claude Code 桌面主题 | ✅ 活跃 |
 | [dsh-codex-model-effort-selector](resources/dsh-codex-model-effort-selector.md) | ⭐22 | Codex desktop style model + reasoning-effort selector for DeepSeek Harness | ✅ 活跃 |
 | [dsh-launcher](resources/dsh-launcher-16.md) | ⭐22 | 释放 DeepSeek Harness 插件化内核能力，将 Runtime、Provider、Plugin、Skill、MCP 等能力统一编排，让 Harness 真正成为可扩展、可组合、可管理的本地 AI 运行平台。 | ✅ 活跃 |
+| [dsh-workbuddy-connect](resources/dsh-workbuddy-connect-6.md) | ⭐22 | 将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.在原项目基础上增加了，在卡片中显示消耗倍率。在对话框模型选择后，可以调节思考强度。 | ✅ 活跃 |
 | [dshdesktop](resources/dshdesktop.md) | ⭐22 | Unofficial Windows desktop client for the unmodified DeepSeek Harness Web UI | ✅ 活跃 |
 | [DeepDeck](resources/deepdeck.md) | ⭐21 | Build and reuse WebMCP tools in a macOS desktop workspace for DeepSeek Harness. | ✅ 活跃 |
 | [harness-launcher](resources/harness-launcher.md) | ⭐21 | DeepSeek Harness（DSH）中文插件管理器与启动器：可视化切换插件、保存启动方案，支持插件安装、更新、卸载和补丁回滚，内置 dsh-purge 专用适配器。Windows 下载解压即用。 | ✅ 活跃 |
@@ -839,6 +840,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-acrylic-light](resources/dsh-acrylic-light.md) | ⭐1 | DeepSeek Harness desktop: Windows Acrylic material + layered frosted panels | ✅ 活跃 |
 | [dsh-agent](resources/dsh-agent-1.md) | ⭐1 | Interactive ACP v2 bridge for DeepSeek Harness (dsh) — streaming, run-state reporting, permissions. ALwith Desktop is its reference client. | ✅ 活跃 |
 | [dsh-agent-bridge](resources/dsh-agent-bridge-2.md) | ⭐1 | 把本机 AI 桌面客户端（Qoder / WorkBuddy）里已登录的模型反向代理进 DeepSeek Harness — bring local desktop-client models into DSH as extra providers. | ✅ 活跃 |
+| [dsh-agent-desktop](resources/dsh-agent-desktop.md) | ⭐1 | 给 dsh 装上一双操作桌面的手：agent-desktop MCP 一键挂载 + 跨平台引擎自动发现 | ✅ 活跃 |
 | [dsh-agent-enhancer](resources/dsh-agent-enhancer.md) | ⭐1 | Leveling up DeepSeek Harness Desktop into a Cursor/Claude-class coding agent. 让 DSH 桌面端 Agent 体验持续逼近 Claude / ChatGPT / Cursor 。 | ✅ 活跃 |
 | [dsh-always-on-top](resources/dsh-always-on-top.md) | ⭐1 | A tiny pin button for DSH Desktop — click to keep the window always on top. | ✅ 活跃 |
 | [dsh-anime25d-pets-v2](resources/dsh-anime25d-pets-v2.md) | ⭐1 | DSH0.2.0compatible anime 2.5D desktop pet | ✅ 活跃 |
@@ -859,6 +861,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-better-float](resources/dsh-better-float.md) | ⭐1 | Live DOM floating panels and screenshot overview for DeepSeek Harness Desktop | ✅ 活跃 |
 | [dsh-better-launcher](resources/dsh-better-launcher.md) | ⭐1 | dsh start / stop / status - one-command lifecycle manager for DeepSeek Harness | ✅ 活跃 |
 | [dsh-BFF-pet](resources/dsh-bff-pet.md) | ⭐1 | DSH 桌面宠物插件 🐾 透明悬浮窗 + WebM 动画，由 Agent 真实状态驱动的 Windows 桌宠。纯 Windows / WSL 均支持，自动识别 Electron 环境。 | ✅ 活跃 |
+| [dsh-big-fat-fish-girl](resources/dsh-big-fat-fish-girl.md) | ⭐1 | A desktop pet for DeepSeek Harness that follows activity across your chats, even when Harness is minimized. | ✅ 活跃 |
 | [dsh-big-whale](resources/dsh-big-whale.md) | ⭐1 | 大鲸鱼 / Big Whale / 大クジラ — a trilingual DSH desktop companion with lip sync, expressions, idle motions and context-compaction rice. | ✅ 活跃 |
 | [dsh-bliss-glass](resources/dsh-bliss-glass.md) | ⭐1 | XP scenery wallpapers x frosted-glass UI for DeepSeek Harness. Desktop and mobile. | ✅ 活跃 |
 | [dsh-blue-archive-shiroko](resources/dsh-blue-archive-shiroko.md) | ⭐1 | Blue Archive-inspired DSH theme with a Shiroko desktop companion, Codex-style reply bubbles, petting effects, and completion chime. | ✅ 活跃 |
@@ -872,6 +875,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-catpaw](resources/dsh-catpaw.md) | ⭐1 | CatPaw (妙手) model bridge for DeepSeek Harness: 12 real models, per-model reasoning effort, harness-executed tool calling, and QR login without the desktop app. | ✅ 活跃 |
 | [dsh-chameleon](resources/dsh-chameleon.md) | ⭐1 | 自修改桌面工作台 —— DeepSeek Harness (DSH) 的独立桌面客户端：完整 dsh web 功能 + 编辑模式（agent 边对话边改工作台，免重启热更新）。 | ✅ 活跃 |
 | [dsh-chat-background](resources/dsh-chat-background.md) | ⭐1 | 给 DeepSeek Harness 桌面端换背景：背景图/轮换分组/四层遮罩（深浅色可分开）/输入栏背景条/任务进度条/Token 用量 | ✅ 活跃 |
+| [dsh-chat-mode](resources/dsh-chat-mode-2.md) | ⭐1 | A DSH desktop plugin that embeds chat.deepseek.com behind a full-screen overlay, as a native-feeling Chat mode. | ✅ 活跃 |
 | [dsh-chat-modes](resources/dsh-chat-modes.md) | ⭐1 | 把 Chat / Extreme Chat 两个聊天模式打包成一个插件，设置页可逐个开关。 Bundles two DeepSeek Harness chat presets, Chat and Extreme Chat, with a per-mode switch. | ✅ 活跃 |
 | [dsh-chatgpt-ui](resources/dsh-chatgpt-ui.md) | ⭐1 | A ChatGPT-desktop-style skin for the DSH Web GUI: Chat and Work modes, projects and sessions sidebar, pixel-matched composer and messages, light and dark. All native DSH capabilities stay intact — steps, tasks, goals, file outputs — identical with or without the skin. | ✅ 活跃 |
 | [dsh-cherry-bridge](resources/dsh-cherry-bridge.md) | ⭐1 | DeepSeek Harness plugin bridging to Cherry Studio desktops over the LAN (remote access): QR pairing, 14 cherry_* tools, and a settings page for devices and tool scope. | ✅ 活跃 |
@@ -978,6 +982,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-desktop-notify](resources/dsh-desktop-notify-2.md) | ⭐1 | 为 DSH 打造的桌面通知插件（Windows / Linux），随 dsh web 启动自动加载，无需审批。 | ✅ 活跃 |
 | [dsh-desktop-notify](resources/dsh-desktop-notify-3.md) | ⭐1 | DeepSeek Harness plugin: native Windows toast notifications with a built-in ciallo sound. | ✅ 活跃 |
 | [dsh-desktop-notify](resources/dsh-desktop-notify-4.md) | ⭐1 | DSH（DeepSeek Harness）桌面端通知插件：任务完成 / 等待回答时弹 Windows 通知，点通知回到对应会话。 | ✅ 活跃 |
+| [dsh-desktop-notify](resources/dsh-desktop-notify-7.md) | ⭐1 | Native desktop notifications with inline approval buttons and customizable sounds for DeepSeek Harness | ✅ 活跃 |
 | [dsh-desktop-pack](resources/dsh-desktop-pack-1.md) | ⭐1 | 泡泡猫 DSH 桌面安装包 — 开箱即用的 DeepSeek Harness 桌面客户端 | ✅ 活跃 |
 | [dsh-desktop-pet](resources/dsh-desktop-pet-4.md) | ⭐1 | 桌宠插件：在 DeepSeek Harness Web 界面右下角悬浮一只可拖拽、会眨眼摇尾的小猫。A cute desktop pet plugin for the DeepSeek Harness Web GUI. | ✅ 活跃 |
 | [dsh-desktop-pet](resources/dsh-desktop-pet-5.md) | ⭐1 | 紫色圆球桌宠：眼睛始终盯着鼠标，可拖动、点击眨眼、空闲随机动作。DSH 动态 Cordis 插件 + 无依赖网页版。 | ✅ 活跃 |
@@ -1005,6 +1010,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-dock-launcher](resources/dsh-dock-launcher.md) | ⭐1 | 常驻程序坞的 DeepSeek Harness 开关：左键回到/启动 dsh 网页界面，右键菜单（停止服务、动画开关），图标实时显示服务与任务状态并在完成/需确认时发光提醒。 | Always-on macOS Dock toggle for DeepSeek Harness: left-click to open/start the dsh web UI, right-click menu (stop service, animation toggle); live state icon with glow alerts. | ✅ 活跃 |
 | [dsh-docker-desktop-mcp](resources/dsh-docker-desktop-mcp.md) | ⭐1 | DSH plugin that connects the Docker Desktop MCP gateway as an MCP server. | ✅ 活跃 |
 | [dsh-donevoice](resources/dsh-donevoice.md) | ⭐1 | dsh桌面任务提醒，点击桌面提醒可快速回到dsh页面。可自定义上传的音效 | ✅ 活跃 |
+| [dsh-doubao-client](resources/dsh-doubao-client.md) | ⭐1 | Expose the models of a locally running Doubao desktop client as a DeepSeek Harness provider: all twelve catalog models in ordinary chat mode, real image input through the client's own upload channel, subscription quota query, a local character-based usage ledger, and strict-JSON tool emulation. Unof | ✅ 活跃 |
 | [dsh-drop-preview](resources/dsh-drop-preview.md) | ⭐1 | DeepSeek Harness (DSH) Web 插件：拖放文件预览 / Markdown 渲染 / 文件盒 / 智能桌面截图（全屏·区域·窗口）/ 外挂识图与识别文本入库。完整开发历史含 21 个快照标签。 | ✅ 活跃 |
 | [dsh-dschat](resources/dsh-dschat-1.md) | ⭐1 | 把 DeepSeek 网页版聊天装进 DSH 桌面版面板：侧栏入口 + 工具栏 + 本地登录快照。 | Embed the DeepSeek web chat in a DSH Desktop main panel. | ✅ 活跃 |
 | [dsh-dshnext-launcher](resources/dsh-dshnext-launcher.md) | ⭐1 | 这是个dsh启动器，不是插件，rust写的，不用浏览器套壳，主打静态性能，目前还在完善，感觉在样式上，功能BUG也没测完，欢迎给建议和测bug( )ovo(不过DeepSeekharness本身的web调用实在是避不掉了) | ✅ 活跃 |
@@ -1027,6 +1033,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-furry-partner](resources/dsh-furry-partner.md) | ⭐1 | Animated Umi desktop companion for DeepSeek Harness (DSH): 29 approved motion clips, real tool/session following, bilingual UI and an optional character voice. | ✅ 活跃 |
 | [dsh-gesture-control](resources/dsh-gesture-control.md) | ⭐1 | DSH 手势控制实验插件：单手操作会话、可选语音输入与双端控制；需指定 Desktop 媒体权限补丁。预构建运行包。 | ✅ 活跃 |
 | [dsh-git-tree](resources/dsh-git-tree-1.md) | ⭐1 | DeepSeek Harness 桌面端右侧栏 Git 提交图插件 | ✅ 活跃 |
+| [dsh-git-workspace](resources/dsh-git-workspace.md) | ⭐1 | Git review, workspace changes, and branch management plugin for DeepSeek Harness Desktop. | ✅ 活跃 |
 | [dsh-gitbar-lite](resources/dsh-gitbar-lite.md) | ⭐1 | A GitHub Desktop-style Git panel for the DSH right sidebar: tick-to-stage, commit, commit and push, discard into a trash, and diff preview. | ✅ 活跃 |
 | [dsh-github-mirror](resources/dsh-github-mirror.md) | ⭐1 | A GitHub repositories launcher for the DSH Web client, with mirror browsing and accelerated clone/download routes. | ✅ 活跃 |
 | [dsh-gui](resources/dsh-gui-3.md) | ⭐1 | Tauri GUI with integrated DeepSeek Harness, and some plugin bundle | ✅ 活跃 |
@@ -1114,6 +1121,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-overlay_companion](resources/dsh-overlay-companion.md) | ⭐1 | 动态女仆桌面悬浮窗Floating desktop overlay for Deepseek Harness(dsh):  A floating, skinnable Waifu widget for Deepseek Harness. Features  auto-launch on boot, port auto registration, and a clickable waifu GIF that lets you monitor dsh's live status(tool calling,Approval,thinking,browsing etc) and launch dsh with a double click | ✅ 活跃 |
 | [dsh-pack-and-go](resources/dsh-pack-and-go.md) | ⭐1 | 打包就走。 把 DSH 的「对话 + 工作区」装进一个 .dshpack 文件，换台电脑（或换个平台）继续用。 | ✅ 活跃 |
 | [dsh-page-refresh](resources/dsh-page-refresh.md) | ⭐1 | Refresh button in the DeepSeek Harness conversation header (desktop-first, client-only, zero tokens) | ✅ 活跃 |
+| [dsh-pamper](resources/dsh-pamper.md) | ⭐1 | 桌面宠物 | ✅ 活跃 |
 | [dsh-panel-layout](resources/dsh-panel-layout.md) | ⭐1 | 侧边栏面板菜单的布局与排序：按钮行/列表切换、按钮行行数上限、拖动排序，溢出项收进「更多」，并把左下角「更多」里的设置/意见反馈/登录并入面板菜单。Choose a button-row or list layout for the sidebar panel menu, cap the rows, drag to reorder, fold overflow into More, and absorb Settings / Feedback / Sign in from the bottom-left launcher. | ✅ 活跃 |
 | [DSH-Paper-DeepRead](resources/dsh-paper-deepread.md) | ⭐1 | DSH-Paper-DeepRead — DeepSeek Harness (dsh) plugin: bundle the 文献精读库 paper library + paper-deepread-html deep-read skill. Browse reports, upload PDFs to a managed library, let an agent deep-read them, then manage/rebuild the library in a sidebar panel. | 文献精读库与精读技能打包成 dsh 插件：浏览报告、上传 PDF、由 Agent 精读成稿、管理书库。 | ✅ 活跃 |
 | [dsh-paperclip-upload](resources/dsh-paperclip-upload.md) | ⭐1 | Paperclip upload button for the DeepSeek Harness Web UI: upload a desktop file into the session workspace uploads/ directory, insert a 📄 filename into the composer. | ✅ 活跃 |
@@ -1151,6 +1159,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-plugin-noticeme](resources/dsh-plugin-noticeme.md) | ⭐1 | Notify me when DSH needs me: desktop notification (with tab-title fallback) when an | ✅ 活跃 |
 | [dsh-plugin-notify](resources/dsh-plugin-notify-3.md) | ⭐1 | DSH plugin: audio chimes, cross-session toasts, desktop push, and IM webhooks for turn completion, errors, and approvals. | ✅ 活跃 |
 | [dsh-plugin-notify](resources/dsh-plugin-notify-4.md) | ⭐1 | Notification plugins for DeepSeek Harness (DSH) — sound and desktop alerts when a session actually needs you. | ✅ 活跃 |
+| [dsh-plugin-offline-sync](resources/dsh-plugin-offline-sync.md) | ⭐1 | 将本地已有的dsh插件打包，拷贝到其他电脑通过脚本直接安装或更新 | ✅ 活跃 |
 | [dsh-plugin-prompt-enhance](resources/dsh-plugin-prompt-enhance.md) | ⭐1 | DSH Desktop 提示词增强插件：1:1 复刻 WorkBuddy 的增强按钮，含插件详情页配置面板与 dsh-cost-meter 费用估算 | ✅ 活跃 |
 | [dsh-plugin-remote-mobile](resources/dsh-plugin-remote-mobile.md) | ⭐1 | DSH 手机同步：把桌面端完整 Web UI 反代到手机（/m），带设备配对、只读策略与审批路由。手机只负责看和点，所有操作在 PC 执行。 | ✅ 活跃 |
 | [dsh-plugin-remote-use](resources/dsh-plugin-remote-use.md) | ⭐1 | 把 DSH 里需要真实桌面的任务（GUI 自动化测试、只有看屏幕才能验证的结果）委托给局域网里已配对的工作节点执行，像调用子 Agent 一样驱动它 —— 自动化不再和操作者抢鼠标、键盘和焦点。任务以指令经 ACP over WebSocket 下发，由工作节点本地的 DSH 执行；提权一律进人工审批，沙箱无法被证明时拒绝启用，凭据不回传浏览器。 / Offload desktop-bound DSH tasks to a paired LAN worker over ACP, driven like a subagent. | ✅ 活跃 |
@@ -1202,6 +1211,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-remielle-pet](resources/dsh-remielle-pet.md) | ⭐1 | 蕾米埃尔桌宠 · DSH（DeepSeek Harness）插件：跟随会话状态自动切换 GIF，支持 Web UI 与桌面版。 | ✅ 活跃 |
 | [dsh-remote](resources/dsh-remote-9.md) | ⭐1 | Operate DeepSeek Harness from your phone: self-hosted relay + desktop plugin tunnel with a mobile-adapted web UI. MIT | ✅ 活跃 |
 | [dsh-remote-hosts](resources/dsh-remote-hosts.md) | ⭐1 | DeepSeek Harness (DSH) remote hosts / remote plugin / multi-host Web & Desktop. DSH 远程插件、多主机远程开发。0.1.5-rc.2 Preview; not stable 0.1.5. Contact: catcatchcatast@gmail.com | ✅ 活跃 |
+| [DSH-Remote-plugin](resources/dsh-remote-plugin-2.md) | ⭐1 | DeepSeek Harness desktop plugin that exposes a local harness to your own relay over a single outbound WebSocket - no inbound ports, works behind NAT. Forwards a fixed op allowlist, session events, prompts and attachments, and relays approvals or questions to the companion mobile app. Node ESM, zero runtime dependencies. | ✅ 活跃 |
 | [dsh-remote-ssh-tools](resources/dsh-remote-ssh-tools.md) | ⭐1 | 为 DeepSeek Harness（含 DSH Desktop）而生的 SSH 会话管理插件：集中保存连接档案，让 Agent 能一键连服务器执行命令、开交互终端、传文件——所有秘密只存 DSH 凭据中心，界面与对话中永不出现明文。 | ✅ 活跃 |
 | [dsh-remote-wecom](resources/dsh-remote-wecom.md) | ⭐1 | DeepSeek Harness plugin: control Desktop sessions from WeCom (企业微信) on your phone | ✅ 活跃 |
 | [dsh-restart](resources/dsh-restart-4.md) | ⭐1 | DSH 桌面版标题栏重启按钮：一键重启整个应用（含 shell 与宿主进程）。 | ✅ 活跃 |
@@ -1257,6 +1267,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-start](resources/dsh-start-1.md) | ⭐1 | DSH（DeepSeek Harness）的自动安装与自启动托管桌面应用 · 跨平台 · 中英双语 | ✅ 活跃 |
 | [dsh-sumika-widget](resources/dsh-sumika-widget.md) | ⭐1 | A desktop character for DeepSeek Harness: shows the agent's state, plays waiting and completion sounds, and turns its questions and approvals into a pixel-art card you can answer without switching windows. | ✅ 活跃 |
 | [dsh-superagent-desktop](resources/dsh-superagent-desktop.md) | ⭐1 | Desktop bundle of the dsh-superagent research prototype for DeepSeek Harness | ✅ 活跃 |
+| [dsh-superagent-windows](resources/dsh-superagent-windows.md) | ⭐1 | dsh-superagent prototype, Windows adaptation: DeepSeek Harness Desktop + Feishu Source ready (upstream + windows-compat + worker TLS fix) | ✅ 活跃 |
 | [dsh-sync](resources/dsh-sync-5.md) | ⭐1 | 本项目只做一件事：**在当前 DSH 0.2.2-rc.3 / 0.2.x 上，把任意 profile（包括 desktop）的插件清单和 | ✅ 活跃 |
 | [dsh-system-notify](resources/dsh-system-notify.md) | ⭐1 | 用 Windows App SDK 给 DeepSeek Harness 弹系统通知：授权请求 / 电脑操控 / 任务完成 / 会话终止。检测点在 agent 运行时（cordis 事件），不进 function calling、不改 system prompt、不依赖模型输出。 | ✅ 活跃 |
 | [dsh-task-ask-notify](resources/dsh-task-ask-notify.md) | ⭐1 | DSH 桌面端插件：任务完成或模型向你提问时，弹出 Windows 系统通知并播放提示音，提示音可自定义 | DSH (DeepSeek Harness) desktop plugin: pops up a Windows system notification and plays a customizable alert sound when a task completes or the model asks you a question | ✅ 活跃 |
@@ -1326,6 +1337,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-windows-mcp](resources/dsh-windows-mcp.md) | ⭐1 | Windows desktop automation for DeepSeek Harness: the in-box MCP client bridge mounted against CursorTouch/Windows-MCP, with an off-by-default Computer Use switch and an in-app dependency installer. | ✅ 活跃 |
 | [dsh-windows-notification](resources/dsh-windows-notification.md) | ⭐1 | Native Windows toast notifications for DeepSeek Harness (DSH): smart turn summaries, actionable approvals and agent-question options under the DSH desktop app identity. 零依赖纯本机，可在通知里直接审批/回答。 | ✅ 活跃 |
 | [dsh-windows-notify](resources/dsh-windows-notify.md) | ⭐1 | Windows-grade notifications for DeepSeek Harness: system toasts, custom sounds, and a taskbar tray badge — a native DSH profile plugin (zero patching). | ✅ 活跃 |
+| [dsh-windows-remote-ssh](resources/dsh-windows-remote-ssh.md) | ⭐1 | Control a remote Windows desktop over SSH from DeepSeek Harness | ✅ 活跃 |
 | [dsh-work](resources/dsh-work-1.md) | ⭐1 | A plugin-native AI desktop for real work, built on DeepSeek Harness. | ✅ 活跃 |
 | [dsh-work](resources/dsh-work-2.md) | ⭐1 | 人机协作的办公专注层：桌面置顶小条 + 任务面板 + 框选识别，人类执行、AI 建议。DSH 插件 + C++ 伴随层。 | ✅ 活跃 |
 | [dsh-workbuddy-connect](resources/dsh-workbuddy-connect-2.md) | ⭐1 | 把 WorkBuddy / WorkBuddy AI 桌面 App 的订阅模型接入 DeepSeek Harness（个人自用方案） | ✅ 活跃 |
@@ -1374,6 +1386,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [LexFlow](resources/lexflow.md) | ⭐1 | Local-first macOS desktop app for legal work — conversation, workflows, archive, and Markdown workbench powered by DeepSeek Harness. | ✅ 活跃 |
 | [LyricDisplay](resources/lyricdisplay.md) | ⭐1 | 洛雪音乐桌面歌词浮窗 + DSH Web GUI 插件 | ✅ 活跃 |
 | [memory-lattice](resources/memory-lattice.md) | ⭐1 | 忆枢 Memory Lattice：会遗忘的记忆插件。短期记忆 48h 过期、长期记忆按艾宾浩斯曲线复习、久不用进沉睡区；本地优先，含向量语义召回、审核中心、3D 记忆星云与加密增量备份。Memory that forgets on purpose — local-first, spaced repetition, DSH Desktop plugin. | ✅ 活跃 |
+| [mino-plugins](resources/mino-plugins.md) | ⭐1 | DeepSeek Harness (DSH) 精选插件集 + 索引 — Mino 桌面发行版插件源 | ✅ 活跃 |
 | [multiPlatform-desktopPet](resources/multiplatform-desktoppet.md) | ⭐1 | Raven & Suki 双角色 Windows 透明桌宠，一个 Tauri 应用内切换；包含 DSH 插件版本。 | ✅ 活跃 |
 | [Nonead-DSH-Desktop](resources/nonead-dsh-desktop.md) | ⭐1 | Nonead-DSH-Desktop An open-source desktop client for Windows, macOS, and Linux, built on DeepSeek Harness. | ✅ 活跃 |
 | [ocean-crew](resources/ocean-crew.md) | ⭐1 | 海底小队（Ocean Crew）—— 把 DSH Desktop 变成一支由长期存活的海洋伙伴 Bot 组成的团队：私聊、群聊、互相交付工作。 | ✅ 活跃 |
@@ -1434,7 +1447,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh_desktop](resources/dsh-desktop-47.md) | – | 把 DeepSeek Harness 封装为开箱即用的 Windows 桌面客户端，支持便携版与安装版，无需命令行即可快速使用。 | ✅ 活跃 |
 | [dshdesktop](resources/dshdesktop-1.md) | – | DeepSeek Harness desktop shell (WinForms + WebView2) | ✅ 活跃 |
 
-**移动端（132）**
+**移动端（133）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -1545,6 +1558,7 @@ keywords: "deepseek harness, dsh, clients, plugin, awesome"
 | [dsh-live](resources/dsh-live.md) | ⭐1 | DSH Live — Your coding agent calls you when it needs you. Approve actions, track live progress, send photos, and review results from iPhone or Android. A mobile companion plugin for DeepSeek Harness. | ✅ 活跃 |
 | [dsh-mobile](resources/dsh-mobile-14.md) | ⭐1 | Unofficial Android client for DeepSeek Harness: chats, tasks and live agent replies from your phone. The agent stays on your PC; pairing by QR code. | ✅ 活跃 |
 | [dsh-mobile](resources/dsh-mobile-16.md) | ⭐1 | Bring your local DeepSeek Harness WebUI to your phone: LAN proxy bridge, mobile UI adaptation, device approval, and a native Android shell. | ✅ 活跃 |
+| [dsh-mobile-android-test](resources/dsh-mobile-android-test.md) | ⭐1 | Android app testing inside DeepSeek Harness: run an APK in a managed emulator, mirror the screen, drive it with mouse and keyboard, and inspect decrypted HTTPS requests. | ✅ 活跃 |
 | [DSH-mobile-remote-mode-plugin](resources/dsh-mobile-remote-mode-plugin.md) | ⭐1 | DSH (DeepSeek Harness) mobile remote mode plugin - LAN discovery, QR pairing, Level-1 observer and Level-2 remote prompt from Android/iOS phones and any browser. Multi-platform, early development (Dev0.1). | ✅ 活跃 |
 | [dsh-mobile-ux](resources/dsh-mobile-ux.md) | ⭐1 | DeepSeek Harness mobile: CSS-only UI plugin, password-protected Cloudflare tunnel and a tiny Android WebView app - use DSH on your phone. | ✅ 活跃 |
 | [dsh-peak-chip](resources/dsh-peak-chip.md) | ⭐1 | DeepSeek 峰谷指示灯：会话头部一个圆点，面板显示本日消耗与余额。特色是自修复设计——算错的数字自己退回去，不用手工清零。dsh 插件（DSHA / Android）。 | ✅ 活跃 |

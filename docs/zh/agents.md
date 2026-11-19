@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "DeepSeek Harness (dsh) 精选 agents & multi-agent：🔥 Top 10 与完整列表（395 条）。"
+description: "DeepSeek Harness (dsh) 精选 agents & multi-agent：🔥 Top 10 与完整列表（397 条）。"
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ 活跃 |
 | 10 | [dsh-liketavern](resources/dsh-liketavern.md) | ⭐111 | A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime. | ✅ 活跃 |
 
-## 完整列表（395）
+## 完整列表（397）
 
 
-**多智能体（392）**
+**多智能体（394）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -279,11 +279,13 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-cross-session](resources/dsh-cross-session.md) | ⭐1 | 同运行时跨会话发现与通信。 | ✅ 活跃 |
 | [dsh-cross-session](resources/dsh-cross-session-2.md) | ⭐1 | DSH plugin: message, hand files to, search and read another top-level session — peer-session development without subagents. 顶层会话之间的消息、文件、搜索、读取；不是子 agent。 | ✅ 活跃 |
 | [dsh-cyber-dept](resources/dsh-cyber-dept.md) | ⭐1 | 赛博 IT：DSH Agent Teams 像素办公室插件，支持任务看板、员工工牌和团队沟通。 | ✅ 活跃 |
+| [dsh-debate-simulator](resources/dsh-debate-simulator.md) | ⭐1 | DSH debate simulator plugin: multi-agent Chinese debate, judges, archives, training side, ZIP/Word | ✅ 活跃 |
 | [dsh-dev-runner](resources/dsh-dev-runner.md) | ⭐1 | One-click start for a whole dev stack: discover projects and their run commands, orchestrate a backend plus any frontends, follow every log from the right sidebar. | ✅ 活跃 |
 | [dsh-download-progress](resources/dsh-download-progress-5.md) | ⭐1 | 专为 DSH 的下载任务做的进度指示器：会话头里常驻的下载图标，自动发现正在跑的下载与后台任务，环形进度 + 动画进度条 + 速率 + 剩余时间；已完成文件单击即开，零第三方依赖。 · A download-progress indicator built for DSH's download tasks: a persistent session-header icon with a progress ring, animated bars, speed and ETA. Click a finished file to open it. No third-party plugin required. | ✅ 活跃 |
 | [dsh-dynamic-multiagent](resources/dsh-dynamic-multiagent.md) | ⭐1 | Dynamic multi-agent orchestration for DeepSeek Harness (dsh): task graphs of child agents with per-node role, model, reasoning effort, and tools, plus a settings UI and per-conversation switch. | ✅ 活跃 |
 | [dsh-eval-guard](resources/dsh-eval-guard.md) | ⭐1 | Evaluation guard for DSH: workspace-only filesystem, no network/subagents, wall-clock limits, and tank task installation. | ✅ 活跃 |
 | [dsh-external-workers](resources/dsh-external-workers.md) | ⭐1 | Give your DeepSeek Harness agent three more pairs of hands. It sends long tasks to Claude Code, Codex and Antigravity using your own subscription logins, keeps one persistent session per lane, and never loses a job.                       给 DeepSeek Harness 用的外部 agent 泳道：把长任务派给 Claude Code、Codex、Antigravity 三个 CLI，用你自己已有的订阅登录。每条泳道一个持久会话，作业重启和压缩都不会丢。 | ✅ 活跃 |
+| [dsh-feedback-hub](resources/dsh-feedback-hub.md) | ⭐1 | Notifications for DeepSeek Harness (DSH): Windows toasts, in-app toasts and an unread bell whenever the agent needs authorization, asks a question, or finishes a task. 中文：授权 / 提问 / 完成 / 出错时主动提醒，点通知可唤起窗口并跳到对应会话。 | ✅ 活跃 |
 | [dsh-flock](resources/dsh-flock.md) | ⭐1 | Self-organizing multi-agent clusters for DeepSeek Harness — real DSH subagents coordinating through a shared append-only log, no orchestrator | ✅ 活跃 |
 | [dsh-free-subagents](resources/dsh-free-subagents.md) | ⭐1 | Route delegated subagents and Agent Teams over free-tier models in DeepSeek Harness | ✅ 活跃 |
 | [dsh-global-prompt](resources/dsh-global-prompt-2.md) | ⭐1 | Global prompt (全局提示词) plugin for the agent runtime (DSH). Set it once in Settings → General; injected via ctx.systemPrompt.section() into every new conversation and subagent. Live save, no restart, no context bloat. | ✅ 活跃 |

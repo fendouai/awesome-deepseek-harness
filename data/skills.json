@@ -16705,6 +16705,135 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-attention-index",
+    "name": "dsh-attention-index",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/PerryLink/dsh-attention-index",
+    "description": "Public, reproducible, task-conditioned scores and attention allocation for DeepSeek Harness plugins.",
+    "description_zh": "Public, reproducible, task-conditioned scores and attention allocation for DeepSeek Harness plugins.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-video2text",
+    "name": "dsh-video2text",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/vlln/dsh-video2text",
+    "description": "视频链接转文案的 dsh 侧栏工作台：播放器 + 逐字稿 + 发布导出，自带 video2text skill",
+    "description_zh": "视频链接转文案的 dsh 侧栏工作台：播放器 + 逐字稿 + 发布导出，自带 video2text skill",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-status-notifier-1",
+    "name": "dsh-status-notifier",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/xujiakai2026/dsh-status-notifier",
+    "description": "DeepSeek Harness bundle: agent status in the macOS menu bar (SwiftBar) — pending approvals, running tasks, finished tasks, plus system notifications.",
+    "description_zh": "DeepSeek Harness bundle: agent status in the macOS menu bar (SwiftBar) — pending approvals, running tasks, finished tasks, plus system notifications.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-security-pack",
+    "name": "dsh-security-pack",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/PerryLink/dsh-security-pack",
+    "description": "Security-audit skill pack + plugin_vet supply-chain gate for DeepSeek Harness: eight bilingual skills and a pre-install gate.",
+    "description_zh": "Security-audit skill pack + plugin_vet supply-chain gate for DeepSeek Harness: eight bilingual skills and a pre-install gate.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-skill-autoload",
+    "name": "dsh-skill-autoload",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/tshui1/dsh-skill-autoload",
+    "description": "DeepSeek Harness plugin: auto-load the matching installed skill from the user's message, no trigger word needed.",
+    "description_zh": "DeepSeek Harness plugin: auto-load the matching installed skill from the user's message, no trigger word needed.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "schflow",
+    "name": "schflow",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/wtr20211202/schflow",
+    "description": "Proposal-driven task pipeline for AI coding agents: proposals → review gate → parallel git worktree execution → per-branch serial merge queue. Official plugins for claude code & dsh — one command per host.",
+    "description_zh": "Proposal-driven task pipeline for AI coding agents: proposals → review gate → parallel git worktree execution → per-branch serial merge queue. Official plugins for claude code & dsh — one command per host.",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "paper-review-revision",
+    "name": "paper-review-revision",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/songrui111/paper-review-revision",
+    "description": "Codex skill for academic review, mathematical verification, English editing, and final manuscript checks",
+    "description_zh": "Codex skill for academic review, mathematical verification, English editing, and final manuscript checks",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "apple-design",
+    "name": "apple-design",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/mycroft-sherlock/apple-design",
+    "description": "Apple HIG design-review skill wrapper for DeepSeek Harness",
+    "description_zh": "Apple HIG design-review skill wrapper for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
     "id": "dsh-news-briefing",
     "name": "dsh-news-briefing",
     "type": "skill",

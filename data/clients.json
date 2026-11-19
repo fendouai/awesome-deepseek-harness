@@ -3724,6 +3724,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-workbuddy-connect-6",
+    "name": "dsh-workbuddy-connect",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/jojoman2024/dsh-workbuddy-connect",
+    "description": "将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.在原项目基础上增加了，在卡片中显示消耗倍率。在对话框模型选择后，可以调节思考强度。",
+    "description_zh": "将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.在原项目基础上增加了，在卡片中显示消耗倍率。在对话框模型选择后，可以调节思考强度。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 22,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-mobile-4",
     "name": "dsh-mobile",
     "type": "client",
@@ -29505,6 +29522,224 @@
     "capabilities": [
       "coding",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-windows-remote-ssh",
+    "name": "dsh-windows-remote-ssh",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/pureexe/dsh-windows-remote-ssh",
+    "description": "Control a remote Windows desktop over SSH from DeepSeek Harness",
+    "description_zh": "Control a remote Windows desktop over SSH from DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-remote-plugin-2",
+    "name": "DSH-Remote-plugin",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/AKHYui/DSH-Remote-plugin",
+    "description": "DeepSeek Harness desktop plugin that exposes a local harness to your own relay over a single outbound WebSocket - no inbound ports, works behind NAT. Forwards a fixed op allowlist, session events, prompts and attachments, and relays approvals or questions to the companion mobile app. Node ESM, zero runtime dependencies.",
+    "description_zh": "DeepSeek Harness desktop plugin that exposes a local harness to your own relay over a single outbound WebSocket - no inbound ports, works behind NAT. Forwards a fixed op allowlist, session events, prompts and attachments, and relays approvals or questions to the companion mobile app. Node ESM, zero runtime dependencies.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-big-fat-fish-girl",
+    "name": "dsh-big-fat-fish-girl",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/troodon/dsh-big-fat-fish-girl",
+    "description": "A desktop pet for DeepSeek Harness that follows activity across your chats, even when Harness is minimized.",
+    "description_zh": "A desktop pet for DeepSeek Harness that follows activity across your chats, even when Harness is minimized.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-git-workspace",
+    "name": "dsh-git-workspace",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/monster-30cl/dsh-git-workspace",
+    "description": "Git review, workspace changes, and branch management plugin for DeepSeek Harness Desktop.",
+    "description_zh": "Git review, workspace changes, and branch management plugin for DeepSeek Harness Desktop.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "mino-plugins",
+    "name": "mino-plugins",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/694410194/mino-plugins",
+    "description": "DeepSeek Harness (DSH) 精选插件集 + 索引 — Mino 桌面发行版插件源",
+    "description_zh": "DeepSeek Harness (DSH) 精选插件集 + 索引 — Mino 桌面发行版插件源",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-superagent-windows",
+    "name": "dsh-superagent-windows",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/deepsleepzzz0211/dsh-superagent-windows",
+    "description": "dsh-superagent prototype, Windows adaptation: DeepSeek Harness Desktop + Feishu Source ready (upstream + windows-compat + worker TLS fix)",
+    "description_zh": "dsh-superagent prototype, Windows adaptation: DeepSeek Harness Desktop + Feishu Source ready (upstream + windows-compat + worker TLS fix)",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pamper",
+    "name": "dsh-pamper",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Ai-nice/dsh-pamper",
+    "description": "桌面宠物",
+    "description_zh": "桌面宠物",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-desktop-notify-7",
+    "name": "dsh-desktop-notify",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/HonestShine/dsh-desktop-notify",
+    "description": "Native desktop notifications with inline approval buttons and customizable sounds for DeepSeek Harness",
+    "description_zh": "Native desktop notifications with inline approval buttons and customizable sounds for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-offline-sync",
+    "name": "dsh-plugin-offline-sync",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Jeremyly/dsh-plugin-offline-sync",
+    "description": "将本地已有的dsh插件打包，拷贝到其他电脑通过脚本直接安装或更新",
+    "description_zh": "将本地已有的dsh插件打包，拷贝到其他电脑通过脚本直接安装或更新",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-doubao-client",
+    "name": "dsh-doubao-client",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/sanmumu-325/dsh-doubao-client",
+    "description": "Expose the models of a locally running Doubao desktop client as a DeepSeek Harness provider: all twelve catalog models in ordinary chat mode, real image input through the client's own upload channel, subscription quota query, a local character-based usage ledger, and strict-JSON tool emulation. Unof",
+    "description_zh": "Expose the models of a locally running Doubao desktop client as a DeepSeek Harness provider: all twelve catalog models in ordinary chat mode, real image input through the client's own upload channel, subscription quota query, a local character-based usage ledger, and strict-JSON tool emulation. Unof",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chat-mode-2",
+    "name": "dsh-chat-mode",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/longmozhiyuan/dsh-chat-mode",
+    "description": "A DSH desktop plugin that embeds chat.deepseek.com behind a full-screen overlay, as a native-feeling Chat mode.",
+    "description_zh": "A DSH desktop plugin that embeds chat.deepseek.com behind a full-screen overlay, as a native-feeling Chat mode.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-desktop",
+    "name": "dsh-agent-desktop",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/jyuaner/dsh-agent-desktop",
+    "description": "给 dsh 装上一双操作桌面的手：agent-desktop MCP 一键挂载 + 跨平台引擎自动发现",
+    "description_zh": "给 dsh 装上一双操作桌面的手：agent-desktop MCP 一键挂载 + 跨平台引擎自动发现",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mobile-android-test",
+    "name": "dsh-mobile-android-test",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/AyaoJies/dsh-mobile-android-test",
+    "description": "Android app testing inside DeepSeek Harness: run an APK in a managed emulator, mirror the screen, drive it with mouse and keyboard, and inspect decrypted HTTPS requests.",
+    "description_zh": "Android app testing inside DeepSeek Harness: run an APK in a managed emulator, mirror the screen, drive it with mouse and keyboard, and inspect decrypted HTTPS requests.",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

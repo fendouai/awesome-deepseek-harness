@@ -5829,6 +5829,22 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-os-suite",
+    "name": "dsh-os-suite",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/PerryLink/dsh-os-suite",
+    "description": "Six governance-layer plugins for DeepSeek Harness: trace, lease, quota, eval, catalog, registry. Community project, not affiliated with DeepSeek.",
+    "description_zh": "Six governance-layer plugins for DeepSeek Harness: trace, lease, quota, eval, catalog, registry. Community project, not affiliated with DeepSeek.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "awesome-dsh-plugins-oslook-1",
     "name": "awesome-dsh-plugins",
     "type": "awesome-list",
@@ -10145,6 +10161,194 @@
     "description_zh": "草料二维码 DeepSeek Harness 插件：OAuth 连接、场景 Skill 与 Registry 材料",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-family-catalog",
+    "name": "dsh-family-catalog",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/PerryLink/dsh-family-catalog",
+    "description": "DSH Desktop Market standard catalog source for the PerryLink plugin family: curated summaries, same-origin icons, contract-validated, CI-smoked.",
+    "description_zh": "DSH Desktop Market standard catalog source for the PerryLink plugin family: curated summaries, same-origin icons, contract-validated, CI-smoked.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "market",
+    "name": "market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/dsh-plugin-lab/market",
+    "description": "The dsh-plugin-lab plugin market: curated config plus the pipeline that turns npm metadata into a format-1 index served over GitHub Pages.",
+    "description_zh": "The dsh-plugin-lab plugin market: curated config plus the pipeline that turns npm metadata into a format-1 index served over GitHub Pages.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-community-bench",
+    "name": "dsh-community-bench",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/PerryLink/dsh-community-bench",
+    "description": "[FROZEN 2026-10-31] In-app Community Bench tab for DeepSeek Harness: reads the public task-conditioned registry; no local scoring.",
+    "description_zh": "[FROZEN 2026-10-31] In-app Community Bench tab for DeepSeek Harness: reads the public task-conditioned registry; no local scoring.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "openany-mcp",
+    "name": "openany-mcp",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/openanysi/openany-mcp",
+    "description": "The business-to-agent marketplace. One MCP endpoint for 3,200+ APIs across social, SEO/search, company/leads, finance and legal, plus 168+ AI models for chat, reasoning, image, video and audio—including GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo and Kling. Browse free; pay per call.",
+    "description_zh": "The business-to-agent marketplace. One MCP endpoint for 3,200+ APIs across social, SEO/search, company/leads, finance and legal, plus 168+ AI models for chat, reasoning, image, video and audio—including GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo and Kling. Browse free; pay per call.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent",
+      "multimodal",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-certification",
+    "name": "dsh-certification",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/PerryLink/dsh-certification",
+    "description": "Community certification registry for DeepSeek Harness plugins: public spec, scoring model, registry data and badges.",
+    "description_zh": "Community certification registry for DeepSeek Harness plugins: public spec, scoring model, registry data and badges.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-research-core",
+    "name": "dsh-research-core",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/PerryLink/dsh-research-core",
+    "description": "REP v1 — the shared Research Evidence Protocol for DeepSeek Harness research plugins: JSON Schema + TypeScript types for sources, snapshots, anchors, evidence, claims, checks, artifacts, audit events and sealed report manifests, plus a zero-dependency content-addressed evidence store, canonical hashing, SARIF export and an independent verifier CLI.",
+    "description_zh": "REP v1 — the shared Research Evidence Protocol for DeepSeek Harness research plugins: JSON Schema + TypeScript types for sources, snapshots, anchors, evidence, claims, checks, artifacts, audit events and sealed report manifests, plus a zero-dependency content-addressed evidence store, canonical hashing, SARIF export and an independent verifier CLI.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-dataset-card",
+    "name": "dsh-dataset-card",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/PerryLink/dsh-dataset-card",
+    "description": "Dataset documentation for DeepSeek Harness: bounded CSV/TSV/JSON/JSONL profiling (types, missingness, cardinality), redacted PII detection by column name and value pattern (emails, phones, national IDs, IPs), a Datasheet-style card with missing-section warnings, Markdown/JSON/SARIF output and REP evidence that stores the analysis but never the raw",
+    "description_zh": "Dataset documentation for DeepSeek Harness: bounded CSV/TSV/JSON/JSONL profiling (types, missingness, cardinality), redacted PII detection by column name and value pattern (emails, phones, national IDs, IPs), a Datasheet-style card with missing-section warnings, Markdown/JSON/SARIF output and REP evidence that stores the analysis but never the raw",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-plugin-unlock",
+    "name": "dsh-plugin-unlock",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/taffy114514/dsh-plugin-unlock",
+    "description": "Clears the DSH desktop \"plugin is in use, the desktop app will not remove it right now\" refusal and finishes the marketplace update.",
+    "description_zh": "Clears the DSH desktop \"plugin is in use, the desktop app will not remove it right now\" refusal and finishes the marketplace update.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-starter-kit",
+    "name": "dsh-starter-kit",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/SOCOOL666/dsh-starter-kit",
+    "description": "DSH 一键整合包：面向初次接触 the agent runtime 的小白用户，一次安装即集成可视化插件市场（dshmarket ⭐12.9k/月下载127万）、增强侧边栏（dsh-better-sidebar ⭐5.2k/月下载36万）和全局提示词。装完即可畅用 DSH，日常无需再找其他插件。中文文档见 README。",
+    "description_zh": "DSH 一键整合包：面向初次接触 the agent runtime 的小白用户，一次安装即集成可视化插件市场（dshmarket ⭐12.9k/月下载127万）、增强侧边栏（dsh-better-sidebar ⭐5.2k/月下载36万）和全局提示词。装完即可畅用 DSH，日常无需再找其他插件。中文文档见 README。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hummingbot",
+    "name": "dsh-hummingbot",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/vicfei/dsh-hummingbot",
+    "description": "Pure market making, natively on DeepSeek Harness — spread quotes + inventory skew + circuit breaker as a deterministic simulator on real 1m data; caveats on every payload; live routing guarded off. Implements the core concept of Hummingbot (Apache-2.0). Not affiliated.",
+    "description_zh": "Pure market making, natively on DeepSeek Harness — spread quotes + inventory skew + circuit breaker as a deterministic simulator on real 1m data; caveats on every payload; live routing guarded off. Implements the core concept of Hummingbot (Apache-2.0). Not affiliated.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mcp-hub-1",
+    "name": "dsh-mcp-hub",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/mr-hanlu/dsh-mcp-hub",
+    "description": "在 DeepSeek Harness 内管理 MCP 服务：在设置页查看与启停，从 Claude Code、Claude Desktop、Codex、Cursor、VS Code / Copilot、Copilot CLI、Windsurf、Gemini CLI、OpenCode 导入已有配置，搜索官方 MCP Registry，验证连接，并把密钥写入 DSH 凭证服务而不是明文保存。",
+    "description_zh": "在 DeepSeek Harness 内管理 MCP 服务：在设置页查看与启停，从 Claude Code、Claude Desktop、Codex、Cursor、VS Code / Copilot、Copilot CLI、Windsurf、Gemini CLI、OpenCode 导入已有配置，搜索官方 MCP Registry，验证连接，并把密钥写入 DSH 凭证服务而不是明文保存。",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp"
     ],
     "status": "active",
     "verified": false,

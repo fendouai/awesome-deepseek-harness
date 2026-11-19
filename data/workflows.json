@@ -2695,6 +2695,26 @@
     "license": "MIT"
   },
   {
+    "id": "agent-plugins",
+    "name": "agent-plugins",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/maptec-api/agent-plugins",
+    "description": "Maptec Maps plugin for AI Agent. Quickly add map rendering, place search, route planning, geocoding, and more.",
+    "description_zh": "Maptec Maps plugin for AI Agent. Quickly add map rendering, place search, route planning, geocoding, and more.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-agent-orchestration",
     "name": "dsh-agent-orchestration",
     "type": "workflow",
@@ -10636,6 +10656,156 @@
     "repository": "https://github.com/sh-lsy/dsh-qwen-media",
     "description": "DeepSeek Harness 用户级技能：在任何项目的会话中主动调用阿里云百炼 Token Plan（qwen-token-plan-cn）的图像/视频生成模型，消耗套餐 Credits（sk-sp- Key），Key 全程保密。",
     "description_zh": "DeepSeek Harness 用户级技能：在任何项目的会话中主动调用阿里云百炼 Token Plan（qwen-token-plan-cn）的图像/视频生成模型，消耗套餐 Credits（sk-sp- Key），Key 全程保密。",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hazplan-check",
+    "name": "dsh-hazplan-check",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/PerryLink/dsh-hazplan-check",
+    "description": "给工艺安全/HAZOP 主席：核对 HAZOP（危险与可操作性分析）分析表的节点、偏差、原因、后果与建议措施是否齐备一致。 HAZOP worksheet element and deviation check.",
+    "description_zh": "给工艺安全/HAZOP 主席：核对 HAZOP（危险与可操作性分析）分析表的节点、偏差、原因、后果与建议措施是否齐备一致。 HAZOP worksheet element and deviation check.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-guard-plan-qc",
+    "name": "dsh-guard-plan-qc",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/PerryLink/dsh-guard-plan-qc",
+    "description": "劳保用品配置核对：按公开配备标准核对品名规格与配置数量，仅提示差异，不作出定性结论。",
+    "description_zh": "劳保用品配置核对：按公开配备标准核对品名规格与配置数量，仅提示差异，不作出定性结论。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-emergency-plan",
+    "name": "dsh-emergency-plan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/PerryLink/dsh-emergency-plan",
+    "description": "DeepSeek Harness 插件 — 应急预案核对：依据《生产经营单位生产安全事故应急预案编制导则》《生产安全事故应急预案管理办法》（GB/T 29639-2020、国家安全生产监督管理总局令第88号）。仅提示差异，不作出定性结论。",
+    "description_zh": "DeepSeek Harness 插件 — 应急预案核对：依据《生产经营单位生产安全事故应急预案编制导则》《生产安全事故应急预案管理办法》（GB/T 29639-2020、国家安全生产监督管理总局令第88号）。仅提示差异，不作出定性结论。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-ulw-plan",
+    "name": "dsh-ulw-plan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/beiyanpiki/dsh-ulw-plan",
+    "description": "omo explore -> plan -> execute workflow for DeepSeek Harness: /ulw-plan, /ulw-execute, four read-only role agents, inline task, and a plan-mode write guard.",
+    "description_zh": "omo explore -> plan -> execute workflow for DeepSeek Harness: /ulw-plan, /ulw-execute, four read-only role agents, inline task, and a plan-mode write guard.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-dev-8",
+    "name": "dsh-plugin-dev",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/PerryLink/dsh-plugin-dev",
+    "description": "One command for the DeepSeek Harness plugin developer workflow.",
+    "description_zh": "One command for the DeepSeek Harness plugin developer workflow.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-dmp",
+    "name": "dsh-dmp",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/PerryLink/dsh-dmp",
+    "description": "Data-management-plan tooling for DeepSeek Harness: a ten-section scaffold with prompts, completeness/consistency checks (datasets, personal data, open-sharing conflicts, retention minimum, backup, repository/license/DOI, contact), Markdown/JSON/SARIF export. Checks are internal consistency checks, not funder-template certification; no network, no f",
+    "description_zh": "Data-management-plan tooling for DeepSeek Harness: a ten-section scaffold with prompts, completeness/consistency checks (datasets, personal data, open-sharing conflicts, retention minimum, backup, repository/license/DOI, contact), Markdown/JSON/SARIF export. Checks are internal consistency checks, not funder-template certification; no network, no f",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-response-letter",
+    "name": "dsh-response-letter",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/PerryLink/dsh-response-letter",
+    "description": "Reviewer-response workflow for DeepSeek Harness: parse reviewer comments (Reviewer/Referee/审稿人 headers, numbered or paragraph mode) with locators, check point-by-point coverage by response number (missing, too short, extra, duplicates), and export a Markdown response letter with a coverage table. Parsed reviews become REP evidence; coverage counts",
+    "description_zh": "Reviewer-response workflow for DeepSeek Harness: parse reviewer comments (Reviewer/Referee/审稿人 headers, numbered or paragraph mode) with locators, check point-by-point coverage by response number (missing, too short, extra, duplicates), and export a Markdown response letter with a coverage table. Parsed reviews become REP evidence; coverage counts",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-e621-style",
+    "name": "dsh-e621-style",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/xiaohuangbo/dsh-e621-style",
+    "description": "给 DeepSeek Harness 换上 e621 经典深蓝六边形主题：自定义背景、随机图库、定时轮换、彩色代码高亮，以及独立的设置页面。",
+    "description_zh": "给 DeepSeek Harness 换上 e621 经典深蓝六边形主题：自定义背景、随机图库、定时轮换、彩色代码高亮，以及独立的设置页面。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-node-studio",
+    "name": "dsh-node-studio",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/fedmez8-cpu/dsh-node-studio",
+    "description": "Visual node-based workflow editor plugin for DeepSeek Harness",
+    "description_zh": "Visual node-based workflow editor plugin for DeepSeek Harness",
     "capabilities": [
       "coding",
       "workflow"

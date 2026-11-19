@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 11503 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 11504 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-## Complete list (11503)
+## Complete list (11504)
 
 
 **Vision & multimodal (4076)**
@@ -6312,7 +6312,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ active |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**Developer tools (2135)**
+**Developer tools (2136)**
 
 *Other (1917)*
 
@@ -8396,7 +8396,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-session-analyst](resources/dsh-session-analyst.md) | – | DSH 插件：Agent 会话质量分析 —— 工具成功率、token 效率、冗余调用检测、跨会话回归对比。 | ✅ active |
 | [dsh-usage](resources/dsh-usage-2.md) | – | DSH 跨会话 token 记账插件：进程内每一次模型调用都记入本地 SQLite 账本，设置面板一眼看全、agent 一问即答。只做 token,不做钱。 | ✅ active |
 | [dsh-word-docs](resources/dsh-word-docs.md) | – | Word document toolkit for DeepSeek Harness: generate, edit, extract, stat and convert .docx with a pure-stdlib Python engine (zero dependencies), registering the word_docs tool and word-docs skill. / DeepSeek Harness 的 Word 文档工具：纯 Python 标准库生成、编辑、提取、统计并转换 .docx，零依赖。 | ✅ active |
-*🧪 Code, tests & review (39)*
+*🧪 Code, tests & review (40)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -8434,6 +8434,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-screenshot-diff](resources/dsh-screenshot-diff.md) | ⭐1 | DSH plugin: pixel-diff two screenshots into diff.png + triptych (pixelmatch) — 像素对比工具 | ✅ active |
 | [dsh-test-coverage](resources/dsh-test-coverage.md) | ⭐1 | 测试覆盖率分析：解析 LCOV/Cobertura/Istanbul/Go 覆盖率报告，输出结构化覆盖数据与未覆盖行区间 | ✅ active |
 | [dsh-vap](resources/dsh-vap.md) | ⭐1 | VAP - Verifiable Agent Protocol: a tested trust machine for agent-to-agent messages (zero third-party dependencies, 217 tests, full experiment ledger) | ✅ active |
+| [dsh-artel](resources/dsh-artel.md) | – | Adds an Artel button to the DSH chat composer that runs a coding task in an isolated copy of the project — Solo (one agent) or Swarm (three agents that message each other) — shows every reply and the per-file diff, then writes all changed files with one Apply. | 🧪 experimental |
 | [dsh-file-confirm](resources/dsh-file-confirm.md) | – | 给dsh添加简单的文件审查手动审查功能，文件编辑/写入时，弹窗确认。 | ✅ active |
 | [dsh-git-branch-switcher](resources/dsh-git-branch-switcher.md) | – | Session-header git branch pill: shows the workspace branch and switches it from the Web UI. | ✅ active |
 | [dsh-git-commit](resources/dsh-git-commit.md) | – | @{name=dsh-git-commit; version=0.1.0; description=Git 提交助手：分析仓库变更生成规范化 Conventional Commits 提交信息、按提交历史生成 CHANGELOG、按语义化版本建议下一个版本号; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=}.description | ✅ active |

@@ -206252,5 +206252,25 @@
     "stars": 0,
     "license": "MIT",
     "install": "dsh plugin --profile web add dsh-workboard"
+  },
+  {
+    "id": "dsh-artel",
+    "name": "dsh-artel",
+    "type": "plugin",
+    "category": "developer",
+    "subcategory": "code-testing",
+    "repository": "https://github.com/ksolodev/dsh-artel",
+    "description": "Adds an Artel button to the DSH chat composer that runs a coding task in an isolated copy of the project — Solo (one agent) or Swarm (three agents that message each other) — shows every reply and the per-file diff, then writes all changed files with one Apply.",
+    "description_zh": "在 DSH 聊天输入栏添加 Artel 按钮，在项目隔离副本中运行编码任务——Solo（单智能体）或 Swarm（三个智能体互相发消息协作），以聊天消息呈现每个回复并给出逐文件 diff，点一次 Apply 一次性写入全部改动。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 0,
+    "install": "dsh plugin --profile web add dsh-artel",
+    "license": "MIT"
   }
 ]

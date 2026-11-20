@@ -16827,6 +16827,22 @@
     "stars": 2
   },
   {
+    "id": "dsh-collect",
+    "name": "dsh-collect",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/0131kikimy/dsh-collect",
+    "description": "采文 · CollectKit —— DeepSeek Harness 侧边栏采集插件：优先用非桌面操控方式抓取网页正文与图片，并按需生成 docx/xlsx/pptx/pdf 等文件；附面向小白的安装与使用文档。",
+    "description_zh": "采文 · CollectKit —— DeepSeek Harness 侧边栏采集插件：优先用非桌面操控方式抓取网页正文与图片，并按需生成 docx/xlsx/pptx/pdf 等文件；附面向小白的安装与使用文档。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-desktop-app",
     "name": "dsh-desktop",
     "type": "client",
@@ -29738,6 +29754,155 @@
     "repository": "https://github.com/AyaoJies/dsh-mobile-android-test",
     "description": "Android app testing inside DeepSeek Harness: run an APK in a managed emulator, mirror the screen, drive it with mouse and keyboard, and inspect decrypted HTTPS requests.",
     "description_zh": "Android app testing inside DeepSeek Harness: run an APK in a managed emulator, mirror the screen, drive it with mouse and keyboard, and inspect decrypted HTTPS requests.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-fatfish-pet-xun209",
+    "name": "dsh-fatfish-pet-xun209",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Xun209/dsh-fatfish-pet-xun209",
+    "description": "DSH 大肥魚桌寵 · 勛 —— DeepSeek Harness 的大肥魚（鯨魚娘）桌寵。本機版修正：在 DSH 0.2.1-rc.5 上修好了桌面透明窗渲染不出角色的問題。角色形象為社群二創，美術 CC BY-NC-SA 4.0（禁商用）。",
+    "description_zh": "DSH 大肥魚桌寵 · 勛 —— DeepSeek Harness 的大肥魚（鯨魚娘）桌寵。本機版修正：在 DSH 0.2.1-rc.5 上修好了桌面透明窗渲染不出角色的問題。角色形象為社群二創，美術 CC BY-NC-SA 4.0（禁商用）。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-desktop-responsive",
+    "name": "dsh-desktop-responsive",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/laiyinyizao007/dsh-desktop-responsive",
+    "description": "A phone-width layout for the DSH Desktop and the DeepSeek Harness web UI",
+    "description_zh": "A phone-width layout for the DSH Desktop and the DeepSeek Harness web UI",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-codex-model-effort-selector-1",
+    "name": "dsh-codex-model-effort-selector",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/WanX609/dsh-codex-model-effort-selector",
+    "description": "Codex desktop-style model and reasoning-effort selector for DeepSeek Harness",
+    "description_zh": "Codex desktop-style model and reasoning-effort selector for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-exec",
+    "name": "dsh-exec",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Eray114514/dsh-exec",
+    "description": "在终端 / 脚本 / CI 里一行调用 DeepSeek Harness，会话实时出现在桌面端侧边栏｜Run DeepSeek Harness from a shell, a script or CI — one line in, the final answer out, and the session lives in the desktop sidebar.",
+    "description_zh": "在终端 / 脚本 / CI 里一行调用 DeepSeek Harness，会话实时出现在桌面端侧边栏｜Run DeepSeek Harness from a shell, a script or CI — one line in, the final answer out, and the session lives in the desktop sidebar.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-chime-badge",
+    "name": "dsh-task-chime-badge",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/todrinkcho/dsh-task-chime-badge",
+    "description": "Chime and a taskbar overlay badge when a DeepSeek Harness turn finishes or waits for your answer (Windows desktop shell).",
+    "description_zh": "Chime and a taskbar overlay badge when a DeepSeek Harness turn finishes or waits for your answer (Windows desktop shell).",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-npie-reader",
+    "name": "dsh-npie-reader",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/BannyLon/dsh-npie-reader",
+    "description": "DSH 桌面端阅读器：订阅 RSS/Atom 作者、读原文或中文版本、带着文章问 AI；本地与网盘电子书（PDF 原版式阅读，EPUB/MOBI/AZW3/TXT 重排阅读）、听书与导出 MP3、Markdown 日记。零第三方后端。",
+    "description_zh": "DSH 桌面端阅读器：订阅 RSS/Atom 作者、读原文或中文版本、带着文章问 AI；本地与网盘电子书（PDF 原版式阅读，EPUB/MOBI/AZW3/TXT 重排阅读）、听书与导出 MP3、Markdown 日记。零第三方后端。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chronobranch",
+    "name": "dsh-chronobranch",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/yoli-mi/dsh-chronobranch",
+    "description": "Native horizontal dot-and-line timeline & branching canvas plugin for DeepSeek Harness (DSH): unified-composer branching, workspace multi-conversation linking, magnetic & desktop sticky tiles, micro-axis execution unfolding, and native shortcuts.",
+    "description_zh": "Native horizontal dot-and-line timeline & branching canvas plugin for DeepSeek Harness (DSH): unified-composer branching, workspace multi-conversation linking, magnetic & desktop sticky tiles, micro-axis execution unfolding, and native shortcuts.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-erii-pet",
+    "name": "dsh-erii-pet",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/sensencjq/dsh-erii-pet",
+    "description": "上杉绘梨衣桌宠 for DeepSeek Harness：页内与 Windows 桌面双形态、逐帧动画、本机 Edge TTS 语音。",
+    "description_zh": "上杉绘梨衣桌宠 for DeepSeek Harness：页内与 Windows 桌面双形态、逐帧动画、本机 Edge TTS 语音。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-task-alerts",
+    "name": "dsh-task-alerts",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ZachZou-logs/dsh-task-alerts",
+    "description": "DSH 插件：长任务结束、或停下来等你操作时，可以“主动发送桌面通知”，让你不用一直盯着 DSH 页面。支持Windows / macOS 等多个系统。",
+    "description_zh": "DSH 插件：长任务结束、或停下来等你操作时，可以“主动发送桌面通知”，让你不用一直盯着 DSH 页面。支持Windows / macOS 等多个系统。",
     "capabilities": [
       "coding"
     ],

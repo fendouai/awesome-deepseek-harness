@@ -6715,6 +6715,23 @@
     "license": "MIT"
   },
   {
+    "id": "ark",
+    "name": "ARK",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/kaust-ark/ARK",
+    "description": "Automatic Research Kit",
+    "description_zh": "Automatic Research Kit",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 38,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "dsh-2",
     "name": "dsh",
     "type": "plugin",
@@ -7177,6 +7194,22 @@
     "status": "active",
     "verified": false,
     "stars": 34
+  },
+  {
+    "id": "mapus",
+    "name": "MAPUS",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/icecliffs/MAPUS",
+    "description": "MAPUS - 一个能让你在浏览器上直接做智能体渗透测试的DeepSeek Harness浏览器插件",
+    "description_zh": "MAPUS - 一个能让你在浏览器上直接做智能体渗透测试的DeepSeek Harness浏览器插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 34,
+    "license": "MIT"
   },
   {
     "id": "billion-context-dsh",
@@ -14631,6 +14664,23 @@
     "status": "active",
     "verified": false,
     "stars": 14
+  },
+  {
+    "id": "ai4ai",
+    "name": "ai4ai",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/AI4XE/ai4ai",
+    "description": "Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more",
+    "description_zh": "Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more",
+    "capabilities": [
+      "coding",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 14,
+    "license": "MIT"
   },
   {
     "id": "dsh-pet",
@@ -46043,6 +46093,40 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-chat-2",
+    "name": "dsh-chat",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/SamuelChung2010/dsh-chat",
+    "description": "**dsh-chat** — Bring a ChatGPT-like Chat & Agent experience to DeepSeek Harness, with seamless handoff to coding agents.",
+    "description_zh": "**dsh-chat** — Bring a ChatGPT-like Chat & Agent experience to DeepSeek Harness, with seamless handoff to coding agents.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
+    "id": "quotemem",
+    "name": "QuoteMem",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/edsml-jz2321/QuoteMem",
+    "description": "QuoteMem: auditable long-term memory for LLM agents — quoted byte-span evidence, versioned supersession, tombstone forgetting, replayable review decisions.",
+    "description_zh": "QuoteMem: auditable long-term memory for LLM agents — quoted byte-span evidence, versioned supersession, tombstone forgetting, replayable review decisions.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-liquid-glass-1",
     "name": "dsh-liquid-glass",
     "type": "plugin",
@@ -68453,6 +68537,42 @@
     "description_zh": "dsh-任务状态提示灯",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "pocketagents",
+    "name": "pocketagents",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/oscarka/pocketagents",
+    "description": "PocketAgents — Control Claude Code, OpenAI Codex, Antigravity IDE, DeepSeek Harness & WorkBuddy from your phone. Self-hosted, swipe approvals, voice input & 5s terminal QR.",
+    "description_zh": "PocketAgents — Control Claude Code, OpenAI Codex, Antigravity IDE, DeepSeek Harness & WorkBuddy from your phone. Self-hosted, swipe approvals, voice input & 5s terminal QR.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "terminal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-search-5",
+    "name": "dsh-session-search",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/chibslee/dsh-session-search",
+    "description": "Full-text search over local session records: sidebar panel plus a Cmd+F find bar, hits open the session at the message. No model calls.",
+    "description_zh": "Full-text search over local session records: sidebar panel plus a Cmd+F find bar, hits open the session at the message. No model calls.",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -104364,6 +104484,168 @@
     "description_zh": "DSH-style execution traces for Codex, with recorded requests, nested tools, compaction, and timing.",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "work-charter-dsh-1",
+    "name": "work-charter-dsh",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/eddiez529/work-charter-dsh",
+    "description": "DSH-native Work Charter policy plugin backed by session-coordinator-dsh",
+    "description_zh": "DSH-native Work Charter policy plugin backed by session-coordinator-dsh",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-recall-rebuild",
+    "name": "dsh-recall-rebuild",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/linkpain/dsh-recall-rebuild",
+    "description": "重建式回忆增强插件 for DeepSeek Harness：只读现有记忆插件（dsh-prime-memory）的记忆库，在模型步骤前把检索到的记忆碎片「重建」为带语境与情绪的回忆片段注入，替代生硬的原文/摘要注入。增强版定位：先装 dsh-prime-memory，再装本插件。",
+    "description_zh": "重建式回忆增强插件 for DeepSeek Harness：只读现有记忆插件（dsh-prime-memory）的记忆库，在模型步骤前把检索到的记忆碎片「重建」为带语境与情绪的回忆片段注入，替代生硬的原文/摘要注入。增强版定位：先装 dsh-prime-memory，再装本插件。",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mewtype-dream",
+    "name": "dsh-mewtype-dream",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/zakoAries41/dsh-mewtype-dream",
+    "description": "MewType dream appearance for the DeepSeek Harness Web GUI: five character palettes, aurora and starlight, personality openers and effects sliders (no bundled character artwork).",
+    "description_zh": "MewType dream appearance for the DeepSeek Harness Web GUI: five character palettes, aurora and starlight, personality openers and effects sliders (no bundled character artwork).",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "nounoumm",
+    "name": "-",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Nounoumm/-",
+    "description": "????????DeepSeek Harness ???????????a????????OCX + PDF?????????",
+    "description_zh": "????????DeepSeek Harness ???????????a????????OCX + PDF?????????",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-diet",
+    "name": "dsh-diet",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/PandaAB/dsh-diet",
+    "description": "基于抖音零重力R哥“傻瓜公式”的 DeepSeek Harness 每日减脂饮食记录插件",
+    "description_zh": "基于抖音零重力R哥“傻瓜公式”的 DeepSeek Harness 每日减脂饮食记录插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-session-manager",
+    "name": "dsh-plugin-session-manager",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/ddwolf715/dsh-plugin-session-manager",
+    "description": "DeepSeek Harness 会话管理插件",
+    "description_zh": "DeepSeek Harness 会话管理插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2
+  },
+  {
+    "id": "dsh-draft-attachments-1",
+    "name": "dsh-draft-attachments",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/airainal/dsh-draft-attachments",
+    "description": "This DSH plugin keeps unsent attachments with the session",
+    "description_zh": "This DSH plugin keeps unsent attachments with the session",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-fish-home-1",
+    "name": "dsh-fish-home",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Yuuyuko-uu/dsh-fish-home",
+    "description": "鱼鱼窝：把「大肥鱼的小日子」那个 3D 房间接进 DSH —— 房间里打字能送到会话里，会话里回的话、她自己打的字，都顺着事件流回到房间里。",
+    "description_zh": "鱼鱼窝：把「大肥鱼的小日子」那个 3D 房间接进 DSH —— 房间里打字能送到会话里，会话里回的话、她自己打的字，都顺着事件流回到房间里。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2
+  },
+  {
+    "id": "dsh-soma",
+    "name": "dsh-soma",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/Tlr18348452080-hub/dsh-soma",
+    "description": "Give an AI a body that actually tires: touch, temperature, fatigue, hunger and hormones all come out of differential equations — 42 skin zones, 36 ERB cochlear channels, 8 tools whose arguments are newtons and degrees. A DeepSeek Harness plugin. · 给 AI 一副会自己演化的身体：会累、会适应、被碰久了会麻。",
+    "description_zh": "Give an AI a body that actually tires: touch, temperature, fatigue, hunger and hormones all come out of differential equations — 42 skin zones, 36 ERB cochlear channels, 8 tools whose arguments are newtons and degrees. A DeepSeek Harness plugin. · 给 AI 一副会自己演化的身体：会累、会适应、被碰久了会麻。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-claw-mesh",
+    "name": "dsh-claw-mesh",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/AlanTaoEx/dsh-claw-mesh",
+    "description": "LAN device mesh for DeepSeek Harness: discover peers, grant per-device control, share SSH endpoints, and dispatch agents remotely.",
+    "description_zh": "LAN device mesh for DeepSeek Harness: discover peers, grant per-device control, share SSH endpoints, and dispatch agents remotely.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -204264,6 +204546,1529 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-git-panel-2",
+    "name": "dsh-git-panel",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/DashingMonkey/dsh-git-panel",
+    "description": "deepseek-harness DSH Web 的 Git 工作区面板",
+    "description_zh": "deepseek-harness DSH Web 的 Git 工作区面板",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-double",
+    "name": "dsh-double",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Junkrat9527/dsh-double",
+    "description": "dsh-double: self-management & self-evolution for DeepSeek Harness — snapshot, config pre-check, blue-green evolve with auto-rollback, standby supervisor. 让 dsh 自己管理自己/自我进化/故障自愈。",
+    "description_zh": "dsh-double: self-management & self-evolution for DeepSeek Harness — snapshot, config pre-check, blue-green evolve with auto-rollback, standby supervisor. 让 dsh 自己管理自己/自我进化/故障自愈。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "handwritten-ocr",
+    "name": "handwritten-ocr",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/KL3jd/handwritten-ocr",
+    "description": "DSH plugin for local OCR: handwritten Chinese + math → Markdown with LaTeX. GPU / CPU backends.",
+    "description_zh": "DSH plugin for local OCR: handwritten Chinese + math → Markdown with LaTeX. GPU / CPU backends.",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-minimalist-themes",
+    "name": "dsh-minimalist-themes",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/mykeura/dsh-minimalist-themes",
+    "description": "Minimalist color themes for DeepSeek Harness. Pick one with a single click — it's just another plugin.",
+    "description_zh": "Minimalist color themes for DeepSeek Harness. Pick one with a single click — it's just another plugin.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pwa-ui",
+    "name": "dsh-pwa-ui",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/liuzwZYW/dsh-pwa-ui",
+    "description": "DeepSeek Harness（dsh）Web 插件：让已安装的 Web 应用拥有原生观感的窗口标题栏，基于",
+    "description_zh": "DeepSeek Harness（dsh）Web 插件：让已安装的 Web 应用拥有原生观感的窗口标题栏，基于",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-xwide-handoff",
+    "name": "dsh-xwide-handoff",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/XWIDE/dsh-xwide-handoff",
+    "description": "DSH handoff plugin: /handoff generates a structured handoff card, auto-numbered new chat, sidebar pinning, threshold auto-prepare.",
+    "description_zh": "DSH handoff plugin: /handoff generates a structured handoff card, auto-numbered new chat, sidebar pinning, threshold auto-prepare.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cost-breakdown",
+    "name": "dsh-cost-breakdown",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/liaimei/dsh-cost-breakdown",
+    "description": "DSH 会话费用账单：账号余额 + 峰谷计价 + 每个会话（含子代理衍生会话）的消耗构成，输入框下方读数与右侧栏面板双入口。 DeepSeek Harness session cost breakdown: balance, peak/off-peak pricing, and how each session's spend is composed.",
+    "description_zh": "DSH 会话费用账单：账号余额 + 峰谷计价 + 每个会话（含子代理衍生会话）的消耗构成，输入框下方读数与右侧栏面板双入口。 DeepSeek Harness session cost breakdown: balance, peak/off-peak pricing, and how each session's spend is composed.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "onekey-models",
+    "name": "OneKey-Models",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/du-yuxuan/OneKey-Models",
+    "description": "OneKey-Models — one-click access to all 108 TokenDance models in DeepSeek Harness. API support powered by TokenDance.",
+    "description_zh": "OneKey-Models — one-click access to all 108 TokenDance models in DeepSeek Harness. API support powered by TokenDance.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-daily-chat-1",
+    "name": "dsh-daily-chat",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/wangbofan/dsh-daily-chat",
+    "description": "【蓝色大肥鱼版】DSH 日常聊天插件：把「新会话」拆成日常与工作，日常人格是「蓝色大肥鱼」（DeepSeek娘 / 鲸鱼娘），支持真删除单条与批量聊天记录",
+    "description_zh": "【蓝色大肥鱼版】DSH 日常聊天插件：把「新会话」拆成日常与工作，日常人格是「蓝色大肥鱼」（DeepSeek娘 / 鲸鱼娘），支持真删除单条与批量聊天记录",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-webdav-sync",
+    "name": "dsh-webdav-sync",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/alfredhuang211/dsh-webdav-sync",
+    "description": "DeepSeek Harness 插件：把会话日志与插件环境备份到任意 WebDAV 服务，并可从 WebDAV 恢复（会话+环境双源同步、rev/generation 版本机制、三方比较与冲突策略）",
+    "description_zh": "DeepSeek Harness 插件：把会话日志与插件环境备份到任意 WebDAV 服务，并可从 WebDAV 恢复（会话+环境双源同步、rev/generation 版本机制、三方比较与冲突策略）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-html-annotate",
+    "name": "dsh-html-annotate",
+    "type": "plugin",
+    "category": "input-editing",
+    "repository": "https://github.com/czxgg0630/dsh-html-annotate",
+    "description": "右侧栏 HTML 批注预览：点选元素或框选区域写批注，直接发进当前会话让 AI 改",
+    "description_zh": "右侧栏 HTML 批注预览：点选元素或框选区域写批注，直接发进当前会话让 AI 改",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-model-fallback-queue",
+    "name": "dsh-model-fallback-queue",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/HelloQingTao/dsh-model-fallback-queue",
+    "description": "模型故障转移队列：当前模型限额/限流/不可用时自动切到队列下一个模型继续，全图形界面配置 | Model fallback queue for DeepSeek Harness",
+    "description_zh": "模型故障转移队列：当前模型限额/限流/不可用时自动切到队列下一个模型继续，全图形界面配置 | Model fallback queue for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mobile-sidebar",
+    "name": "dsh-mobile-sidebar",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/wilsonchengassistant/dsh-mobile-sidebar",
+    "description": "Give the whole left column back to the conversation on narrow screens: below 1024px the DSH sidebar leaves the frame entirely and a header button opens it as an overlay drawer.",
+    "description_zh": "Give the whole left column back to the conversation on narrow screens: below 1024px the DSH sidebar leaves the frame entirely and a header button opens it as an overlay drawer.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-codex-consult-1",
+    "name": "dsh-codex-consult",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/X1A0ME111/dsh-codex-consult",
+    "description": "On-demand consultation with the OpenAI Codex CLI from DeepSeek Harness: read-only reviews, inline evidence, verified model provenance, quota guardrails and durable call logs.",
+    "description_zh": "On-demand consultation with the OpenAI Codex CLI from DeepSeek Harness: read-only reviews, inline evidence, verified model provenance, quota guardrails and durable call logs.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-onesearch",
+    "name": "dsh-onesearch",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/jeweis/dsh-onesearch",
+    "description": "DeepSeek Harness 搜索插件：把内置网络搜索换成一条可排序的搜索引擎链，每个引擎单独开关、拖动决定优先级，失败自动顺延下一个。",
+    "description_zh": "DeepSeek Harness 搜索插件：把内置网络搜索换成一条可排序的搜索引擎链，每个引擎单独开关、拖动决定优先级，失败自动顺延下一个。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-code-pipeline",
+    "name": "dsh-code-pipeline",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/DDTomTom/dsh-code-pipeline",
+    "description": "DSH 复合代码开发流水线插件：Sol/Opus/DeepSeek 分阶段协作、独立验收、进度浮窗、逐环节模型与推理等级设置、中英双语",
+    "description_zh": "DSH 复合代码开发流水线插件：Sol/Opus/DeepSeek 分阶段协作、独立验收、进度浮窗、逐环节模型与推理等级设置、中英双语",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workaround-git",
+    "name": "dsh-workaround-git",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Roshenn/dsh-workaround-git",
+    "description": "DSH plugin: batch git across every repo in a workspace — one status table, one sync, one commit per repo's own diff, one push.",
+    "description_zh": "DSH plugin: batch git across every repo in a workspace — one status table, one sync, one commit per repo's own diff, one push.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-looptree-dashboard",
+    "name": "dsh-looptree-dashboard",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Roshenn/dsh-looptree-dashboard",
+    "description": "DSH plugin: one swimlane per project — project vision to milestone to capability to execution records, with node sessions, structured prompts and live service status.",
+    "description_zh": "DSH plugin: one swimlane per project — project vision to milestone to capability to execution records, with node sessions, structured prompts and live service status.",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-updater-4",
+    "name": "dsh-plugin-updater",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/shehuilaoliumang/dsh-plugin-updater",
+    "description": "检查 DeepSeek Harness 已安装插件是否有新版本，并在插件页 / 插件详情页一键更新。Plugin Updater for DeepSeek Harness.",
+    "description_zh": "检查 DeepSeek Harness 已安装插件是否有新版本，并在插件页 / 插件详情页一键更新。Plugin Updater for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-steward",
+    "name": "dsh-plugin-steward",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/lihao178/dsh-plugin-steward",
+    "description": "Plugin steward for DeepSeek Harness: update checks, auto-update with snapshot rollback, health checks, duplicate analysis, cleanup — one left-panel UI and one CLI. · 插件管家：查更新、有新版本自动装（装前备份、出错回滚）、体检、查重、清垃圾。",
+    "description_zh": "Plugin steward for DeepSeek Harness: update checks, auto-update with snapshot rollback, health checks, duplicate analysis, cleanup — one left-panel UI and one CLI. · 插件管家：查更新、有新版本自动装（装前备份、出错回滚）、体检、查重、清垃圾。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hajijin",
+    "name": "dsh-hajijin",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/dqsyyys8d9-png/dsh-hajijin",
+    "description": "哈基金 · A股场外基金助手：评分推荐、模拟盘、自选跟踪，附独立网页",
+    "description_zh": "哈基金 · A股场外基金助手：评分推荐、模拟盘、自选跟踪，附独立网页",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-qq-archive",
+    "name": "dsh-qq-archive",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/Daphne999/dsh-qq-archive",
+    "description": "Archive DSH session logs into a local, searchable chat library: decodes every concatenated zstd frame, extracts user/assistant text into SQLite, and exposes sync, search and stats tools. Fully local.",
+    "description_zh": "Archive DSH session logs into a local, searchable chat library: decodes every concatenated zstd frame, extracts user/assistant text into SQLite, and exposes sync, search and stats tools. Fully local.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-course-notes-1",
+    "name": "dsh-course-notes",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/sony6490/dsh-course-notes",
+    "description": "DSH 插件：实时视频课程知识笔记。读取 dsh-video-coursemap 的检测结果，为每个新视频生成独立 Word 并自动投递到新的 DSH 会话（摘要 + Word 文件卡），同时写入 dsh-memory-evolve 项目记忆。",
+    "description_zh": "DSH 插件：实时视频课程知识笔记。读取 dsh-video-coursemap 的检测结果，为每个新视频生成独立 Word 并自动投递到新的 DSH 会话（摘要 + Word 文件卡），同时写入 dsh-memory-evolve 项目记忆。",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-weed-annotation-assistant",
+    "name": "dsh-weed-annotation-assistant",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/destinywalker2025-design/dsh-weed-annotation-assistant",
+    "description": "DSH weed-image annotation assistant: the plugin owns the data contract, visual review and export; the agent decides how to annotate.杂草图像标注协作插件。",
+    "description_zh": "DSH weed-image annotation assistant: the plugin owns the data contract, visual review and export; the agent decides how to annotate.杂草图像标注协作插件。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-sidebar-media-player",
+    "name": "dsh-sidebar-media-player",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/loyalchiiina/dsh-sidebar-media-player",
+    "description": "侧边栏多媒体播放器 · Sidebar multimedia player (seek / spectrum / pitch / subtitles / lyrics)",
+    "description_zh": "侧边栏多媒体播放器 · Sidebar multimedia player (seek / spectrum / pitch / subtitles / lyrics)",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-finesse-visualizer",
+    "name": "dsh-finesse-visualizer",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/darkneu/dsh-finesse-visualizer",
+    "description": "Finesse 3 KatScript visualization and drag-and-drop optical bench designer for DeepSeek Harness",
+    "description_zh": "Finesse 3 KatScript visualization and drag-and-drop optical bench designer for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "dsh-reading-room",
+    "name": "dsh-reading-room",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/UncertaintyDeterminesYou4ndMe/dsh-reading-room",
+    "description": "阅读室：在 DeepSeek Harness (dsh) 里用母语读原版书。导入 EPUB/TXT/Markdown/网页，按章节由模型精译，点一下看原文；选中即可追问。",
+    "description_zh": "阅读室：在 DeepSeek Harness (dsh) 里用母语读原版书。导入 EPUB/TXT/Markdown/网页，按章节由模型精译，点一下看原文；选中即可追问。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-remote-plugin-3",
+    "name": "dsh-remote-plugin",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/jensentsts/dsh-remote-plugin",
+    "description": "Remote workspaces, sessions and tools for DeepSeek Harness.",
+    "description_zh": "Remote workspaces, sessions and tools for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tools-manage",
+    "name": "dsh-tools-manage",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/jixishi/dsh-tools-manage",
+    "description": "DeepSeek Harness 工具档位插件：按来源插件分组的工具档位、PTC 提示同步、AI 分配。Source-aware tool profiles for DeepSeek Harness.",
+    "description_zh": "DeepSeek Harness 工具档位插件：按来源插件分组的工具档位、PTC 提示同步、AI 分配。Source-aware tool profiles for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "decay-rag",
+    "name": "decay-rag",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/awa21212/decay-rag",
+    "description": "Time-aware retrieval in ~235 zero-dependency lines: per-chunk timestamps + decay. Four shapes - single file, four-corpus runtime, six languages (C/C++/Go/Java/JS/Python), and a DeepSeek Harness plugin.",
+    "description_zh": "Time-aware retrieval in ~235 zero-dependency lines: per-chunk timestamps + decay. Four shapes - single file, four-corpus runtime, six languages (C/C++/Go/Java/JS/Python), and a DeepSeek Harness plugin.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-thesis-trail",
+    "name": "dsh-thesis-trail",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/UncertaintyDeterminesYou4ndMe/dsh-thesis-trail",
+    "description": "循迹：在 DeepSeek Harness 里长期跟踪可证伪的投资命题，按时用 DeepSeek API 联网研究，人和 AI 共编议题",
+    "description_zh": "循迹：在 DeepSeek Harness 里长期跟踪可证伪的投资命题，按时用 DeepSeek API 联网研究，人和 AI 共编议题",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-novel-break",
+    "name": "dsh-novel-break",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/Escap1ng/dsh-novel-break",
+    "description": "DSH plugin: read novels between reasoning chunks. TXT/EPUB import, reading progress, display-only with zero context cost. | 思维链分块间隙插小说的 DSH 插件，支持 txt/epub 导入与阅读进度记忆，纯显示层零上下文开销。",
+    "description_zh": "DSH plugin: read novels between reasoning chunks. TXT/EPUB import, reading progress, display-only with zero context cost. | 思维链分块间隙插小说的 DSH 插件，支持 txt/epub 导入与阅读进度记忆，纯显示层零上下文开销。",
+    "capabilities": [
+      "coding",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-agent-pipeline",
+    "name": "dsh-agent-pipeline",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/elias-didoo/dsh-agent-pipeline",
+    "description": "Run a workspace's fixed review pipeline in DeepSeek Harness: each step fires when the agent finishes the last one, and the pipeline pauses where you have to decide.",
+    "description_zh": "Run a workspace's fixed review pipeline in DeepSeek Harness: each step fires when the agent finishes the last one, and the pipeline pauses where you have to decide.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "smart-dictation-dsh",
+    "name": "smart-dictation-dsh",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/triagmas/smart-dictation-dsh",
+    "description": "Local Russian dictation for DeepSeek Harness: GigaAM v3, English technical terms, personal glossary, no cloud speech API.",
+    "description_zh": "Local Russian dictation for DeepSeek Harness: GigaAM v3, English technical terms, personal glossary, no cloud speech API.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "danbooru-search-device",
+    "name": "danbooru-search-device",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/big-fat-fish-agent/danbooru-search-device",
+    "description": "DSH-D站搜索装置（AI 制作 / AI-made）— DSH bundle, not a standalone program; image-only Danbooru tools for DeepSeek Harness: post/tag search, year-favorites artist ranking, HOT/rising sampling, tag+expression & image→artist similarity, part specialists. 宇宙免责声明：作者（人类甲方 + AI Agent「肥鱼」）意念合一，出事 0.5 秒原地跑路，不承担任何责任。",
+    "description_zh": "DSH-D站搜索装置（AI 制作 / AI-made）— DSH bundle, not a standalone program; image-only Danbooru tools for DeepSeek Harness: post/tag search, year-favorites artist ranking, HOT/rising sampling, tag+expression & image→artist similarity, part specialists. 宇宙免责声明：作者（人类甲方 + AI Agent「肥鱼」）意念合一，出事 0.5 秒原地跑路，不承担任何责任。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "multimodal",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-image-studio-2",
+    "name": "dsh-image-studio",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/shamanjin/dsh-image-studio",
+    "description": "DSH 插件：多套 OpenAI 兼容生图配置，支持文生图与图生图",
+    "description_zh": "DSH 插件：多套 OpenAI 兼容生图配置，支持文生图与图生图",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-montagex",
+    "name": "dsh-montagex",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/royrao2007/dsh-montagex",
+    "description": "MontageX - full-pipeline AI video production harness for DeepSeek Harness: brief, storyboard, generation, assembly, QC, plus team collaboration",
+    "description_zh": "MontageX - full-pipeline AI video production harness for DeepSeek Harness: brief, storyboard, generation, assembly, QC, plus team collaboration",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-paper-workbench-1",
+    "name": "dsh-paper-workbench",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/qianxi-00/dsh-paper-workbench",
+    "description": "DSH paper workbench: PDF library, bilingual reading, translation and native Agent sessions.",
+    "description_zh": "DSH paper workbench: PDF library, bilingual reading, translation and native Agent sessions.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-whale-live",
+    "name": "dsh-whale-live",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/Lh1314-China/dsh-whale-live",
+    "description": "A left-sidebar live console for DeepSeek Harness: persona script, stream log, Bilibili danmaku, edge-tts speech, memory inbox. Windows.",
+    "description_zh": "A left-sidebar live console for DeepSeek Harness: persona script, stream log, Bilibili danmaku, edge-tts speech, memory inbox. Windows.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-constellation",
+    "name": "dsh-constellation",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Sunnnnch/dsh-constellation",
+    "description": "Constellation — SSH/VPS fleet management plugin for DeepSeek Harness: inventory, exec, SFTP, tunnels, live dashboard, three-carrier probes.",
+    "description_zh": "Constellation — SSH/VPS fleet management plugin for DeepSeek Harness: inventory, exec, SFTP, tunnels, live dashboard, three-carrier probes.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-human-input",
+    "name": "dsh-plugin-human-input",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/20700499ww-byte/dsh-plugin-human-input",
+    "description": "Give agents real Windows input: eased cursor paths with arc and jitter, press/release, drag, per-character typing, and grid-overlay screenshots to verify results. DeepSeek Harness plugin.",
+    "description_zh": "Give agents real Windows input: eased cursor paths with arc and jitter, press/release, drag, per-character typing, and grid-overlay screenshots to verify results. DeepSeek Harness plugin.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-locale-zh-tw-1",
+    "name": "dsh-locale-zh-tw",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/tero0224-droid/dsh-locale-zh-tw",
+    "description": "Traditional Chinese (Taiwan) interface language pack for the DeepSeek Harness web GUI",
+    "description_zh": "Traditional Chinese (Taiwan) interface language pack for the DeepSeek Harness web GUI",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-whale-reminder",
+    "name": "dsh-whale-reminder",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/ShawnZhangGy/dsh-whale-reminder",
+    "description": "DSH 会话提醒插件：Windows 系统通知 + 声音 + 窗口内浮层 + 任务栏/托盘闪烁；点击通知可直达会话（提到最前并聚焦输入框 / 只提窗 / 只提醒三档），DSH 在前台时不打扰，中英双语，已归档与子代理不计入未读",
+    "description_zh": "DSH 会话提醒插件：Windows 系统通知 + 声音 + 窗口内浮层 + 任务栏/托盘闪烁；点击通知可直达会话（提到最前并聚焦输入框 / 只提窗 / 只提醒三档），DSH 在前台时不打扰，中英双语，已归档与子代理不计入未读",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-xyq",
+    "name": "dsh-xyq",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Zb1649129135/dsh-xyq",
+    "description": "小云雀deepseek harness插件",
+    "description_zh": "小云雀deepseek harness插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-powerful-subtitle-studio",
+    "name": "dsh-powerful-subtitle-studio",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Qquanwei/dsh-powerful-subtitle-studio",
+    "description": "把一集视频转成字幕：百炼转写，当前会话翻译，输出 SRT、软字幕或烧录视频。",
+    "description_zh": "把一集视频转成字幕：百炼转写，当前会话翻译，输出 SRT、软字幕或烧录视频。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chat-preset",
+    "name": "dsh-chat-preset",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/wssdll/dsh-chat-preset",
+    "description": "DSH 纯净聊天模式预设。Schema 从 ~9 458 tok 降到 ~376 tok，降低约 25 倍。只保留联网搜索、打开网页、读取附件（文档、图片）三个工具，中文思维链，尽可能还原网页版。",
+    "description_zh": "DSH 纯净聊天模式预设。Schema 从 ~9 458 tok 降到 ~376 tok，降低约 25 倍。只保留联网搜索、打开网页、读取附件（文档、图片）三个工具，中文思维链，尽可能还原网页版。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-server-monitor",
+    "name": "dsh-server-monitor",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/xua123/dsh-server-monitor",
+    "description": "Server resource monitor for DeepSeek Harness: CPU, memory, disk, GPU/NPU/DCU, processes and Docker.",
+    "description_zh": "Server resource monitor for DeepSeek Harness: CPU, memory, disk, GPU/NPU/DCU, processes and Docker.",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-triage-desk",
+    "name": "dsh-triage-desk",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/LHCWN/dsh-triage-desk",
+    "description": "GitHub triage inbox plugin for DeepSeek Harness: reviews waiting on you, merge-ready PRs, failing CI, new issues, and terminal launch scenarios for coding agents.",
+    "description_zh": "GitHub triage inbox plugin for DeepSeek Harness: reviews waiting on you, merge-ready PRs, failing CI, new issues, and terminal launch scenarios for coding agents.",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent",
+      "terminal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-model-pool-1",
+    "name": "dsh-model-pool",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/Gray2006/dsh-model-pool",
+    "description": "Quota-aware model failover for DeepSeek Harness (DSH): bench a route on quota/auth failure and retry the same step on the next. Scans every configured model; pick the pool from the sidebar.",
+    "description_zh": "Quota-aware model failover for DeepSeek Harness (DSH): bench a route on quota/auth failure and retry the same step on the next. Scans every configured model; pick the pool from the sidebar.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workspace-context-helper",
+    "name": "dsh-workspace-context-helper",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/davidmengjie/dsh-workspace-context-helper",
+    "description": "DeepSeek Harness（DSH）客户端插件：为对话工作区补齐「浏览文件树 → 引用文件 → 引用代码行」链路。",
+    "description_zh": "DeepSeek Harness（DSH）客户端插件：为对话工作区补齐「浏览文件树 → 引用文件 → 引用代码行」链路。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-doubao-gateway",
+    "name": "dsh-doubao-gateway",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/sjdhdbbf/dsh-doubao-gateway",
+    "description": "DeepSeek Harness 原生豆包模型插件：工作账号池、浏览器登录、多模态创作、用量与日志",
+    "description_zh": "DeepSeek Harness 原生豆包模型插件：工作账号池、浏览器登录、多模态创作、用量与日志",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-knowledge-base-2",
+    "name": "dsh-knowledge-base",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/Night-ended-dawn-not-broken/dsh-knowledge-base",
+    "description": "Manually curated knowledge base plugin for DeepSeek Harness: encryption, prompts, and knowledge-first web search.",
+    "description_zh": "Manually curated knowledge base plugin for DeepSeek Harness: encryption, prompts, and knowledge-first web search.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "traceless",
+    "name": "traceless",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Lhy220402/traceless",
+    "description": "Forget how it thought. Keep what it said.",
+    "description_zh": "Forget how it thought. Keep what it said.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-web-updater-tab",
+    "name": "dsh-web-updater-tab",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/z460440448/dsh-web-updater-tab",
+    "description": "Update tab for DSH Web: checks @deepseek-ai/dsh releases, installs them with one click, schedules auto-updates, adds a settings section.",
+    "description_zh": "Update tab for DSH Web: checks @deepseek-ai/dsh releases, installs them with one click, schedules auto-updates, adds a settings section.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-stock-panel-1",
+    "name": "dsh-stock-panel",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/paulwang123/dsh-stock-panel",
+    "description": "DSH 股票行情面板：A股指数、自选股、走势、成交明细与资讯",
+    "description_zh": "DSH 股票行情面板：A股指数、自选股、走势、成交明细与资讯",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-lark-studio",
+    "name": "dsh-lark-studio",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/DeepLifeStudio/dsh-lark-studio",
+    "description": "专为 DeepSeek Harness 生态打造的大模型原生（LLM-Native）飞书全域协同与多维表格智能工作台插件。",
+    "description_zh": "专为 DeepSeek Harness 生态打造的大模型原生（LLM-Native）飞书全域协同与多维表格智能工作台插件。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-attempt-recover",
+    "name": "dsh-attempt-recover",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/UNIEPOpep/dsh-attempt-recover",
+    "description": "DeepSeek Harness 插件，将聊天界面中失败的assistant attempts (assistant/attempt) 呈现为可折叠的模块，并可选地重新注入对话上下文",
+    "description_zh": "DeepSeek Harness 插件，将聊天界面中失败的assistant attempts (assistant/attempt) 呈现为可折叠的模块，并可选地重新注入对话上下文",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-movie-workbench",
+    "name": "dsh-movie-workbench",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/aidc-lab/dsh-movie-workbench",
+    "description": "DSH Movies workbench : Search for movies and TV series from TMDB, IMDb and Douban on one page and automatically discover BT resources.",
+    "description_zh": "DSH Movies workbench : Search for movies and TV series from TMDB, IMDb and Douban on one page and automatically discover BT resources.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-normal-memory",
+    "name": "dsh-normal-memory",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/MailComet/dsh-normal-memory",
+    "description": "本地优先、文件原生的 DeepSeek Harness 长期记忆插件：Markdown 即事实源，中文 BM25 检索，无向量、无后台智能体",
+    "description_zh": "本地优先、文件原生的 DeepSeek Harness 长期记忆插件：Markdown 即事实源，中文 BM25 检索，无向量、无后台智能体",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-turn-slider",
+    "name": "dsh-turn-slider",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/mydzkj/dsh-turn-slider",
+    "description": "Unofficial community plugin: DSH Turn Slider for DeepSeek Harness",
+    "description_zh": "Unofficial community plugin: DSH Turn Slider for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-narration-policy",
+    "name": "dsh-narration-policy",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/hentai-joshu/dsh-narration-policy",
+    "description": "DeepSeek Harness 插件：全局注入 Codex 风格的过程汇报(Preamble)系统提示词",
+    "description_zh": "DeepSeek Harness 插件：全局注入 Codex 风格的过程汇报(Preamble)系统提示词",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-project-shader",
+    "name": "dsh-project-shader",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/omnifj/dsh-project-shader",
+    "description": "给 DeepSeek Harness 左侧工作区侧边栏里的每个项目自动分配专属颜色，并让它的会话行继承同色的浅色底纹。多个项目并排时，一眼就能分清哪个会话属于哪个项目。",
+    "description_zh": "给 DeepSeek Harness 左侧工作区侧边栏里的每个项目自动分配专属颜色，并让它的会话行继承同色的浅色底纹。多个项目并排时，一眼就能分清哪个会话属于哪个项目。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-manager-14",
+    "name": "dsh-session-manager",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/psyduck25/dsh-session-manager",
+    "description": "DeepSeek Harness 插件：单个会话删除、锁定保护、回收站缓冲与恢复",
+    "description_zh": "DeepSeek Harness 插件：单个会话删除、锁定保护、回收站缓冲与恢复",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-fts",
+    "name": "dsh-session-fts",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/xuhuaiqu/dsh-session-fts",
+    "description": "DeepSeek Harness 本地会话全文搜索插件：中文子串命中、时间范围筛选、侧栏搜索页与 Agent 工具 · Local full-text session search for DSH",
+    "description_zh": "DeepSeek Harness 本地会话全文搜索插件：中文子串命中、时间范围筛选、侧栏搜索页与 Agent 工具 · Local full-text session search for DSH",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-whale-sight",
+    "name": "dsh-whale-sight",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/Lh1314-China/dsh-whale-sight",
+    "description": "Video vision for DeepSeek Harness: sample a clip with ffmpeg, return timestamped frames or one labelled contact sheet as native image attachments.",
+    "description_zh": "Video vision for DeepSeek Harness: sample a clip with ffmpeg, return timestamped frames or one labelled contact sheet as native image attachments.",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-read-aloud-2",
+    "name": "dsh-read-aloud",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/instak1ll/dsh-read-aloud",
+    "description": "Read assistant answers aloud in DeepSeek Harness. 318 neural voices, a male voice picked automatically for your language, and a voice and speed your agent can change from the chat.",
+    "description_zh": "Read assistant answers aloud in DeepSeek Harness. 318 neural voices, a male voice picked automatically for your language, and a voice and speed your agent can change from the chat.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wb-free-model",
+    "name": "dsh-wb-free-model",
+    "type": "plugin",
+    "category": "discovery",
+    "repository": "https://github.com/trexwb/dsh-wb-free-model",
+    "description": "DSH 插件 · 装上即用的免费模型车道：免登录、免 API Key。隔离运行 OpenCode，自动发现并探测零成本模型（OpenCode + Kilo），WB · auto 加权选型，信封协议承载工具循环。",
+    "description_zh": "DSH 插件 · 装上即用的免费模型车道：免登录、免 API Key。隔离运行 OpenCode，自动发现并探测零成本模型（OpenCode + Kilo），WB · auto 加权选型，信封协议承载工具循环。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-research-desk",
+    "name": "dsh-research-desk",
+    "type": "plugin",
+    "category": "search",
+    "repository": "https://github.com/stallenlu/dsh-research-desk",
+    "description": "DeepSeek Harness plugin: a research desk for literature discovery, anchored reading, multi-perspective review, hypothesis tracking, sandboxed verification runs and export.",
+    "description_zh": "DeepSeek Harness plugin: a research desk for literature discovery, anchored reading, multi-perspective review, hypothesis tracking, sandboxed verification runs and export.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-xiaobenben",
+    "name": "dsh-xiaobenben",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Kapozux/dsh-xiaobenben",
+    "description": "小本本 · DeepSeek Harness 插件：住在右下角的鲸鱼娘桌宠，点一下翻一件你和 AI 干过的真事；台词可用你自己的模型写（选了才发送）。附 agent 年度回顾。",
+    "description_zh": "小本本 · DeepSeek Harness 插件：住在右下角的鲸鱼娘桌宠，点一下翻一件你和 AI 干过的真事；台词可用你自己的模型写（选了才发送）。附 agent 年度回顾。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mini-kit",
+    "name": "dsh-mini-kit",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Ckarefulon/dsh-mini-kit",
+    "description": "DeepSeek Harness mini kit: restart the app and continue the sessions that were running, and list what is running now.",
+    "description_zh": "DeepSeek Harness mini kit: restart the app and continue the sessions that were running, and list what is running now.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "ai-dream",
+    "name": "ai-dream",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/HanmoZhang0909/ai-dream",
+    "description": "AI Dream — A shape for every feeling. AI emotional ambient medium for DeepSeek Harness.",
+    "description_zh": "AI Dream — A shape for every feeling. AI emotional ambient medium for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gpt-image-2",
+    "name": "dsh-gpt-image",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Aliax-LI/dsh-gpt-image",
+    "description": "DSH plugin: GPT-Image reverse-channel generation/editing with a cross-platform 4K upscale chain and a native settings page",
+    "description_zh": "DSH plugin: GPT-Image reverse-channel generation/editing with a cross-platform 4K upscale chain and a native settings page",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-prompt-gate",
+    "name": "dsh-prompt-gate",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/tbx709/dsh-prompt-gate",
+    "description": "You type one line and the agent guesses the rest; this plugin rewrites that line into a complete prompt with goal, scope and acceptance criteria and waits for your go-ahead before the agent touches anything, then lets you approve it, ask for a rewrite, send the original as-is.",
+    "description_zh": "You type one line and the agent guesses the rest; this plugin rewrites that line into a complete prompt with goal, scope and acceptance criteria and waits for your go-ahead before the agent touches anything, then lets you approve it, ask for a rewrite, send the original as-is.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-smart-model-failover",
+    "name": "dsh-smart-model-failover",
+    "type": "plugin",
+    "category": "discovery",
+    "repository": "https://github.com/success-c/dsh-smart-model-failover",
+    "description": "DSH plugin: when a model request fails, switch to the next routable model discovered from every configured provider (and every externally connected one, e.g. WorkBuddy), then resume the interrupted turn.",
+    "description_zh": "DSH plugin: when a model request fails, switch to the next routable model discovered from every configured provider (and every externally connected one, e.g. WorkBuddy), then resume the interrupted turn.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-macro-memory",
+    "name": "dsh-macro-memory",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/hanhan9999999999999999999/dsh-macro-memory",
+    "description": "宏记忆 · Macro Memory — 一个 DSH 记忆插件接管全部记忆能力：8 个统一工具（schema 56,759 B → 8,655 B）、1,085 字符常驻注入、meow 七层主库 + 可重建星图，能力一条没砍。",
+    "description_zh": "宏记忆 · Macro Memory — 一个 DSH 记忆插件接管全部记忆能力：8 个统一工具（schema 56,759 B → 8,655 B）、1,085 字符常驻注入、meow 七层主库 + 可重建星图，能力一条没砍。",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "capy-connect",
+    "name": "capy-connect",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/helloloveworld/capy-connect",
+    "description": "把 Capy 模型接入 DeepSeek Harness：OpenAI 兼容网关 + 设备隧道，工具由 DSH 执行",
+    "description_zh": "把 Capy 模型接入 DeepSeek Harness：OpenAI 兼容网关 + 设备隧道，工具由 DSH 执行",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-balance-meter-3",
+    "name": "dsh-balance-meter",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/JEMING-CN/dsh-balance-meter",
+    "description": "DeepSeek account balance and today's peak/off-peak token rates in the DeepSeek Harness composer, with automatic price and holiday sync.",
+    "description_zh": "DeepSeek account balance and today's peak/off-peak token rates in the DeepSeek Harness composer, with automatic price and holiday sync.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-project-gallery",
+    "name": "dsh-project-gallery",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/dongsheng123132/dsh-project-gallery",
+    "description": "项目相册：DeepSeek Harness 插件，把会话与项目目录里的图按项目攒成一册，悬停即看、点开有当时的对话与进展；零运行时依赖，MIT。",
+    "description_zh": "项目相册：DeepSeek Harness 插件，把会话与项目目录里的图按项目攒成一册，悬停即看、点开有当时的对话与进展；零运行时依赖，MIT。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-codearts-dock",
+    "name": "dsh-codearts-dock",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Jensen0925/dsh-codearts-dock",
+    "description": "CodeArts Dock · 码道驿站：DeepSeek Harness 的非官方华为云码道模型插件，支持多账号、积分提醒、模型预设和加密备份。",
+    "description_zh": "CodeArts Dock · 码道驿站：DeepSeek Harness 的非官方华为云码道模型插件，支持多账号、积分提醒、模型预设和加密备份。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-heat-loop",
+    "name": "dsh-heat-loop",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/hihikohaza/dsh-heat-loop",
+    "description": "Closed-loop intensity control for BLE devices — heat engine + physiological safety gates",
+    "description_zh": "Closed-loop intensity control for BLE devices — heat engine + physiological safety gates",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-living",
+    "name": "dsh-living",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/AlexisVon/dsh-living",
+    "description": "A living agent runtime for DeepSeek Harness: clock, memory, persona, and WorldGem modules",
+    "description_zh": "A living agent runtime for DeepSeek Harness: clock, memory, persona, and WorldGem modules",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-token-saver-100",
+    "name": "dsh-token-saver-100",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Frost-wu/dsh-token-saver-100",
+    "description": "还在担心token不够用吗？，下载此插件，节省你所有的token消耗",
+    "description_zh": "还在担心token不够用吗？，下载此插件，节省你所有的token消耗",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-opendesign-runway",
+    "name": "dsh-opendesign-runway",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/saltfish060/dsh-opendesign-runway",
+    "description": "OpenDesign 套餐额度与钱包余额面板 for DeepSeek Harness：两个额度窗口、重置时间、速率推算、今日 token。",
+    "description_zh": "OpenDesign 套餐额度与钱包余额面板 for DeepSeek Harness：两个额度窗口、重置时间、速率推算、今日 token。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-composer-quill",
+    "name": "dsh-composer-quill",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/yugyq/dsh-composer-quill",
+    "description": "在 DSH 的输入框里提前把话写好：回合结束后给出下一句，打字时补完后半句，顺手修掉错字和标点。",
+    "description_zh": "在 DSH 的输入框里提前把话写好：回合结束后给出下一句，打字时补完后半句，顺手修掉错字和标点。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-compaction-owner",
+    "name": "dsh-compaction-owner",
+    "type": "plugin",
+    "category": "memory",
+    "repository": "https://github.com/w3353239621-tech/dsh-compaction-owner",
+    "description": "DSH 0.2.x 压缩调度层：单一 owner 持有 ctx.compaction，先免费定向修剪旧工具结果，再决定机械切或让位给 billion-context 的 wire 层；每次删除都有 shadow 备份可召回。MIT。",
+    "description_zh": "DSH 0.2.x 压缩调度层：单一 owner 持有 ctx.compaction，先免费定向修剪旧工具结果，再决定机械切或让位给 billion-context 的 wire 层；每次删除都有 shadow 备份可召回。MIT。",
+    "capabilities": [
+      "coding",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-auto-effort-1",
+    "name": "dsh-auto-effort",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/xsarthur90-art/dsh-auto-effort",
+    "description": "Picks the reasoning effort for every message by DeepSeek, so you don't have to.",
+    "description_zh": "Picks the reasoning effort for every message by DeepSeek, so you don't have to.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-whale-gaze",
+    "name": "dsh-whale-gaze",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/Lh1314-China/dsh-whale-gaze",
+    "description": "Always-on, cheap eyes for DeepSeek Harness: watch a camera or a video window locally and let the avatar's eyes follow. No screenshots, no uploads.",
+    "description_zh": "Always-on, cheap eyes for DeepSeek Harness: watch a camera or a video window locally and let the avatar's eyes follow. No screenshots, no uploads.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-openrouter-provider-router",
+    "name": "dsh-openrouter-provider-router",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/creekmoon/dsh-openrouter-provider-router",
+    "description": "DeepSeek Harness (DSH) 插件：把 OpenRouter 模型固定到你指定的上游供应商 / DSH plugin that pins each OpenRouter model to the providers you choose",
+    "description_zh": "DeepSeek Harness (DSH) 插件：把 OpenRouter 模型固定到你指定的上游供应商 / DSH plugin that pins each OpenRouter model to the providers you choose",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-edit-in-place",
+    "name": "dsh-edit-in-place",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/instak1ll/dsh-edit-in-place",
+    "description": "Edit sent messages in DeepSeek Harness: press the pencil, rewrite in place, and the corrected text continues in a new branch while the original conversation stays untouched.",
+    "description_zh": "Edit sent messages in DeepSeek Harness: press the pencil, rewrite in place, and the corrected text continues in a new branch while the original conversation stays untouched.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-go-kugimiya-voice",
+    "name": "dsh-go-kugimiya-voice",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/heqi698/dsh-go-kugimiya-voice",
+    "description": "钉宫理惠语音包 for dsh-go (voice assets from zthxxx/kugimiya-rainbow-fart, MIT)",
+    "description_zh": "钉宫理惠语音包 for dsh-go (voice assets from zthxxx/kugimiya-rainbow-fart, MIT)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-dragon-raja",
+    "name": "dsh-dragon-raja",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/sensencjq/dsh-dragon-raja",
+    "description": "《龙族》执行员登录主题 for DeepSeek Harness：权限确认开场动画、黑金执行部配色与全屏 HUD。",
+    "description_zh": "《龙族》执行员登录主题 for DeepSeek Harness：权限确认开场动画、黑金执行部配色与全屏 HUD。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-go-peak-cost",
+    "name": "dsh-go-peak-cost",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/wjn1121/dsh-go-peak-cost",
+    "description": "DSH Go 原生插件：本会话/今日 DeepSeek 花费、峰谷时段、24 小时与 7 天费用图表（旧名 local-peak-cost）",
+    "description_zh": "DSH Go 原生插件：本会话/今日 DeepSeek 花费、峰谷时段、24 小时与 7 天费用图表（旧名 local-peak-cost）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ssh-otp",
+    "name": "dsh-ssh-otp",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/yxl170/dsh-ssh-otp",
+    "description": "SSH tools for DeepSeek Harness: password + TOTP two-factor login, with host management in the settings page",
+    "description_zh": "SSH tools for DeepSeek Harness: password + TOTP two-factor login, with host management in the settings page",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-git-branch-switcher",
     "name": "dsh-git-branch-switcher",
     "type": "plugin",
@@ -209934,6 +211739,25 @@
     "verified": false,
     "stars": 0,
     "install": "dsh plugin --profile web add dsh-artel",
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-thetwo",
+    "name": "dsh-thetwo",
+    "type": "plugin",
+    "category": "workflow",
+    "repository": "https://github.com/YunongDai2005/dsh-thetwo",
+    "description": "Syncs DSH conversations and attachments between paired computers on a LAN. The model can compare their hardware and, after user confirmation, hand the current task to either device.",
+    "description_zh": "在已配对的局域网电脑间同步 DSH 会话和附件。模型可参考各设备的硬件配置，用户确认后由选中的电脑接着处理当前任务。",
+    "capabilities": [
+      "context",
+      "workflow",
+      "files"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 0,
+    "install": "dsh plugin --profile web add dsh-thetwo",
     "license": "MIT"
   }
 ]

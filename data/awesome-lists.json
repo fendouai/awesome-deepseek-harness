@@ -10356,6 +10356,24 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-session-delete-25",
+    "name": "dsh-session-delete",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/hakulat2023/dsh-session-delete",
+    "description": "Session deletion for DeepSeek Harness: recoverable trash-based delete, a sidebar menu row, and session_delete / session_restore agent tools.",
+    "description_zh": "Session deletion for DeepSeek Harness: recoverable trash-based delete, a sidebar menu row, and session_delete / session_restore agent tools.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-deepseek-harness-rodert-1",
     "name": "awesome-deepseek-harness",
     "type": "awesome-list",

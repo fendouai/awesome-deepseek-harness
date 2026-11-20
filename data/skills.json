@@ -4535,6 +4535,24 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-superagent-ptc",
+    "name": "dsh-superagent-ptc",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/BioAIEvolu/dsh-superagent-ptc",
+    "description": "SuperAgent PTC: long-task supervision for DeepSeek Harness - anchors, bounded delegation, independent reviewer, evidence-gated release",
+    "description_zh": "SuperAgent PTC: long-task supervision for DeepSeek Harness - anchors, bounded delegation, independent reviewer, evidence-gated release",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skillradar",
     "name": "dsh-skillradar",
     "type": "plugin",
@@ -6458,6 +6476,22 @@
     "status": "active",
     "verified": false,
     "stars": 3
+  },
+  {
+    "id": "dsh-markdown-studio",
+    "name": "dsh-markdown-studio",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Geekhyt/dsh-markdown-studio",
+    "description": "专注 Markdown 写作，公众号精美版式一键直出 —— DeepSeek Harness 本地优先写作与微信公众号排版插件（8 套主题 · 自定义 CSS · 自定义写作 Skill）",
+    "description_zh": "专注 Markdown 写作，公众号精美版式一键直出 —— DeepSeek Harness 本地优先写作与微信公众号排版插件（8 套主题 · 自定义 CSS · 自定义写作 Skill）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
   },
   {
     "id": "dsh-review-skills",
@@ -8926,6 +8960,23 @@
     "verified": false,
     "stars": 2,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "aesthetics-os",
+    "name": "Aesthetics-OS",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Greatbeing/Aesthetics-OS",
+    "description": "会拒绝的审美操作系统：三条红线 + 端到端生成→审判→迭代闭环 + 欧拉五透镜（色相相位/傅里叶相位/PC/Gabor/黄金螺线）。Agent Skill，不看实际成品不许说好看。",
+    "description_zh": "会拒绝的审美操作系统：三条红线 + 端到端生成→审判→迭代闭环 + 欧拉五透镜（色相相位/傅里叶相位/PC/Gabor/黄金螺线）。Agent Skill，不看实际成品不许说好看。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
   },
   {
     "id": "mattpocock-skills-dsh-zh",
@@ -16832,6 +16883,105 @@
     "status": "active",
     "verified": false,
     "stars": 1
+  },
+  {
+    "id": "dsh-self-evolve-1",
+    "name": "dsh-self-evolve",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Kosello/dsh-self-evolve",
+    "description": "Agent-authored procedural memory for DeepSeek Harness: guarded skill_manage, opt-in post-turn reviewer, optional Jev gate. Fork of jianghuife/dsh-self-evolve.",
+    "description_zh": "Agent-authored procedural memory for DeepSeek Harness: guarded skill_manage, opt-in post-turn reviewer, optional Jev gate. Fork of jianghuife/dsh-self-evolve.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-eda-review",
+    "name": "dsh-eda-review",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/chaser-star/dsh-eda-review",
+    "description": "嘉立创EDA专业版（.epro2/.epru）工程解析与电路/PCB 审查技能（DSH Skill Bundle）：权威网表重建、引脚与封装核对、PCB 几何检查、版本增量审查。只读、无网络、无安装脚本；仅限自有或已授权文件，不解析加密、受保护或第三方保密文件。",
+    "description_zh": "嘉立创EDA专业版（.epro2/.epru）工程解析与电路/PCB 审查技能（DSH Skill Bundle）：权威网表重建、引脚与封装核对、PCB 几何检查、版本增量审查。只读、无网络、无安装脚本；仅限自有或已授权文件，不解析加密、受保护或第三方保密文件。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-humanizer-zh",
+    "name": "dsh-humanizer-zh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/ZhejiangF/dsh-humanizer-zh",
+    "description": "On-demand Chinese editing skill for DSH that preserves facts, uncertainty, genre, and author voice.",
+    "description_zh": "On-demand Chinese editing skill for DSH that preserves facts, uncertainty, genre, and author voice.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "parallax-1",
+    "name": "parallax",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/NakliTechie/parallax",
+    "description": "Conversations in DeepSeek Harness (dsh) that message each other and delegate tasks. dsh plugin, MIT.",
+    "description_zh": "Conversations in DeepSeek Harness (dsh) that message each other and delegate tasks. dsh plugin, MIT.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skillswitch",
+    "name": "dsh-skillswitch",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Lrht-llw/dsh-skillswitch",
+    "description": "DeepSeek Harness（DSH）插件：在客户端左侧边栏新增 「技能开关」 页面，给每个已安装技能一个共享的开关。",
+    "description_zh": "DeepSeek Harness（DSH）插件：在客户端左侧边栏新增 「技能开关」 页面，给每个已安装技能一个共享的开关。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "novel-craft-dsh",
+    "name": "novel-craft-dsh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/sunlaoshi-123/novel-craft-dsh",
+    "description": "Long-form novel writing skill for DeepSeek Harness (dsh). 18 references + 5 local check scripts.",
+    "description_zh": "Long-form novel writing skill for DeepSeek Harness (dsh). 18 references + 5 local check scripts.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "dsh-news-briefing",

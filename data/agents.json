@@ -57,6 +57,23 @@
     "growth": 75
   },
   {
+    "id": "timon",
+    "name": "timon",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/ai-timon/timon",
+    "description": "Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place",
+    "description_zh": "Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 631,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "openstory",
     "name": "OpenStory",
     "type": "agent",
@@ -7142,6 +7159,24 @@
     "description_zh": "Notifications for DeepSeek Harness (DSH): Windows toasts, in-app toasts and an unread bell whenever the agent needs authorization, asks a question, or finishes a task. 中文：授权 / 提问 / 完成 / 出错时主动提醒，点通知可唤起窗口并跳到对应会话。",
     "capabilities": [
       "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cross-session-3",
+    "name": "dsh-cross-session",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/cao123-2024/dsh-cross-session",
+    "description": "Multi-agent shout for DeepSeek Harness: separate conversations that message each other at step boundaries, ask their master, and share read-only context.",
+    "description_zh": "Multi-agent shout for DeepSeek Harness: separate conversations that message each other at step boundaries, ask their master, and share read-only context.",
+    "capabilities": [
+      "coding",
+      "context",
       "multi-agent"
     ],
     "status": "active",

@@ -1078,6 +1078,24 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-chief",
+    "name": "dsh-chief",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/gluztm/dsh-chief",
+    "description": "把盯流程的活交给 AI，你只管拍板。AI 管 AI —— 它自己盯流程、自己调度子代理，跑崩了先拦住。 Hand the workflow-watching to AI. You only make the call - it minds the flow, keeps subagents on track, and stops a runaway before it reaches you.",
+    "description_zh": "把盯流程的活交给 AI，你只管拍板。AI 管 AI —— 它自己盯流程、自己调度子代理，跑崩了先拦住。 Hand the workflow-watching to AI. You only make the call - it minds the flow, keeps subagents on track, and stops a runaway before it reaches you.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "dsh-deepresearch",
     "name": "dsh-deepresearch",
     "type": "workflow",
@@ -3845,6 +3863,59 @@
     "stars": 3
   },
   {
+    "id": "dsh-trellis-3",
+    "name": "dsh-trellis",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/HomoLand/dsh-trellis",
+    "description": "Trellis workflow integration for DeepSeek Harness",
+    "description_zh": "Trellis workflow integration for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-deep-dive",
+    "name": "dsh-deep-dive",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/chibslee/dsh-deep-dive",
+    "description": "Deep Dive research mode: plan, parallel retrieval, citation checks against saved sources, cited report; plus a report reviewer panel.",
+    "description_zh": "Deep Dive research mode: plan, parallel retrieval, citation checks against saved sources, cited report; plus a report reviewer panel.",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-superagent-1",
+    "name": "dsh-superagent",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/LittleChenLiya/dsh-superagent",
+    "description": "Long-running autonomous execution plugin for DeepSeek Harness: one goal, model-planned parallel subtasks, one merged report, durable across restarts.",
+    "description_zh": "Long-running autonomous execution plugin for DeepSeek Harness: one goal, model-planned parallel subtasks, one merged report, durable across restarts.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugin-verified-search",
     "name": "dsh-plugin-verified-search",
     "type": "workflow",
@@ -5684,6 +5755,24 @@
     "capabilities": [
       "coding",
       "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-matriarc",
+    "name": "dsh-matriarc",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/simveit/dsh-matriarc",
+    "description": "Matriarc: a second model plans and reviews the work of a DeepSeek Harness (dsh) session, through a DSH subagent plugin that runs another coding agent.",
+    "description_zh": "Matriarc: a second model plans and reviews the work of a DeepSeek Harness (dsh) session, through a DSH subagent plugin that runs another coding agent.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
       "workflow"
     ],
     "status": "active",
@@ -10814,6 +10903,160 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-quota-autoresume",
+    "name": "dsh-quota-autoresume",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/shuijhu/dsh-quota-autoresume",
+    "description": "DeepSeek Harness plugin that resumes tasks stopped by plan-quota exhaustion, right after the next quota reset (05:00/10:00/15:00/20:00/24:00).",
+    "description_zh": "DeepSeek Harness plugin that resumes tasks stopped by plan-quota exhaustion, right after the next quota reset (05:00/10:00/15:00/20:00/24:00).",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-plain-memory",
+    "name": "dsh-plain-memory",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/simin-yuan/dsh-plain-memory",
+    "description": "原味记忆：DSH 原生的轻记忆。纯 Markdown 资产、线索词本地召回；零依赖、零模型调用、零定时器。多窗口状态卡为实验功能（默认关闭）。",
+    "description_zh": "原味记忆：DSH 原生的轻记忆。纯 Markdown 资产、线索词本地召回；零依赖、零模型调用、零定时器。多窗口状态卡为实验功能（默认关闭）。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workflow-canvas-1",
+    "name": "dsh-workflow-canvas",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Wasabi2575/dsh-workflow-canvas",
+    "description": "An visual, editable subagent-workflow canvas for DeepSeek Harness, docked in the sidebar. 一个subagent工作流的画布编辑器插件，在侧边栏打开。图形界面编排agent工作流会给你一种当老板的感觉，应该会很爽↖(^ω^)↗",
+    "description_zh": "An visual, editable subagent-workflow canvas for DeepSeek Harness, docked in the sidebar. 一个subagent工作流的画布编辑器插件，在侧边栏打开。图形界面编排agent工作流会给你一种当老板的感觉，应该会很爽↖(^ω^)↗",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ptforge",
+    "name": "dsh-ptforge",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/chiyan11/dsh-ptforge",
+    "description": "Cisco Packet Tracer automation for DeepSeek Harness: offline .pkt codec, topology builder, state assertions, and a minimal Win32 runtime for CLI/ping/http/ftp",
+    "description_zh": "Cisco Packet Tracer automation for DeepSeek Harness: offline .pkt codec, topology builder, state assertions, and a minimal Win32 runtime for CLI/ping/http/ftp",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-manga-workflow",
+    "name": "dsh-manga-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/YiDaWuYi/dsh-manga-workflow",
+    "description": "dsh-manga-workflow",
+    "description_zh": "dsh-manga-workflow",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-airplane-battle",
+    "name": "dsh-airplane-battle",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/PNDSpnds/dsh-airplane-battle",
+    "description": "等着大肥鱼干活太无聊？安装插件，立刻来一把激情四射的飞机大战",
+    "description_zh": "等着大肥鱼干活太无聊？安装插件，立刻来一把激情四射的飞机大战",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-dev-workflow-1",
+    "name": "dsh-dev-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/DennisZhangOiler/dsh-dev-workflow",
+    "description": "Non-default Dev Workflow agent preset for DeepSeek Harness",
+    "description_zh": "Non-default Dev Workflow agent preset for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cortex-agency",
+    "name": "dsh-cortex-agency",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Lh1314-China/dsh-cortex-agency",
+    "description": "Memory companion for dsh-cortex: drive pool, idle rumination and metacognition on the host scheduler, off by default, own scope. 记忆内核的伴生层。",
+    "description_zh": "Memory companion for dsh-cortex: drive pool, idle rumination and metacognition on the host scheduler, off by default, own scope. 记忆内核的伴生层。",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-kvmflow",
+    "name": "dsh-kvmflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/KawaiiHachimi/dsh-kvmflow",
+    "description": "Drive a real computer through an IP-KVM from DeepSeek Harness: record HID steps, let the agent author YAML workflows, replay them with screen verification.",
+    "description_zh": "Drive a real computer through an IP-KVM from DeepSeek Harness: record HID steps, let the agent author YAML workflows, replay them with screen verification.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "dsh-plugin-skill",

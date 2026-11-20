@@ -3205,6 +3205,41 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "repo-tutor",
+    "name": "Repo_Tutor",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Wang-yifan666/Repo_Tutor",
+    "description": "An interactive repository learning tutor for DeepSeek Harness. Learn unfamiliar codebases through guided exploration, implementation-level explanations and adaptive questioning.",
+    "description_zh": "An interactive repository learning tutor for DeepSeek Harness. Learn unfamiliar codebases through guided exploration, implementation-level explanations and adaptive questioning.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-become-human",
+    "name": "dsh-become-human",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/liangTc/dsh-become-human",
+    "description": "面向 DSH Web 的单会话自主 Agent：人格、分层记忆、自主学习、任务看板、目标推进与主动交流；Web 与 IM 共享会话。Apache-2.0，测试版本，尚未开发完成。",
+    "description_zh": "面向 DSH Web 的单会话自主 Agent：人格、分层记忆、自主学习、任务看板、目标推进与主动交流；Web 与 IM 共享会话。Apache-2.0，测试版本，尚未开发完成。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",

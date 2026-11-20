@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "Top 10 and full list of 187 curated tutorials & learning for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 189 curated tutorials & learning for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [dshfind](resources/dshfind.md) | ⭐200 | Learn DSH principles, plugin marketplace and best practices — from chapter-by-chapter Cordis paper reading to an auto-aggregated plugin market. | ✅ active |
 | 10 | [NamiDSH](resources/namidsh.md) | ⭐189 | 对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent | ✅ active |
 
-## Complete list (187)
+## Complete list (189)
 
 
-**Learning (187)**
+**Learning (189)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -146,6 +146,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-agent-growth](resources/dsh-agent-growth.md) | ⭐1 | 大肥鱼成长插件：让 AI 从真实素材中学习、形成选题、复盘作品并积累可追溯记忆。适用于 DeepSeek Harness，可自定义角色。 | ✅ active |
 | [dsh-attune](resources/dsh-attune.md) | ⭐1 | 让 DSH 根据当前情境生成小测试，在确认、纠正和删除中学习协作偏好。 | ✅ active |
 | [dsh-autodidact](resources/dsh-autodidact.md) | ⭐1 | Go learn it instead of guessing — task-driven self-education for DeepSeek Harness. 8 keyless engines, WeChat / Bilibili / academic search. Zero cookies, no browser automation. · 不会就去学：给 DeepSeek Harness 的任务驱动自学能力（行为技能 + 数据源 + 本地知识库） | ✅ active |
+| [dsh-become-human](resources/dsh-become-human.md) | ⭐1 | 面向 DSH Web 的单会话自主 Agent：人格、分层记忆、自主学习、任务看板、目标推进与主动交流；Web 与 IM 共享会话。Apache-2.0，测试版本，尚未开发完成。 | ✅ active |
 | [dsh-besson-tools](resources/dsh-besson-tools.md) | ⭐1 | DSH 插件（bundle 形态）：北山Besson Minecraft 模组开发教程 7 工具 — 适配 DSH 0.2.1-rc.2+，插件栏一键安装 | ✅ active |
 | [dsh-bili-lesson](resources/dsh-bili-lesson.md) | ⭐1 | 星火课堂 — DSH 插件：B 站少儿科普片库 + 每周排片 + 课卡答题 + 错题本 + 勋章盲盒 + 家长锁 | Spark Classroom — a DSH plugin for curated Bilibili learning: weekly schedule, quiz cards, mistakes review, medals, parent lock | ✅ active |
 | [dsh-code-taste](resources/dsh-code-taste.md) | ⭐1 | 让鲸鱼持续学习你的代码品味、审美风格和各种习惯 | ✅ active |
@@ -216,6 +217,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [MALTS](resources/malts.md) | ⭐1 | Multi-Agent Long-Task Scheduling and Growth System for AI coding agents, with file-based state, verification, handoff, and reusable learning. | ✅ active |
 | [project-learning-helper](resources/project-learning-helper.md) | ⭐1 | 一个助力包括我在内的萌新进行项目式学习的dsh preset | ✅ active |
 | [prompt-spark](resources/prompt-spark.md) | ⭐1 | Prompt Spark · 提示词火花：DSH 原生提示词强化插件，支持可编辑预览、强化人格，以及经用户确认的项目级偏好学习；提供跨工具适配器。 | A native DSH prompt enhancer with editable previews, reusable personas, and user-confirmed project-scoped preference learning, plus cross-tool adapters. | ✅ active |
+| [Repo_Tutor](resources/repo-tutor.md) | ⭐1 | An interactive repository learning tutor for DeepSeek Harness. Learn unfamiliar codebases through guided exploration, implementation-level explanations and adaptive questioning. | ✅ active |
 | [runtime-self-learning-harness](resources/runtime-self-learning-harness.md) | ⭐1 | Native DeepSeek Harness bundle for standalone long-term memory and provenance tools. | ✅ active |
 | [technical-english-companion](resources/technical-english-companion.md) | ⭐1 | Technical English Companion · 专业英语术语伴学。帮助开发者在 Codex 和 DeepSeek Harness 的中文对话中学习专业英语。 | ✅ active |
 | [think-zh](resources/think-zh.md) | ⭐1 | 让 AI 的英文推理流实时变中文：75,353 句 DeepSeek 精修库随包、本地 1.8B 实时 + 7B 空闲校正的三层质量、OpenAI 兼容端点一键接入，数据不出你的显卡。MIT，附 22 条踩坑实录的智能体自举手册。 | ✅ active |

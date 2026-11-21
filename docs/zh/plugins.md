@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（11841 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（11842 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-## 完整列表（11841）
+## 完整列表（11842）
 
 
 **视觉与多模态（4223）**
@@ -4267,9 +4267,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-trellis-dashboard](resources/dsh-trellis-dashboard.md) | – | 支持在Deepseek Harness(dsh)中，通过对话tab查看trellis任务状态、工作区信息等。需配合trellis使用：https://github.com/mindfold-ai/Trellis | ✅ 活跃 |
 | [dsh-usb](resources/dsh-usb.md) | – | DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible) | ✅ 活跃 |
 
-**开发者工具（2218）**
+**开发者工具（2219）**
 
-*其他（1999）*
+*其他（2000）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -5033,6 +5033,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [Nexarbor](resources/nexarbor.md) | ⭐2 | 数据与智能的动态网络 · A Dynamic Network for Data and Intelligence | ✅ 活跃 |
 | [oh-my-ticket](resources/oh-my-ticket.md) | ⭐2 | a ticket tool for agent | ✅ 活跃 |
 | [One-Time-Link](resources/one-time-link.md) | ⭐2 | agent | ✅ 活跃 |
+| [Open Agent API for DeepSeek Harness](resources/dsh-open-agent-api.md) | ⭐2 | 在 DeepSeek Harness 里查看自托管 Open Agent API 网关的智能体，按权限委派任务；默认只读。 | 🧪 实验性 |
 | [opencode-anchored-standard](resources/opencode-anchored-standard.md) | ⭐2 | An opencode plugin that runs a two-phase tool catalog: | ✅ 活跃 |
 | [opencode-usage](resources/opencode-usage.md) | ⭐2 | OpenCode Go 订阅额度徽章插件（dsh bundle） | OpenCode Go quota badge plugin for dsh | ✅ 活跃 |
 | [pinterest-collect](resources/pinterest-collect.md) | ⭐2 | Your Pinterest saves on the left, a personalized Pinterest feed on the right. Hit ♥ on anything you like and it lands in your collection. | ✅ 活跃 |

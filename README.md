@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-#### Complete list (11841)
+#### Complete list (11842)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn! (✅ active)
@@ -5710,6 +5710,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [oha-whale-compress](https://github.com/133563825as-ai/oha-whale-compress) ⭐2 — DeepSeek Harness「压缩会话」插件：自定义 token 阈值自动压缩、一键压缩当前会话、输入框常驻按钮可开关。哦鲸鲸出品。 (✅ active)
 - [oha-whale-session-manager](https://github.com/133563825as-ai/oha-whale-session-manager) ⭐2 — 哦鲸鲸会话管理插件 (✅ active)
 - [One-Time-Link](https://github.com/LLLike27/One-Time-Link) ⭐2 — agent (✅ active)
+- [Open Agent API for DeepSeek Harness](https://github.com/jiangxingfan1-coder/Open-Agent-API) ⭐2 — Lets DeepSeek Harness discover agents and delegate tasks through a self-hosted Open Agent API gateway. Starts read-only. (🧪 experimental)
 - [opencode-anchored-standard](https://github.com/862930522/opencode-anchored-standard) ⭐2 — An opencode plugin that runs a two-phase tool catalog: (✅ active)
 - [opencode-usage](https://github.com/AmaTsumeAkira/opencode-usage) ⭐2 — OpenCode Go 订阅额度徽章插件（dsh bundle） | OpenCode Go quota badge plugin for dsh (✅ active)
 - [our-free-model-deploy-guide](https://github.com/JUTZUGC/our-free-model-deploy-guide) ⭐2 — Our Free Model 一键部署｜给 dsh 装上就能免登录用 DeepSeek、Kimi，不用填 Key｜自动拉源码安装｜第三方一键部署方案 (✅ active)
@@ -18956,7 +18957,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-#### Complete list (11841)
+#### Complete list (11842)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn! (✅ active)
@@ -24496,6 +24497,7 @@ awesome-deepseek-harness/
 - [oha-whale-compress](https://github.com/133563825as-ai/oha-whale-compress) ⭐2 — DeepSeek Harness「压缩会话」插件：自定义 token 阈值自动压缩、一键压缩当前会话、输入框常驻按钮可开关。哦鲸鲸出品。 (✅ active)
 - [oha-whale-session-manager](https://github.com/133563825as-ai/oha-whale-session-manager) ⭐2 — 哦鲸鲸会话管理插件 (✅ active)
 - [One-Time-Link](https://github.com/LLLike27/One-Time-Link) ⭐2 — agent (✅ active)
+- [Open Agent API for DeepSeek Harness](https://github.com/jiangxingfan1-coder/Open-Agent-API) ⭐2 — Lets DeepSeek Harness discover agents and delegate tasks through a self-hosted Open Agent API gateway. Starts read-only. (🧪 experimental)
 - [opencode-anchored-standard](https://github.com/862930522/opencode-anchored-standard) ⭐2 — An opencode plugin that runs a two-phase tool catalog: (✅ active)
 - [opencode-usage](https://github.com/AmaTsumeAkira/opencode-usage) ⭐2 — OpenCode Go 订阅额度徽章插件（dsh bundle） | OpenCode Go quota badge plugin for dsh (✅ active)
 - [our-free-model-deploy-guide](https://github.com/JUTZUGC/our-free-model-deploy-guide) ⭐2 — Our Free Model 一键部署｜给 dsh 装上就能免登录用 DeepSeek、Kimi，不用填 Key｜自动拉源码安装｜第三方一键部署方案 (✅ active)

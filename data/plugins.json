@@ -211759,5 +211759,23 @@
     "stars": 0,
     "install": "dsh plugin --profile web add dsh-thetwo",
     "license": "MIT"
+  },
+  {
+    "id": "dsh-open-agent-api",
+    "name": "Open Agent API for DeepSeek Harness",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/jiangxingfan1-coder/Open-Agent-API",
+    "description": "Lets DeepSeek Harness discover agents and delegate tasks through a self-hosted Open Agent API gateway. Starts read-only.",
+    "description_zh": "在 DeepSeek Harness 里查看自托管 Open Agent API 网关的智能体，按权限委派任务；默认只读。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 2,
+    "license": "Apache-2.0",
+    "install": "Installation for DSH 0.2.2-rc.5: https://github.com/jiangxingfan1-coder/Open-Agent-API/releases/tag/dsh-open-agent-api-v0.1.0#install-the-prebuilt-bundle"
   }
 ]

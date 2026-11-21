@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 11841 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 11842 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-## Complete list (11841)
+## Complete list (11842)
 
 
 **Vision & multimodal (4223)**
@@ -4267,9 +4267,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-trellis-dashboard](resources/dsh-trellis-dashboard.md) | – | 支持在Deepseek Harness(dsh)中，通过对话tab查看trellis任务状态、工作区信息等。需配合trellis使用：https://github.com/mindfold-ai/Trellis | ✅ active |
 | [dsh-usb](resources/dsh-usb.md) | – | DSH USB - DeepSeek Harness portable edition (USB-drive friendly, exFAT compatible) | ✅ active |
 
-**Developer tools (2218)**
+**Developer tools (2219)**
 
-*Other (1999)*
+*Other (2000)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -5033,6 +5033,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [Nexarbor](resources/nexarbor.md) | ⭐2 | 数据与智能的动态网络 · A Dynamic Network for Data and Intelligence | ✅ active |
 | [oh-my-ticket](resources/oh-my-ticket.md) | ⭐2 | a ticket tool for agent | ✅ active |
 | [One-Time-Link](resources/one-time-link.md) | ⭐2 | agent | ✅ active |
+| [Open Agent API for DeepSeek Harness](resources/dsh-open-agent-api.md) | ⭐2 | Lets DeepSeek Harness discover agents and delegate tasks through a self-hosted Open Agent API gateway. Starts read-only. | 🧪 experimental |
 | [opencode-anchored-standard](resources/opencode-anchored-standard.md) | ⭐2 | An opencode plugin that runs a two-phase tool catalog: | ✅ active |
 | [opencode-usage](resources/opencode-usage.md) | ⭐2 | OpenCode Go 订阅额度徽章插件（dsh bundle） | OpenCode Go quota badge plugin for dsh | ✅ active |
 | [pinterest-collect](resources/pinterest-collect.md) | ⭐2 | Your Pinterest saves on the left, a personalized Pinterest feed on the right. Hit ♥ on anything you like and it lands in your collection. | ✅ active |

@@ -82,6 +82,23 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "ds-bot",
+    "name": "DS-Bot",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/Fei-Craft/DS-Bot",
+    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+    "description_zh": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 8770,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "honcho",
     "name": "Honcho",
     "type": "integration",
@@ -925,6 +942,24 @@
     "_updated": "2026-08-20",
     "_stars_prev": 127,
     "growth": 8
+  },
+  {
+    "id": "agent-bridge-2",
+    "name": "Agent-Bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/Fei-Craft/Agent-Bridge",
+    "description": "Agent Bridge is a connector that links various local agents, enabling users to coordinate multiple other agents simply by interacting with a single powerful agent. It currently supports Codex as the coordinator to direct Antigravity CLI, Grok Build, and DeepSeek Harness. Support for additional agents will be rolled out soon.",
+    "description_zh": "Agent Bridge is a connector that links various local agents, enabling users to coordinate multiple other agents simply by interacting with a single powerful agent. It currently supports Codex as the coordinator to direct Antigravity CLI, Grok Build, and DeepSeek Harness. Support for additional agents will be rolled out soon.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 135,
+    "license": "MIT"
   },
   {
     "id": "dsh-super-injector",
@@ -40919,6 +40954,93 @@
     "description": "Sends DSH approval, turn-complete and error notifications to a Feishu/Lark bot webhook. Notify-only; credentials stay in a local secret file.",
     "description_zh": "Sends DSH approval, turn-complete and error notifications to a Feishu/Lark bot webhook. Notify-only; credentials stay in a local secret file.",
     "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "harness2-lessons-bridge",
+    "name": "harness2-lessons-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/YeChenglin8888/harness2-lessons-bridge",
+    "description": "Read pi-harness2 lessons from Pi and DeepSeek Harness",
+    "description_zh": "Read pi-harness2 lessons from Pi and DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-browser-bridge-2",
+    "name": "dsh-browser-bridge",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/alvinlui-hk/dsh-browser-bridge",
+    "description": "DeepSeek Harness plugin: let agents read and control the web page open in the right Sidebar Browser tab",
+    "description_zh": "DeepSeek Harness plugin: let agents read and control the web page open in the right Sidebar Browser tab",
+    "capabilities": [
+      "browser",
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-sidebar-refresh",
+    "name": "dsh-sidebar-refresh",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/jyz48prsbr-netizen/dsh-sidebar-refresh",
+    "description": "Refresh button beside the DSH sidebar brand",
+    "description_zh": "Refresh button beside the DSH sidebar brand",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-acp-hub",
+    "name": "dsh-acp-hub",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Liang-HZ/dsh-acp-hub",
+    "description": "Delegate tasks asynchronously to external ACP agents (MiniMax, OpenCode, Codex, Claude Code, CodeBuddy, Qoder, ZCode, Gemini) in DeepSeek Harness with live native child-session streaming, per-step token accounting, and dynamic session MCP linkage.",
+    "description_zh": "Delegate tasks asynchronously to external ACP agents (MiniMax, OpenCode, Codex, Claude Code, CodeBuddy, Qoder, ZCode, Gemini) in DeepSeek Harness with live native child-session streaming, per-step token accounting, and dynamic session MCP linkage.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-human-browser",
+    "name": "dsh-human-browser",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/2685387167/dsh-human-browser",
+    "description": "让 AI 在你正在用的那个 Chrome 里干活，并且尽量看不出是机器在动。",
+    "description_zh": "让 AI 在你正在用的那个 Chrome 里干活，并且尽量看不出是机器在动。",
+    "capabilities": [
+      "browser",
       "coding"
     ],
     "status": "active",

@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "Top 10 and full list of 1015 curated skills for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 1017 curated skills for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [baoyu-design](resources/baoyu-design.md) | ⭐6,124 | Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude. | ✅ active |
 | 10 | [mattpocock-skills-zh-CN](resources/mattpocock-skills-zh-cn.md) | ⭐5,158 | Matt Pocock skills 的简体中文本地化：人工审核每一次更新，定期同步上游，支持 Claude、Codex 和 DSH 插件。 | ✅ active |
 
-## Complete list (1015)
+## Complete list (1017)
 
 
-**Learning (996)**
+**Learning (998)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -155,6 +155,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [bohrium-skills](resources/bohrium-skills.md) | ⭐13 | 通过 Bohrium CLI（bohr） 使用 Bohrium 科研计算平台的 Agent Skills。 | ✅ active |
 | [charcard-workshop](resources/charcard-workshop.md) | ⭐13 | 角色卡工坊 — a DeepSeek Harness agent preset and skill set for authoring SillyTavern character cards | ✅ active |
 | [dsh-plugin-dev](resources/dsh-plugin-dev.md) | ⭐13 | Field-tested plugin development playbook (skill + docs): cordis dual copies, tsconfig triplets, Windows junctions and multi-frame zstd. | ✅ active |
+| [Loji-skill](resources/loji-skill.md) | ⭐13 | Loji /长征机 / 征酱 — A TFR-inspired character Agent Skill with local memory and judgment continuity. | ✅ active |
 | [TaskBelay](resources/taskbelay.md) | ⭐13 | Task control for AI coding agents: explicit scope, bounded verification, durable state, safe recovery. Codex · Claude Code · DeepSeek · ZCode. | ✅ active |
 | [wanjiqi-meme](resources/wanjiqi-meme.md) | ⭐13 | 玩机器(6657直播间)烂梗 Skill：22771条真实弹幕烂梗蒸馏成AI Skill，生成玩机器式弹幕/解说吐槽/CS×DOTA双料梗 | ✅ active |
 | [dsh-plugin-scaffold](resources/dsh-plugin-scaffold-1.md) | ⭐12 | 从规划到发布的全流程 DeepSeek Harness 插件开发 skill，支持 pure、bundle、bundle-client 三种形态，自动生成脚手架、构建脚本、门禁与验证流程。 | ✅ active |
@@ -778,6 +779,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-reverse-skill](resources/dsh-reverse-skill-2.md) | ⭐1 | DeepSeek Harness 插件：本地软件逆向与反编译技能（APK/JAR/.NET/原生 PE/固件），带工具探测、授权门禁、证据分级 | ✅ active |
 | [dsh-rewind](resources/dsh-rewind-7.md) | ⭐1 | Undo what an agent did to a directory: content-addressed snapshots, one-command rewind, and an undo you can undo. Works in any folder — git or not. DSH plugin + skill, zero dependencies. | ✅ active |
 | [dsh-sci-figures](resources/dsh-sci-figures.md) | ⭐1 | DeepSeek Harness skill: publication-quality scientific figures - CJK vector output, colorblind-safe palette, SciencePlots styling | ✅ active |
+| [dsh-screen-control](resources/dsh-screen-control.md) | ⭐1 | Control the Mac screen state while DSH tasks run: keep the display on, or let it go dark while the system and all processes keep running. Never suspends processes or sleeps the machine. macOS only. | ✅ active |
 | [dsh-screenshot-board](resources/dsh-screenshot-board.md) | ⭐1 | Screenshot annotation board for DeepSeek Harness: mark regions, write tasks, hand off to an agent. | ✅ active |
 | [dsh-security-pack](resources/dsh-security-pack.md) | ⭐1 | Security-audit skill pack + plugin_vet supply-chain gate for DeepSeek Harness: eight bilingual skills and a pre-install gate. | ✅ active |
 | [dsh-seedance-studio](resources/dsh-seedance-studio.md) | ⭐1 | dsh-seedance-studio 上美影短剧工坊（dsh-seedance-studio）  把 [smy-seedance-storyboard]  这套「上美影风格短剧」skill 搬进 DeepSeek Harness，并接上**即梦官方 CLI（dreamina-canvas）**： 一句话故事 → 剧本 / 色盘 / 资产图 / 每集 15 秒分镜 → 在即梦画布上出图出片 → 拼成一部片，全程不用离开对话。 | ✅ active |

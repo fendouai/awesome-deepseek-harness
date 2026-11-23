@@ -30377,6 +30377,57 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-phone-bridge-2",
+    "name": "dsh-phone-bridge",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/undertale11121/dsh-phone-bridge",
+    "description": "让 DSH 桌面端和一台 DSH Go 手机连起来，两端的模型可以互相操作、互相派活。",
+    "description_zh": "让 DSH 桌面端和一台 DSH Go 手机连起来，两端的模型可以互相操作、互相派活。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-quote-shot",
+    "name": "dsh-quote-shot",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/PolarVag/dsh-quote-shot",
+    "description": "Quote selections and attach region screenshots as workspace file references in DSH Desktop.",
+    "description_zh": "Quote selections and attach region screenshots as workspace file references in DSH Desktop.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-agent-browser",
+    "name": "dsh-plugin-agent-browser",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/linhuanwen/dsh-plugin-agent-browser",
+    "description": "在 DeepSeek Harness 桌面端右侧栏里开一个 Agent 能操作、你能随时接管的真浏览器：11 个 browser_* 工具 + 人机验证交接",
+    "description_zh": "在 DeepSeek Harness 桌面端右侧栏里开一个 Agent 能操作、你能随时接管的真浏览器：11 个 browser_* 工具 + 人机验证交接",
+    "capabilities": [
+      "browser",
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-desktop-launcher-1",
     "name": "dsh-desktop-launcher",
     "type": "client",

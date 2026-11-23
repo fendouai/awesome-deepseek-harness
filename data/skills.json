@@ -2197,6 +2197,25 @@
     "license": "MIT"
   },
   {
+    "id": "loji-skill",
+    "name": "Loji-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/ASER-ho/Loji-skill",
+    "description": "Loji /长征机 / 征酱 — A TFR-inspired character Agent Skill with local memory and judgment continuity.",
+    "description_zh": "Loji /长征机 / 征酱 — A TFR-inspired character Agent Skill with local memory and judgment continuity.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugin-scaffold-1",
     "name": "dsh-plugin-scaffold",
     "type": "skill",
@@ -17502,6 +17521,21 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-screen-control",
+    "name": "dsh-screen-control",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/jyz48prsbr-netizen/dsh-screen-control",
+    "description": "Control the Mac screen state while DSH tasks run: keep the display on, or let it go dark while the system and all processes keep running. Never suspends processes or sleeps the machine. macOS only.",
+    "description_zh": "Control the Mac screen state while DSH tasks run: keep the display on, or let it go dark while the system and all processes keep running. Never suspends processes or sleeps the machine. macOS only.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "dsh-cmp-skill-index",

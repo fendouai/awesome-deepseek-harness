@@ -7321,6 +7321,24 @@
     "license": "MIT"
   },
   {
+    "id": "flow-tower-context",
+    "name": "flow-tower-context",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Anseya/flow-tower-context",
+    "description": "Compaction-driven project-level context memory for DeepSeek Harness (DSH): cited dictionary, adaptive injection, multi-agent sharing.",
+    "description_zh": "Compaction-driven project-level context memory for DeepSeek Harness (DSH): cited dictionary, adaptive injection, multi-agent sharing.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-evolve",
     "name": "dsh-skill-evolve",
     "type": "agent",

@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "Top 10 and full list of 2270 curated mcp & integrations for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 2277 curated mcp & integrations for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -24,16 +24,16 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 3 | [NocoBase](resources/nocobase.md) | ⭐24,175 | Open-source AI + no-code platform for building business systems, with AI agents and workflow automation. | ✅ active |
 | 4 | [WeKnora](resources/weknora.md) | ⭐22,553 | Open-source LLM knowledge platform: turn documents into a queryable RAG, an autonomous reasoning agent and a self-maintaining wiki. | ✅ active |
 | 5 | [EverOS](resources/everos.md) | ⭐12,898 | Portable memory layer for AI agents: local-first, Markdown-native, user-owned and self-evolving across apps and tools. | ✅ active |
-| 6 | [Honcho](resources/honcho.md) | ⭐7,129 | Memory library for building stateful agents, with context engineering and continual learning. | ✅ active |
-| 7 | [OpenPencil](resources/openpencil.md) | ⭐5,909 | Open-source AI-native vector design tool with concurrent agent teams, design-as-code and MCP support. | ✅ active |
-| 8 | [DS-Bot](resources/deepseek-bot-1.md) | ⭐5,690 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ active |
-| 9 | [Mirage](resources/mirage.md) | ⭐3,624 | Virtual terminal and virtual filesystem for AI agents, with a sandboxed bash tool. | ✅ active |
-| 10 | [ReMe](resources/reme.md) | ⭐3,448 | Memory management kit for agents: remember, refine and reuse memory across sessions. | ✅ active |
+| 6 | [DS-Bot](resources/ds-bot.md) | ⭐8,770 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ active |
+| 7 | [Honcho](resources/honcho.md) | ⭐7,129 | Memory library for building stateful agents, with context engineering and continual learning. | ✅ active |
+| 8 | [OpenPencil](resources/openpencil.md) | ⭐5,909 | Open-source AI-native vector design tool with concurrent agent teams, design-as-code and MCP support. | ✅ active |
+| 9 | [DS-Bot](resources/deepseek-bot-1.md) | ⭐5,690 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ active |
+| 10 | [Mirage](resources/mirage.md) | ⭐3,624 | Virtual terminal and virtual filesystem for AI agents, with a sandboxed bash tool. | ✅ active |
 
-## Complete list (2270)
+## Complete list (2277)
 
 
-**MCP (662)**
+**MCP (663)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -419,6 +419,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [drafta-mcp](resources/drafta-mcp.md) | ⭐1 | MCP server that exposes a local Drafta note library to Claude Code, Zed and other MCP clients. Local files only, no network. | ✅ active |
 | [draw-io-gomcp](resources/draw-io-gomcp.md) | ⭐1 | the mcp server（stdio） for draw-io ，port from next-ai-draw-io | ✅ active |
 | [dsh](resources/dsh-3.md) | ⭐1 | DeepSeek Harness (dsh) bundle: route the harness through OpenLLM (OpenAI-compatible) + register the OpenLLM MCP, with CLI/daemon onboarding. | ✅ active |
+| [dsh-acp-hub](resources/dsh-acp-hub.md) | ⭐1 | Delegate tasks asynchronously to external ACP agents (MiniMax, OpenCode, Codex, Claude Code, CodeBuddy, Qoder, ZCode, Gemini) in DeepSeek Harness with live native child-session streaming, per-step token accounting, and dynamic session MCP linkage. | ✅ active |
 | [dsh-agent-manage](resources/dsh-agent-manage.md) | ⭐1 | DSH 独立管理插件：全局人设注入 + Skill 管理 + MCP 动态管理（修改自 dsh-vscode-layout） | ✅ active |
 | [dsh-agent-team-roles](resources/dsh-agent-team-roles.md) | ⭐1 | DSH 插件：把 agent team 每个角色做成独立 preset，并在 Web GUI 里可视化管理角色能力（工具/技能/MCP/分组/loop/AGENTS.md） | ✅ active |
 | [dsh-alibaba-mcp](resources/dsh-alibaba-mcp.md) | ⭐1 | DeepSeek Harness plugin: connect the local Alibaba Cloud Ops MCP server, with a per-module tool surface switch. | ✅ active |
@@ -700,7 +701,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-streaming-mcp-bridge](resources/dsh-streaming-mcp-bridge.md) | – | DeepSeek Harness streaming MCP bridge: live session events as MCP progress, plus ACP adapter for cc-connect/Feishu. | ✅ active |
 | [URL Manager MCP](resources/url-manager-mcp.md) | – | MCP companion for URL Manager: 21 tools for save/search/categorize/share with magic-link delivery. | ✅ active |
 
-**IDE & editors (503)**
+**IDE & editors (504)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -1132,6 +1133,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-side-chat](resources/dsh-side-chat-9.md) | ⭐1 | 独立的 DSH /side 侧边对话插件，支持模型、权限、目标与计划模式。 | ✅ active |
 | [dsh-side-chat](resources/dsh-side-chat-11.md) | ⭐1 | Temporary side chats for the DSH Web GUI: fork the current conversation, ask in parallel, nothing written to disk. Adapted from Lone-Jade/dsh-side-chat (MIT) for DSH 0.2.2. | ✅ active |
 | [dsh-side-panel](resources/dsh-side-panel-1.md) | ⭐1 | A right-side developer panel for the DeepSeek Harness web UI (dsh web). It adds a collapsible side panel with three tabs: | ✅ active |
+| [dsh-sidebar-refresh](resources/dsh-sidebar-refresh.md) | ⭐1 | Refresh button beside the DSH sidebar brand | ✅ active |
 | [dsh-sidechat-plugin](resources/dsh-sidechat-plugin-1.md) | ⭐1 | Read-only side chat for DSH: /side opens an independent agent that inherits your session's context, persona, and read-only tools. | ✅ active |
 | [dsh-skill-gate](resources/dsh-skill-gate.md) | ⭐1 | Hide the model-facing skill loader for the agents of the preset that mounts it, so a session can load a skill only when the user invokes it explicitly with /name. | ✅ active |
 | [dsh-skill-manager](resources/dsh-skill-manager-14.md) | ⭐1 | The dsh-skill-manager is a deep-integration Web UI plugin designed to provide developers and advanced users with direct visibility and control over the true, persistent "skill memory" of DeepSeek Harness (DSH). | ✅ active |
@@ -1208,10 +1210,11 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-vsc](resources/dsh-vsc.md) | – | Native VS Code extension for DeepSeek Harness: sidebar panel + editor bridge (ask about a selection, review agent changes, approval & question cards). Built as a pure protocol client — consumes DSH's wire contract, never starts a second server. / 面向 DeepSeek Harness 的原生 VS Code 扩展：侧边栏面板 + 编辑器桥接（选中提问、审查 Agent 改动、审批与提问卡片）。纯协议客户端，不重写 DSH。 | ✅ active |
 | [opendsh](resources/opendsh.md) | – | Open the DeepSeek Harness Web UI inside VS Code with one-command start/stop. | ✅ active |
 
-**Channels (460)**
+**Channels (461)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
+| [DS-Bot](resources/ds-bot.md) | ⭐8,770 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ active |
 | [DS-Bot](resources/deepseek-bot-1.md) | ⭐5,690 | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | ✅ active |
 | [AnyModelBot](resources/anymodelbot.md) | ⭐2,709 | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use. | ✅ active |
 | [AutoSwarm](resources/autoswarm.md) | ⭐2,400 | AutoSwarm: Unify Your Agents. Unify Your Context (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more) | ✅ active |
@@ -1673,7 +1676,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-ssh-hub](resources/dsh-ssh-hub.md) | – | Multi-server SSH terminal panel for DeepSeek Harness Web GUI — multiple SSH terminals in a bottom panel | ✅ active |
 | [dsh-wechat-bridge](resources/dsh-wechat-bridge-2.md) | – | Personal WeChat bridge for DeepSeek Harness: scan QR to bind, then chat with your local DSH agent directly inside WeChat (text/image/voice/file, streamed replies, persisted sessions). | ✅ active |
 
-**Browser control (339)**
+**Browser control (341)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -1858,6 +1861,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-browser-agent](resources/dsh-browser-agent-4.md) | ⭐1 | AI agent for your real browser that asks before it acts. Browser extension + DeepSeek Harness (DSH) plugin: approval cards, kill switch, and rules that assume web pages are hostile. | ✅ active |
 | [dsh-browser-annotation](resources/dsh-browser-annotation.md) | ⭐1 | Native, lightweight element comments inside the built-in Browser — live attribute edits and numbered hoverable tags, no screenshots or provider replacement. | ✅ active |
 | [dsh-browser-assistant](resources/dsh-browser-assistant.md) | ⭐1 | 将dsh转成谷歌插件 | ✅ active |
+| [dsh-browser-bridge](resources/dsh-browser-bridge-2.md) | ⭐1 | DeepSeek Harness plugin: let agents read and control the web page open in the right Sidebar Browser tab | ✅ active |
 | [dsh-browser-cdp](resources/dsh-browser-cdp.md) | ⭐1 | DSH 浏览器插件（原 dsh-ego-browser）：让 Agent 通过 CDP 接入真实 Chrome —— 远程目标序列与激活、实时视频/截图回传、登录导入。Remote-CDP agent browser for DeepSeek Harness. | ✅ active |
 | [dsh-browser-cdp](resources/dsh-browser-cdp-1.md) | ⭐1 | A DSH plugin: open a URL in your local Chromium (Edge/Chrome) over CDP and get the rendered page back. The fallback for pages the built-in web_fetch cannot open: TLS interception, JS-only SPAs, UA walls. | ✅ active |
 | [dsh-browser-context](resources/dsh-browser-context.md) | ⭐1 | DeepSeek Harness 独立引用浏览器：网页正文、企微选区、B站可访问字幕与截图以紧凑引用加入草稿，保留来源，不自动发送。 | ✅ active |
@@ -1917,6 +1921,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-health-reminder](resources/dsh-health-reminder.md) | ⭐1 | A flat monochrome health-reminder plugin for DSH Web: scheduled drink/movement reminders, one-click check-in, drinking achievements, daily health score and 14-day trend. | ✅ active |
 | [dsh-home-assistant-panel](resources/dsh-home-assistant-panel.md) | ⭐1 | Home Assistant panel for DeepSeek Harness: read-only status overview, prompt injection, ha_status, and browser notifications. | ✅ active |
 | [dsh-huashu-pixel](resources/dsh-huashu-pixel.md) | ⭐1 | Warm pixel theme for the DeepSeek Harness Web UI: cream-paper and arcade-phosphor palettes, pixel chrome with bundled pixel fonts, CRT motion on streaming and state changes, three intensity tiers, and a pixel loading bar while a turn runs. | ✅ active |
+| [dsh-human-browser](resources/dsh-human-browser.md) | ⭐1 | 让 AI 在你正在用的那个 Chrome 里干活，并且尽量看不出是机器在动。 | ✅ active |
 | [dsh-hybrid-notify](resources/dsh-hybrid-notify.md) | ⭐1 | Multi-channel notification plugin for DeepSeek Harness — in-page toast, PWA, and browser notifications with sound | ✅ active |
 | [dsh-inapp-browser](resources/dsh-inapp-browser.md) | ⭐1 | DeepSeek Harness 内置浏览器：人机共享网页、鼠标键盘操作与高清截图 | ✅ active |
 | [dsh-insight](resources/dsh-insight-2.md) | ⭐1 | dsh（DeepSeek Harness）浏览器伴侣：网页划词即解读、侧栏多轮追问，并让 dsh 智能体读取页面、抓取流量、驱动浏览器。Chrome/Edge MV3 扩展 + 配套 dsh host 插件。 | ✅ active |
@@ -2017,14 +2022,15 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-plugin-web-notify](resources/dsh-plugin-web-notify.md) | – | Browser notifications for the DeepSeek Harness Web GUI. | ✅ active |
 | [dsh-ui-zoom](resources/dsh-ui-zoom.md) | – | Масштабирование всего UI DeepSeek Harness как в браузере: Ctrl +/−/0, Ctrl+колесо, виджет с процентом. Browser-style UI zoom. | ✅ active |
 
-**Developer tools (296)**
+**Developer tools (298)**
 
-*Other (266)*
+*Other (268)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [pi2dsh](resources/pi2dsh.md) | ⭐188 | Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。 | ✅ active |
 | [dsh-sd-bridge-guard](resources/dsh-sd-bridge-guard.md) | ⭐149 | 用大肥鱼弄了个操作ds的插件，没ds的这个插件会帮你下，由于是本地部署的sd，所以懂得都懂，至于怎么绕过dsh 的审核嘛，md里面有，安装好之后试一下就知道了—嘿嘿嘿 | ✅ active |
+| [Agent-Bridge](resources/agent-bridge-2.md) | ⭐135 | Agent Bridge is a connector that links various local agents, enabling users to coordinate multiple other agents simply by interacting with a single powerful agent. It currently supports Codex as the coordinator to direct Antigravity CLI, Grok Build, and DeepSeek Harness. Support for additional agents will be rolled out soon. | ✅ active |
 | [dsh-super-injector](resources/dsh-super-injector.md) | ⭐133 | Super-injector plugin (cordis) for context injection. | ✅ active |
 | [dsh-crew](resources/dsh-crew-1.md) | ⭐119 | DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation. | ✅ active |
 | [Agent-Bridge](resources/agent-bridge-1.md) | ⭐112 | Agent Bridge is a connector that links various local agents, enabling users to coordinate multiple other agents simply by interacting with a single powerful agent. It currently supports Codex as the coordinator to direct Antigravity CLI, Grok Build, and DeepSeek Harness. Support for additional agents will be rolled out soon. | ✅ active |
@@ -2274,6 +2280,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | [dsh-zai-coding-models](resources/dsh-zai-coding-models.md) | ⭐1 | DeepSeek Harness bridge plugin: newest Zhipu/Z.AI coding-plan models (glm-5.3) on zai-coding-cn before the bundled pi-ai catalog catches up | ✅ active |
 | [dsh-zotero-bridge](resources/dsh-zotero-bridge.md) | ⭐1 | Read-only Zotero bridge for DeepSeek Harness (Local API + sqlite copy) | ✅ active |
 | [dshacp](resources/dshacp.md) | ⭐1 | 一句话：DSHACP 是 Zed 和 DeepSeek 之间的"翻译官"。 | ✅ active |
+| [harness2-lessons-bridge](resources/harness2-lessons-bridge.md) | ⭐1 | Read pi-harness2 lessons from Pi and DeepSeek Harness | ✅ active |
 | [herdr-bridge](resources/herdr-bridge.md) | ⭐1 | Report DeepSeek Harness agent activity to the herdr pane hosting the dsh process. herdr's status bar then shows the pane as an agent with live working / blocked / idle states. No herdr changes required. | ✅ active |
 | [memory-brain-graph-](resources/memory-brain-graph.md) | ⭐1 | 基于记忆库的可视化集成插件：光缆树/技能花 + 实验性自动反思与技能自动组装 | ✅ active |
 | [mimo-vision](resources/mimo-vision.md) | ⭐1 | DeepSeek Harness (DSH) native plugin — describe_image tool: a vision bridge (image → mimo-v2.5 → text description) over the ctx.fs / ctx.credentials seams | ✅ active |

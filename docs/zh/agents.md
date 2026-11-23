@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "DeepSeek Harness (dsh) 精选 agents & multi-agent：🔥 Top 10 与完整列表（407 条）。"
+description: "DeepSeek Harness (dsh) 精选 agents & multi-agent：🔥 Top 10 与完整列表（408 条）。"
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [consensus-pipeline](resources/consensus-pipeline.md) | ⭐124 | Multi-agent department framework for long-form complex tasks, fighting AI hallucination, validated on academic research. 共识管线：多智能体部门长线任务解决框架，对抗AI幻觉，以学术研究为验证场景。 | ✅ 活跃 |
 | 10 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ 活跃 |
 
-## 完整列表（407）
+## 完整列表（408）
 
 
-**多智能体（404）**
+**多智能体（405）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -420,6 +420,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-win-notify](resources/dsh-win-notify-3.md) | ⭐1 | Windows native toast notifications plugin for DeepSeek Harness (DSH): agent turn done, subagent done, background job done - click to open the Web UI. | ✅ 活跃 |
 | [dsh-workspace-orchestrator](resources/dsh-workspace-orchestrator.md) | ⭐1 | DSH plugin orchestration and workspace-isolation manager: plugin scanning, per-workspace isolated instances, and a standalone rescue entry. | ✅ 活跃 |
 | [dsh-worktree](resources/dsh-worktree-3.md) | ⭐1 | Git worktree filesystem isolation for DeepSeek Harness subagents — each child works in its own worktree; clean ones auto-remove, dirty ones are kept for review. | ✅ 活跃 |
+| [flow-tower-context](resources/flow-tower-context.md) | ⭐1 | Compaction-driven project-level context memory for DeepSeek Harness (DSH): cited dictionary, adaptive injection, multi-agent sharing. | ✅ 活跃 |
 | [governance-multi-agent-harness](resources/governance-multi-agent-harness.md) | ⭐1 | Governance-Multi-Agent-Harness-Plugin-for-DeepSeek-Harness | ✅ 活跃 |
 | [jira-tasks-dsh-plugin](resources/jira-tasks-dsh-plugin.md) | ⭐1 | 在 DSH 会话输入框下方展示当前 JIRA 项目指派给当前用户的「开启 / 重新开启」任务列表。JIRA 地址与令牌从凭据读取；项目 Key 与 JQL 按工作区配置并持久化。 | ✅ 活跃 |
 | [LLMAgentChatRoom](resources/llmagentchatroom.md) | ⭐1 | Local multi-agent chat room | ✅ 活跃 |

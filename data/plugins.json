@@ -210952,6 +210952,217 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-phone-remote-2",
+    "name": "dsh-phone-remote",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/Junfei-Z/dsh-phone-remote",
+    "description": "让 DeepSeek Harness 在手机上用：密码网关 + Cloudflare 隧道 + 自启动，免 App 免 VPN | Use DeepSeek Harness from any phone: password gate + Cloudflare tunnel + auto-start — no app, no VPN",
+    "description_zh": "让 DeepSeek Harness 在手机上用：密码网关 + Cloudflare 隧道 + 自启动，免 App 免 VPN | Use DeepSeek Harness from any phone: password gate + Cloudflare tunnel + auto-start — no app, no VPN",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-feifan-life",
+    "name": "dsh-feifan-life",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/feifandiv/dsh-feifan-life",
+    "description": "非凡人生 for DSH：Obsidian 生活管理插件完整移植进 DeepSeek Harness（任务/规划/财务/清单/习惯/灵感/复盘），内置今日聚焦全局悬浮球与 macOS 原生置顶窗。数据本地优先。",
+    "description_zh": "非凡人生 for DSH：Obsidian 生活管理插件完整移植进 DeepSeek Harness（任务/规划/财务/清单/习惯/灵感/复盘），内置今日聚焦全局悬浮球与 macOS 原生置顶窗。数据本地优先。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "dsh-token-usage-panel",
+    "name": "dsh-token-usage-panel",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/gucheng990615/dsh-token-usage-panel",
+    "description": "Real-time token usage and account balance panel for DeepSeek Harness",
+    "description_zh": "Real-time token usage and account balance panel for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "albis-aipassport-badge",
+    "name": "albis-aipassport-badge",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/albisjee25/albis-aipassport-badge",
+    "description": "Cyber badge for FoloToy AI Passport on DeepSeek Harness / AI Passport 赛博工牌 Harness 插件",
+    "description_zh": "Cyber badge for FoloToy AI Passport on DeepSeek Harness / AI Passport 赛博工牌 Harness 插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-autoupdate",
+    "name": "dsh-plugin-autoupdate",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/jyz48prsbr-netizen/dsh-plugin-autoupdate",
+    "description": "Scheduled in-place updates for DSH profile plugins",
+    "description_zh": "Scheduled in-place updates for DSH profile plugins",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-sidebar-entry-toggle",
+    "name": "dsh-sidebar-entry-toggle",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/jyz48prsbr-netizen/dsh-sidebar-entry-toggle",
+    "description": "Toggle and reorder DSH sidebar entries from Settings",
+    "description_zh": "Toggle and reorder DSH sidebar entries from Settings",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-prompt-enhancer-6",
+    "name": "dsh-prompt-enhancer",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/jyz48prsbr-netizen/dsh-prompt-enhancer",
+    "description": "Enhance-prompt button with WorkBuddy-verbatim prompts",
+    "description_zh": "Enhance-prompt button with WorkBuddy-verbatim prompts",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-four-modes",
+    "name": "dsh-four-modes",
+    "type": "plugin",
+    "category": "vision",
+    "repository": "https://github.com/chentao326/dsh-four-modes",
+    "description": "在 DeepSeek Harness 会话中途切换四种内置 Agent 模式（标准 / PTC / 极简 / 创造）· Switch DSH agent modes mid-conversation",
+    "description_zh": "在 DeepSeek Harness 会话中途切换四种内置 Agent 模式（标准 / PTC / 极简 / 创造）· Switch DSH agent modes mid-conversation",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-molecular-viewer-1",
+    "name": "dsh-molecular-viewer",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/Zoanthamine/dsh-molecular-viewer",
+    "description": "Local molecular 3D viewer for DSH: Gaussian, ORCA, FCHK, trajectories and agent integration",
+    "description_zh": "Local molecular 3D viewer for DSH: Gaussian, ORCA, FCHK, trajectories and agent integration",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gilded-sidebar",
+    "name": "dsh-gilded-sidebar",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/jyz48prsbr-netizen/dsh-gilded-sidebar",
+    "description": "鎏金侧栏 / Gilded Sidebar —— DeepSeek Harness 主题皮肤，基于 black-gold-vip (MIT) 二次修改，侧栏文字鎏金色，纯 CSS。",
+    "description_zh": "鎏金侧栏 / Gilded Sidebar —— DeepSeek Harness 主题皮肤，基于 black-gold-vip (MIT) 二次修改，侧栏文字鎏金色，纯 CSS。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-claudelike-ui",
+    "name": "dsh-claudelike-ui",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/miorin-chan/dsh-claudelike-ui",
+    "description": "A non-destructive claude.ai-inspired visual skin for DeepSeek Harness",
+    "description_zh": "A non-destructive claude.ai-inspired visual skin for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-session-card",
+    "name": "dsh-session-card",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/yaorenliang/dsh-session-card",
+    "description": "DSH 插件：侧边栏会话行补成三行——标题、你最后问的那句话、agent 预设与正在跑的子智能体和后台任务",
+    "description_zh": "DSH 插件：侧边栏会话行补成三行——标题、你最后问的那句话、agent 预设与正在跑的子智能体和后台任务",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-keyword-graph",
+    "name": "dsh-Keyword-graph",
+    "type": "plugin",
+    "category": "developer",
+    "repository": "https://github.com/liteqing/dsh-Keyword-graph",
+    "description": "DSH 插件：会话顶栏「图谱」标签，把当前对话的中的历史关键词画成方便定位回忆的点线图",
+    "description_zh": "DSH 插件：会话顶栏「图谱」标签，把当前对话的中的历史关键词画成方便定位回忆的点线图",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-pocket",
     "name": "deepseek-harness-pocket",
     "type": "plugin",

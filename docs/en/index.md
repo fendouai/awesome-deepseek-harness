@@ -75,21 +75,21 @@ DeepSeek Harness (`dsh`) is DeepSeek AI's open-source agent harness built around
 | 3 | [open-design](resources/open-design.md) | ⭐90,033 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode / Hermes & 20+ CLIs via BYOK. | ✅ active |
 | 4 | [DeerFlow](resources/deer-flow.md) | ⭐80,462 | Open-source long-horizon SuperAgent harness by ByteDance: skills, memory, sandboxes, subagents, tools and a message gateway. | ✅ active |
 | 5 | [Mole](resources/mole.md) | ⭐74,358 | 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps. | ✅ active |
-| 6 | [ruflo](resources/ruflo.md) | ⭐69,896 | The original agent meta-harness: deploy intelligent multi-player swarms, coordinate autonomous workflows, adaptive memory, self-learning intelligence, RAG integration and native Claude Code / Codex integrations. | ✅ active |
-| 7 | [Reactive Resume](resources/reactive-resume.md) | ⭐42,520 | Open-source, privacy-first resume builder; ships an MCP server and agent skills that can be driven from DeepSeek Harness. | ✅ active |
-| 8 | [CodeWhale](resources/codewhale.md) | ⭐40,830 | Open-source, community-driven agent harness. | ✅ active |
-| 9 | [awesome-deepseek-integration](resources/awesome-deepseek-integration.md) | ⭐38,897 | Integrate the DeepSeek API into popular software | ✅ active |
-| 10 | [nuwa-skill](resources/nuwa-skill.md) | ⭐37,579 | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. | ✅ active |
-| 11 | [OpenViking](resources/openviking.md) | ⭐36,784 | Self-evolving context database for AI agents that unifies agent memory, knowledge RAG and skills. | ✅ active |
-| 12 | [next-ai-draw-io](resources/next-ai-draw-io.md) | ⭐36,710 | Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code. | ✅ active |
-| 13 | [archify](resources/archify.md) | ⭐36,264 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams — self-contained and reviewable. | ✅ active |
-| 14 | [DeepSeek-Reasonix](resources/deepseek-reasonix.md) | ⭐35,284 | DeepSeek-native AI coding agent for your terminal, engineered around prefix-cache stability — leave it running. | ✅ active |
-| 15 | [awesome-gpt-image-2](resources/awesome-gpt-image-2.md) | ⭐31,449 | Prompt-as-code library for GPT Image: 530+ reverse-engineered cases, 20+ industrial templates and reusable skills. | ✅ active |
-| 16 | [huashu-design](resources/huashu-design.md) | ⭐28,768 | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent | ✅ active |
-| 17 | [AiToEarn](resources/aitoearn.md) | ⭐27,300 | Let's use AI to Earn! | ✅ active |
-| 18 | [agentmemory](resources/agentmemory.md) | ⭐27,233 | Persistent memory for AI coding agents based on real-world benchmarks (upstream of DSH agentmemory ports). | ✅ active |
-| 19 | [PicGo](resources/picgo.md) | ⭐27,181 | Cross-platform image uploader desktop app supporting 60+ image hosts; usable alongside a DeepSeek Harness workflow. | ✅ active |
-| 20 | [Distilly](resources/distilly.md) | ⭐24,650 | Distills how people think into reusable skills for any agent or bot. | ✅ active |
+| 6 | [last30days-skill](resources/last30days-skill.md) | ⭐73,147 | Agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket and the web, then synthesizes a grounded summary. | ✅ active |
+| 7 | [ruflo](resources/ruflo.md) | ⭐69,896 | The original agent meta-harness: deploy intelligent multi-player swarms, coordinate autonomous workflows, adaptive memory, self-learning intelligence, RAG integration and native Claude Code / Codex integrations. | ✅ active |
+| 8 | [Reactive Resume](resources/reactive-resume.md) | ⭐42,520 | Open-source, privacy-first resume builder; ships an MCP server and agent skills that can be driven from DeepSeek Harness. | ✅ active |
+| 9 | [CodeWhale](resources/codewhale.md) | ⭐40,830 | Open-source, community-driven agent harness. | ✅ active |
+| 10 | [awesome-deepseek-integration](resources/awesome-deepseek-integration.md) | ⭐38,897 | Integrate the DeepSeek API into popular software | ✅ active |
+| 11 | [nuwa-skill](resources/nuwa-skill.md) | ⭐37,579 | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. | ✅ active |
+| 12 | [OpenViking](resources/openviking.md) | ⭐36,784 | Self-evolving context database for AI agents that unifies agent memory, knowledge RAG and skills. | ✅ active |
+| 13 | [next-ai-draw-io](resources/next-ai-draw-io.md) | ⭐36,710 | Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code. | ✅ active |
+| 14 | [archify](resources/archify.md) | ⭐36,264 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams — self-contained and reviewable. | ✅ active |
+| 15 | [DeepSeek-Reasonix](resources/deepseek-reasonix.md) | ⭐35,284 | DeepSeek-native AI coding agent for your terminal, engineered around prefix-cache stability — leave it running. | ✅ active |
+| 16 | [awesome-gpt-image-2](resources/awesome-gpt-image-2.md) | ⭐31,449 | Prompt-as-code library for GPT Image: 530+ reverse-engineered cases, 20+ industrial templates and reusable skills. | ✅ active |
+| 17 | [huashu-design](resources/huashu-design.md) | ⭐28,768 | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent | ✅ active |
+| 18 | [AiToEarn](resources/aitoearn.md) | ⭐27,300 | Let's use AI to Earn! | ✅ active |
+| 19 | [agentmemory](resources/agentmemory.md) | ⭐27,233 | Persistent memory for AI coding agents based on real-world benchmarks (upstream of DSH agentmemory ports). | ✅ active |
+| 20 | [PicGo](resources/picgo.md) | ⭐27,181 | Cross-platform image uploader desktop app supporting 60+ image hosts; usable alongside a DeepSeek Harness workflow. | ✅ active |
 
 ---
 

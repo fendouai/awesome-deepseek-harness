@@ -209,6 +209,23 @@
     "growth": 1
   },
   {
+    "id": "dsh-fish-3",
+    "name": "dsh-fish",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/mochi-fish/dsh-fish",
+    "description": "DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。",
+    "description_zh": "DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 182,
+    "license": "MIT"
+  },
+  {
     "id": "conceptloom",
     "name": "ConceptLoom",
     "type": "tutorial",
@@ -3238,6 +3255,167 @@
     "verified": false,
     "stars": 1,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "deepseek-harness-principles-and-practice",
+    "name": "DeepSeek-Harness-Principles-and-Practice",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/chensenmiao/DeepSeek-Harness-Principles-and-Practice",
+    "description": "DeepSeek Harness 插件开发实战 —— 从零到一编写 Harness 插件的结构化教程，基于官方 65+ 篇文档整理而成，包含完整代码示例与实战案例。插件经理prd模式可以让agent先生成需求文档，随后进行插件生成",
+    "description_zh": "DeepSeek Harness 插件开发实战 —— 从零到一编写 Harness 插件的结构化教程，基于官方 65+ 篇文档整理而成，包含完整代码示例与实战案例。插件经理prd模式可以让agent先生成需求文档，随后进行插件生成",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-translate-2",
+    "name": "DSH-Translate",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/light-cheng/DSH-Translate",
+    "description": "English translation and learning plugin for DeepSeek Harness: bilingual reasoning, selection translation, composer polish, offline dictionary, pronunciation, vocabulary notebook",
+    "description_zh": "English translation and learning plugin for DeepSeek Harness: bilingual reasoning, selection translation, composer polish, offline dictionary, pronunciation, vocabulary notebook",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-incidental-learn",
+    "name": "dsh-incidental-learn",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/oxmumu3/dsh-incidental-learn",
+    "description": "在日常与 Agent 协作中顺手攒经验、沉淀个人技能库的 DeepSeek Harness 插件（对话末尾低调学习卡 + 后台自动存档 + 右侧边聊边学）",
+    "description_zh": "在日常与 Agent 协作中顺手攒经验、沉淀个人技能库的 DeepSeek Harness 插件（对话末尾低调学习卡 + 后台自动存档 + 右侧边聊边学）",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subor-startup",
+    "name": "dsh-subor-startup",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/hongshunanhai/dsh-subor-startup",
+    "description": "A boot animation plugin for DeepSeek Harness—bringing the power-on screen of that 1990s Subor learning console into your DSH.",
+    "description_zh": "A boot animation plugin for DeepSeek Harness—bringing the power-on screen of that 1990s Subor learning console into your DSH.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-connect-deveco",
+    "name": "dsh-connect-deveco",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/wxddegithub/dsh-connect-deveco",
+    "description": "非官方 DSH 插件，通过本地 opencode-deveco 代理使用 DevEco Code 的 GLM 模型，提供状态胶囊、启停/重启、华为登录登出与看门狗。仅供个人学习研究。",
+    "description_zh": "非官方 DSH 插件，通过本地 opencode-deveco 代理使用 DevEco Code 的 GLM 模型，提供状态胶囊、启停/重启、华为登录登出与看门狗。仅供个人学习研究。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-paper-agent",
+    "name": "dsh-paper-agent",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/StressState/dsh-paper-agent",
+    "description": "DSH 文献助手：OpenAlex 拉取、AI 筛选、卡片台与反馈学习",
+    "description_zh": "DSH 文献助手：OpenAlex 拉取、AI 筛选、卡片台与反馈学习",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-major-tutor",
+    "name": "dsh-major-tutor",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/cynshin85-spec/dsh-major-tutor",
+    "description": "MajorTutor — diagnosis-first learning runtime for DeepSeek Harness, covering engineering & science major courses (circuits, signals, mechanics, materials, chemical, civil, biomedical).",
+    "description_zh": "MajorTutor — diagnosis-first learning runtime for DeepSeek Harness, covering engineering & science major courses (circuits, signals, mechanics, materials, chemical, civil, biomedical).",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-note-to-learn",
+    "name": "dsh-note-to-learn",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/shiyan688/dsh-note-to-learn",
+    "description": "DeepSeek Harness 学习笔记插件。摘录网页和 PDF、圈选截图提问，再把 AI 回答存回可编辑笔记。",
+    "description_zh": "DeepSeek Harness 学习笔记插件。摘录网页和 PDF、圈选截图提问，再把 AI 回答存回可编辑笔记。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-quiz-tutorial",
+    "name": "dsh-quiz-tutorial",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/xiaobin118/dsh-quiz-tutorial",
+    "description": "刷题场：把复习内容变成题集，题目旁给逐步手算解析，错题自动进错题本；支持 /skill 出题。A DeepSeek Harness practice-deck plugin.",
+    "description_zh": "刷题场：把复习内容变成题集，题目旁给逐步手算解析，错题自动进错题本；支持 /skill 出题。A DeepSeek Harness practice-deck plugin.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-career-mentor",
+    "name": "dsh-plugin-career_mentor",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Gigi1231899/dsh-plugin-career_mentor",
+    "description": "面向高校学生的三模式职业导师：探索、热点（弹窗选方向 + 按岗位热度排序的库包与 Skill/Plugin 推荐）、规划（技能诊断与动态学习路线图）。",
+    "description_zh": "面向高校学生的三模式职业导师：探索、热点（弹窗选方向 + 按岗位热度排序的库包与 Skill/Plugin 推荐）、规划（技能诊断与动态学习路线图）。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "deepseek-harness-brain",

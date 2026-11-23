@@ -7185,6 +7185,142 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-orchestration-policy",
+    "name": "dsh-orchestration-policy",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/hy-sde/dsh-orchestration-policy",
+    "description": "Parallelize-by-default orchestration policy for DeepSeek Harness: config-driven fan-out rules, fail-closed task-isolation guard, review-gate posture resolution.",
+    "description_zh": "Parallelize-by-default orchestration policy for DeepSeek Harness: config-driven fan-out rules, fail-closed task-isolation guard, review-gate posture resolution.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-orchestrator-kit",
+    "name": "dsh-orchestrator-kit",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/klaus-2/dsh-orchestrator-kit",
+    "description": "DeepSeek Harness (dsh) plugin: Orchestrator control panel for per-role model routing across a 20-role dev-flow pipeline",
+    "description_zh": "DeepSeek Harness (dsh) plugin: Orchestrator control panel for per-role model routing across a 20-role dev-flow pipeline",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-codex-mode-2",
+    "name": "dsh-codex-mode",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/TideDra/dsh-codex-mode",
+    "description": "1:1 OpenAI Codex CLI agent preset for DeepSeek Harness — GPT-6 CodeMode, Direct tools, V4A fuzzy patch editing, unified PTY execution, and Multi-Agent V2 with an Ultra toggle.",
+    "description_zh": "1:1 OpenAI Codex CLI agent preset for DeepSeek Harness — GPT-6 CodeMode, Direct tools, V4A fuzzy patch editing, unified PTY execution, and Multi-Agent V2 with an Ultra toggle.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tokscale-usage",
+    "name": "dsh-tokscale-usage",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/XS-dev/dsh-tokscale-usage",
+    "description": "Local multi-agent token usage and telemetry dashboard for DeepSeek Harness powered by tokscale and dsh-context.",
+    "description_zh": "Local multi-agent token usage and telemetry dashboard for DeepSeek Harness powered by tokscale and dsh-context.",
+    "capabilities": [
+      "coding",
+      "context",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-engineering-craft",
+    "name": "dsh-engineering-craft",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/zycskylove520/dsh-engineering-craft",
+    "description": "DeepSeek Harness plugin suite: stage gates, handoff artifacts, project memory and a strict six-role subagent pipeline. Built on DSH built-in plugins only.",
+    "description_zh": "DeepSeek Harness plugin suite: stage gates, handoff artifacts, project memory and a strict six-role subagent pipeline. Built on DSH built-in plugins only.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-coding",
+    "name": "dsh-coding",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/ygzhang-lab/dsh-coding",
+    "description": "DSH 编程智能体插件，工程化任务编排机制，Codex 五段式契约层层推进，Pro 模型负责分析需求/编排任务，交由子代理隔离各项任务使用 Flash 模型干活，确保任务交付质量和 Token 价值最大化。 DSH programming intelligent agent plugin, engineering task orchestration mechanism, Codex five-stage contract progressing layer by layer.",
+    "description_zh": "DSH 编程智能体插件，工程化任务编排机制，Codex 五段式契约层层推进，Pro 模型负责分析需求/编排任务，交由子代理隔离各项任务使用 Flash 模型干活，确保任务交付质量和 Token 价值最大化。 DSH programming intelligent agent plugin, engineering task orchestration mechanism, Codex five-stage contract progressing layer by layer.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-report",
+    "name": "dsh-task-report",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/drdrdr666/dsh-task-report",
+    "description": "DSH 任务档案：沉淀进度、副作用、待办与收尾总结成跨会话文件；收尾时强制检查缺项，并自动扫描残留凭据、调试端口与写死的旧默认值",
+    "description_zh": "DSH 任务档案：沉淀进度、副作用、待办与收尾总结成跨会话文件；收尾时强制检查缺项，并自动扫描残留凭据、调试端口与写死的旧默认值",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-subagent-antigravity-1",
+    "name": "dsh-subagent-antigravity",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/xgone/dsh-subagent-antigravity",
+    "description": "Google Antigravity CLI（agy）子智能体 Provider：让 DSH 智能体把单个任务交给 agy 执行并取回结果 / One-shot Antigravity CLI (agy) subagent provider: hand one task to agy and get the answer back",
+    "description_zh": "Google Antigravity CLI（agy）子智能体 Provider：让 DSH 智能体把单个任务交给 agy 执行并取回结果 / One-shot Antigravity CLI (agy) subagent provider: hand one task to agy and get the answer back",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-evolve",
     "name": "dsh-skill-evolve",
     "type": "agent",

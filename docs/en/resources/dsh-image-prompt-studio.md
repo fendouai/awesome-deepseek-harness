@@ -1,0 +1,28 @@
+---
+title: "dsh-image-prompt-studio"
+description: "dsh-image-prompt-studio · 提示词工作台  复刻图片风格，模仿风格生图！用户只要两步：**① 导入一张风格图 → ② 描述想画的画面 → 出图**。 提示词工作台：结构化 JSON 提示词生成/最小化修改/apiz 双模型生图 dsh 插件（image-prompt-studio skill 快照 + 校验/冻结比对/预设库/出图工具 + 工作台面板）"
+keywords: "dsh-image-prompt-studio, learning, skill, coding, multimodal, deepseek harness, dsh"
+---
+# dsh-image-prompt-studio
+
+> ⭐ **1** · ✅ active · skill
+
+| | | | |
+|---|---|---|---|
+| Type | skill | Category | Learning |
+| Stars | ⭐ 1 | Status | ✅ active |
+| Author | [liangdabiao](https://github.com/liangdabiao) | Updated | — |
+
+## One-liner
+
+> dsh-image-prompt-studio · 提示词工作台  复刻图片风格，模仿风格生图！用户只要两步：**① 导入一张风格图 → ② 描述想画的画面 → 出图**。 提示词工作台：结构化 JSON 提示词生成/最小化修改/apiz 双模型生图 dsh 插件（image-prompt-studio skill 快照 + 校验/冻结比对/预设库/出图工具 + 工作台面板）
+
+## About
+
+dsh-image-prompt-studio · 提示词工作台  复刻图片风格，模仿风格生图！用户只要两步：**① 导入一张风格图 → ② 描述想画的画面 → 出图**。 提示词工作台：结构化 JSON 提示词生成/最小化修改/apiz 双模型生图 dsh 插件（image-prompt-studio skill 快照 + 校验/冻结比对/预设库/出图工具 + 工作台面板）
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/liangdabiao/dsh-image-prompt-studio)
+- [Full README](https://github.com/liangdabiao/dsh-image-prompt-studio#readme)
+- [Back to the Skills list](../skills.md)

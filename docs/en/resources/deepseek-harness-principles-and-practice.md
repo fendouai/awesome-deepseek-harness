@@ -1,0 +1,28 @@
+---
+title: "DeepSeek-Harness-Principles-and-Practice"
+description: "DeepSeek Harness 插件开发实战 —— 从零到一编写 Harness 插件的结构化教程，基于官方 65+ 篇文档整理而成，包含完整代码示例与实战案例。插件经理prd模式可以让agent先生成需求文档，随后进行插件生成"
+keywords: "DeepSeek-Harness-Principles-and-Practice, learning, tutorial, coding, multi-agent, deepseek harness, dsh"
+---
+# DeepSeek-Harness-Principles-and-Practice
+
+> ⭐ **1** · ✅ active · tutorial
+
+| | | | |
+|---|---|---|---|
+| Type | tutorial | Category | Learning |
+| Stars | ⭐ 1 | Status | ✅ active |
+| Author | [chensenmiao](https://github.com/chensenmiao) | Updated | — |
+
+## One-liner
+
+> DeepSeek Harness 插件开发实战 —— 从零到一编写 Harness 插件的结构化教程，基于官方 65+ 篇文档整理而成，包含完整代码示例与实战案例。插件经理prd模式可以让agent先生成需求文档，随后进行插件生成
+
+## About
+
+DeepSeek Harness 插件开发实战 —— 从零到一编写 Harness 插件的结构化教程，基于官方 65+ 篇文档整理而成，包含完整代码示例与实战案例。插件经理prd模式可以让agent先生成需求文档，随后进行插件生成
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/chensenmiao/DeepSeek-Harness-Principles-and-Practice)
+- [Full README](https://github.com/chensenmiao/DeepSeek-Harness-Principles-and-Practice#readme)
+- [Back to the Tutorials & Learning list](../tutorials.md)

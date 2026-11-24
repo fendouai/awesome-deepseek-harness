@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（12154 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（12155 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-## 完整列表（12154）
+## 完整列表（12155）
 
 
 **视觉与多模态（4334）**
@@ -12334,6 +12334,16 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-thetwo](resources/dsh-thetwo.md) | – | 在已配对的局域网电脑间同步 DSH 会话和附件。模型可参考各设备的硬件配置，用户确认后由选中的电脑接着处理当前任务。 | 🧪 实验性 |
 | [dsh-ticktick](resources/dsh-ticktick.md) | – | TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具与类型化 Remote 服务，全部走官方 TickTick MCP 端点。 | ✅ 活跃 |
 
+**MCP（5）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [dsh-aliyun-mcp](resources/dsh-aliyun-mcp.md) | – | DeepSeek Harness 的阿里云 OpenAPI MCP 连接：静态凭证 + 官方 MCP Proxy，把 ECS / OSS / 域名 / DNS / 函数计算等 OpenAPI 暴露为 mcp__aliyun__* 工具。 | ✅ 活跃 |
+| [dsh-feishu-mcp](resources/dsh-feishu-mcp.md) | – | DeepSeek Harness 的飞书（Lark）OpenAPI MCP 连接：桥接官方 @larksuiteoapi/lark-mcp，把 IM / 多维表格 / 云文档 / 日历 / 云盘 API 暴露为 mcp__feishu__* 工具，支持用户令牌 OAuth。 | ✅ 活跃 |
+| [dsh-mcp-manager](resources/dsh-mcp-manager-4.md) | – | DeepSeek Harness 的 MCP 服务器管理器：在 Web 设置页或通过 Agent 工具增删改查 stdio / Streamable HTTP MCP 服务器，经 harness 自带的 MCP 桥在运行时连接与断开，不需要重启 DSH。 | ✅ 活跃 |
+| [dsh-plugin-bulkpublish](resources/dsh-plugin-bulkpublish.md) | – | 将 DSH 连接到 BulkPublish MCP 服务器，在 15 个社交网络的真实账号上起草、排期、发布并分析帖子；使用以 Bearer 令牌发送的 BulkPublish API 密钥。 | 🧪 实验性 |
+| [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。 | ✅ 活跃 |
+
 **自动化（4）**
 
 | 项目 | 星数 | 说明 | 状态 |
@@ -12342,15 +12352,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | 为官方 @tencent-connect/dsh-qqbot 提供的可视化配置面板：管理 AppID/AppSecret、私聊/群聊访问模式与白名单、工作区选择、扫码绑定（Web 设置页）。 | ✅ 活跃 |
 | [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | DeepSeek Harness 的滴答清单任务派发器：按间隔拉取今天到期任务，flomo+macOS 通知，可选自动执行（每任务一个 headless 会话）、执行会话工作区选择与 Web 任务看板。 | ✅ 活跃 |
 | [dsh-zsxq](resources/dsh-zsxq.md) | – | DeepSeek Harness 的知识星球（zsxq）集成：Cookie/扫码登录非官方 Web API，提供星球列表 / 主题列表 / 主题详情 / 搜索 / 发布 / 评论 / 点赞工具与 Web 设置面板。 | ✅ 活跃 |
-
-**MCP（4）**
-
-| 项目 | 星数 | 说明 | 状态 |
-|---|---|---|---|
-| [dsh-aliyun-mcp](resources/dsh-aliyun-mcp.md) | – | DeepSeek Harness 的阿里云 OpenAPI MCP 连接：静态凭证 + 官方 MCP Proxy，把 ECS / OSS / 域名 / DNS / 函数计算等 OpenAPI 暴露为 mcp__aliyun__* 工具。 | ✅ 活跃 |
-| [dsh-feishu-mcp](resources/dsh-feishu-mcp.md) | – | DeepSeek Harness 的飞书（Lark）OpenAPI MCP 连接：桥接官方 @larksuiteoapi/lark-mcp，把 IM / 多维表格 / 云文档 / 日历 / 云盘 API 暴露为 mcp__feishu__* 工具，支持用户令牌 OAuth。 | ✅ 活跃 |
-| [dsh-mcp-manager](resources/dsh-mcp-manager-4.md) | – | DeepSeek Harness 的 MCP 服务器管理器：在 Web 设置页或通过 Agent 工具增删改查 stdio / Streamable HTTP MCP 服务器，经 harness 自带的 MCP 桥在运行时连接与断开，不需要重启 DSH。 | ✅ 活跃 |
-| [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | DeepSeek Harness 的 Vercel MCP 连接插件：官方 OAuth 2.0 客户端流程（动态客户端注册 + PKCE）对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 形式在会话中可用，另有可视化设置面板。 | ✅ 活跃 |
 
 **多智能体（1）**
 

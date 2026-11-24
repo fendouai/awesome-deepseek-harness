@@ -170,7 +170,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-#### Complete list (12154)
+#### Complete list (12155)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn! (✅ active)
@@ -12220,6 +12220,7 @@ Plugins intended to become active DSH bundles should expose the corresponding `d
 - [dsh-plugin](https://github.com/Gandufu/dsh-plugin)  — DeepSeek Harness 插件集合｜齐天大圣双主题皮肤，支持亮暗模式、响应式布局与热插拔 (✅ active)
 - [dsh-plugin](https://github.com/ZMJJKK123-hub/dsh-plugin)  — my work for plugin in dsh (✅ active)
 - [dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory)  — Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness (✅ active)
+- [dsh-plugin-bulkpublish](https://github.com/bulkpublish/dsh-plugin-bulkpublish)  — Connects DSH to the BulkPublish MCP server to draft, schedule, publish and analyse posts on real social media accounts across 15 networks; uses a BulkPublish API key sent as a bearer token. (🧪 experimental)
 - [dsh-plugin-conflict-checker](https://github.com/kid-tea/dsh-plugin-conflict-checker)  — DeepSeek Harness plugin conflict checker: pre-flight duplicate loader-entry-id detection + optional real startup smoke test (CLI + Web GUI tab). (✅ active)
 - [dsh-plugin-connection-banner](https://github.com/yinren112/dsh-plugin-connection-banner)  — Visible reconnecting banner for the DeepSeek Harness Web UI (✅ active)
 - [dsh-plugin-console](https://github.com/AlexYin-Tongji/dsh-plugin-console)  — DSH Plugin Console: a verified community plugin catalog and profile manager for DeepSeek Harness (✅ active)
@@ -19437,7 +19438,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-#### Complete list (12154)
+#### Complete list (12155)
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin. (✅ active)
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn! (✅ active)
@@ -31487,6 +31488,7 @@ awesome-deepseek-harness/
 - [dsh-plugin](https://github.com/Gandufu/dsh-plugin)  — DeepSeek Harness 插件集合｜齐天大圣双主题皮肤，支持亮暗模式、响应式布局与热插拔 (✅ active)
 - [dsh-plugin](https://github.com/ZMJJKK123-hub/dsh-plugin)  — my work for plugin in dsh (✅ active)
 - [dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory)  — Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness (✅ active)
+- [dsh-plugin-bulkpublish](https://github.com/bulkpublish/dsh-plugin-bulkpublish)  — Connects DSH to the BulkPublish MCP server to draft, schedule, publish and analyse posts on real social media accounts across 15 networks; uses a BulkPublish API key sent as a bearer token. (🧪 experimental)
 - [dsh-plugin-conflict-checker](https://github.com/kid-tea/dsh-plugin-conflict-checker)  — DeepSeek Harness plugin conflict checker: pre-flight duplicate loader-entry-id detection + optional real startup smoke test (CLI + Web GUI tab). (✅ active)
 - [dsh-plugin-connection-banner](https://github.com/yinren112/dsh-plugin-connection-banner)  — Visible reconnecting banner for the DeepSeek Harness Web UI (✅ active)
 - [dsh-plugin-console](https://github.com/AlexYin-Tongji/dsh-plugin-console)  — DSH Plugin Console: a verified community plugin catalog and profile manager for DeepSeek Harness (✅ active)

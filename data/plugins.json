@@ -216853,5 +216853,23 @@
       "sidebar"
     ],
     "subcategory": "sidebar-panels"
+  },
+  {
+    "id": "dsh-plugin-bulkpublish",
+    "name": "dsh-plugin-bulkpublish",
+    "type": "plugin",
+    "category": "mcp",
+    "repository": "https://github.com/bulkpublish/dsh-plugin-bulkpublish",
+    "description": "Connects DSH to the BulkPublish MCP server to draft, schedule, publish and analyse posts on real social media accounts across 15 networks; uses a BulkPublish API key sent as a bearer token.",
+    "description_zh": "将 DSH 连接到 BulkPublish MCP 服务器，在 15 个社交网络的真实账号上起草、排期、发布并分析帖子；使用以 Bearer 令牌发送的 BulkPublish API 密钥。",
+    "capabilities": [
+      "mcp",
+      "automation"
+    ],
+    "status": "experimental",
+    "verified": false,
+    "stars": 0,
+    "install": "dsh plugin --profile web add dsh-plugin-bulkpublish",
+    "license": "MIT"
   }
 ]

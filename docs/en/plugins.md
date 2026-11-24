@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 12154 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 12155 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-Go](resources/dsh-go-3.md) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ active |
 | 10 | [openmotion](resources/openmotion.md) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ active |
 
-## Complete list (12154)
+## Complete list (12155)
 
 
 **Vision & multimodal (4334)**
@@ -12334,6 +12334,16 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-thetwo](resources/dsh-thetwo.md) | – | Syncs DSH conversations and attachments between paired computers on a LAN. The model can compare their hardware and, after user confirmation, hand the current task to either device. | 🧪 experimental |
 | [dsh-ticktick](resources/dsh-ticktick.md) | – | TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, and a typed Remote service — all over the official TickTick MCP endpoint. | ✅ active |
 
+**MCP (5)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [dsh-aliyun-mcp](resources/dsh-aliyun-mcp.md) | – | Alibaba Cloud OpenAPI MCP connection for DSH: static-credential mode through the official OpenAPI MCP proxy, exposing ECS / OSS / DNS / Function Compute APIs as mcp__aliyun__* tools. | ✅ active |
+| [dsh-feishu-mcp](resources/dsh-feishu-mcp.md) | – | Feishu (Lark) OpenAPI MCP connection for DSH: bridges the official @larksuiteoapi/lark-mcp server, exposing IM, Bitable, Docs, Calendar and Drive APIs as mcp__feishu__* tools with OAuth user-token support. | ✅ active |
+| [dsh-mcp-manager](resources/dsh-mcp-manager-4.md) | – | MCP server manager for DeepSeek Harness: add, edit, enable and test stdio and Streamable HTTP MCP servers from the Web settings page or from agent tools, connected and disconnected at runtime through the harness's own MCP bridge. | ✅ active |
+| [dsh-plugin-bulkpublish](resources/dsh-plugin-bulkpublish.md) | – | Connects DSH to the BulkPublish MCP server to draft, schedule, publish and analyse posts on real social media accounts across 15 networks; uses a BulkPublish API key sent as a bearer token. | 🧪 experimental |
+| [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | Vercel MCP connection for DeepSeek Harness: official OAuth 2.0 flow (dynamic client registration + PKCE) against mcp.vercel.com, Vercel API tools under mcp__vercel__*, and a web settings panel. | ✅ active |
+
 **Automation (4)**
 
 | Project | Stars | Description | Status |
@@ -12342,15 +12352,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-qqbot-panel](resources/dsh-qqbot-panel.md) | – | Visual web settings panel for the official @tencent-connect/dsh-qqbot plugin: manage AppID/AppSecret, c2c & group access/allowlists, workspace picker, and scan-to-bind from the DSH web settings page. | ✅ active |
 | [dsh-task-dispatcher](resources/dsh-task-dispatcher.md) | – | TickTick (滴答清单) daily task dispatcher for DeepSeek Harness: interval-based pulls of today's due tasks, notify (flomo + macOS), optional auto-execute in headless DSH sessions, worker workspace selection, and a web task board. | ✅ active |
 | [dsh-zsxq](resources/dsh-zsxq.md) | – | Knowledge Planet (知识星球 zsxq) integration for DSH: cookie/QR login against the unofficial web API, agent tools for groups / topic lists / topic detail / search / publish / comment / like, plus a web settings panel. | ✅ active |
-
-**MCP (4)**
-
-| Project | Stars | Description | Status |
-|---|---|---|---|
-| [dsh-aliyun-mcp](resources/dsh-aliyun-mcp.md) | – | Alibaba Cloud OpenAPI MCP connection for DSH: static-credential mode through the official OpenAPI MCP proxy, exposing ECS / OSS / DNS / Function Compute APIs as mcp__aliyun__* tools. | ✅ active |
-| [dsh-feishu-mcp](resources/dsh-feishu-mcp.md) | – | Feishu (Lark) OpenAPI MCP connection for DSH: bridges the official @larksuiteoapi/lark-mcp server, exposing IM, Bitable, Docs, Calendar and Drive APIs as mcp__feishu__* tools with OAuth user-token support. | ✅ active |
-| [dsh-mcp-manager](resources/dsh-mcp-manager-4.md) | – | MCP server manager for DeepSeek Harness: add, edit, enable and test stdio and Streamable HTTP MCP servers from the Web settings page or from agent tools, connected and disconnected at runtime through the harness's own MCP bridge. | ✅ active |
-| [dsh-vercel-mcp](resources/dsh-vercel-mcp.md) | – | Vercel MCP connection for DeepSeek Harness: official OAuth 2.0 flow (dynamic client registration + PKCE) against mcp.vercel.com, Vercel API tools under mcp__vercel__*, and a web settings panel. | ✅ active |
 
 **Multi-agent (1)**
 

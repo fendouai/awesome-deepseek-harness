@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-#### 完整列表（12154）
+#### 完整列表（12155）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn!（✅ 活跃）
@@ -12221,6 +12221,7 @@ dsh web
 - [dsh-plugin](https://github.com/Gandufu/dsh-plugin)  — DeepSeek Harness 插件集合｜齐天大圣双主题皮肤，支持亮暗模式、响应式布局与热插拔（✅ 活跃）
 - [dsh-plugin](https://github.com/ZMJJKK123-hub/dsh-plugin)  — my work for plugin in dsh（✅ 活跃）
 - [dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory)  — Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness（✅ 活跃）
+- [dsh-plugin-bulkpublish](https://github.com/bulkpublish/dsh-plugin-bulkpublish)  — 将 DSH 连接到 BulkPublish MCP 服务器，在 15 个社交网络的真实账号上起草、排期、发布并分析帖子；使用以 Bearer 令牌发送的 BulkPublish API 密钥。（🧪 实验性）
 - [dsh-plugin-conflict-checker](https://github.com/kid-tea/dsh-plugin-conflict-checker)  — DeepSeek Harness plugin conflict checker: pre-flight duplicate loader-entry-id detection + optional real startup smoke test (CLI + Web GUI tab).（✅ 活跃）
 - [dsh-plugin-connection-banner](https://github.com/yinren112/dsh-plugin-connection-banner)  — Visible reconnecting banner for the DeepSeek Harness Web UI（✅ 活跃）
 - [dsh-plugin-console](https://github.com/AlexYin-Tongji/dsh-plugin-console)  — DSH Plugin Console: a verified community plugin catalog and profile manager for DeepSeek Harness（✅ 活跃）
@@ -19438,7 +19439,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | ⭐10,974 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 | ✅ 活跃 |
 | 10 | [openmotion](https://github.com/nexu-io/openmotion) | ⭐9,504 | The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice. | ✅ 活跃 |
 
-#### 完整列表（12154）
+#### 完整列表（12155）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [AiToEarn](https://github.com/yikart/AiToEarn) ⭐27,300 — Let's use AI to Earn!（✅ 活跃）
@@ -31488,6 +31489,7 @@ awesome-deepseek-harness/
 - [dsh-plugin](https://github.com/Gandufu/dsh-plugin)  — DeepSeek Harness 插件集合｜齐天大圣双主题皮肤，支持亮暗模式、响应式布局与热插拔（✅ 活跃）
 - [dsh-plugin](https://github.com/ZMJJKK123-hub/dsh-plugin)  — my work for plugin in dsh（✅ 活跃）
 - [dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory)  — Action-State Memory Engine: typed time-series memory (states + actions) with trend/anomaly/causal analysis for DeepSeek Harness（✅ 活跃）
+- [dsh-plugin-bulkpublish](https://github.com/bulkpublish/dsh-plugin-bulkpublish)  — 将 DSH 连接到 BulkPublish MCP 服务器，在 15 个社交网络的真实账号上起草、排期、发布并分析帖子；使用以 Bearer 令牌发送的 BulkPublish API 密钥。（🧪 实验性）
 - [dsh-plugin-conflict-checker](https://github.com/kid-tea/dsh-plugin-conflict-checker)  — DeepSeek Harness plugin conflict checker: pre-flight duplicate loader-entry-id detection + optional real startup smoke test (CLI + Web GUI tab).（✅ 活跃）
 - [dsh-plugin-connection-banner](https://github.com/yinren112/dsh-plugin-connection-banner)  — Visible reconnecting banner for the DeepSeek Harness Web UI（✅ 活跃）
 - [dsh-plugin-console](https://github.com/AlexYin-Tongji/dsh-plugin-console)  — DSH Plugin Console: a verified community plugin catalog and profile manager for DeepSeek Harness（✅ 活跃）

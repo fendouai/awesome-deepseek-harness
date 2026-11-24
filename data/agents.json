@@ -1759,6 +1759,25 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-roles",
+    "name": "dsh-roles",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/myth929/dsh-roles",
+    "description": "Role-layered subagent orchestration plugin for DeepSeek Harness — per-role context/tool isolation, Web UI model & OAR routing, step budgets, and parallel write guardrails. DeepSeek Harness 子智能体角色编排插件，提供角色隔离、可视化模型与外部运行时路由、步数预算与并行写入护栏。",
+    "description_zh": "Role-layered subagent orchestration plugin for DeepSeek Harness — per-role context/tool isolation, Web UI model & OAR routing, step budgets, and parallel write guardrails. DeepSeek Harness 子智能体角色编排插件，提供角色隔离、可视化模型与外部运行时路由、步数预算与并行写入护栏。",
+    "capabilities": [
+      "coding",
+      "context",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-overdrive",
     "name": "dsh-overdrive",
     "type": "agent",

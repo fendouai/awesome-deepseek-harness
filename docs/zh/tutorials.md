@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（200 条）。"
+description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（203 条）。"
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [dshfind](resources/dshfind.md) | ⭐200 | DSH 原理学习、插件市场与最佳实践：从 Cordis 论文逐章精读到插件自动聚合市场。 | ✅ 活跃 |
 | 10 | [NamiDSH](resources/namidsh.md) | ⭐189 | 对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent | ✅ 活跃 |
 
-## 完整列表（200）
+## 完整列表（203）
 
 
-**学习（200）**
+**学习（203）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -159,6 +159,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-diagnostic-tutor](resources/dsh-diagnostic-tutor.md) | ⭐1 | Diagnosis-first AI learning runtime for DeepSeek Harness — map what you need, learn interactively, and move to the next best step. | ✅ 活跃 |
 | [dsh-douyin-bridge](resources/dsh-douyin-bridge.md) | ⭐1 | DSH 插件：把抖音私信接进 DSH —— 私信进 DSH 会话，AI 用工具刷视频、分享、聊天（含图片/表情收发）。仅供学习研究。 | ✅ 活跃 |
 | [dsh-dual-auto](resources/dsh-dual-auto.md) | ⭐1 | Dual-model auto-routing plugin for DeepSeek Harness: low-cost direct / high-cost upgrade + escape-learning closed loop | ✅ 活跃 |
+| [DSH-English-learning](resources/dsh-english-learning.md) | ⭐1 | You can learn English in combination with your conversation at any time when using DSH | ✅ 活跃 |
 | [dsh-english-study](resources/dsh-english-study.md) | ⭐1 | Learn English by watching YouTube inside DeepSeek Harness: immersion time, lookup history, vocabulary book with SM-2 spaced repetition and a local dashboard. 100% local, no cloud sync. | ✅ 活跃 |
 | [dsh-erp](resources/dsh-erp.md) | ⭐1 | ERP learning and automation plugin targeting dsh 0.1.5 rc2, with evidence-backed knowledge and mandatory approval before ERP writes. | ✅ 活跃 |
 | [dsh-experience](resources/dsh-experience-1.md) | ⭐1 | 智能体自学习经验库：为 DeepSeek Harness 沉淀可复用经验，自动注入上下文，支持分类/单条开关与可视化面板。 | ✅ 活跃 |
@@ -173,6 +174,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-learning-gap-check](resources/dsh-learning-gap-check.md) | ⭐1 | DeepSeek Harness 插件 — 学情差距分析核对：依据《质量管理 能力管理和人员发展指南》。仅提示差异，不作出定性结论。 | ✅ 活跃 |
 | [dsh-learning-hub](resources/dsh-learning-hub.md) | ⭐1 | A local-first learning hub plugin for DeepSeek Harness: branch tree, concept graph, progress, spaced review and a small dashboard. | ✅ 活跃 |
 | [dsh-learning-mode](resources/dsh-learning-mode-1.md) | ⭐1 | 输入框工具栏的「学习模式」开关：打开后为当前会话注入一套固定教学提示词——问题引入 → 讲解与交互探索 → 测试 → 反馈纠错。测验、参数滑块、交卷判分都由 GenUI 直接画在回答里，点选即时出结果，判分不发模型请求。 | ✅ 活跃 |
+| [dsh-learning-quirky-stuff](resources/dsh-learning-quirky-stuff.md) | ⭐1 | 学习画板：手写与截图笔记、AI 图文总结、系统学习、SPO 知识图谱和间隔复习。 | ✅ 活跃 |
 | [dsh-major-tutor](resources/dsh-major-tutor.md) | ⭐1 | MajorTutor — diagnosis-first learning runtime for DeepSeek Harness, covering engineering & science major courses (circuits, signals, mechanics, materials, chemical, civil, biomedical). | ✅ 活跃 |
 | [dsh-memory](resources/dsh-memory-27.md) | ⭐1 | Layered memory plugin for DeepSeek Harness: strictly separated project/global memory, host-driven recall before tasks and continuous learning after them. | ✅ 活跃 |
 | [dsh-moongate](resources/dsh-moongate.md) | ⭐1 | Learning auto-approval gate for DeepSeek Harness (fork of dsh-approval-gate, MIT) | ✅ 活跃 |
@@ -220,6 +222,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [DSH_Study_Toolkit](resources/dsh-study-toolkit.md) | ⭐1 | 自用/备考可用的DSH插件合集，解决专业课书目背诵等问题（不定时更新），将枯燥的学习及背诵过程变成高效的系统化知识管理，解决传统笔记软件零碎、同步昂贵、配置复杂的痛点。 | ✅ 活跃 |
 | [edugraph-learning](resources/edugraph-learning.md) | ⭐1 | EduGraph AI 学习模式 · DSH 插件：资料解析、知识图谱、学习计划、练习批改、间隔复习、外部 AI 课程包与面板内 AI 导师 | ✅ 活跃 |
 | [every-thing-is-possible](resources/every-thing-is-possible.md) | ⭐1 | 这是一个学习仓库 | ✅ 活跃 |
+| [humanities-workbench](resources/humanities-workbench.md) | ⭐1 | DSH 插件：人文社科研究工作台，面板、取数工具与方法手册。A research workbench for the humanities and social sciences. | ✅ 活跃 |
 | [jiufeng-invest](resources/jiufeng-invest.md) | ⭐1 | 玖峰金融工作台 (Jiufeng FinBox) - 把散落的金融工具装进一个桌面端 | Finance workbench plugin set for DeepSeek Harness: 7 workflows, 101 skills, 21 zero-key A-share data tools | ✅ 活跃 |
 | [lazeword](resources/lazeword.md) | ⭐1 | lazeword is a word-anchored bilingual learning system — learning as simulation, trajectory as log | ✅ 活跃 |
 | [learn-skill](resources/learn-skill.md) | ⭐1 | 学习+链接 → 全自动采集·AI总结·亮点·术语·评分·图谱·深度OCR·入库 | One link → AI analysis+highlights+glossary+rating+knowledge graph → KB import (v3.5) | ✅ 活跃 |

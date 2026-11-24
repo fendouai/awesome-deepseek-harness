@@ -1124,6 +1124,22 @@
     "license": "MIT"
   },
   {
+    "id": "convenient-window-free",
+    "name": "convenient_window_free",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ximizhou/convenient_window_free",
+    "description": "Windows 11 window tools for hot corners, edge hiding, mouse gestures and layouts. Available as a standalone desktop app and a DeepSeek Harness (DSH) plugin.",
+    "description_zh": "Windows 11 window tools for hot corners, edge hiding, mouse gestures and layouts. Available as a standalone desktop app and a DeepSeek Harness (DSH) plugin.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 200
+  },
+  {
     "id": "ds-harness-remote",
     "name": "ds-harness-remote",
     "type": "client",
@@ -9587,6 +9603,22 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-magpie-hub",
+    "name": "dsh-magpie-hub",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/LingMowen/dsh-magpie-hub",
+    "description": "DeepSeek Harness 插件：在 DSH 进程内直接运行 magpie 供应商插件（登录 / 模型目录 / 请求转发 / 额度 / 签到 / 商店），桌面与手机共用一套面板",
+    "description_zh": "DeepSeek Harness 插件：在 DSH 进程内直接运行 magpie 供应商插件（登录 / 模型目录 / 请求转发 / 额度 / 签到 / 商店），桌面与手机共用一套面板",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "deepseek-harness-workbench",
     "name": "deepseek-harness-workbench",
     "type": "client",
@@ -16995,6 +17027,38 @@
     "verified": false,
     "stars": 2,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-window-focus",
+    "name": "dsh-window-focus",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/fanrongbo2006/dsh-window-focus",
+    "description": "点击 DeepSeek Harness 系统通知即可把桌面窗口带到前台的插件（DSH bundle）",
+    "description_zh": "点击 DeepSeek Harness 系统通知即可把桌面窗口带到前台的插件（DSH bundle）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-orcamind",
+    "name": "DSH-OrcaMind",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/HometownVoyager/DSH-OrcaMind",
+    "description": "DeepSeek Harness 个人自用版工作区存档(非官方): OrcaMind Electron 壳、自研插件、文档与脚本",
+    "description_zh": "DeepSeek Harness 个人自用版工作区存档(非官方): OrcaMind Electron 壳、自研插件、文档与脚本",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2
   },
   {
     "id": "dsh-desktop-app",
@@ -30421,6 +30485,90 @@
       "browser",
       "coding",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-desktop-shot",
+    "name": "dsh-desktop-shot",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/jianuoli664/dsh-desktop-shot",
+    "description": "集成在 DSH 里的简单截图工具：点一下按钮，窗口收起、框选，裁剪图自动进草稿框（Windows）",
+    "description_zh": "集成在 DSH 里的简单截图工具：点一下按钮，窗口收起、框选，裁剪图自动进草稿框（Windows）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-xcode",
+    "name": "dsh-xcode",
+    "type": "client",
+    "category": "terminal",
+    "repository": "https://github.com/ZSeven-W/dsh-xcode",
+    "description": "DeepSeek Harness (DSH) plugin for Apple's official Xcode MCP bridge (xcrun mcpbridge) & Apple Skills — <1s single-file compiler diagnostics, native SwiftUI #Preview rendering, warm scheme builds/tests, Apple docs search, and live pairing with dsh-ios.",
+    "description_zh": "DeepSeek Harness (DSH) plugin for Apple's official Xcode MCP bridge (xcrun mcpbridge) & Apple Skills — <1s single-file compiler diagnostics, native SwiftUI #Preview rendering, warm scheme builds/tests, Apple docs search, and live pairing with dsh-ios.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "search",
+      "terminal",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-circuit2vst",
+    "name": "dsh-circuit2vst",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/amonisachicken/dsh-circuit2vst",
+    "description": "把自绘电路变成多平台 VST3/AU/CLAP 插件：DeepSeek Harness 插件，内含 rustomp 电路/面板设计器、代码生成与平台打包编排。",
+    "description_zh": "把自绘电路变成多平台 VST3/AU/CLAP 插件：DeepSeek Harness 插件，内含 rustomp 电路/面板设计器、代码生成与平台打包编排。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "evolution-computer-use-win",
+    "name": "evolution-computer-use-win",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/thefreedoomdoor/evolution-computer-use-win",
+    "description": "面向 DeepSeek Harness（DSH）的自进化电脑操作：自带浏览器、带思考与步骤浮窗的 Windows 桌面控制，以及会重放并自我修复的操作流程。融合 evolution-computer-use 与 dsh-computer-use-win。",
+    "description_zh": "面向 DeepSeek Harness（DSH）的自进化电脑操作：自带浏览器、带思考与步骤浮窗的 Windows 桌面控制，以及会重放并自我修复的操作流程。融合 evolution-computer-use 与 dsh-computer-use-win。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-desktop-alerts-1",
+    "name": "dsh-desktop-alerts",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Depthinker925/dsh-desktop-alerts",
+    "description": "DSH 的 Windows 桌面提醒插件：需要你确认、等待权限、或任务结束时，在屏幕右下角弹一张提醒卡片。",
+    "description_zh": "DSH 的 Windows 桌面提醒插件：需要你确认、等待权限、或任务结束时，在屏幕右下角弹一张提醒卡片。",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（583 条）。"
+description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（586 条）。"
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-deepseek-harness](resources/awesome-deepseek-harness.md) | ⭐966 | Curated guide to DeepSeek Harness (dsh) and its best community plugins | ✅ 活跃 |
 | 10 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ 活跃 |
 
-## 完整列表（583）
+## 完整列表（586）
 
 
-**注册表（583）**
+**注册表（586）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -300,6 +300,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-finance-db](resources/dsh-finance-db.md) | ⭐2 | Read-only market data for DeepSeek Harness. Ask about a stock, and let DSH call the data tools directly. | 为 DeepSeek Harness 提供只读金融市场数据。让 DSH 直接调用工具查询行情。 | ✅ 活跃 |
 | [dsh-local-market](resources/dsh-local-market.md) | ⭐2 | DSH 中文插件市场：实时社区目录、中文检索、界面预览与一键安装 | ✅ 活跃 |
 | [dsh-m](resources/dsh-m.md) | ⭐2 | DSH 插件市场：Marketplace for DeepSeek Harness plugins · dsh-m | ✅ 活跃 |
+| [dsh-magpie](resources/dsh-magpie-2.md) | ⭐2 | Magpie provider hub as a DSH desktop plugin — 51 providers, one-click login, born-fast plugin store | ✅ 活跃 |
 | [dsh-market-expand](resources/dsh-market-expand.md) | ⭐2 | DSH 插件市场的补丁层：一键更新全部（退出后自动完成并重开）+ 更新安全网（启动失败自动回退）+ 本地插件更新检测与快照回滚。 | ✅ 活跃 |
 | [dsh-market-peek](resources/dsh-market-peek.md) | ⭐2 | Preview DSH plugin-market entries inside DeepSeek Harness instead of an external browser. | ✅ 活跃 |
 | [dsh-market-radar](resources/dsh-market-radar-1.md) | ⭐2 | 黄金、A 股和美股的 DeepSeek Harness 轻量行情雷达 | ✅ 活跃 |
@@ -555,6 +556,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-session-trash](resources/dsh-session-trash-1.md) | ⭐1 | Session trash for DeepSeek Harness: move conversations to a trash, restore them, or delete them permanently after a second confirmation. | ✅ 活跃 |
 | [dsh-session-unarchive](resources/dsh-session-unarchive.md) | ⭐1 | Adds an archived-sessions view and a restore action to the dsh Web GUI — implemented as a pure Cordis plugin (host half + client half), with zero file patches. It survives dsh upgrades: nothing is written under the dsh install directory. | ✅ 活跃 |
 | [dsh-shop-assistant](resources/dsh-shop-assistant.md) | ⭐1 | DeepSeek Harness ecommerce plugin: CSV batch review replies, reproducible product scoring, Chinese skills, store-policy KB. | ✅ 活跃 |
+| [dsh-sidebar-restore](resources/dsh-sidebar-restore.md) | ⭐1 | 为 DeepSeek Harness 的 Windows 桌面端把收起后消失的侧边栏还原为 56px 图标轨道：悬停浮出工作区卡片，可在设置页自定义侧边栏颜色、透明度与图标显隐。Restores the collapsed sidebar as a 56px icon rail in DeepSeek Harness for Windows — hover workspace flyout, customizable sidebar colors, and a minimal-rail mode. | ✅ 活跃 |
 | [dsh-skill-market](resources/dsh-skill-market-1.md) | ⭐1 | Browse, search and install SkillHub skills inside DeepSeek Harness. / 在 DeepSeek Harness 内浏览、搜索并安装 SkillHub 技能。 | ✅ 活跃 |
 | [dsh-skill-market](resources/dsh-skill-market-2.md) | ⭐1 | DSH 可视化技能商店 — Visual skill market inside DeepSeek Harness: browse, search, install and manage Agent Skills | ✅ 活跃 |
 | [dsh-skill-market](resources/dsh-skill-market-3.md) | ⭐1 | DSH 设置页技能市场：从 GitHub 搜索并一键安装技能到 ~/.dsh/skills。Skill Market in the DeepSeek Harness settings page: search GitHub for skills and install them into ~/.dsh/skills with one click. | ✅ 活跃 |
@@ -610,6 +612,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [Smart-DSH-Market](resources/smart-dsh-market.md) | ⭐1 | Smart DSH Suite v2.0: Dual-engine plugin marketplace (12k+ plugins) with project-stage-aware recommendations & 26px Nano HUD. | ✅ 活跃 |
 | [sparkles](resources/sparkles.md) | ⭐1 | Pi and DSH plugins for stock market | ✅ 活跃 |
 | [Sports-desk-ops](resources/sports-desk-ops.md) | ⭐1 | Production intelligence, downline risk surveillance, 10-Mode Forensic/Risk/Cross-Market/Reconciliation engine, Cloudflare R2 edge portal, Qwen3.5-4B neuron token taxonomy, and automated reporting pipeline built on the Bun runtime (v1.4.4) for SportsDesk and Fa | ✅ 活跃 |
+| [top-deepseek-harness-plugins](resources/top-deepseek-harness-plugins.md) | ⭐1 | Open-source plugins and companion apps for DeepSeek Harness (dsh): security and permission guards, memory, desktop, web and terminal clients, model routing and plugin markets, ranked by GitHub stars | ✅ 活跃 |
 | [awesome-deepseek-harness](resources/awesome-deepseek-harness-rodert-1.md) | – | DeepSeek Harness 精选资源 | ✅ 活跃 |
 | [awesome-deepseek-harness](resources/awesome-deepseek-harness-awesome-deepseekharness-1.md) | – | DSH 社区目录 | ✅ 活跃 |
 | [dsh-plugin-marketplace](resources/dsh-plugin-marketplace-2.md) | – | 帮助寻找DSH插件，引导安装，并持续在DeepSeek Harness内收集插件评分、FAQ、踩坑记录并分享到社区 | ✅ 活跃 |

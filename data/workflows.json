@@ -11304,6 +11304,44 @@
     "stars": 1
   },
   {
+    "id": "dsh-workflow-zcode",
+    "name": "dsh-workflow-zcode",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/google-q-dot/dsh-workflow-zcode",
+    "description": "Run ZCode .dwf.ts dynamic workflows in DeepSeek Harness: persistent subagents, sandboxed execution, SQLite run journal, and a ZCode-style sidebar panel.",
+    "description_zh": "Run ZCode .dwf.ts dynamic workflows in DeepSeek Harness: persistent subagents, sandboxed execution, SQLite run journal, and a ZCode-style sidebar panel.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-todo",
+    "name": "dsh-todo",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/GUGUQ1/dsh-todo",
+    "description": "A shared plan board for you and the agent in the DSH right sidebar — stages, dependencies and due dates, kept as a passive reminder of where the work stands.",
+    "description_zh": "A shared plan board for you and the agent in the DSH right sidebar — stages, dependencies and due dates, kept as a passive reminder of where the work stands.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-better-plan-reviewer",
     "name": "dsh-better-plan-reviewer",
     "type": "workflow",

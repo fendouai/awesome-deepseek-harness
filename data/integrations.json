@@ -2762,6 +2762,23 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "dsh-godbot",
+    "name": "dsh-godbot",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/renjiegod/dsh-godbot",
+    "description": "Run Claude Code, Codex, Antigravity, and DSH as one team. Delegate tasks, review results, and take over native agent sessions.",
+    "description_zh": "Run Claude Code, Codex, Antigravity, and DSH as one team. Delegate tasks, review results, and take over native agent sessions.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 21,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-pilot",
     "name": "dsh-pilot",
     "type": "integration",
@@ -7012,6 +7029,24 @@
     "description_zh": "Bring your Claude Code, Codex and OpenCode plugins and your own settings into DeepSeek Harness. What works is measured in real sessions and every part that does not is listed with the reason; a part DSH lacks can be handed to the AI inside DSH, which writes an",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "MIT"
+  },
+  {
+    "id": "adb-mobile-use",
+    "name": "adb-mobile-use",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/regrevia/adb-mobile-use",
+    "description": "把真手机装进 DSH：右栏实时镜像可直接点、圈选标注带着圈图和控件回到会话，模型不截图也能读界面文本树（adb_ui 120 ms）。免 MCP、画面只走本机回环，需要宿主有 adb 与 ffmpeg。",
+    "description_zh": "把真手机装进 DSH：右栏实时镜像可直接点、圈选标注带着圈图和控件回到会话，模型不截图也能读界面文本树（adb_ui 120 ms）。免 MCP、画面只走本机回环，需要宿主有 adb 与 ffmpeg。",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -41047,6 +41082,359 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-chat-manager-wide",
+    "name": "dsh-chat-manager-wide",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/WindAndWood/dsh-chat-manager-wide",
+    "description": "DSH Chat Manager Wide — unofficial fork of dsh-chat-manager",
+    "description_zh": "DSH Chat Manager Wide — unofficial fork of dsh-chat-manager",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-git-idea",
+    "name": "dsh-git-idea",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/mays-hi/dsh-git-idea",
+    "description": "IDEA-style Git VCS inside a DeepSeek Harness session: a branch chip with the pending-change count, a branch switcher on hover, a VCS panel with commit graph, changes, commit detail and diff, a repository switcher, and a settings page. Registers no model tools.",
+    "description_zh": "IDEA-style Git VCS inside a DeepSeek Harness session: a branch chip with the pending-change count, a branch switcher on hover, a VCS panel with commit graph, changes, commit detail and diff, a repository switcher, and a settings page. Registers no model tools.",
+    "capabilities": [
+      "coding",
+      "git",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-onlyoffice",
+    "name": "dsh-onlyoffice",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/dake6767/dsh-onlyoffice",
+    "description": "OnlyOffice document viewer/editor plugin for DeepSeek Harness — open docx/xlsx/pptx from the sidebar, edit and save back (client-side static SDK, no Document Server).",
+    "description_zh": "OnlyOffice document viewer/editor plugin for DeepSeek Harness — open docx/xlsx/pptx from the sidebar, edit and save back (client-side static SDK, no Document Server).",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-performance-optimizer",
+    "name": "dsh-performance-optimizer",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/Weidows/dsh-performance-optimizer",
+    "description": "DSH bundle that exposes host-wide performance metrics (CPU / memory / IO) via a Settings tab, an optional HUD, and a native agent tool.",
+    "description_zh": "DSH bundle that exposes host-wide performance metrics (CPU / memory / IO) via a Settings tab, an optional HUD, and a native agent tool.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "reportgem-global-research",
+    "name": "reportgem-global-research",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/littlemosquito123/reportgem-global-research",
+    "description": "ReportGem global investment research MCP: 16M+ investment-bank reports, filings, earnings calls, papers for Claude/Cursor/Codex · 全球投研研报智能体与知识库",
+    "description_zh": "ReportGem global investment research MCP: 16M+ investment-bank reports, filings, earnings calls, papers for Claude/Cursor/Codex · 全球投研研报智能体与知识库",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-fixed-port-bridge",
+    "name": "dsh-fixed-port-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/Alice-Marx/dsh-fixed-port-bridge",
+    "description": "给 DeepSeek Harness 一个固定的本地端口：在宿主进程内转发到 DSH 每次启动都会变的随机 web 端口",
+    "description_zh": "给 DeepSeek Harness 一个固定的本地端口：在宿主进程内转发到 DSH 每次启动都会变的随机 web 端口",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cannbot-connect",
+    "name": "dsh-cannbot-connect",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/gentle-knight/dsh-cannbot-connect",
+    "description": "在 DeepSeek Harness (DSH) 里使用 CANNBOT 网关的模型。",
+    "description_zh": "在 DeepSeek Harness (DSH) 里使用 CANNBOT 网关的模型。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-side-conversation",
+    "name": "dsh-side-conversation",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/vaniawang/dsh-side-conversation",
+    "description": "Native side conversations for DeepSeek Harness: fork the active conversation into a sidebar session with live context, relay, and usage stats.",
+    "description_zh": "Native side conversations for DeepSeek Harness: fork the active conversation into a sidebar session with live context, relay, and usage stats.",
+    "capabilities": [
+      "coding",
+      "context",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-taskbridge",
+    "name": "dsh-taskbridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/ranranyya/dsh-taskbridge",
+    "description": "面向 DeepSeek Harness（DSH）的跨客户端派工桥接插件：让 Codex 与 Antigravity 专注架构规划与交付验收，将繁重的编码与测试调测交给 DSH 黑盒执行以节省主力模型配额；统一封装 API、执行模型、思考强度与 Git 工作树隔离，支持一键集成、静默长等、按需权限审批、跨包工作树复用与联动清理。Claude Code 接入计划于 2.0 上线。",
+    "description_zh": "面向 DeepSeek Harness（DSH）的跨客户端派工桥接插件：让 Codex 与 Antigravity 专注架构规划与交付验收，将繁重的编码与测试调测交给 DSH 黑盒执行以节省主力模型配额；统一封装 API、执行模型、思考强度与 Git 工作树隔离，支持一键集成、静默长等、按需权限审批、跨包工作树复用与联动清理。Claude Code 接入计划于 2.0 上线。",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-remote-control-6",
+    "name": "dsh-remote-control",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/liuyong0426/dsh-remote-control",
+    "description": "Remote control for DeepSeek Harness (DSH): pair a phone by QR code and keep working on the computer from the browser.",
+    "description_zh": "Remote control for DeepSeek Harness (DSH): pair a phone by QR code and keep working on the computer from the browser.",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-browser-favorites",
+    "name": "dsh-browser-favorites",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/GMLZYQZS/dsh-browser-favorites",
+    "description": "Favorites for DeepSeek Harness: a star in the conversation header that opens saved web pages as Browser tabs in the right sidebar. 对话标题栏的五角星收藏夹：把常看的网址一键开在右侧栏浏览器里。",
+    "description_zh": "Favorites for DeepSeek Harness: a star in the conversation header that opens saved web pages as Browser tabs in the right sidebar. 对话标题栏的五角星收藏夹：把常看的网址一键开在右侧栏浏览器里。",
+    "capabilities": [
+      "browser",
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chip-design-closure",
+    "name": "dsh-chip-design-closure",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/renshaokai/dsh-chip-design-closure",
+    "description": "Design-side closure for digital chip front-end work on DeepSeek Harness — architecture and specifications, FP/VP, RTL, lint/CDC, synthesis and timing, PPA, SoC integration. Carries the chip-design skill.",
+    "description_zh": "Design-side closure for digital chip front-end work on DeepSeek Harness — architecture and specifications, FP/VP, RTL, lint/CDC, synthesis and timing, PPA, SoC integration. Carries the chip-design skill.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-persona-continuity-bot",
+    "name": "dsh-persona-continuity-bot",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/shinji00222/dsh-persona-continuity-bot",
+    "description": "DSH 人格续忆 Bot：给 DeepSeek Harness 的每个人格一份独立跨会话 Markdown 记忆，支持私聊时间轴、微信直觉群聊与全体工作区授权。",
+    "description_zh": "DSH 人格续忆 Bot：给 DeepSeek Harness 的每个人格一份独立跨会话 Markdown 记忆，支持私聊时间轴、微信直觉群聊与全体工作区授权。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-annotate-4",
+    "name": "dsh-annotate",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/modenicheng/dsh-annotate",
+    "description": "Visual annotation bridge: mark text, elements, or regions in Firefox/Zen and hand them to DeepSeek Harness with cropped screenshots",
+    "description_zh": "Visual annotation bridge: mark text, elements, or regions in Firefox/Zen and hand them to DeepSeek Harness with cropped screenshots",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-patient-education",
+    "name": "dsh-patient-education",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/liuhange789/dsh-patient-education",
+    "description": "医生说完就忘？把医嘱变成患者看得懂的须知，30 秒生成。Turn a doctor's decision into a patient-readable after-visit guide in DSH — template-filled, no medical judgement.",
+    "description_zh": "医生说完就忘？把医嘱变成患者看得懂的须知，30 秒生成。Turn a doctor's decision into a patient-readable after-visit guide in DSH — template-filled, no medical judgement.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wow-bridge",
+    "name": "dsh-wow-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/robeson1010/dsh-wow-bridge",
+    "description": "《魔兽世界：无限》游戏内 [DSH] 频道：DeepSeek Harness 插件（提问、翻译、行情、地图标记、采购清单），带游戏插件和设置页",
+    "description_zh": "《魔兽世界：无限》游戏内 [DSH] 频道：DeepSeek Harness 插件（提问、翻译、行情、地图标记、采购清单），带游戏插件和设置页",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "feishu-publish",
+    "name": "feishu-publish",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/zmaa0061-coder/feishu-publish",
+    "description": "Publish local Markdown files as Feishu (Lark) documents from DeepSeek Harness: upload to Drive, import as docx, return the doc URL.",
+    "description_zh": "Publish local Markdown files as Feishu (Lark) documents from DeepSeek Harness: upload to Drive, import as docx, return the doc URL.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-freedomchat",
+    "name": "dsh-freedomchat",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/qiuyunhui666-sketch/dsh-freedomchat",
+    "description": "Chat-only side panel for DeepSeek Harness: an isolated conversation in the right sidebar of every session — empty context, zero local execution, its own model, explicit-consent two-way reading, deleted with an archived session.",
+    "description_zh": "Chat-only side panel for DeepSeek Harness: an isolated conversation in the right sidebar of every session — empty context, zero local execution, its own model, explicit-consent two-way reading, deleted with an archived session.",
+    "capabilities": [
+      "coding",
+      "context",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-unreal",
+    "name": "dsh-unreal",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/msxqqq/dsh-unreal",
+    "description": "dsh plugin用于桥接unreal",
+    "description_zh": "dsh plugin用于桥接unreal",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-codex-bridge-6",
+    "name": "dsh-codex-bridge",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/qwdqd-dwqd/dsh-codex-bridge",
+    "description": "Codex 没有远程入口，会话和 CLI 都在那台电脑上。本插件把本机 Codex 会话接进 DSH 侧栏：按项目列出、点开读取、派发任务在后台续跑；面板复用 DSH 登录连接，已配对的手机也能操作，出门在外接着推进电脑上的任务。Codex has no remote entry point. Put local Codex sessions in the DSH sidebar and keep them moving from a paired phone.",
+    "description_zh": "Codex 没有远程入口，会话和 CLI 都在那台电脑上。本插件把本机 Codex 会话接进 DSH 侧栏：按项目列出、点开读取、派发任务在后台续跑；面板复用 DSH 登录连接，已配对的手机也能操作，出门在外接着推进电脑上的任务。Codex has no remote entry point. Put local Codex sessions in the DSH sidebar and keep them moving from a paired phone.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tg-archiver",
+    "name": "dsh-tg-archiver",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/duma520/dsh-tg-archiver",
+    "description": "DSH 版 Telegram 频道归档工具包：把 telegram-channel-archiver 命令行封装成 5 个可在对话里直接调用的原生工具（环境自检 / 看下载进度 / 扫频道索引 / 启停下载 / 建归档任务），不用记命令行参数、不用常开终端就能管理整频道视频与文件的批量下载。",
+    "description_zh": "DSH 版 Telegram 频道归档工具包：把 telegram-channel-archiver 命令行封装成 5 个可在对话里直接调用的原生工具（环境自检 / 看下载进度 / 扫频道索引 / 启停下载 / 建归档任务），不用记命令行参数、不用常开终端就能管理整频道视频与文件的批量下载。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
   },
   {
     "id": "dsh-wechat-bridge-2",

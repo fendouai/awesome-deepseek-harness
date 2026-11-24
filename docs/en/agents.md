@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "Top 10 and full list of 408 curated agents & multi-agent for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 409 curated agents & multi-agent for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [consensus-pipeline](resources/consensus-pipeline.md) | ⭐124 | Multi-agent department framework for long-form complex tasks, fighting AI hallucination, validated on academic research. 共识管线：多智能体部门长线任务解决框架，对抗AI幻觉，以学术研究为验证场景。 | ✅ active |
 | 10 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ active |
 
-## Complete list (408)
+## Complete list (409)
 
 
-**Multi-agent (405)**
+**Multi-agent (406)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -123,6 +123,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-plugin-tavern](resources/dsh-plugin-tavern.md) | ⭐4 | 酒馆（SillyTavern 精简版）DSH 插件：角色卡解析管理员 card-analyst + 角色扮演讲述者 roleplay | ✅ active |
 | [dsh-puzzle-mode](resources/dsh-puzzle-mode.md) | ⭐4 | DSH 插件｜拼图模式：把项目拆成主文档 + 若干模块文档，AI 主动提问把不确定项变成已定项，用五维算项目健康性。一个会话可同时绑多个项目，面板有绑定切换条；项目分小 / 中 / 大三档，条目上限随档位放宽或收紧；主文档第五节 `## 工作流` 是标准化流水线（一条 = 一个 ### 名字块 + 有序步骤），命中触发词自动注入。**重复思考熔断**：同一工具连续 3 次同样参数调用即注入提示，把绕圈的模型推出去。文档格式 v7；与 dsh-infinite-gen-5 同装时按契约共存。 | ✅ active |
 | [dsh-research-kit](resources/dsh-research-kit.md) | ⭐4 | dsh-research-kit 是一个 浏览器侧 DSH 插件：它维护科研资源目录、把工作流和用户参数组装成可编辑 Prompt，并由 DSH 当前会话负责实际发送与执行。 | ✅ active |
+| [dsh-roles](resources/dsh-roles.md) | ⭐4 | Role-layered subagent orchestration plugin for DeepSeek Harness — per-role context/tool isolation, Web UI model & OAR routing, step budgets, and parallel write guardrails. DeepSeek Harness 子智能体角色编排插件，提供角色隔离、可视化模型与外部运行时路由、步数预算与并行写入护栏。 | ✅ active |
 | [dsh-rp-composer](resources/dsh-rp-composer.md) | ⭐4 | TriComposer · DSH web 端 RP 结构化输入插件：台词/动作/心理分框填空、模板组装发送，从输入层消除 AI 对玩家言行的成分误识别。Structured tri-channel input composer for LLM roleplay on DeepSeek Harness. | ✅ active |
 | [dsh-subagent-max](resources/dsh-subagent-max.md) | ⭐4 | DeepSeek Harness (DSH) plugin — a subagent_with_model tool plus a live multi-panel subagent viewer. | ✅ active |
 | [dsh-subagent-router](resources/dsh-subagent-router.md) | ⭐4 | Dynamic model routing for DSH subagents, with continuable spawn sessions and one-shot fork support. | ✅ active |

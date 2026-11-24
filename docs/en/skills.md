@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "Top 10 and full list of 1017 curated skills for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 1025 curated skills for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [baoyu-design](resources/baoyu-design.md) | ⭐6,124 | Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude. | ✅ active |
 | 10 | [mattpocock-skills-zh-CN](resources/mattpocock-skills-zh-cn.md) | ⭐5,158 | Matt Pocock skills 的简体中文本地化：人工审核每一次更新，定期同步上游，支持 Claude、Codex 和 DSH 插件。 | ✅ active |
 
-## Complete list (1017)
+## Complete list (1025)
 
 
-**Learning (998)**
+**Learning (1006)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -241,6 +241,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [rejection-check](resources/rejection-check.md) | ⭐5 | 标书废标项检查工具（DeepSeek Harness 插件）｜Tender/bid rejection-check skill plugin for DSH：解析招标/投标文件，提取无效投标与废标项，三轮风险检查 + 错别字/逻辑谬误检查，生成 PDF 报告。无需 API Key。dsh plugin add 即可安装。 | ✅ active |
 | [WorkbuddySkillGroups4DSH](resources/workbuddyskillgroups4dsh.md) | ⭐5 | WorkBuddy 专家团 Skill 开源包 → DeepSeek Harness (dsh) 插件式 skillgroups 包：44 个多角色专家团队 SKILL.md bundle，支持 ~/.dsh/skills 安装与 Cordis 插件注册。WorkBuddy expert-team skill groups repackaged as a DeepSeek Harness plugin skillgroups pack (44 SKILL.md bundles). | ✅ active |
 | [agent-skills](resources/agent-skills.md) | ⭐4 | Collection of Octoparse agent skills | ✅ active |
+| [ai-coordination](resources/ai-coordination.md) | ⭐4 | 一套简易且强大的 claude code 等ai工具开发指定的架构规范skill. | ✅ active |
 | [behavior-enhancer-generic](resources/behavior-enhancer-generic.md) | ⭐4 | Behavior discipline for coding agents: read-before-write enforcement, failure convergence, write verification with auto-rollback, and a high-risk command gate. Ships FULL plugin/hook adapters for DSH, Claude Code, Codex, and Pi, plus a host-agnostic SOFT skill with ADAPTIVE adapter guidance. | ✅ active |
 | [cindy-dsh-plugin](resources/cindy-dsh-plugin.md) | ⭐4 | Cindy plugin: run Cindy tasks with the DeepSeek Harness (dsh) installed on your computer | ✅ active |
 | [claude-conventions-skill](resources/claude-conventions-skill.md) | ⭐4 | Claude Code conventions skill for Chinese users | ✅ active |
@@ -619,6 +620,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-dashboard](resources/dsh-dashboard-3.md) | ⭐1 | DeepSeek Harness sidebar dashboard plugin: task progress, downloads/extraction, training, tests, local+SSH GPU monitoring | ✅ active |
 | [dsh-data-analysis-plugin](resources/dsh-data-analysis-plugin.md) | ⭐1 | DeepSeek Harness data-analysis agent plugin (Python code runtime + analysis tools + skill + bundle) | ✅ active |
 | [dsh-deepmemory](resources/dsh-deepmemory.md) | ⭐1 | DeepSeek Harness 主体长期记忆插件：语义召回、实体图谱、状态卡、presets、可配置嵌入；任务看板已独立为 dsh-livetaskboard。 | ✅ active |
+| [dsh-deepseek-chat-mode](resources/dsh-deepseek-chat-mode.md) | ⭐1 | DeepSeek Chat / Work mode switch for DeepSeek Harness: full-screen web chat in the right sidebar and one-click handoff to a new DSH task. | ✅ active |
 | [dsh-delayed-task](resources/dsh-delayed-task.md) | ⭐1 | Durable delayed decisions for DeepSeek Harness | ✅ active |
 | [dsh-deliver](resources/dsh-deliver.md) | ⭐1 | dsh-deliver 是一个 Codex Skill，用于把经过明确授权的代码实现任务委托给 DeepSeek Harness（DSH），由 DSH 完成实现、自测和独立 review，最后由 Codex 只读验收。 | ✅ active |
 | [dsh-demian-drama-strip](resources/dsh-demian-drama-strip.md) | ⭐1 | DSH skill bundle that turns a short drama into a shot-by-shot storyboard and a shootable screenplay. Still frames only ever give composition, so camera moves and subject motion come from ffmpeg 4fps frame-diff sheets, and luma jumps locate cuts and flashbacks. Needs ffmpeg. | ✅ active |
@@ -638,6 +640,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-engineering-skills](resources/dsh-engineering-skills-1.md) | ⭐1 | DeepSeek Harness 技能插件：把 Matt Pocock 的 27 个工程/生产力技能（grilling、spec/ticket、TDD、code review、领域建模、handoff）作为技能 provider 分发 · DeepSeek Harness plugin: Matt Pocock's 27 engineering & productivity skills as a bundled skill provider (11 model-invoked, 16 user-invoked) | ✅ active |
 | [dsh-enhance](resources/dsh-enhance.md) | ⭐1 | oh-my-zsh-style enhancement bundle for DeepSeek Harness (dsh): packaged skills, work-rule prompt guidance, the Enhance agent preset with a persistent deep-work prompt section, guards + delivery gate, work tracking, worktrees, advisor — install and go | ✅ active |
 | [dsh-evolution-lab](resources/dsh-evolution-lab.md) | ⭐1 | Proof-carrying Skill self-evolution for DeepSeek Harness | ✅ active |
+| [dsh-figgenie-paper-diagram](resources/dsh-figgenie-paper-diagram.md) | ⭐1 | Paper figures as SVG: draw, lint against venue layout rules, edit on a canvas panel, export vector PDF and editable draw.io. DSH skill + sidebar editor. | ✅ active |
 | [dsh-financial-skills](resources/dsh-financial-skills.md) | ⭐1 | 金融业技能 · DeepSeek Harness 插件：左侧栏入口 + 金融行业skills精选（9 类 17 个技能，可搜索、预览、一键安装） | ✅ active |
 | [dsh-fleet-monitor](resources/dsh-fleet-monitor.md) | ⭐1 | Multi-host SSH monitoring for the dsh web GUI: agentless metrics, hardware inventory, service probes, alerts, cron tasks, terminal, SFTP files, and agent tools. No agent to install, loopback-only. | ✅ active |
 | [dsh-free-media](resources/dsh-free-media.md) | ⭐1 | DSH 免费多模态三件套：零 Key 文生图 + 零 Key 视频理解 + 免费文生视频/图生视频。三个工具 + 一份 skill，MIT。 | ✅ active |
@@ -760,6 +763,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-preset-studio](resources/dsh-preset-studio.md) | ⭐1 | 预设工作室 · A visual studio for DeepSeek Harness agent presets: edit preset files, toggle injections, documents, skills and tool rows in one panel. | ✅ active |
 | [dsh-proactive](resources/dsh-proactive-2.md) | ⭐1 | DSH plugin: wakes the agent when a long background task (download, install, wait) finishes after the turn has ended, so it reports back on its own. | ✅ active |
 | [dsh-progress-overlay](resources/dsh-progress-overlay.md) | ⭐1 | Windows always-on-top task progress overlay for DeepSeek Harness (DSH): live phase/tool/command, real todo progress, multi-task list, approvals from the overlay. | ✅ active |
+| [dsh-progress-tree](resources/dsh-progress-tree.md) | ⭐1 | Live AI task tree in the right sidebar of DeepSeek Harness: status, blockers, artifacts, and a compact progress dock. | ✅ active |
 | [dsh-project-console](resources/dsh-project-console.md) | ⭐1 | A multi-task workbench for Deepseek Harness - isolated worktrees, agent sessions, evidence-backend acceptance and human-confirmed integration | ✅ active |
 | [dsh-project-context](resources/dsh-project-context-1.md) | ⭐1 | dsh (DeepSeek Harness) plugins for project-level persistent context:  session archive with a mechanical index, memory consolidation (CONTEXT.md +  MEMORY.md), low-frequency skill autolearn, and automatic handoff. | ✅ active |
 | [dsh-project-development](resources/dsh-project-development.md) | ⭐1 | Risk-adaptive development coordination skill for DeepSeek Harness: choose the smallest sufficient process for each change. | ✅ active |
@@ -799,6 +803,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-skill-categories](resources/dsh-skill-categories-1.md) | ⭐1 | DSH 技能分类中心：技能按分类折叠浏览与拖拽归类，和 skill-hub 共享分类数据。 | ✅ active |
 | [dsh-skill-center](resources/dsh-skill-center-2.md) | ⭐1 | DSH Web GUI 技能中心：侧栏入口把可配置来源目录里的技能铺成卡片，点击查看完整 SKILL.md；卡片开关会把技能注册进或移出模型可用的技能表。零依赖、免构建、无遥测、不采集数据。 | ✅ active |
 | [dsh-skill-curator](resources/dsh-skill-curator-1.md) | ⭐1 | Meta-skill for DeepSeek Harness: install, create, localize (Codex→DSH), iterate, and feed fixes back into skills. Includes a curated knowledge base with keyword + local bge-small-zh semantic retrieval, a 7-point write-back checklist, anti-bloat archiving, an optional agent hook plugin, and self-validation tools. | ✅ active |
+| [dsh-skill-desc-zh](resources/dsh-skill-desc-zh.md) | ⭐1 | 把 DSH 技能与斜杠命令描述自动翻译为中文，并在设置页管理技能与第三方插件（技能 CRUD、禁用、回收站、检查更新） | ✅ active |
 | [dsh-skill-doctor](resources/dsh-skill-doctor.md) | ⭐1 | DeepSeek Harness 技能体检：模型能不能看到、会不会选中你的技能。15 条规则 + 通俗报告 + CLI。 | ✅ active |
 | [dsh-skill-experts](resources/dsh-skill-experts.md) | ⭐1 | Manage skill experts in the sidebar and summon them from the composer or @ menu | ✅ active |
 | [dsh-skill-gated-tools](resources/dsh-skill-gated-tools.md) | ⭐1 | Skill-gated tool discovery for DeepSeek Harness. Load skills to reveal tools on demand. | ✅ active |
@@ -879,6 +884,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-task-runner](resources/dsh-task-runner.md) | ⭐1 | DSH plugin: project/task dual-mode workspaces. Tasks skip the workspace picker - every task conversation gets a fresh scratch dir under D:\dsh_working\<name>-<timestamp> (Codex-style). | ✅ active |
 | [dsh-task-signal](resources/dsh-task-signal.md) | ⭐1 | DSH task completion sounds with Codex/ZCode styles, native background playback, and persistent per-event controls. | ✅ active |
 | [dsh-task-time](resources/dsh-task-time.md) | ⭐1 | deepseek harness 人工操作时间统计插件（牛马时间统计） | ✅ active |
+| [dsh-task-toast](resources/dsh-task-toast-1.md) | ⭐1 | A lightweight, independent card-style task completion notification plugin for DeepSeek Harness (DSH). | ✅ active |
 | [dsh-task-todo](resources/dsh-task-todo.md) | ⭐1 | Todo & task manager for DeepSeek Harness (dsh): list / board / calendar / gantt, subtasks, recurrence; the same data is exposed to the agent as tools and a slash command. | ✅ active |
 | [dsh-task2docker-studio](resources/dsh-task2docker-studio.md) | ⭐1 | 把本机跑不动/不敢跑的任务下发到你自己的 SSH 服务器执行：Docker 容器隔离运行 + scp 文件传输 + 状态/日志跟随监控，厂家中立，附带可装进 Claude Code/Cursor/Copilot 的通用 Agent Skill。 | ✅ active |
 | [dsh-taskbearing](resources/dsh-taskbearing.md) | ⭐1 | 在长对话里，AI 从来不缺上下文，缺上下文的是你。” 这是一个为 开发者打造的 DSH 插件。它不做发号施令的老板，只做你的 AI 任务外脑与方向仪表盘。 | ✅ active |
@@ -921,6 +927,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-workbench](resources/dsh-workbench-14.md) | ⭐1 | Personal Workbench for DeepSeek Harness: local-first tasks, tags and sites plugins | ✅ active |
 | [dsh-workspace-atlas](resources/dsh-workspace-atlas.md) | ⭐1 | AGENTS & Skills 工作台 · edit AGENTS.md, manage multiple skills, and install from four public skill catalogs. | ✅ active |
 | [dsh-workspace-mesh](resources/dsh-workspace-mesh.md) | ⭐1 | Workspace mesh for DeepSeek Harness: declare which workspace lives on which host, dispatch tasks by workspace across paired DSH instances. | ✅ active |
+| [dsh-workspace-running-tasks](resources/dsh-workspace-running-tasks.md) | ⭐1 | 将运行中的任务置顶 | ✅ active |
 | [dsh-writing-studio](resources/dsh-writing-studio.md) | ⭐1 | DeepSeek Harness (DSH) 写作工具插件：长文工作流、风格控制与 8 套常用写作模板，进度落盘、跨轮次续写。零运行时依赖。 | ✅ active |
 | [dsh_upload_file](resources/dsh-upload-file-1.md) | ⭐1 | DeepSeek Harness(DSH) web plugin: paste files into the composer, inbox storage, thumbnails. Text via read_inbox; image understanding needs your vision skill (bundled image-reader + ARK_API_KEY). | ✅ active |
 | [DSH_VCG](resources/dsh-vcg.md) | ⭐1 | VCG 视觉控制生成器 (Visual Control Generator) — DeepSeek Harness Web GUI 插件：仿 ComfyUI 的节点式图像/视频生成工作流画布，聊天 VCG 画布模式、VCG 项目工作区、AI 自动组建工作流，默认云端 DeepSeek Harness 模型 API 生成，可选本地 ComfyUI 运算。 | ✅ active |
@@ -963,6 +970,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [motor-hospital-plugins](resources/motor-hospital-plugins.md) | ⭐1 | 面向电机维修业务的一组 DeepSeek Harness(DSH) 插件 + 共享引擎 + SQLite 案例库，覆盖一条完整工作流： | ✅ active |
 | [multi-skilled-repository](resources/multi-skilled-repository.md) | ⭐1 | AI Agent Skills 合集 — CMD+PowerShell 避坑指南 · CLI 优先决策矩阵 · 更多技能持续添加 | ✅ active |
 | [my-dsh-skill-hub](resources/my-dsh-skill-hub.md) | ⭐1 | 上传 SKILL.md 或 ZIP 即可安装；在侧栏「技能」页按角色（agent 预设）授权外部技能，并可逐个启用或停用该角色自带的系统内置技能。未授权的技能不会进入模型的技能目录，模型也无法加载 | ✅ active |
+| [NatSci-Writing-skills](resources/natsci-writing-skills.md) | ⭐1 | Skill that produces complete manuscripts and complete figure sets at Nature/Science standard, then revise, format and defend them. | ✅ active |
 | [novel-craft-dsh](resources/novel-craft-dsh.md) | ⭐1 | Long-form novel writing skill for DeepSeek Harness (dsh). 18 references + 5 local check scripts. | ✅ active |
 | [Novera-AI-pipeline](resources/novera-ai-pipeline.md) | ⭐1 | four-agent-pipeline agent skill: Specifier -> Coder -> Refactorer -> Architect. Turn a vague requirement into gate-verified code with Gherkin acceptance specs, steel-cage quality gates (coverage, complexity, duplication, mutation score), and automatic failure routing. Zero-dependency Python scaffolder included. MIT. | ✅ active |
 | [office-farmer-emoji](resources/office-farmer-emoji.md) | ⭐1 | 🧑‍🌾 agent 通用 skill / npm 包：把中国农村传统农具画成「搪瓷缸怀旧质感 + 打工人梗」的微信表情包（CLI / 编程 API / DSH 插件三种接入） | ✅ active |

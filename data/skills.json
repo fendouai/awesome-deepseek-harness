@@ -4657,6 +4657,21 @@
     "license": "MIT"
   },
   {
+    "id": "ai-coordination",
+    "name": "ai-coordination",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Atul-8/ai-coordination",
+    "description": "一套简易且强大的 claude code 等ai工具开发指定的架构规范skill.",
+    "description_zh": "一套简易且强大的 claude code 等ai工具开发指定的架构规范skill.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
     "id": "agent-plaza",
     "name": "agent-plaza",
     "type": "skill",
@@ -17530,6 +17545,119 @@
     "repository": "https://github.com/jyz48prsbr-netizen/dsh-screen-control",
     "description": "Control the Mac screen state while DSH tasks run: keep the display on, or let it go dark while the system and all processes keep running. Never suspends processes or sleeps the machine. macOS only.",
     "description_zh": "Control the Mac screen state while DSH tasks run: keep the display on, or let it go dark while the system and all processes keep running. Never suspends processes or sleeps the machine. macOS only.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-progress-tree",
+    "name": "dsh-progress-tree",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/sayzwx/dsh-progress-tree",
+    "description": "Live AI task tree in the right sidebar of DeepSeek Harness: status, blockers, artifacts, and a compact progress dock.",
+    "description_zh": "Live AI task tree in the right sidebar of DeepSeek Harness: status, blockers, artifacts, and a compact progress dock.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-desc-zh",
+    "name": "dsh-skill-desc-zh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/zzzzyppp/dsh-skill-desc-zh",
+    "description": "把 DSH 技能与斜杠命令描述自动翻译为中文，并在设置页管理技能与第三方插件（技能 CRUD、禁用、回收站、检查更新）",
+    "description_zh": "把 DSH 技能与斜杠命令描述自动翻译为中文，并在设置页管理技能与第三方插件（技能 CRUD、禁用、回收站、检查更新）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-toast-1",
+    "name": "dsh-task-toast",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/LouieKeung-13/dsh-task-toast",
+    "description": "A lightweight, independent card-style task completion notification plugin for DeepSeek Harness (DSH).",
+    "description_zh": "A lightweight, independent card-style task completion notification plugin for DeepSeek Harness (DSH).",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-deepseek-chat-mode",
+    "name": "dsh-deepseek-chat-mode",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Xumi0920/dsh-deepseek-chat-mode",
+    "description": "DeepSeek Chat / Work mode switch for DeepSeek Harness: full-screen web chat in the right sidebar and one-click handoff to a new DSH task.",
+    "description_zh": "DeepSeek Chat / Work mode switch for DeepSeek Harness: full-screen web chat in the right sidebar and one-click handoff to a new DSH task.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-figgenie-paper-diagram",
+    "name": "dsh-figgenie-paper-diagram",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/field209/dsh-figgenie-paper-diagram",
+    "description": "Paper figures as SVG: draw, lint against venue layout rules, edit on a canvas panel, export vector PDF and editable draw.io. DSH skill + sidebar editor.",
+    "description_zh": "Paper figures as SVG: draw, lint against venue layout rules, edit on a canvas panel, export vector PDF and editable draw.io. DSH skill + sidebar editor.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workspace-running-tasks",
+    "name": "dsh-workspace-running-tasks",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/60liulin60/dsh-workspace-running-tasks",
+    "description": "将运行中的任务置顶",
+    "description_zh": "将运行中的任务置顶",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "natsci-writing-skills",
+    "name": "NatSci-Writing-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Travis13197/NatSci-Writing-skills",
+    "description": "Skill that produces complete manuscripts and complete figure sets at Nature/Science standard, then revise, format and defend them.",
+    "description_zh": "Skill that produces complete manuscripts and complete figure sets at Nature/Science standard, then revise, format and defend them.",
     "capabilities": [
       "coding"
     ],

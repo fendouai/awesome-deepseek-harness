@@ -3418,6 +3418,55 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-learning-quirky-stuff",
+    "name": "dsh-learning-quirky-stuff",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/EndWithHyphen/dsh-learning-quirky-stuff",
+    "description": "学习画板：手写与截图笔记、AI 图文总结、系统学习、SPO 知识图谱和间隔复习。",
+    "description_zh": "学习画板：手写与截图笔记、AI 图文总结、系统学习、SPO 知识图谱和间隔复习。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-english-learning",
+    "name": "DSH-English-learning",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/wmingzhou7-cell/DSH-English-learning",
+    "description": "You can learn English in combination with your conversation at any time when using DSH",
+    "description_zh": "You can learn English in combination with your conversation at any time when using DSH",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "humanities-workbench",
+    "name": "humanities-workbench",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/hzlm124/humanities-workbench",
+    "description": "DSH 插件：人文社科研究工作台，面板、取数工具与方法手册。A research workbench for the humanities and social sciences.",
+    "description_zh": "DSH 插件：人文社科研究工作台，面板、取数工具与方法手册。A research workbench for the humanities and social sciences.",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",

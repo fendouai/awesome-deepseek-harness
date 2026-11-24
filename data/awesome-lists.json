@@ -5893,6 +5893,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-magpie-2",
+    "name": "dsh-magpie",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/beicaiai/dsh-magpie",
+    "description": "Magpie provider hub as a DSH desktop plugin — 51 providers, one-click login, born-fast plugin store",
+    "description_zh": "Magpie provider hub as a DSH desktop plugin — 51 providers, one-click login, born-fast plugin store",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "awesome-agent-security",
     "name": "awesome-agent-security",
     "type": "awesome-list",
@@ -10486,6 +10503,43 @@
     "status": "active",
     "verified": false,
     "stars": 1
+  },
+  {
+    "id": "top-deepseek-harness-plugins",
+    "name": "top-deepseek-harness-plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/MaxonT/top-deepseek-harness-plugins",
+    "description": "Open-source plugins and companion apps for DeepSeek Harness (dsh): security and permission guards, memory, desktop, web and terminal clients, model routing and plugin markets, ranked by GitHub stars",
+    "description_zh": "Open-source plugins and companion apps for DeepSeek Harness (dsh): security and permission guards, memory, desktop, web and terminal clients, model routing and plugin markets, ranked by GitHub stars",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "git",
+      "memory",
+      "terminal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "dsh-sidebar-restore",
+    "name": "dsh-sidebar-restore",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/uitTe/dsh-sidebar-restore",
+    "description": "为 DeepSeek Harness 的 Windows 桌面端把收起后消失的侧边栏还原为 56px 图标轨道：悬停浮出工作区卡片，可在设置页自定义侧边栏颜色、透明度与图标显隐。Restores the collapsed sidebar as a 56px icon rail in DeepSeek Harness for Windows — hover workspace flyout, customizable sidebar colors, and a minimal-rail mode.",
+    "description_zh": "为 DeepSeek Harness 的 Windows 桌面端把收起后消失的侧边栏还原为 56px 图标轨道：悬停浮出工作区卡片，可在设置页自定义侧边栏颜色、透明度与图标显隐。Restores the collapsed sidebar as a 56px icon rail in DeepSeek Harness for Windows — hover workspace flyout, customizable sidebar colors, and a minimal-rail mode.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "awesome-deepseek-harness-rodert-1",

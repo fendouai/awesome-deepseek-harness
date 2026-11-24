@@ -1,6 +1,6 @@
 ---
 title: "Workflows & Automation"
-description: "DeepSeek Harness (dsh) 精选 workflows & automation：🔥 Top 10 与完整列表（613 条）。"
+description: "DeepSeek Harness (dsh) 精选 workflows & automation：🔥 Top 10 与完整列表（615 条）。"
 keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 ---
 # Workflows & Automation
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | 9 | [Molio](resources/molio.md) | ⭐443 | A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows. | ✅ 活跃 |
 | 10 | [genie](resources/genie.md) | ⭐352 | Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it. | ✅ 活跃 |
 
-## 完整列表（613）
+## 完整列表（615）
 
 
-**工作流（486）**
+**工作流（488）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -464,6 +464,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-text-tool-call-recovery](resources/dsh-text-tool-call-recovery.md) | ⭐1 | 现象 A（step-5-preview）：使用阶跃星辰 step plan 的 step-5-preview 模型 | ✅ 活跃 |
 | [dsh-threadlight](resources/dsh-threadlight.md) | ⭐1 | A DSH plugin for documenting Git projects and exploring source-linked workflows. | ✅ 活跃 |
 | [dsh-tmuxctl](resources/dsh-tmuxctl.md) | ⭐1 | dsh-tmuxctl — the control plane for tmux: list, drive, capture, split, swap, run, and watch the panes you already have open, with safety by default (DeepSeek Harness plugin bundle) | ✅ 活跃 |
+| [dsh-todo](resources/dsh-todo.md) | ⭐1 | A shared plan board for you and the agent in the DSH right sidebar — stages, dependencies and due dates, kept as a passive reminder of where the work stands. | ✅ 活跃 |
 | [dsh-todo-note](resources/dsh-todo-note.md) | ⭐1 | Per-session draggable todo sticky note for DeepSeek Harness: short-term tasks, a long-term plan with real phase progress, and three todo_note_* tools so the agent and you share the same note. | ✅ 活跃 |
 | [dsh-token-plan-quota](resources/dsh-token-plan-quota.md) | ⭐1 | 跟随当前模型供应商的额度徽标：DeepSeek、千问 Token Plan、阿里云费用中心取官方真值，Moonshot / OpenRouter 已接官方端点但字段未用真 Key 核对；其余只报本实例实测。不折算 Credits、不估算余量。 | ✅ 活跃 |
 | [dsh-tool-workflow-plus](resources/dsh-tool-workflow-plus.md) | ⭐1 | Drop-in enhanced fork of the official @deepseek-ai/dsh-tool-workflow: persisted saved-workflow library (workflow_save/list/get/delete/run_saved) over ctx.storageDomain. 官方 workflow 工具增强版：saved workflow 持久库 | ✅ 活跃 |
@@ -486,6 +487,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-workflow-orchestrator](resources/dsh-workflow-orchestrator.md) | ⭐1 | Visual workflow orchestrator for DeepSeek Harness (DSH): drag task nodes onto a canvas, wire them into sequential, parallel or gateway-joined graphs, then run. Each node spawns a real DSH task session in its workspace; judge and terminate nodes can end a run early. Live run log, auto-save, zero runtime dependencies. | ✅ 活跃 |
 | [dsh-workflow-plugin](resources/dsh-workflow-plugin.md) | ⭐1 | Configurable serial agent-team workflows for DeepSeek Harness, with Manager coordination, role actors, independent judging, and a visual editor. | ✅ 活跃 |
 | [dsh-workflow-timeline](resources/dsh-workflow-timeline.md) | ⭐1 | ZCode 风格的工作流时间线面板：横向/纵向响应式、表情状态机小脸、阶段级模型/并发配置、右栏子代理对话、历史持久化。 | ✅ 活跃 |
+| [dsh-workflow-zcode](resources/dsh-workflow-zcode.md) | ⭐1 | Run ZCode .dwf.ts dynamic workflows in DeepSeek Harness: persistent subagents, sandboxed execution, SQLite run journal, and a ZCode-style sidebar panel. | ✅ 活跃 |
 | [dsh-worktable-notebook-to-ppt](resources/dsh-worktable-notebook-to-ppt.md) | ⭐1 | 基于 dsh-worktable 工作台搭建的「课本到 PPT」自动化工作流插件——在 DeepSeek Harness 中一键将 Jupyter Notebook 转化为专业可编辑的演示文稿（.pptx），让知识沉淀与分享更高效。 | ✅ 活跃 |
 | [dsh-wsl-power](resources/dsh-wsl-power.md) | ⭐1 | Windows power state from WSL: active power plan, battery status and sleep settings. | ✅ 活跃 |
 | [dsh-wsl-terraform](resources/dsh-wsl-terraform.md) | ⭐1 | Terraform/OpenTofu plan summary + state list (never apply). | ✅ 活跃 |

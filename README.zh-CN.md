@@ -6777,7 +6777,7 @@ dsh web
 - [dsh-claude-delegate](https://github.com/project-hy/dsh-claude-delegate) ⭐1 — DSH 插件：把自包含的编码子任务委派给本机 Claude Code（官方 Agent SDK），后台作业 + 实时输出通道 + 监控面板 + 运行时技能；npm: dsh-claude-delegate（✅ 活跃）
 - [dsh-claude-plugin](https://github.com/snowan/dsh-claude-plugin) ⭐1 — From-scratch DeepSeek Harness adapter for Claude Code（✅ 活跃）
 - [dsh-claude-plugin-loader](https://github.com/patrick1099/dsh-claude-plugin-loader) ⭐1 — dsh 运行时装载器的最小原型：让 dsh 直接发现并加载 Claude 式组合体插件（目录含 .claude-plugin/plugin.json）。（✅ 活跃）
-- [dsh-claude-project-ui](https://github.com/lanechenhku/dsh-claude-project-ui) ⭐1 — 把 Claude Code 的项目 + 讨论串体验搬进 DSH：强化主对话与讨论串的分工（主对话当 lead 主动派活、回报自动汇总成看板），最多 6 个讨论串并发，上下文自动接续，体验接近 Claude（Opus 5.5 一代）的项目功能。基于 @kyf-eng/dsh-threads。 ｜ Claude-style Projects + Threads for DeepSeek Harness: sharper lead/thread split (auto-delegate, auto-rollup), up to 6 threads, carried context — close to Claude (Opus 5.5 era), on @kyf-eng/dsh-threads（✅ 活跃）
+- [dsh-claude-project-ui](https://github.com/lanechenhku/dsh-claude-project-ui) ⭐1 — 给 DeepSeek Harness 的 Claude 风格项目界面（基于 dsh-threads）：项目看板把每个项目、进行中的讨论串与任务汇总成一屏；每个项目可再挂多个辅助文件夹（走系统原生选择器）；面板中英双语、设置就在面板里；讨论串回报自动汇总成任务。（✅ 活跃）
 - [dsh-claude-theme](https://github.com/RunhuaChen/dsh-claude-theme) ⭐1 — Claude 风格主题插件 for DeepSeek Harness：暖纸质底色、赤陶强调色、Anthropic 字体、界面字号跟随正文设置缩放（✅ 活跃）
 - [dsh-claudelike-ui](https://github.com/miorin-chan/dsh-claudelike-ui) ⭐1 — A non-destructive claude.ai-inspired visual skin for DeepSeek Harness（✅ 活跃）
 - [dsh-claw-suite](https://github.com/xingyingyuzhui/dsh-claw-suite) ⭐1 — Claw Agent governance suite for DeepSeek Harness. 人设、权限、闸、委派、记忆。（✅ 活跃）
@@ -26044,7 +26044,7 @@ awesome-deepseek-harness/
 - [dsh-claude-delegate](https://github.com/project-hy/dsh-claude-delegate) ⭐1 — DSH 插件：把自包含的编码子任务委派给本机 Claude Code（官方 Agent SDK），后台作业 + 实时输出通道 + 监控面板 + 运行时技能；npm: dsh-claude-delegate（✅ 活跃）
 - [dsh-claude-plugin](https://github.com/snowan/dsh-claude-plugin) ⭐1 — From-scratch DeepSeek Harness adapter for Claude Code（✅ 活跃）
 - [dsh-claude-plugin-loader](https://github.com/patrick1099/dsh-claude-plugin-loader) ⭐1 — dsh 运行时装载器的最小原型：让 dsh 直接发现并加载 Claude 式组合体插件（目录含 .claude-plugin/plugin.json）。（✅ 活跃）
-- [dsh-claude-project-ui](https://github.com/lanechenhku/dsh-claude-project-ui) ⭐1 — 把 Claude Code 的项目 + 讨论串体验搬进 DSH：强化主对话与讨论串的分工（主对话当 lead 主动派活、回报自动汇总成看板），最多 6 个讨论串并发，上下文自动接续，体验接近 Claude（Opus 5.5 一代）的项目功能。基于 @kyf-eng/dsh-threads。 ｜ Claude-style Projects + Threads for DeepSeek Harness: sharper lead/thread split (auto-delegate, auto-rollup), up to 6 threads, carried context — close to Claude (Opus 5.5 era), on @kyf-eng/dsh-threads（✅ 活跃）
+- [dsh-claude-project-ui](https://github.com/lanechenhku/dsh-claude-project-ui) ⭐1 — 给 DeepSeek Harness 的 Claude 风格项目界面（基于 dsh-threads）：项目看板把每个项目、进行中的讨论串与任务汇总成一屏；每个项目可再挂多个辅助文件夹（走系统原生选择器）；面板中英双语、设置就在面板里；讨论串回报自动汇总成任务。（✅ 活跃）
 - [dsh-claude-theme](https://github.com/RunhuaChen/dsh-claude-theme) ⭐1 — Claude 风格主题插件 for DeepSeek Harness：暖纸质底色、赤陶强调色、Anthropic 字体、界面字号跟随正文设置缩放（✅ 活跃）
 - [dsh-claudelike-ui](https://github.com/miorin-chan/dsh-claudelike-ui) ⭐1 — A non-destructive claude.ai-inspired visual skin for DeepSeek Harness（✅ 活跃）
 - [dsh-claw-suite](https://github.com/xingyingyuzhui/dsh-claw-suite) ⭐1 — Claw Agent governance suite for DeepSeek Harness. 人设、权限、闸、委派、记忆。（✅ 活跃）

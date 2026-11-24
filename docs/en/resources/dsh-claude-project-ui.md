@@ -1,7 +1,7 @@
 ---
 title: "dsh-claude-project-ui"
-description: "把 Claude Code 的项目 + 讨论串体验搬进 DSH：强化主对话与讨论串的分工（主对话当 lead 主动派活、回报自动汇总成看板），最多 6 个讨论串并发，上下文自动接续，体验接近 Claude（Opus 5.5 一代）的项目功能。基于 @kyf-eng/dsh-threads。 ｜ Claude-style Projects + Threads for DeepSeek Harness: sharper lead/thread split (auto-delegate, auto-rollup), up to 6 threads, carried context — close to Claude (Opus 5.5 era), on @kyf-eng/dsh-threads"
-keywords: "dsh-claude-project-ui, memory, plugin, coding, context, deepseek harness, dsh"
+description: "Claude-style project UI for DeepSeek Harness on top of dsh-threads: a project board over threads and tasks, extra folders mounted per project with the native folder chooser, a bilingual zh/en panel with in-app settings, and thread reports rolled into tasks."
+keywords: "dsh-claude-project-ui, ui, plugin, context, files, deepseek harness, dsh"
 ---
 # dsh-claude-project-ui
 
@@ -9,17 +9,17 @@ keywords: "dsh-claude-project-ui, memory, plugin, coding, context, deepseek harn
 
 | | | | |
 |---|---|---|---|
-| Type | plugin | Category | Memory & context |
+| Type | plugin | Category | UI & experience |
 | Stars | ⭐ 1 | Status | ✅ active |
 | Author | [lanechenhku](https://github.com/lanechenhku) | Updated | — |
 
 ## One-liner
 
-> 把 Claude Code 的项目 + 讨论串体验搬进 DSH：强化主对话与讨论串的分工（主对话当 lead 主动派活、回报自动汇总成看板），最多 6 个讨论串并发，上下文自动接续，体验接近 Claude（Opus 5.5 一代）的项目功能。基于 @kyf-eng/dsh-threads。 ｜ Claude-style Projects + Threads for DeepSeek Harness: sharper lead/thread split (auto-delegate, auto-rollup), up to 6 threads, carried context — close to Claude (Opus 5.5 era), on @kyf-eng/dsh-threads
+> Claude-style project UI for DeepSeek Harness on top of dsh-threads: a project board over threads and tasks, extra folders mounted per project with the native folder chooser, a bilingual zh/en panel with in-app settings, and thread reports rolled into tasks.
 
 ## About
 
-把 Claude Code 的项目 + 讨论串体验搬进 DSH：强化主对话与讨论串的分工（主对话当 lead 主动派活、回报自动汇总成看板），最多 6 个讨论串并发，上下文自动接续，体验接近 Claude（Opus 5.5 一代）的项目功能。基于 @kyf-eng/dsh-threads。 ｜ Claude-style Projects + Threads for DeepSeek Harness: sharper lead/thread split (auto-delegate, auto-rollup), up to 6 threads, carried context — close to Claude (Opus 5.5 era), on @kyf-eng/dsh-threads
+Claude-style project UI for DeepSeek Harness on top of dsh-threads: a project board over threads and tasks, extra folders mounted per project with the native folder chooser, a bilingual zh/en panel with in-app settings, and thread reports rolled into tasks.
 
 ## 🔗 Links
 

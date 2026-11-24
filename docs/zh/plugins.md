@@ -8969,9 +8969,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ 活跃 |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。 | ✅ 活跃 |
 
-**界面与体验（1697）**
+**界面与体验（1698）**
 
-*其他（1408）*
+*其他（1409）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -9674,6 +9674,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-check-pack](resources/dsh-check-pack.md) | ⭐1 | One-command installer for the 53-checker PerryLink compliance suite for DeepSeek Harness. | ✅ 活跃 |
 | [dsh-chinese-mode-modern](resources/dsh-chinese-mode-modern.md) | ⭐1 | Chinese mode for DeepSeek Harness: a composer toggle that opens a panel for reply / reasoning / tool-narration language. | ✅ 活跃 |
 | [dsh-cho-kaguya-plugin-public](resources/dsh-cho-kaguya-plugin-public.md) | ⭐1 | DSH皮肤插件、有超时空辉夜姬概念元素 | ✅ 活跃 |
+| [dsh-claude-project-ui](resources/dsh-claude-project-ui.md) | ⭐1 | 给 DeepSeek Harness 的 Claude 风格项目界面（基于 dsh-threads）：项目看板把每个项目、进行中的讨论串与任务汇总成一屏；每个项目可再挂多个辅助文件夹（走系统原生选择器）；面板中英双语、设置就在面板里；讨论串回报自动汇总成任务。 | ✅ 活跃 |
 | [dsh-claude-theme](resources/dsh-claude-theme-2.md) | ⭐1 | Claude 风格主题插件 for DeepSeek Harness：暖纸质底色、赤陶强调色、Anthropic 字体、界面字号跟随正文设置缩放 | ✅ 活跃 |
 | [dsh-claudelike-ui](resources/dsh-claudelike-ui.md) | ⭐1 | A non-destructive claude.ai-inspired visual skin for DeepSeek Harness | ✅ 活跃 |
 | [dsh-client-ui-dracula](resources/dsh-client-ui-dracula.md) | ⭐1 | 把 VS Code 的 Dracula（吸血鬼）配色搬到 DeepSeek Harness 的网页界面，顺带做了一组程序员向的排版调优。深色模式专用，随时可整页还原。 | ✅ 活跃 |
@@ -10701,9 +10702,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-computer-use-windows](resources/dsh-computer-use-windows-1.md) | ⭐1 | Windows Computer Use tools for DeepSeek Harness: self-contained UIA native helper, occlusion-aware screenshots, safety-gated input | ✅ 活跃 |
 | [dsh-llm-kimi](resources/dsh-llm-kimi.md) | ⭐1 | Kimi (Moonshot AI) LLM adapter plugin for DeepSeek Harness — three routes: kimi-code (Kimi Code subscription), kimi-cn, kimi-global. Streaming, thinking mode, tool calling, image input, plus a built-in Kimi settings page. | ✅ 活跃 |
 
-**记忆与上下文（1171）**
+**记忆与上下文（1170）**
 
-*其他（932）*
+*其他（931）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -11168,7 +11169,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-chatbox-compat](resources/dsh-chatbox-compat.md) | ⭐1 | Chatbox-style UX for DeepSeek Harness - visible memory, mode toggles, handoff compression. | ✅ 活跃 |
 | [dsh-cherry-kb](resources/dsh-cherry-kb.md) | ⭐1 | Knowledge-base and memory switch for dsh web — two composer controls and two settings pages, backed by 22 /dsh/kb/* routes. Requires the local 我的知识库 toolchain (记忆开关 / idx / cherry). | ✅ 活跃 |
 | [dsh-cipher](resources/dsh-cipher.md) | ⭐1 | 把 cipher 的持续思考/三中台/四类记忆以 UNNI/LOOP 会话模式接入 DSH（dsh-plugin bundle） | ✅ 活跃 |
-| [dsh-claude-project-ui](resources/dsh-claude-project-ui.md) | ⭐1 | 把 Claude Code 的项目 + 讨论串体验搬进 DSH：强化主对话与讨论串的分工（主对话当 lead 主动派活、回报自动汇总成看板），最多 6 个讨论串并发，上下文自动接续，体验接近 Claude（Opus 5.5 一代）的项目功能。基于 @kyf-eng/dsh-threads。 ｜ Claude-style Projects + Threads for DeepSeek Harness: sharper lead/thread split (auto-delegate, auto-rollup), up to 6 threads, carried context — close to Claude (Opus 5.5 era), on @kyf-eng/dsh-threads | ✅ 活跃 |
 | [dsh-clear-tool-results](resources/dsh-clear-tool-results.md) | ⭐1 | 在工具结果进入上下文之前做准入过滤。超过阈值的纯文本结果全文落盘到会话目录，模型只收到「收据 + 有界预览 + 绝对路径」；需要原文时 read 归档路径（分页）或 grep 检索取回，也可用插件提供的 read_tool_result_log 按轮/步/时间取回。 | ✅ 活跃 |
 | [dsh-clock-context](resources/dsh-clock-context.md) | ⭐1 | Give your DSH agent a clock: injects the current date and time into the runtime context on every turn, so the agent can read the time instead of inferring it. | ✅ 活跃 |
 | [dsh-codex-context](resources/dsh-codex-context.md) | ⭐1 | Codex-style windowed context management with live notes and cold history search for DeepSeek Harness | ✅ 活跃 |

@@ -8969,9 +8969,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ active |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**UI & experience (1697)**
+**UI & experience (1698)**
 
-*Other (1408)*
+*Other (1409)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -9674,6 +9674,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-check-pack](resources/dsh-check-pack.md) | ⭐1 | One-command installer for the 53-checker PerryLink compliance suite for DeepSeek Harness. | ✅ active |
 | [dsh-chinese-mode-modern](resources/dsh-chinese-mode-modern.md) | ⭐1 | Chinese mode for DeepSeek Harness: a composer toggle that opens a panel for reply / reasoning / tool-narration language. | ✅ active |
 | [dsh-cho-kaguya-plugin-public](resources/dsh-cho-kaguya-plugin-public.md) | ⭐1 | DSH皮肤插件、有超时空辉夜姬概念元素 | ✅ active |
+| [dsh-claude-project-ui](resources/dsh-claude-project-ui.md) | ⭐1 | Claude-style project UI for DeepSeek Harness on top of dsh-threads: a project board over threads and tasks, extra folders mounted per project with the native folder chooser, a bilingual zh/en panel with in-app settings, and thread reports rolled into tasks. | ✅ active |
 | [dsh-claude-theme](resources/dsh-claude-theme-2.md) | ⭐1 | Claude 风格主题插件 for DeepSeek Harness：暖纸质底色、赤陶强调色、Anthropic 字体、界面字号跟随正文设置缩放 | ✅ active |
 | [dsh-claudelike-ui](resources/dsh-claudelike-ui.md) | ⭐1 | A non-destructive claude.ai-inspired visual skin for DeepSeek Harness | ✅ active |
 | [dsh-client-ui-dracula](resources/dsh-client-ui-dracula.md) | ⭐1 | 把 VS Code 的 Dracula（吸血鬼）配色搬到 DeepSeek Harness 的网页界面，顺带做了一组程序员向的排版调优。深色模式专用，随时可整页还原。 | ✅ active |
@@ -10701,9 +10702,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-computer-use-windows](resources/dsh-computer-use-windows-1.md) | ⭐1 | Windows Computer Use tools for DeepSeek Harness: self-contained UIA native helper, occlusion-aware screenshots, safety-gated input | ✅ active |
 | [dsh-llm-kimi](resources/dsh-llm-kimi.md) | ⭐1 | Kimi (Moonshot AI) LLM adapter plugin for DeepSeek Harness — three routes: kimi-code (Kimi Code subscription), kimi-cn, kimi-global. Streaming, thinking mode, tool calling, image input, plus a built-in Kimi settings page. | ✅ active |
 
-**Memory & context (1171)**
+**Memory & context (1170)**
 
-*Other (932)*
+*Other (931)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -11168,7 +11169,6 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-chatbox-compat](resources/dsh-chatbox-compat.md) | ⭐1 | Chatbox-style UX for DeepSeek Harness - visible memory, mode toggles, handoff compression. | ✅ active |
 | [dsh-cherry-kb](resources/dsh-cherry-kb.md) | ⭐1 | Knowledge-base and memory switch for dsh web — two composer controls and two settings pages, backed by 22 /dsh/kb/* routes. Requires the local 我的知识库 toolchain (记忆开关 / idx / cherry). | ✅ active |
 | [dsh-cipher](resources/dsh-cipher.md) | ⭐1 | 把 cipher 的持续思考/三中台/四类记忆以 UNNI/LOOP 会话模式接入 DSH（dsh-plugin bundle） | ✅ active |
-| [dsh-claude-project-ui](resources/dsh-claude-project-ui.md) | ⭐1 | 把 Claude Code 的项目 + 讨论串体验搬进 DSH：强化主对话与讨论串的分工（主对话当 lead 主动派活、回报自动汇总成看板），最多 6 个讨论串并发，上下文自动接续，体验接近 Claude（Opus 5.5 一代）的项目功能。基于 @kyf-eng/dsh-threads。 ｜ Claude-style Projects + Threads for DeepSeek Harness: sharper lead/thread split (auto-delegate, auto-rollup), up to 6 threads, carried context — close to Claude (Opus 5.5 era), on @kyf-eng/dsh-threads | ✅ active |
 | [dsh-clear-tool-results](resources/dsh-clear-tool-results.md) | ⭐1 | 在工具结果进入上下文之前做准入过滤。超过阈值的纯文本结果全文落盘到会话目录，模型只收到「收据 + 有界预览 + 绝对路径」；需要原文时 read 归档路径（分页）或 grep 检索取回，也可用插件提供的 read_tool_result_log 按轮/步/时间取回。 | ✅ active |
 | [dsh-clock-context](resources/dsh-clock-context.md) | ⭐1 | Give your DSH agent a clock: injects the current date and time into the runtime context on every turn, so the agent can read the time instead of inferring it. | ✅ active |
 | [dsh-codex-context](resources/dsh-codex-context.md) | ⭐1 | Codex-style windowed context management with live notes and cold history search for DeepSeek Harness | ✅ active |

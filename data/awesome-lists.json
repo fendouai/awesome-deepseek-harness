@@ -5910,6 +5910,23 @@
     "license": "AGPL-3.0"
   },
   {
+    "id": "dsh-context-manager-1",
+    "name": "dsh-context-manager",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/xian-yu-zhao/dsh-context-manager",
+    "description": "Manage a DSH session's model context: delete single messages or whole conversation turns (roll back to the start of a turn), and restore them later, without touching the raw session log.",
+    "description_zh": "Manage a DSH session's model context: delete single messages or whole conversation turns (roll back to the start of a turn), and restore them later, without touching the raw session log.",
+    "capabilities": [
+      "coding",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-agent-security",
     "name": "awesome-agent-security",
     "type": "awesome-list",
@@ -10535,6 +10552,55 @@
     "capabilities": [
       "coding",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-minato-legacy",
+    "name": "dsh-minato-legacy",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/sakanamaru/dsh-minato-legacy",
+    "description": "dsh-minato — 社区版本机部署运维套件 for DeepSeek Harness (dsh): install / start / monitor, backup & restore, diagnose and quarantine broken plugins (unofficial) · 安装 / 启动监控 / 备份恢复 / 插件诊断与隔离",
+    "description_zh": "dsh-minato — 社区版本机部署运维套件 for DeepSeek Harness (dsh): install / start / monitor, backup & restore, diagnose and quarantine broken plugins (unofficial) · 安装 / 启动监控 / 备份恢复 / 插件诊断与隔离",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-file-fix-1",
+    "name": "dsh-file-fix",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/MaoZhiqin/dsh-file-fix",
+    "description": "DeepSeek Harness plugin: unified file import - byte-level upload store, file-list context injection, read_attachment/place_attachment tools, historical file bubbles",
+    "description_zh": "DeepSeek Harness plugin: unified file import - byte-level upload store, file-list context injection, read_attachment/place_attachment tools, historical file bubbles",
+    "capabilities": [
+      "coding",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-vyra-plugins",
+    "name": "dsh-vyra-plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/lanxiake/dsh-vyra-plugins",
+    "description": "DeepSeek Harness plugin and skill market maintained alongside the dsh-Veyra fork.",
+    "description_zh": "DeepSeek Harness plugin and skill market maintained alongside the dsh-Veyra fork.",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

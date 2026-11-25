@@ -17666,6 +17666,205 @@
     "stars": 1
   },
   {
+    "id": "dsh-github-panel",
+    "name": "dsh-github-panel",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/gpta76/dsh-github-panel",
+    "description": "GitHub console for DeepSeek Harness: token-only sign-in, issues/PRs/commits, stars, cloning with auto-sync and skills.",
+    "description_zh": "GitHub console for DeepSeek Harness: token-only sign-in, issues/PRs/commits, stars, cloning with auto-sync and skills.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-suite",
+    "name": "dsh-task-suite",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/qiqll/dsh-task-suite",
+    "description": "把 Agent 从“助理”变成一支工程团队。",
+    "description_zh": "把 Agent 从“助理”变成一支工程团队。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "task-workbench",
+    "name": "task-workbench",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Zevin-Labs/task-workbench",
+    "description": "DeepSeek Harness 本机任务工作台：任务、想法池与日/周/月复盘。数据只留在本地 SQLite，AI 帮整理，人来确认。",
+    "description_zh": "DeepSeek Harness 本机任务工作台：任务、想法池与日/周/月复盘。数据只留在本地 SQLite，AI 帮整理，人来确认。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-news-skill",
+    "name": "dsh-news-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/zz19940402/dsh-news-skill",
+    "description": "DSH news skill with four categories",
+    "description_zh": "DSH news skill with four categories",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-skill-forge",
+    "name": "DSH-SKILL-FORGE",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/lwh-chinese/DSH-SKILL-FORGE",
+    "description": "A DSH plugin with a left-sidebar panel to manage installed skills, a make-skill preset and GitHub skill search.",
+    "description_zh": "A DSH plugin with a left-sidebar panel to manage installed skills, a make-skill preset and GitHub skill search.",
+    "capabilities": [
+      "coding",
+      "git",
+      "search",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "why-gzh-writer",
+    "name": "why-gzh-writer",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/why3316-g/why-gzh-writer",
+    "description": "公众号/自媒体中文写作 + 去 AI 味与信息增量质检。DeepSeek Harness 插件，同一份 SKILL.md 也能在 Claude Code 和 Codex 里用。",
+    "description_zh": "公众号/自媒体中文写作 + 去 AI 味与信息增量质检。DeepSeek Harness 插件，同一份 SKILL.md 也能在 Claude Code 和 Codex 里用。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugins-reload",
+    "name": "dsh-plugins-reload",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/yuwang/dsh-plugins-reload",
+    "description": "One-click reload for DeepSeek Harness plugins. Changed code and config take effect without restarting the app or interrupting running tasks. DeepSeek Harness 插件的一键重载。改完代码和配置点一下就生效，不重启应用，也不打断正在运行的任务。",
+    "description_zh": "One-click reload for DeepSeek Harness plugins. Changed code and config take effect without restarting the app or interrupting running tasks. DeepSeek Harness 插件的一键重载。改完代码和配置点一下就生效，不重启应用，也不打断正在运行的任务。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "ability-router",
+    "name": "ability-router",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/suishou0325/ability-router",
+    "description": "DeepSeek Harness 三合一能力路由插件：技能 / 内置工具 / 本机 exe 一个入口按需路由，技能目录常驻开销砍掉 70% | Three-in-one ability router for DeepSeek Harness: skills / built-in tools / local executables, cutting the always-loaded skill catalog by 70%",
+    "description_zh": "DeepSeek Harness 三合一能力路由插件：技能 / 内置工具 / 本机 exe 一个入口按需路由，技能目录常驻开销砍掉 70% | Three-in-one ability router for DeepSeek Harness: skills / built-in tools / local executables, cutting the always-loaded skill catalog by 70%",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-explorer-card",
+    "name": "dsh-skill-explorer-card",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/flin7194-creator/dsh-skill-explorer-card",
+    "description": "DeepSeek Harness 技能中心卡片化增强版，提供简洁美观的 SKILL 可视化管理界面。",
+    "description_zh": "DeepSeek Harness 技能中心卡片化增强版，提供简洁美观的 SKILL 可视化管理界面。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "dsh-prompt-hone",
+    "name": "dsh-prompt-hone",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Miles22ui/dsh-prompt-hone",
+    "description": "A DeepSeek Harness plugin: click ✨ to rewrite the composer draft into a clearer, executable prompt — in place, with undo. Ships a portable SKILL.md for other agents.",
+    "description_zh": "A DeepSeek Harness plugin: click ✨ to rewrite the composer draft into a clearer, executable prompt — in place, with undo. Ships a portable SKILL.md for other agents.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "classics-guide",
+    "name": "classics-guide",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Jason-KK-kk/classics-guide",
+    "description": "儒释道经典导读 Agent Skill：三十次课表、圣贤对谈、内置全本原文库",
+    "description_zh": "儒释道经典导读 Agent Skill：三十次课表、圣贤对谈、内置全本原文库",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-invest-skill",
+    "name": "dsh-invest-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/chenxyzcyxpp/dsh-invest-skill",
+    "description": "一位会用工具、会自己查证据的 A 股投研分析师。你不用记技能名，像问同事一样提问——",
+    "description_zh": "一位会用工具、会自己查证据的 A 股投研分析师。你不用记技能名，像问同事一样提问——",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "dsh-cmp-skill-index",
     "name": "dsh-cmp-skill-index",
     "type": "skill",

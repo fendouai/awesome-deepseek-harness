@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "DeepSeek Harness (dsh) 精选 agents & multi-agent：🔥 Top 10 与完整列表（409 条）。"
+description: "DeepSeek Harness (dsh) 精选 agents & multi-agent：🔥 Top 10 与完整列表（411 条）。"
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [consensus-pipeline](resources/consensus-pipeline.md) | ⭐124 | Multi-agent department framework for long-form complex tasks, fighting AI hallucination, validated on academic research. 共识管线：多智能体部门长线任务解决框架，对抗AI幻觉，以学术研究为验证场景。 | ✅ 活跃 |
 | 10 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ 活跃 |
 
-## 完整列表（409）
+## 完整列表（411）
 
 
-**多智能体（406）**
+**多智能体（408）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -69,6 +69,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-cybernetics](resources/dsh-cybernetics.md) | ⭐12 | A DSH plugin that explicitly designs LLM agent orchestration as a control loop | ✅ 活跃 |
 | [dsh-hud](resources/dsh-hud-2.md) | ⭐12 | Codex/Claude Code-style live session telemetry for DeepSeek Harness — model, context, tokens, timing, jobs, and subagents at a glance. | ✅ 活跃 |
 | [dsh-plugin-yet-another-subagent](resources/dsh-plugin-yet-another-subagent.md) | ⭐12 | 可配置子代理 profile 系统：单一 subagent 工具 + profile 参数，含 Web UI 设置与实时进度。 | ✅ 活跃 |
+| [dudu](resources/dudu.md) | ⭐12 | An efficient multi-agent collaboration assistant built on DSH | ✅ 活跃 |
 | [holdem](resources/holdem.md) | ⭐12 | Embeddable NLHE engine for Cursor / DeepSeek Harness / Codex / CLI — portable ADL + multi-agent kernel | ✅ 活跃 |
 | [dsh-moren-unlimited](resources/dsh-moren-unlimited.md) | ⭐10 | Moren unrestricted LiangShen mode for DSH: purge unrestricted + unrestricted subagents + LiangShen, wallpaper, media, codec, token guard and rollback. | ✅ 活跃 |
 | [dsh-sidechain](resources/dsh-sidechain.md) | ⭐10 | 侧会话：/side 持续性侧会话（Codex 风格）与 /btw 一次性侧问（Claude 风格），临时 fork 中运行。 | ✅ 活跃 |
@@ -354,6 +355,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-roles-zeta](resources/dsh-roles-zeta.md) | ⭐1 | Role-based subagent delegation for DeepSeek Harness: one delegate tool over a folder of role files | ✅ 活跃 |
 | [dsh-routed-subagent](resources/dsh-routed-subagent-1.md) | ⭐1 | Complexity-routed subagent delegation for DeepSeek Harness: the model picks the runtime tier per task. | ✅ 活跃 |
 | [dsh-routerai-usage](resources/dsh-routerai-usage.md) | ⭐1 | RouterAI balance and per-request cost for the DeepSeek Harness Web UI (subagents included) | ✅ 活跃 |
+| [dsh-rp-studio](resources/dsh-rp-studio.md) | ⭐1 | 角色扮演后台 · Roleplay console for DeepSeek Harness：角色卡 / 世界书 / 图库 / 权限设置，人格全局注入 | ✅ 活跃 |
 | [dsh-runtime-observability](resources/dsh-runtime-observability.md) | ⭐1 | DeepSeek Harness 运行时可观测性插件。基于 OpenTelemetry 采集事件循环、内存、CPU、工作负载与子代理生命周期指标；支持断路器、ELU 降级联动及可选 Pyroscope 连续 Profiling。 Runtime metrics, continuous profiling & telemetry resilience plugin for DSH. Collects event loop, memory, CPU, workload & subagent lifecycle metrics; circuit breaker, ELU gating, optional Pyroscope profiling. | ✅ 活跃 |
 | [dsh-science-skill](resources/dsh-science-skill.md) | ⭐1 | 科研技能中心 for DeepSeek Harness：技能目录、分类、按会话启用门控，以及用户可调用的 /command 技能栏。 | ✅ 活跃 |
 | [dsh-session-archaeology](resources/dsh-session-archaeology.md) | ⭐1 | 一个 DeepSeek Harness（DSH）插件：手动选中一段历史会话，离线蒸馏出可复用的 Skill。 | ✅ 活跃 |

@@ -687,6 +687,24 @@
     "license": "MIT"
   },
   {
+    "id": "dudu",
+    "name": "dudu",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/weiwenhao/dudu",
+    "description": "An efficient multi-agent collaboration assistant built on DSH",
+    "description_zh": "An efficient multi-agent collaboration assistant built on DSH",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 12,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-sidechain",
     "name": "dsh-sidechain",
     "type": "agent",
@@ -7351,6 +7369,22 @@
       "coding",
       "memory",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-rp-studio",
+    "name": "dsh-rp-studio",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/gaozhenkun92-eng/dsh-rp-studio",
+    "description": "角色扮演后台 · Roleplay console for DeepSeek Harness：角色卡 / 世界书 / 图库 / 权限设置，人格全局注入",
+    "description_zh": "角色扮演后台 · Roleplay console for DeepSeek Harness：角色卡 / 世界书 / 图库 / 权限设置，人格全局注入",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

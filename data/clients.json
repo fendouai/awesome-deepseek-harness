@@ -17061,6 +17061,38 @@
     "stars": 2
   },
   {
+    "id": "jing-chan-os",
+    "name": "jing-chan-os",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/easychen/jing-chan-os",
+    "description": "🐋 小鲸同学 (JingChanOS) — DeepSeek Harness (DSH) AI 伴侣与随身虚拟手机插件 (dsh-plugin-jphone)：Q版桌宠、免提语音电话、小鲸专注、Panime动态壁纸、AI日记、去中心化创意工坊与Android远控 | AI Companion & Virtual Phone for DeepSeek Harness",
+    "description_zh": "🐋 小鲸同学 (JingChanOS) — DeepSeek Harness (DSH) AI 伴侣与随身虚拟手机插件 (dsh-plugin-jphone)：Q版桌宠、免提语音电话、小鲸专注、Panime动态壁纸、AI日记、去中心化创意工坊与Android远控 | AI Companion & Virtual Phone for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2
+  },
+  {
+    "id": "dsh-restart-asar",
+    "name": "dsh-restart-asar",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Cirl3cat/dsh-restart-asar",
+    "description": "DSH 桌面端（Windows）重启插件：在「应用」菜单「退出」上方与系统托盘「打开/退出」之间增加重启项，等价于完全退出后冷启动，文案跟随应用语言。 | Adds a Restart entry to the DeepSeek Harness Windows desktop app menu and system tray; a real cold restart, labels follow the app language, reversible byte-length-preserving app.asar patch.",
+    "description_zh": "DSH 桌面端（Windows）重启插件：在「应用」菜单「退出」上方与系统托盘「打开/退出」之间增加重启项，等价于完全退出后冷启动，文案跟随应用语言。 | Adds a Restart entry to the DeepSeek Harness Windows desktop app menu and system tray; a real cold restart, labels follow the app language, reversible byte-length-preserving app.asar patch.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-desktop-app",
     "name": "dsh-desktop",
     "type": "client",
@@ -30569,6 +30601,193 @@
     "description_zh": "DSH 的 Windows 桌面提醒插件：需要你确认、等待权限、或任务结束时，在屏幕右下角弹一张提醒卡片。",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "myterm",
+    "name": "myterm",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Ssshake1996/myterm",
+    "description": "Remote Ops for DeepSeek Harness: shared SSH/Telnet terminals, SFTP, browser automation, RESTful API environments and Windows desktop operations.",
+    "description_zh": "Remote Ops for DeepSeek Harness: shared SSH/Telnet terminals, SFTP, browser automation, RESTful API environments and Windows desktop operations.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "desktop",
+      "terminal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-xiaoyiwork-connect",
+    "name": "dsh-xiaoyiwork-connect",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/moxiaoren/dsh-xiaoyiwork-connect",
+    "description": "DeepSeek Harness plugin: reuse the signed-in XiaoyiWork desktop app's local model proxy. Windows only.",
+    "description_zh": "DeepSeek Harness plugin: reuse the signed-in XiaoyiWork desktop app's local model proxy. Windows only.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-disk-ops",
+    "name": "dsh-disk-ops",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/aiml-kiki/dsh-disk-ops",
+    "description": "DSH Desktop plugin: treemap disk inspection with linked cleanup suggestions and a reviewed trash plan (macOS).",
+    "description_zh": "DSH Desktop plugin: treemap disk inspection with linked cleanup suggestions and a reviewed trash plan (macOS).",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "kjds",
+    "name": "kjds",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/tiantangcao1980-web/kjds",
+    "description": "把 SeaLeap 两个技能库（602+195 个技能）打包成 DeepSeek Harness 插件，并附一个可复用的跨平台电商运营内核 ops-core",
+    "description_zh": "把 SeaLeap 两个技能库（602+195 个技能）打包成 DeepSeek Harness 插件，并附一个可复用的跨平台电商运营内核 ops-core",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "inkmap",
+    "name": "InkMap",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/zhiyuanvision-lang/InkMap",
+    "description": "Editable Markmap alternative: Two-way Markdown Mind Map & Mermaid Flowchart Editor for VS Code, Cursor, Claude Desktop, Codex & MCP Apps (npx -y inkmap-mcp)",
+    "description_zh": "Editable Markmap alternative: Two-way Markdown Mind Map & Mermaid Flowchart Editor for VS Code, Cursor, Claude Desktop, Codex & MCP Apps (npx -y inkmap-mcp)",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-xiumi-studio",
+    "name": "dsh-xiumi-studio",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/27Synthesis/dsh-xiumi-studio",
+    "description": "把 Word 文稿变成排好版的公众号推文：DSH 插件 + 桌面 exe，成品进秀米「我的图文」",
+    "description_zh": "把 Word 文稿变成排好版的公众号推文：DSH 插件 + 桌面 exe，成品进秀米「我的图文」",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-connect-dumate",
+    "name": "dsh-connect-dumate",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/EricWang1358/dsh-connect-dumate",
+    "description": "百度搭子（DuMate）DeepSeek Harness 模型接入插件：复用桌面端登录态、Loopback OpenAI Shim、独立积分看板、每日签到与实测倍率显示",
+    "description_zh": "百度搭子（DuMate）DeepSeek Harness 模型接入插件：复用桌面端登录态、Loopback OpenAI Shim、独立积分看板、每日签到与实测倍率显示",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-4quadrant-todo",
+    "name": "dsh-4quadrant-todo",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ShenpingDD/dsh-4quadrant-todo",
+    "description": "四象限待办 (4Quadrant Todo) — DeepSeek Harness 桌面端插件：四象限看板、提醒、统计与飞书同步",
+    "description_zh": "四象限待办 (4Quadrant Todo) — DeepSeek Harness 桌面端插件：四象限看板、提醒、统计与飞书同步",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-win-notifier-1",
+    "name": "dsh-win-notifier",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/G-duo/dsh-win-notifier",
+    "description": "DSH plugin · a bottom-right, always-on-top desktop toast for DeepSeek Harness: it alerts you when an approval or question is pending, or when a turn ends. · 待确认、待回答或任务结束时，在屏幕右下角弹出置顶提醒卡片。",
+    "description_zh": "DSH plugin · a bottom-right, always-on-top desktop toast for DeepSeek Harness: it alerts you when an approval or question is pending, or when a turn ends. · 待确认、待回答或任务结束时，在屏幕右下角弹出置顶提醒卡片。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gemini-panel",
+    "name": "dsh-gemini-panel",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/bowin6699/dsh-gemini-panel",
+    "description": "Full-bleed Gemini web panel in the DSH desktop right sidebar, with persistent login and Markdown/JSON conversation export.",
+    "description_zh": "Full-bleed Gemini web panel in the DSH desktop right sidebar, with persistent login and Markdown/JSON conversation export.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-refresh",
+    "name": "dsh-refresh",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/G-TY/dsh-refresh",
+    "description": "Restart, quit and hot-reload the DSH desktop app from two sidebar icons and a conversation-header button.",
+    "description_zh": "Restart, quit and hot-reload the DSH desktop app from two sidebar icons and a conversation-header button.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
     ],
     "status": "active",
     "verified": false,

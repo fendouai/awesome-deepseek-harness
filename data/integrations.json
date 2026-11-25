@@ -1300,6 +1300,23 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "dsh-douyin-scroll-1",
+    "name": "dsh-douyin-scroll",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/NEWJO123/dsh-douyin-scroll",
+    "description": "⚠️ 可见浏览器只在扫码登录时用一次；其余全是无头 Chrome 或纯 HTTP。",
+    "description_zh": "⚠️ 可见浏览器只在扫码登录时用一次；其余全是无头 Chrome 或纯 HTTP。",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 85,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-wsl-workspace-1",
     "name": "dsh-wsl-workspace",
     "type": "integration",
@@ -1640,6 +1657,26 @@
     "description_zh": "微信读书 dsh 插件：书架管理、年度书墙、阅读统计、AI 总结 | DeepSeek Harness plugin for WeChat Reading",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 51,
+    "license": "MIT"
+  },
+  {
+    "id": "agent-memory",
+    "name": "agent-memory",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/yb-zhai/agent-memory",
+    "description": "Zero-dependency, local-first Agent memory system: 4-arm recall + nebula visualization panel + MCP",
+    "description_zh": "Zero-dependency, local-first Agent memory system: 4-arm recall + nebula visualization panel + MCP",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "memory",
+      "multi-agent",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -7047,6 +7084,25 @@
       "coding",
       "mcp",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "MIT"
+  },
+  {
+    "id": "accremind",
+    "name": "AccreMind",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/ninthmonee/AccreMind",
+    "description": "Agent-era KnowledgeOps platform for recalling and compounding development experience through MCP.",
+    "description_zh": "Agent-era KnowledgeOps platform for recalling and compounding development experience through MCP.",
+    "capabilities": [
+      "coding",
+      "context",
+      "mcp",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -15023,6 +15079,23 @@
       "coding",
       "mcp",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "agent-bridge-3",
+    "name": "agent-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/nia-teams/agent-bridge",
+    "description": "Connect external AI coding Agents (Claude Code, Codex, WorkBuddy, Doubao, DSH, Antigravity, Factory Droid) to Nia Teams as two-way group chat participants with signed TaskBar approvals.",
+    "description_zh": "Connect external AI coding Agents (Claude Code, Codex, WorkBuddy, Doubao, DSH, Antigravity, Factory Droid) to Nia Teams as two-way group chat participants with signed TaskBar approvals.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -41435,6 +41508,262 @@
     "verified": false,
     "stars": 1,
     "license": "AGPL-3.0"
+  },
+  {
+    "id": "source-code-mgmt",
+    "name": "source-code-mgmt",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/Zhucy123/source-code-mgmt",
+    "description": "DSH source-control panel that chains environment checks, SSH keys and connections, code management, repo cloning and npm publishing for GitHub and Gitee.",
+    "description_zh": "DSH 源代码管理插件：把环境检查、SSH 密钥与连接、代码管理、克隆仓库与发布 npm 包串成「代码管理」面板，GitHub / Gitee 双平台通用。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-chatgpt-web-1",
+    "name": "dsh-chatgpt-web",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/NishiMihaeru/dsh-chatgpt-web",
+    "description": "Experimental standalone DeepSeek Harness provider that uses an already authenticated ordinary ChatGPT Web session through a local Chrome extension.",
+    "description_zh": "Experimental standalone DeepSeek Harness provider that uses an already authenticated ordinary ChatGPT Web session through a local Chrome extension.",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-mcp-panel-2",
+    "name": "dsh-skill-mcp-panel",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/MaoZhiqin/dsh-skill-mcp-panel",
+    "description": "A Skill list and MCP server manager for DeepSeek Harness, mounted as a sidebar panel and themed entirely from the host's own design tokens.",
+    "description_zh": "A Skill list and MCP server manager for DeepSeek Harness, mounted as a sidebar panel and themed entirely from the host's own design tokens.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "rofilter-mcp",
+    "name": "rofilter-mcp",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/szhuangzan/rofilter-mcp",
+    "description": "MCP integration for ROFilter, a reverse-osmosis membrane system design tool: 742-element library across 8 brands (Veolia, DuPont, Toray, LG, Hydranautics, CSM, Vontron, Ovay), water analysis, scaling assessment, and full multi-stage design.",
+    "description_zh": "MCP integration for ROFilter, a reverse-osmosis membrane system design tool: 742-element library across 8 brands (Veolia, DuPont, Toray, LG, Hydranautics, CSM, Vontron, Ovay), water analysis, scaling assessment, and full multi-stage design.",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-subagent-codebuddy-1",
+    "name": "dsh-subagent-codebuddy",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/lloydzhou/dsh-subagent-codebuddy",
+    "description": "DeepSeek Harness profile bundle: run subagent delegations in the local CodeBuddy CLI (ACP) with a pinned model",
+    "description_zh": "DeepSeek Harness profile bundle: run subagent delegations in the local CodeBuddy CLI (ACP) with a pinned model",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-antigravity-4",
+    "name": "dsh-antigravity",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/Preference-cmd/dsh-antigravity",
+    "description": "Antigravity (agy) subagent backend for DeepSeek Harness: delegate over ACP, with an account and quota panel",
+    "description_zh": "Antigravity (agy) subagent backend for DeepSeek Harness: delegate over ACP, with an account and quota panel",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "officesdk-plugin-dsh",
+    "name": "officesdk-plugin-dsh",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/officesdk/officesdk-plugin-dsh",
+    "description": "OfficeSDK for DeepSeek Harness lets you open, edit, and save Word, Excel, and PowerPoint files alongside your chat.",
+    "description_zh": "OfficeSDK for DeepSeek Harness lets you open, edit, and save Word, Excel, and PowerPoint files alongside your chat.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "tg-bot-security-auditor",
+    "name": "tg-bot-security-auditor",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/KunKun24/tg-bot-security-auditor",
+    "description": "Telegram Bot 只读安全审计 Skill / Read-only security audit skill for Telegram bots",
+    "description_zh": "Telegram Bot 只读安全审计 Skill / Read-only security audit skill for Telegram bots",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-fishball-bundle",
+    "name": "dsh-fishball-bundle",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Arrosam/dsh-fishball-bundle",
+    "description": "Fishball for DeepSeek Harness (DSH) — one-click embedded bundle, standalone guide, and MCP integration docs.",
+    "description_zh": "Fishball for DeepSeek Harness (DSH) — one-click embedded bundle, standalone guide, and MCP integration docs.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-boss-job",
+    "name": "dsh-boss-job",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/gro83j/dsh-boss-job",
+    "description": "用 AI 帮你在 Boss 直聘上快速筛岗位——给已经知道要投什么的人：多轮访谈定偏好 → 复用你本机已登录的 Chrome 采集 → 硬筛 + AI 评分 → 输出可投递清单。",
+    "description_zh": "用 AI 帮你在 Boss 直聘上快速筛岗位——给已经知道要投什么的人：多轮访谈定偏好 → 复用你本机已登录的 Chrome 采集 → 硬筛 + AI 评分 → 输出可投递清单。",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mcp-skill-hub",
+    "name": "dsh-mcp-skill-hub",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/youyouiooi/dsh-mcp-skill-hub",
+    "description": "Manage MCP connections and Agent skills from one sidebar panel in DeepSeek Harness.",
+    "description_zh": "Manage MCP connections and Agent skills from one sidebar panel in DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-mcp-tool-dispatch",
+    "name": "dsh-mcp-tool-dispatch",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Sora-Taiho/dsh-mcp-tool-dispatch",
+    "description": "BM25 search and on-demand loading for MCP tools in DeepSeek Harness.",
+    "description_zh": "BM25 search and on-demand loading for MCP tools in DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-team-janitor",
+    "name": "dsh-team-janitor",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/xian-yu-zhao/dsh-team-janitor",
+    "description": "Team collaboration QoL for DeepSeek Harness: let the agent decide to close subagents it is done with.",
+    "description_zh": "Team collaboration QoL for DeepSeek Harness: let the agent decide to close subagents it is done with.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "codesight",
+    "name": "codesight",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Rex16200513/codesight",
+    "description": "See what your AI changed — before it breaks. Local-first GraphRAG architecture cards (MCP Apps) & macOS HUD for AI coding.",
+    "description_zh": "See what your AI changed — before it breaks. Local-first GraphRAG architecture cards (MCP Apps) & macOS HUD for AI coding.",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-bots-team",
+    "name": "dsh-bots-team",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/BaiGang/dsh-bots-team",
+    "description": "A team of AI bots in the DeepSeek Harness left sidebar: every bot is a real DSH Session with its own folder and persona.",
+    "description_zh": "A team of AI bots in the DeepSeek Harness left sidebar: every bot is a real DSH Session with its own folder and persona.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "dsh-wechat-bridge-2",

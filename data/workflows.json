@@ -11342,6 +11342,126 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-ai-research-workflow",
+    "name": "dsh-ai-research-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/zhuowenzhang288-web/dsh-ai-research-workflow",
+    "description": "DSH 一键安装包：现象驱动科研工作流 skill——先做小实验找规律、再反推 idea。带查新/实验/引用核验/审计 4 个零依赖脚本。主仓见 ai-research-workflow。",
+    "description_zh": "DSH 一键安装包：现象驱动科研工作流 skill——先做小实验找规律、再反推 idea。带查新/实验/引用核验/审计 4 个零依赖脚本。主仓见 ai-research-workflow。",
+    "capabilities": [
+      "coding",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-rd-workflow",
+    "name": "dsh-rd-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/DennisZhangOiler/dsh-rd-workflow",
+    "description": "Non-default Dev Workflow agent preset for DeepSeek Harness",
+    "description_zh": "Non-default Dev Workflow agent preset for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-oh-my-workflow",
+    "name": "dsh-oh-my-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/KianWu/dsh-oh-my-workflow",
+    "description": "dsh-oh-my-workflow 是一个 DeepSeek Harness 代理预设插件。它把「先想清楚、保持简单、只做必要修改、以可验证目标驱动执行」落成一条可执行流水线：需求追问 → 写规格 → 拆工单 → 实现 → 评审 → 验证 → 交接。",
+    "description_zh": "dsh-oh-my-workflow 是一个 DeepSeek Harness 代理预设插件。它把「先想清楚、保持简单、只做必要修改、以可验证目标驱动执行」落成一条可执行流水线：需求追问 → 写规格 → 拆工单 → 实现 → 评审 → 验证 → 交接。",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-automation-dashboard",
+    "name": "dsh-automation-dashboard",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/carloskey/dsh-automation-dashboard",
+    "description": "A standalone sci-fi dashboard for the official automation tasks: task status cards, a top readout bar (fired today, on-time delivery rate, next-run countdown) and a delivery-record timeline. Read only — every value comes from the official schedule service, and the Automation tasks page is left untouched.",
+    "description_zh": "A standalone sci-fi dashboard for the official automation tasks: task status cards, a top readout bar (fired today, on-time delivery rate, next-run countdown) and a delivery-record timeline. Read only — every value comes from the official schedule service, and the Automation tasks page is left untouched.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-flow-3",
+    "name": "dsh-flow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/MeZenith/dsh-flow",
+    "description": "Multi-mode workflow & layered prompt plugin for DeepSeek Harness (DSH) — 支持 Plan / Plan Ultra / Build / Review / Flow 快捷切换、分层提示词管理与默认模型路由。",
+    "description_zh": "Multi-mode workflow & layered prompt plugin for DeepSeek Harness (DSH) — 支持 Plan / Plan Ultra / Build / Review / Flow 快捷切换、分层提示词管理与默认模型路由。",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-plugin-ds-console",
+    "name": "dsh-plugin-ds-console",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Railan1314/dsh-plugin-ds-console",
+    "description": "DSH left sidebar scheduler: tasks, concurrency, free pool, map/texture/balance tools",
+    "description_zh": "DSH left sidebar scheduler: tasks, concurrency, free pool, map/texture/balance tools",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tokenplan-quota",
+    "name": "dsh-tokenplan-quota",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/FriendG3154/dsh-tokenplan-quota",
+    "description": "dsh 千问tokenplan插件",
+    "description_zh": "dsh 千问tokenplan插件",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-better-plan-reviewer",
     "name": "dsh-better-plan-reviewer",
     "type": "workflow",

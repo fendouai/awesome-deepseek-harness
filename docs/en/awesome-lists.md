@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "Top 10 and full list of 586 curated awesome lists & registries for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 590 curated awesome lists & registries for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-deepseek-harness](resources/awesome-deepseek-harness.md) | ⭐966 | Curated guide to DeepSeek Harness (dsh) and its best community plugins | ✅ active |
 | 10 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ active |
 
-## Complete list (586)
+## Complete list (590)
 
 
-**Registries (586)**
+**Registries (590)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -292,6 +292,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-collab](resources/dsh-collab.md) | ⭐2 | Bidirectional coding collaboration between Codex and DeepSeek Harness: Codex leads, DeepSeek writes code, Codex reviews. Includes a local marketplace plugin, an MCP server (stdio + Streamable HTTP), and a host-composition gateway for the harness. | ✅ active |
 | [dsh-conflict-guardian](resources/dsh-conflict-guardian.md) | ⭐2 | Detects DSH plugin conflicts (duplicate mounts, failed/pending plugins, duplicate config row ids) at startup, auto-stops or restores the affected plugins, and shows a conflict report popup in the web UI. DSH 启动时检测插件冲突并自动停用/恢复，弹窗汇报冲突详情。 | ✅ active |
 | [dsh-connect-hub](resources/dsh-connect-hub.md) | ⭐2 | A DeepSeek Harness (DSH) plugin that brings Qoder, WorkBuddy and Trae models into one model picker, sharing a single credential store, cache, scheduler and settings page. | ✅ active |
+| [dsh-context-manager](resources/dsh-context-manager-1.md) | ⭐2 | Manage a DSH session's model context: delete single messages or whole conversation turns (roll back to the start of a turn), and restore them later, without touching the raw session log. | ✅ active |
 | [dsh-dep-audit](resources/dsh-dep-audit.md) | ⭐2 | Dependency supply-chain hygiene audit for DeepSeek Harness (dsh): peer-range resolvability, broken dist-tag detection, stale/missing-license/non-registry deps, installed-vs-declared drift. Complements dsh-poison-guard and dsh-plugin-doctor. | ✅ active |
 | [dsh-dialogue-cleanup](resources/dsh-dialogue-cleanup.md) | ⭐2 | DeepSeek Harness plugin: delete sessions from the running Web runtime — live store, workspace records, and on-disk artifacts. Host half + web client half in one package. | ✅ active |
 | [dsh-dify-marketplace](resources/dsh-dify-marketplace.md) | ⭐2 | DeepSeek Harness plugin: browse, search, and install Dify Marketplace plugins from Settings, with daemon-based .difypkg installs and Cordis child fibers. | ✅ active |
@@ -422,6 +423,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-family-catalog](resources/dsh-family-catalog.md) | ⭐1 | DSH Desktop Market standard catalog source for the PerryLink plugin family: curated summaries, same-origin icons, contract-validated, CI-smoked. | ✅ active |
 | [dsh-fetch-third-party](resources/dsh-fetch-third-party.md) | ⭐1 | Safe third-party web fetch for DSH — delegates page crawling to user-configured services with no direct URL access (no SSRF), API keys in the managed credentials store, per-session budget, and an auto-managed local web scraping service stack. | ✅ active |
 | [dsh-figma-mcp](resources/dsh-figma-mcp-1.md) | ⭐1 | Figma MCP over stdio for DeepSeek Harness and any MCP client: reuses the OAuth credential your host already stored. Zero LLM turns per call. | ✅ active |
+| [dsh-file-fix](resources/dsh-file-fix-1.md) | ⭐1 | DeepSeek Harness plugin: unified file import - byte-level upload store, file-list context injection, read_attachment/place_attachment tools, historical file bubbles | ✅ active |
 | [dsh-file-history](resources/dsh-file-history.md) | ⭐1 | Per-turn snapshot of your DSH workspace. Any turn can be restored — files, conversation, or both. | ✅ active |
 | [dsh-file-undo](resources/dsh-file-undo.md) | ⭐1 | DSH plugin: undo file write/edit operations (snapshot before-state, restore with /undo) | ✅ active |
 | [dsh-firstrun](resources/dsh-firstrun.md) | ⭐1 | First-run health check for DeepSeek Harness (dsh): verifies Node/pnpm/dsh toolchain, profile, API key (names only), workspace and registry, then prints actionable next steps. Zero runtime deps, read-only. CLI + agent-callable quickstart tool. | ✅ active |
@@ -467,6 +469,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-mem](resources/dsh-mem-1.md) | ⭐1 | Local AI memory for DeepSeek Harness: memory_search / memory_remember / memory_context tools over a built-in SQLite store. | ✅ active |
 | [dsh-memory](resources/dsh-memory-11.md) | ⭐1 | Persistent, model-editable memory/notes store for DeepSeek Harness. Adds memory_set/get/delete/search tools backed by ctx.storageDomain so facts survive across sessions (dsh-plugin). | ✅ active |
 | [dsh-memory](resources/dsh-memory-12.md) | ⭐1 | DSH plugin: shared persistent memory store across all sessions, with memory_* tools and a Web sidebar panel | ✅ active |
+| [dsh-minato-legacy](resources/dsh-minato-legacy.md) | ⭐1 | dsh-minato — 社区版本机部署运维套件 for DeepSeek Harness (dsh): install / start / monitor, backup & restore, diagnose and quarantine broken plugins (unofficial) · 安装 / 启动监控 / 备份恢复 / 插件诊断与隔离 | ✅ active |
 | [dsh-model-picker-brand](resources/dsh-model-picker-brand.md) | ⭐1 | Provider logos and model IDs in the DeepSeek Harness model picker — a label decorator on the official conversation.input.model.label slot, with registry-driven brand matching. 在 DSH 模型选择器中显示提供商彩色 logo 与模型 ID：一级插槽装饰器，零内核改动，22 个品牌标，明暗主题适配。 | ✅ active |
 | [dsh-model-rank](resources/dsh-model-rank.md) | ⭐1 | Sidebar LLM leaderboard for DeepSeek Harness (DSH): LMArena blind-test ratings, Artificial Analysis intelligence index, LiveBench 2.0 capability, OpenRouter usage & market share — plus a local token-usage dashboard, detail drawers and CSV export. Daily snapshot, instant open, no API key. | DSH 侧栏「模型排行」：多榜合一 + 本机用量仪表盘，打开即显示。 | ✅ active |
 | [dsh-need-finder](resources/dsh-need-finder.md) | ⭐1 | Requirement-driven dsh plugin discovery (点菜, not 逛超市): plugin_guide tool matches natural-language needs to a curated plugin directory with reasons and install commands | ✅ active |
@@ -583,6 +586,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-trash](resources/dsh-trash.md) | ⭐1 | A Trash panel for DeepSeek Harness: browse every stored Session, delete its session file, or clear a conversation's content. | ✅ active |
 | [dsh-trend-radar](resources/dsh-trend-radar.md) | ⭐1 | Ecosystem trend dashboard (行情面板) for dsh plugins: snapshot dsh-plugin topic + awesome list into local history, then report weekly trends — new plugins, star gainers, category heat, coverage — plus keyword radar | ✅ active |
 | [dsh-vpn](resources/dsh-vpn.md) | ⭐1 | A Windows 11 style VPN control panel for DeepSeek Harness: Proton browser sign-in, geolocation-ranked WireGuard servers, automatic configuration, leak-proof kill switch, one-click restore. Apache-2.0. | ✅ active |
+| [dsh-vyra-plugins](resources/dsh-vyra-plugins.md) | ⭐1 | DeepSeek Harness plugin and skill market maintained alongside the dsh-Veyra fork. | ✅ active |
 | [dsh-web-tool-provider](resources/dsh-web-tool-provider.md) | ⭐1 | Tavily, Exa and Firecrawl as interchangeable ctx.web backends for DeepSeek Harness. Switch the engine behind web_search/web_fetch from a settings page, keys in the credential store, credential-free local fetch fallback. | ✅ active |
 | [dsh-whale-market](resources/dsh-whale-market.md) | ⭐1 | 鲸鱼插件市场 / Whale Market — browse, search, one-click install & update DSH plugins from the GitHub dsh-plugin topic (Web settings UI + Agent tools) | ✅ active |
 | [dsh-win-pwsh7](resources/dsh-win-pwsh7.md) | ⭐1 | PowerShell 7 for the DSH `pwsh` tool on Windows: detect, validate, and install the self-updating Microsoft Store package — one install path, with the connection checked first. | ✅ active |

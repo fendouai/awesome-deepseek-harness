@@ -470,6 +470,23 @@
     "license": "MIT"
   },
   {
+    "id": "keel",
+    "name": "keel",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/xing-shuyin/keel",
+    "description": "Just open your browser — get all your work done.",
+    "description_zh": "Just open your browser — get all your work done.",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 403,
+    "license": "MIT"
+  },
+  {
     "id": "phi",
     "name": "phi",
     "type": "integration",
@@ -506,6 +523,24 @@
     "verified": false,
     "stars": 374,
     "license": "MIT"
+  },
+  {
+    "id": "opengame",
+    "name": "opengame",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/nexu-io/opengame",
+    "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+    "description_zh": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 361,
+    "license": "Apache-2.0"
   },
   {
     "id": "omagents",
@@ -15103,6 +15138,36 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-im-union",
+    "name": "dsh-im-union",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/drscrewdriver/dsh-im-union",
+    "description": "DSH IM union bridge plugin: WeChat iLink / Telegram / Discord / Feishu / WeCom bot to host sessions (0.1.2-0.2.1)",
+    "description_zh": "DSH IM union bridge plugin: WeChat iLink / Telegram / Discord / Feishu / WeCom bot to host sessions (0.1.2-0.2.1)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-feishu-mcp-1",
+    "name": "dsh-feishu-mcp",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/TryToFindHeart/dsh-feishu-mcp",
+    "description": "DeepSeek Harness 飞书全能力插件：群 Webhook 强提醒、扫码建应用、私聊指挥（文本/图片/文件）、审批/提问卡片、Typing 自动撤销、会话短码切换、每轮卡片底部显示当前模型与 /model 切换。应用机器人优先默认，长连接无需公网回调。",
+    "description_zh": "DeepSeek Harness 飞书全能力插件：群 Webhook 强提醒、扫码建应用、私聊指挥（文本/图片/文件）、审批/提问卡片、Typing 自动撤销、会话短码切换、每轮卡片底部显示当前模型与 /model 切换。应用机器人优先默认，长连接无需公网回调。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
     "id": "dsh-github-integration",
     "name": "dsh-github-integration",
     "type": "integration",
@@ -22034,6 +22099,25 @@
     "status": "active",
     "verified": false,
     "stars": 2
+  },
+  {
+    "id": "dsh-chaoxing-assistant",
+    "name": "dsh-chaoxing-assistant",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/weichen704/dsh-chaoxing-assistant",
+    "description": "Chaoxing (Xuexitong) course automation for DeepSeek Harness: real Edge browser, five tools, sidebar panel.",
+    "description_zh": "Chaoxing (Xuexitong) course automation for DeepSeek Harness: real Edge browser, five tools, sidebar panel.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
   },
   {
     "id": "dsh-chrome-1",
@@ -41759,6 +41843,244 @@
       "coding",
       "multi-agent",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-model-picker-6",
+    "name": "dsh-model-picker",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/yoggu/dsh-model-picker",
+    "description": "Search, pin and hide models in DeepSeek Harness",
+    "description_zh": "Search, pin and hide models in DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-conversation-bridge",
+    "name": "dsh-conversation-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/wsj895490208/dsh-conversation-bridge",
+    "description": "DeepSeek web JSON to resumable Harness sessions: native rolling compaction and isolated local retrieval.",
+    "description_zh": "DeepSeek web JSON to resumable Harness sessions: native rolling compaction and isolated local retrieval.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-quiet-browser",
+    "name": "dsh-quiet-browser",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/Yyhy110421/dsh-quiet-browser",
+    "description": "静默浏览：DSH 插件，内置浏览器窗口不抢前台、不遮挡。",
+    "description_zh": "静默浏览：DSH 插件，内置浏览器窗口不抢前台、不遮挡。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "resume-grill-agent",
+    "name": "resume-grill-agent",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/MIU-MA/resume-grill-agent",
+    "description": "Local MCP job application workflow: grounded resume versions, application preparation and execution records. Experimental.",
+    "description_zh": "Local MCP job application workflow: grounded resume versions, application preparation and execution records. Experimental.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-browser-13",
+    "name": "dsh-browser",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/Noext/dsh-browser",
+    "description": "A real Chromium in the DeepSeek Harness right sidebar: the agent drives it, and you can take over to sign in.",
+    "description_zh": "A real Chromium in the DeepSeek Harness right sidebar: the agent drives it, and you can take over to sign in.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-aidevops",
+    "name": "dsh-aidevops",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/Less410/dsh-aidevops",
+    "description": "Bridge an AI DevOps control plane into DeepSeek Harness: native ai_devops_* tools for platform health, agent deployments, synced cloud resources and delivery tasks.",
+    "description_zh": "Bridge an AI DevOps control plane into DeepSeek Harness: native ai_devops_* tools for platform health, agent deployments, synced cloud resources and delivery tasks.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-feishu-subscription",
+    "name": "dsh-feishu-subscription",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/advance-lion/dsh-feishu-subscription",
+    "description": "Windows DSH plugin for Feishu Doubao Work enterprise models, account management and usage history",
+    "description_zh": "Windows DSH plugin for Feishu Doubao Work enterprise models, account management and usage history",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-artex-ops",
+    "name": "dsh-artex-ops",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/joker553/dsh-artex-ops",
+    "description": "对话式 ARTEX 渗透编排层：DSH 插件 / CLI / MCP（mission、意图队列、双图、攻击链断言、OAST、覆盖矩阵、热重载）",
+    "description_zh": "对话式 ARTEX 渗透编排层：DSH 插件 / CLI / MCP（mission、意图队列、双图、攻击链断言、OAST、覆盖矩阵、热重载）",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-video-preview-2",
+    "name": "dsh-video-preview",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/feifandiv/dsh-video-preview",
+    "description": "DeepSeek Harness (DSH) cannot play video inside the agent. Clicking a video file in the sidebar only shows a file-type icon and an \"open in external app\" button — to check one clip you must leave the agent, wait for a player, then switch back. Context, broken.",
+    "description_zh": "DeepSeek Harness (DSH) cannot play video inside the agent. Clicking a video file in the sidebar only shows a file-type icon and an \"open in external app\" button — to check one clip you must leave the agent, wait for a player, then switch back. Context, broken.",
+    "capabilities": [
+      "coding",
+      "context",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-remote-12",
+    "name": "dsh-remote",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/01float01/dsh-remote",
+    "description": "Reach the DSH web UI from a phone browser on the same Wi-Fi: a zero-dependency Node TLS gateway with a password gate, browser polyfills and a responsive layout layer injected into DSH's own page.",
+    "description_zh": "Reach the DSH web UI from a phone browser on the same Wi-Fi: a zero-dependency Node TLS gateway with a password gate, browser polyfills and a responsive layout layer injected into DSH's own page.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "octer-ads-dsh",
+    "name": "octer-ads-dsh",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/octer-ai/octer-ads-dsh",
+    "description": "永久免费的广告管理和优化插件。支持 GPT Ads、Google Ads、Meta Ads、Microsoft Ads、Amazon Ads 和 TikTok Ads，提供投放报表和 API 权限控制。官网 https://ads-mcp.octer.ai  Free-forever ad management and optimization for DeepSeek Harness. OCTER Ads supports GPT Ads, Google Ads, Meta Ads, Microsoft Ads, Amazon Ads, and TikTok Ads. Includes performance reports and API access controls.",
+    "description_zh": "永久免费的广告管理和优化插件。支持 GPT Ads、Google Ads、Meta Ads、Microsoft Ads、Amazon Ads 和 TikTok Ads，提供投放报表和 API 权限控制。官网 https://ads-mcp.octer.ai  Free-forever ad management and optimization for DeepSeek Harness. OCTER Ads supports GPT Ads, Google Ads, Meta Ads, Microsoft Ads, Amazon Ads, and TikTok Ads. Includes performance reports and API access controls.",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-living-memory-1",
+    "name": "dsh-living-memory",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/ccsr53/dsh-living-memory",
+    "description": "AstrBot LivingMemory 的 DSH 移植版：原子化记忆 + 类型化 TTL + 四种衰减曲线 + 四路混合检索 + 6 页管理面板。",
+    "description_zh": "AstrBot LivingMemory 的 DSH 移植版：原子化记忆 + 类型化 TTL + 四种衰减曲线 + 四路混合检索 + 6 页管理面板。",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "dsh-cad-studio",
+    "name": "dsh-cad-studio",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/STofone/dsh-cad-studio",
+    "description": "CAD Studio for DeepSeek Harness: FreeCAD bridge for AI plus a live 3D panel (declarative features, STEP-reference assemblies, joints, drawings)",
+    "description_zh": "CAD Studio for DeepSeek Harness: FreeCAD bridge for AI plus a live 3D panel (declarative features, STEP-reference assemblies, joints, drawings)",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-rhine-lab-team",
+    "name": "dsh-rhine-lab-team",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/vioeveann/dsh-rhine-lab-team",
+    "description": "给 DeepSeek Harness 配一个工作团队：每个 Bot 有自己的记忆、分工、头像和 ID；在你的指导下或自己干活，都能积累经验、升级成长，成为你最放心可靠的团队成员。",
+    "description_zh": "给 DeepSeek Harness 配一个工作团队：每个 Bot 有自己的记忆、分工、头像和 ID；在你的指导下或自己干活，都能积累经验、升级成长，成为你最放心可靠的团队成员。",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

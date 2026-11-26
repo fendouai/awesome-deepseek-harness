@@ -7392,6 +7392,73 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-session-handoff-3",
+    "name": "dsh-session-handoff",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/xiaohui-zhangxh/dsh-session-handoff",
+    "description": "DSH 插件：常驻显示对话轮次，达到上限自动写交接文件并把任务转移到新会话继续 | DeepSeek Harness plugin that hands the task off to a fresh session at a turn limit",
+    "description_zh": "DSH 插件：常驻显示对话轮次，达到上限自动写交接文件并把任务转移到新会话继续 | DeepSeek Harness plugin that hands the task off to a fresh session at a turn limit",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-codex-adapter-1",
+    "name": "dsh-codex-adapter",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/zx-yk/dsh-codex-adapter",
+    "description": "Dispatch tasks from Claude Code / Codex to DSH agents as native subagents with live progress; configure dispatch defaults, execution mode, and vision / image-generation access, installed into the host in one click.",
+    "description_zh": "Dispatch tasks from Claude Code / Codex to DSH agents as native subagents with live progress; configure dispatch defaults, execution mode, and vision / image-generation access, installed into the host in one click.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-traffic-light",
+    "name": "dsh-task-traffic-light",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/wunankun/dsh-task-traffic-light",
+    "description": "A floating red/yellow/green lamp for DeepSeek Harness on macOS — DSH 任务红绿灯：不用切窗口就知道哪个会话在跑、在等你、或跑完了没看。",
+    "description_zh": "A floating red/yellow/green lamp for DeepSeek Harness on macOS — DSH 任务红绿灯：不用切窗口就知道哪个会话在跑、在等你、或跑完了没看。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "grape-dsh",
+    "name": "grape-dsh",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/grape-dev/grape-dsh",
+    "description": "Grape DevOps pipeline tools for DeepSeek Harness (dsh) — trigger, monitor and take over Grape multi-agent DevOps pipelines from your local agent.",
+    "description_zh": "Grape DevOps pipeline tools for DeepSeek Harness (dsh) — trigger, monitor and take over Grape multi-agent DevOps pipelines from your local agent.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-evolve",
     "name": "dsh-skill-evolve",
     "type": "agent",

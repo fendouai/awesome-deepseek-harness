@@ -5847,6 +5847,44 @@
     "license": "MIT"
   },
   {
+    "id": "evolution-computer-use",
+    "name": "evolution-computer-use",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/chenkezhen480/evolution-computer-use",
+    "description": "Self-evolving computer use for any agent: its own browser, the user's Windows desktop, and learned procedures it replays and repairs. MCP server + JS library, extracted from dsh-world.",
+    "description_zh": "Self-evolving computer use for any agent: its own browser, the user's Windows desktop, and learned procedures it replays and repairs. MCP server + JS library, extracted from dsh-world.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "desktop",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-claude-pet",
+    "name": "dsh-claude-pet",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/JERRY-hub26/dsh-claude-pet",
+    "description": "A chibi companion for the DeepSeek Harness web UI that stays on your desktop when the window is minimised.",
+    "description_zh": "A chibi companion for the DeepSeek Harness web UI that stays on your desktop when the window is minimised.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 10,
+    "license": "MIT"
+  },
+  {
     "id": "agentpocket",
     "name": "agentpocket",
     "type": "client",
@@ -30784,6 +30822,128 @@
     "repository": "https://github.com/G-TY/dsh-refresh",
     "description": "Restart, quit and hot-reload the DSH desktop app from two sidebar icons and a conversation-header button.",
     "description_zh": "Restart, quit and hot-reload the DSH desktop app from two sidebar icons and a conversation-header button.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "mcp-hub",
+    "name": "mcp-hub",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/jiale-cheng-ning/mcp-hub",
+    "description": "One TUI to manage all your MCP servers. Discover, monitor, and audit MCP server configurations across Claude Desktop, Cursor, VS Code, and more.",
+    "description_zh": "One TUI to manage all your MCP servers. Discover, monitor, and audit MCP server configurations across Claude Desktop, Cursor, VS Code, and more.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp",
+      "terminal",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "phone-use-dsh",
+    "name": "phone-use-dsh",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/mig-everything/phone-use-dsh",
+    "description": "Phone Use for DeepSeek Harness: HarmonyOS, Android and iPhone tools with a multi-device sidebar and a shared SDK/MCP core",
+    "description_zh": "Phone Use for DeepSeek Harness: HarmonyOS, Android and iPhone tools with a multi-device sidebar and a shared SDK/MCP core",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-drop-by",
+    "name": "dsh-drop-by",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/yuyu654/dsh-drop-by",
+    "description": "主动开口的那道门：DSH 陪伴插件，按桌面在线状态、课表日程、记忆、心情与上下文判断时机主动发起对话，支持节假日避让与谷时自主探索。",
+    "description_zh": "主动开口的那道门：DSH 陪伴插件，按桌面在线状态、课表日程、记忆、心情与上下文判断时机主动发起对话，支持节假日避让与谷时自主探索。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-wsl-2",
+    "name": "dsh-wsl",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/herenfor/dsh-wsl",
+    "description": "WSL run mode for DeepSeek Harness Desktop: run projects, sessions and plugins inside WSL, managed from the Desktop window",
+    "description_zh": "WSL run mode for DeepSeek Harness Desktop: run projects, sessions and plugins inside WSL, managed from the Desktop window",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agentapi-1",
+    "name": "dsh-agentapi",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Misaki030112/dsh-agentapi",
+    "description": "DSH × AgentAPI · 七牛 AgentAPI 的 DeepSeek Harness 桌面插件，让 DSH 原生接入 AgentAPI 托管的智能体与执行环境。",
+    "description_zh": "DSH × AgentAPI · 七牛 AgentAPI 的 DeepSeek Harness 桌面插件，让 DSH 原生接入 AgentAPI 托管的智能体与执行环境。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-gta6",
+    "name": "dsh-gta6",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/manyuemeiquqi/dsh-gta6",
+    "description": "给 DeepSeek Harness 的 GTA VI / Vice City 主题插件：通缉星级跟随 Agent 状态，右栏真实会话仪表盘，Jason & Lucia 桌面宠物。",
+    "description_zh": "给 DeepSeek Harness 的 GTA VI / Vice City 主题插件：通缉星级跟随 Agent 状态，右栏真实会话仪表盘，Jason & Lucia 桌面宠物。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-restart-refresh",
+    "name": "dsh-restart-refresh",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/G-TY/dsh-restart-refresh",
+    "description": "侧栏 DSH 标志旁的两个图标负责重启 DSH 和退出 DSH，对话右上方的按钮用来刷新页面和热更新插件代码。 | Two icons beside the sidebar DSH logo restart or quit the desktop app; the button at the top right of the conversation refreshes the page and hot-reloads plugin code.",
+    "description_zh": "侧栏 DSH 标志旁的两个图标负责重启 DSH 和退出 DSH，对话右上方的按钮用来刷新页面和热更新插件代码。 | Two icons beside the sidebar DSH logo restart or quit the desktop app; the button at the top right of the conversation refreshes the page and hot-reloads plugin code.",
     "capabilities": [
       "coding",
       "desktop",

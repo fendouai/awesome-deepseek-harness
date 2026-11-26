@@ -3467,6 +3467,38 @@
     "license": "AGPL-3.0"
   },
   {
+    "id": "dsh-academic-research-plugin",
+    "name": "dsh-academic-research-plugin",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Morn1nStar/dsh-academic-research-plugin",
+    "description": "DeepSeek Harness 学术研究插件：文献核验、论据核验表、复现记录与投稿前准入门槛（11 个工具 + 3 个方法论 skill，零运行时依赖）。Literature verification, claim–source register, reproduction runs and pre-submission gates.",
+    "description_zh": "DeepSeek Harness 学术研究插件：文献核验、论据核验表、复现记录与投稿前准入门槛（11 个工具 + 3 个方法论 skill，零运行时依赖）。Literature verification, claim–source register, reproduction runs and pre-submission gates.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gongwei",
+    "name": "dsh-gongwei",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/RonaWhite/dsh-gongwei",
+    "description": "工作日打卡 + 每日学习记录 + 周报。DeepSeek Harness 插件，可选接入 dsh-pet 桌宠。",
+    "description_zh": "工作日打卡 + 每日学习记录 + 周报。DeepSeek Harness 插件，可选接入 dsh-pet 桌宠。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",

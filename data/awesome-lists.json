@@ -1075,6 +1075,25 @@
     ]
   },
   {
+    "id": "vibefather",
+    "name": "vibefather",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/liyupi/vibefather",
+    "description": "Vibe coding website templates for AI coding agents: an Agent Skill, a remote MCP server and a CLI for Claude Code, Codex, Cursor, Copilot and Gemini CLI. 320+ original templates with live demos, the exact prompt and DESIGN.md. Build landing pages, SaaS sites, portfolios, stores, dashboards and 3D sites. AI 建站 · 网站模板 · MCP",
+    "description_zh": "Vibe coding website templates for AI coding agents: an Agent Skill, a remote MCP server and a CLI for Claude Code, Codex, Cursor, Copilot and Gemini CLI. 320+ original templates with live demos, the exact prompt and DESIGN.md. Build landing pages, SaaS sites, portfolios, stores, dashboards and 3D sites. AI 建站 · 网站模板 · MCP",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 21,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-deepseek-harness-top-500",
     "name": "awesome-deepseek-harness-top-500",
     "type": "awesome-list",
@@ -10601,6 +10620,61 @@
     "description_zh": "DeepSeek Harness plugin and skill market maintained alongside the dsh-Veyra fork.",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-manager-17",
+    "name": "dsh-skill-manager",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/zj6511235/dsh-skill-manager",
+    "description": "Local store for third-party skills and MCP servers: npm/GitHub/SkillHub/zip install, dependency self-heal, other-agent import, Web panel and CLI.",
+    "description_zh": "Local store for third-party skills and MCP servers: npm/GitHub/SkillHub/zip install, dependency self-heal, other-agent import, Web panel and CLI.",
+    "capabilities": [
+      "coding",
+      "git",
+      "mcp",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-suite-store-catalog",
+    "name": "dsh-suite-store-catalog",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/dsh-suite-store/dsh-suite-store-catalog",
+    "description": "收录精选Deepseek Harness 插件整合包。 / Includes the DeepSeek Harness plugin suites.",
+    "description_zh": "收录精选Deepseek Harness 插件整合包。 / Includes the DeepSeek Harness plugin suites.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "CC0-1.0"
+  },
+  {
+    "id": "dsh-suite-store",
+    "name": "dsh-suite-store",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/dsh-suite-store/dsh-suite-store",
+    "description": "DeepSeek Harness 的可视化整合包商店:浏览、搜索、一键安装与卸载插件套装 / A visual suite marketplace for DeepSeek Harness — browse, search, and one-click install plugin suites.",
+    "description_zh": "DeepSeek Harness 的可视化整合包商店:浏览、搜索、一键安装与卸载插件套装 / A visual suite marketplace for DeepSeek Harness — browse, search, and one-click install plugin suites.",
+    "capabilities": [
+      "coding",
+      "search",
+      "ui"
     ],
     "status": "active",
     "verified": false,

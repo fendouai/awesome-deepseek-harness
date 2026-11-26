@@ -1,6 +1,6 @@
 ---
 title: "Agents & Multi-Agent"
-description: "Top 10 and full list of 411 curated agents & multi-agent for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 415 curated agents & multi-agent for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 ---
 # Agents & Multi-Agent
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | 9 | [consensus-pipeline](resources/consensus-pipeline.md) | ⭐124 | Multi-agent department framework for long-form complex tasks, fighting AI hallucination, validated on academic research. 共识管线：多智能体部门长线任务解决框架，对抗AI幻觉，以学术研究为验证场景。 | ✅ active |
 | 10 | [dsh-auto-review](resources/dsh-auto-review-2.md) | ⭐116 | Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided). | ✅ active |
 
-## Complete list (411)
+## Complete list (415)
 
 
-**Multi-agent (408)**
+**Multi-agent (412)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -277,6 +277,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-chat-cost](resources/dsh-chat-cost.md) | ⭐1 | DeepSeek Harness (dsh) plugin: live token cost of every chat, its subagents and the whole session tree — DeepSeek, OpenAI, Anthropic, Gemini, Kimi, Grok and Mistral prices from a bundled catalog, plus an append-only JSONL cost log in your project folder. | ✅ active |
 | [dsh-code-factory](resources/dsh-code-factory.md) | ⭐1 | Code Factory for DeepSeek Harness: multi-agent software-team pipeline plugin | ✅ active |
 | [dsh-code-review](resources/dsh-code-review-6.md) | ⭐1 | Claude Code v2.1.x built-in /code-review skill ported to dsh (DeepSeek Harness): angle-based multi-agent review pipeline as a plain skill | ✅ active |
+| [dsh-codex-adapter](resources/dsh-codex-adapter-1.md) | ⭐1 | Dispatch tasks from Claude Code / Codex to DSH agents as native subagents with live progress; configure dispatch defaults, execution mode, and vision / image-generation access, installed into the host in one click. | ✅ active |
 | [dsh-codex-mode](resources/dsh-codex-mode-2.md) | ⭐1 | 1:1 OpenAI Codex CLI agent preset for DeepSeek Harness — GPT-6 CodeMode, Direct tools, V4A fuzzy patch editing, unified PTY execution, and Multi-Agent V2 with an Ultra toggle. | ✅ active |
 | [dsh-coding](resources/dsh-coding.md) | ⭐1 | DSH 编程智能体插件，工程化任务编排机制，Codex 五段式契约层层推进，Pro 模型负责分析需求/编排任务，交由子代理隔离各项任务使用 Flash 模型干活，确保任务交付质量和 Token 价值最大化。 DSH programming intelligent agent plugin, engineering task orchestration mechanism, Codex five-stage contract progressing layer by layer. | ✅ active |
 | [dsh-collab](resources/dsh-collab-1.md) | ⭐1 | Multi-agent collaboration shared workspace for DSH (DSH × Claude Code × Kimi Code × DevEco Code): outbox/status/tasks/knowledge/artifacts protocol as a cross-platform DSH plugin + CLI. | ✅ active |
@@ -360,6 +361,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-science-skill](resources/dsh-science-skill.md) | ⭐1 | 科研技能中心 for DeepSeek Harness：技能目录、分类、按会话启用门控，以及用户可调用的 /command 技能栏。 | ✅ active |
 | [dsh-session-archaeology](resources/dsh-session-archaeology.md) | ⭐1 | 一个 DeepSeek Harness（DSH）插件：手动选中一段历史会话，离线蒸馏出可复用的 Skill。 | ✅ active |
 | [dsh-session-delete](resources/dsh-session-delete-20.md) | ⭐1 | Permanently delete a DeepSeek Harness session: chat log, projection cache, spill files, and the subagent sessions it spawned. Sidebar menu entry + confirm dialog. | ✅ active |
+| [dsh-session-handoff](resources/dsh-session-handoff-3.md) | ⭐1 | DSH 插件：常驻显示对话轮次，达到上限自动写交接文件并把任务转移到新会话继续 | DeepSeek Harness plugin that hands the task off to a fresh session at a turn limit | ✅ active |
 | [dsh-session-matrix](resources/dsh-session-matrix.md) | ⭐1 | A multi-agent workspace for DeepSeek Harness. Run parallel sessions, visualize agent relationships, monitor context usage, and manage task handoffs. | ✅ active |
 | [dsh-session-multiselect](resources/dsh-session-multiselect-1.md) | ⭐1 | DeepSeek Harness 会话批量选择：按住 Shift 从第一条点到最末条批量选中会话，并批量归档（DSH skill + 客户端插件） | ✅ active |
 | [dsh-session-transfer](resources/dsh-session-transfer-1.md) | ⭐1 | Pack any DSH session, its subagent sessions and attachments into a portable .dshpack, and import it into another DSH installation. | ✅ active |
@@ -408,6 +410,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-task-instructions](resources/dsh-task-instructions.md) | ⭐1 | DeepSeek Harness 插件：输入框旁的「任务指令」按钮，把可复用的任务要求固定到整场会话，压缩上下文也不变形。 | ✅ active |
 | [dsh-task-memory](resources/dsh-task-memory-1.md) | ⭐1 | DeepSeek Harness 插件:工作区级任务记忆,把做过的任务存成记忆卡,下次会话不必重新分析一遍。 | ✅ active |
 | [dsh-task-report](resources/dsh-task-report.md) | ⭐1 | DSH 任务档案：沉淀进度、副作用、待办与收尾总结成跨会话文件；收尾时强制检查缺项，并自动扫描残留凭据、调试端口与写死的旧默认值 | ✅ active |
+| [dsh-task-traffic-light](resources/dsh-task-traffic-light.md) | ⭐1 | A floating red/yellow/green lamp for DeepSeek Harness on macOS — DSH 任务红绿灯：不用切窗口就知道哪个会话在跑、在等你、或跑完了没看。 | ✅ active |
 | [dsh-taskflow](resources/dsh-taskflow.md) | ⭐1 | DeepSeek Harness 智能任务编排插件：模型按任务复杂度生成持久层级清单，按需创建子会话，完成后自动勾选并通知直接父会话。 | ✅ active |
 | [dsh-tea-party-mode](resources/dsh-tea-party-mode.md) | ⭐1 | 角色茶话会模式 | Character Tea Party Agent preset for DeepSeek Harness (dsh): 8 LLM-girls roleplay around a tea table + per-message speaker avatars | ✅ active |
 | [dsh-team-flow](resources/dsh-team-flow.md) | ⭐1 | DeepSeek Harness Agent Teams 插话插件：主代理等待队友时使用 Steer，队友继续工作。Alpha 预览版。 | ✅ active |
@@ -425,6 +428,7 @@ keywords: "deepseek harness, dsh, agents multi-agent, plugin, awesome"
 | [dsh-worktree](resources/dsh-worktree-3.md) | ⭐1 | Git worktree filesystem isolation for DeepSeek Harness subagents — each child works in its own worktree; clean ones auto-remove, dirty ones are kept for review. | ✅ active |
 | [flow-tower-context](resources/flow-tower-context.md) | ⭐1 | Compaction-driven project-level context memory for DeepSeek Harness (DSH): cited dictionary, adaptive injection, multi-agent sharing. | ✅ active |
 | [governance-multi-agent-harness](resources/governance-multi-agent-harness.md) | ⭐1 | Governance-Multi-Agent-Harness-Plugin-for-DeepSeek-Harness | ✅ active |
+| [grape-dsh](resources/grape-dsh.md) | ⭐1 | Grape DevOps pipeline tools for DeepSeek Harness (dsh) — trigger, monitor and take over Grape multi-agent DevOps pipelines from your local agent. | ✅ active |
 | [jira-tasks-dsh-plugin](resources/jira-tasks-dsh-plugin.md) | ⭐1 | 在 DSH 会话输入框下方展示当前 JIRA 项目指派给当前用户的「开启 / 重新开启」任务列表。JIRA 地址与令牌从凭据读取；项目 Key 与 JQL 按工作区配置并持久化。 | ✅ active |
 | [LLMAgentChatRoom](resources/llmagentchatroom.md) | ⭐1 | Local multi-agent chat room | ✅ active |
 | [mddl-harness](resources/mddl-harness.md) | ⭐1 | Visual orchestrator for DeepSeek Harness — drag models and tools onto a canvas, export a real cordis.patch.yml overlay. | ✅ active |

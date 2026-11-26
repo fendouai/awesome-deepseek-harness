@@ -561,6 +561,22 @@
     "growth": 1
   },
   {
+    "id": "dsh-plugin-shop-accounts-1",
+    "name": "dsh-plugin-shop-accounts",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/world-geniuses/dsh-plugin-shop-accounts",
+    "description": "DSH 插件：电商店铺账号管理（拼多多 / 淘宝 / 天猫 / 抖音 / 京东 / 1688 商家端）—— 一店一档、登录一次长期复用；按五个经营域定时采集并生成成品工作簿（配套 dsh-plugin-shop-dashboard 数据看板）",
+    "description_zh": "DSH 插件：电商店铺账号管理（拼多多 / 淘宝 / 天猫 / 抖音 / 京东 / 1688 商家端）—— 一店一档、登录一次长期复用；按五个经营域定时采集并生成成品工作簿（配套 dsh-plugin-shop-dashboard 数据看板）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 29,
+    "license": "MIT"
+  },
+  {
     "id": "deep-read-summarize",
     "name": "deep-read-summarize",
     "type": "workflow",
@@ -1242,6 +1258,42 @@
       "coding",
       "multi-agent",
       "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "license": "MIT"
+  },
+  {
+    "id": "plugins-1",
+    "name": "Plugins",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/EverMind-AI/Plugins",
+    "description": "Official host and workflow integrations for",
+    "description_zh": "Official host and workflow integrations for",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-session-fork-1",
+    "name": "dsh-session-fork",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/jh76111/dsh-session-fork",
+    "description": "Makes the branch the building block of AI conversation management — parallel workflows, continuous and mergeable conversation memory",
+    "description_zh": "Makes the branch the building block of AI conversation management — parallel workflows, continuous and mergeable conversation memory",
+    "capabilities": [
+      "coding",
+      "memory",
+      "ui",
       "workflow"
     ],
     "status": "active",
@@ -5880,6 +5932,23 @@
     "capabilities": [
       "coding",
       "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-ai-hub",
+    "name": "dsh-plugin-ai-hub",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/Railan1314/dsh-plugin-ai-hub",
+    "description": "DSH left sidebar scheduler: tasks, concurrency, free pool, map/texture/balance tools",
+    "description_zh": "DSH left sidebar scheduler: tasks, concurrency, free pool, map/texture/balance tools",
+    "capabilities": [
+      "coding",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -11460,6 +11529,40 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "tokensave",
+    "name": "tokensave",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/weifengit/tokensave",
+    "description": "DSH（DeepSeek Harness）多项目工作台插件 —— 在 DSH Web 界面里增加「项目中心」与「工作台」两个 tab：卡片式管理多个代码项目，dockview 多面板工作台把主对话、项目预览、免费模型探索者、共享黑板同屏自由编排；配齐一整套智能体协作的通知与自动化能力（侧边栏呼吸灯/角标、通知面板、提示音、自动继续），并对宿主主对话做大量体验优化；还内置一条「tokensave 探索链路」，把方案探索类任务并行委派给免费模型，为主 agent 省 token。",
+    "description_zh": "DSH（DeepSeek Harness）多项目工作台插件 —— 在 DSH Web 界面里增加「项目中心」与「工作台」两个 tab：卡片式管理多个代码项目，dockview 多面板工作台把主对话、项目预览、免费模型探索者、共享黑板同屏自由编排；配齐一整套智能体协作的通知与自动化能力（侧边栏呼吸灯/角标、通知面板、提示音、自动继续），并对宿主主对话做大量体验优化；还内置一条「tokensave 探索链路」，把方案探索类任务并行委派给免费模型，为主 agent 省 token。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "project-flow-explainer",
+    "name": "project-flow-explainer",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Hieupt1904/project-flow-explainer",
+    "description": "Skill agent: đọc repository mã nguồn và dựng sơ đồ quy trình HTML tương tác, mở offline, có căn cứ file/dòng | Read a codebase, trace a flow, render a self-contained interactive HTML workflow diagram",
+    "description_zh": "Skill agent: đọc repository mã nguồn và dựng sơ đồ quy trình HTML tương tác, mở offline, có căn cứ file/dòng | Read a codebase, trace a flow, render a self-contained interactive HTML workflow diagram",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "dsh-better-plan-reviewer",

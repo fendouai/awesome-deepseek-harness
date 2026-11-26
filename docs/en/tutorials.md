@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "Top 10 and full list of 203 curated tutorials & learning for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 205 curated tutorials & learning for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [dshfind](resources/dshfind.md) | ⭐200 | Learn DSH principles, plugin marketplace and best practices — from chapter-by-chapter Cordis paper reading to an auto-aggregated plugin market. | ✅ active |
 | 10 | [NamiDSH](resources/namidsh.md) | ⭐189 | 对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent | ✅ active |
 
-## Complete list (203)
+## Complete list (205)
 
 
-**Learning (203)**
+**Learning (205)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -145,6 +145,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [deepseek-harness-leetcode](resources/deepseek-harness-leetcode.md) | ⭐1 | LeetCode Hot 100 learning plugin for DeepSeek Harness (DSH): lessons, sandboxed judge, AI tutor, spaced review, and an AI agent that adds LeetCode problems from a plain description. 力扣热题 100 学习插件。 | ✅ active |
 | [deepseek-harness-plugins](resources/deepseek-harness-plugins-5.md) | ⭐1 | Personal DeepSeek Harness plugins, designs, and learning notes | ✅ active |
 | [DeepSeek-Harness-Principles-and-Practice](resources/deepseek-harness-principles-and-practice.md) | ⭐1 | DeepSeek Harness 插件开发实战 —— 从零到一编写 Harness 插件的结构化教程，基于官方 65+ 篇文档整理而成，包含完整代码示例与实战案例。插件经理prd模式可以让agent先生成需求文档，随后进行插件生成 | ✅ active |
+| [dsh-academic-research-plugin](resources/dsh-academic-research-plugin.md) | ⭐1 | DeepSeek Harness 学术研究插件：文献核验、论据核验表、复现记录与投稿前准入门槛（11 个工具 + 3 个方法论 skill，零运行时依赖）。Literature verification, claim–source register, reproduction runs and pre-submission gates. | ✅ active |
 | [dsh-agent-growth](resources/dsh-agent-growth.md) | ⭐1 | 大肥鱼成长插件：让 AI 从真实素材中学习、形成选题、复盘作品并积累可追溯记忆。适用于 DeepSeek Harness，可自定义角色。 | ✅ active |
 | [dsh-attune](resources/dsh-attune.md) | ⭐1 | 让 DSH 根据当前情境生成小测试，在确认、纠正和删除中学习协作偏好。 | ✅ active |
 | [dsh-autodidact](resources/dsh-autodidact.md) | ⭐1 | Go learn it instead of guessing — task-driven self-education for DeepSeek Harness. 8 keyless engines, WeChat / Bilibili / academic search. Zero cookies, no browser automation. · 不会就去学：给 DeepSeek Harness 的任务驱动自学能力（行为技能 + 数据源 + 本地知识库） | ✅ active |
@@ -164,6 +165,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-erp](resources/dsh-erp.md) | ⭐1 | ERP learning and automation plugin targeting dsh 0.1.5 rc2, with evidence-backed knowledge and mandatory approval before ERP writes. | ✅ active |
 | [dsh-experience](resources/dsh-experience-1.md) | ⭐1 | 智能体自学习经验库：为 DeepSeek Harness 沉淀可复用经验，自动注入上下文，支持分类/单条开关与可视化面板。 | ✅ active |
 | [dsh-feiyuFM](resources/dsh-feiyufm.md) | ⭐1 | 肥鱼电台 FishFM：面向 DeepSeek Harness（DSH）的社区音乐插件，支持网易云听歌、本地偏好学习、可选模型歌单与新歌筛选。开发预览。 | ✅ active |
+| [dsh-gongwei](resources/dsh-gongwei.md) | ⭐1 | 工作日打卡 + 每日学习记录 + 周报。DeepSeek Harness 插件，可选接入 dsh-pet 桌宠。 | ✅ active |
 | [Dsh-gpt-auto-proxy](resources/dsh-gpt-auto-proxy.md) | ⭐1 | 把自有订阅凭证在本机转成 OpenAI 兼容接口的 DSH 插件；非官方项目，与任何上游服务无关联，仅供个人学习研究。 | ✅ active |
 | [dsh-gui-handoff](resources/dsh-gui-handoff.md) | ⭐1 | A DeepSeek Harness skill: hand a command-line-verified operation over to the user's GUI — drive it once, verify with ground truth, hand back a self-contained illustrated tutorial. | ✅ active |
 | [dsh-idle-scholar](resources/dsh-idle-scholar.md) | ⭐1 | Idle-time micro-learning for DeepSeek Harness: turns agent waiting gaps into study cards. Ships English, Japanese, and 法考 (Chinese National Judicial Examination) seed decks; extensible with JSON course packs. | ✅ active |

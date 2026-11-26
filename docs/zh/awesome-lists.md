@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（590 条）。"
+description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（594 条）。"
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-deepseek-harness](resources/awesome-deepseek-harness.md) | ⭐966 | Curated guide to DeepSeek Harness (dsh) and its best community plugins | ✅ 活跃 |
 | 10 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ 活跃 |
 
-## 完整列表（590）
+## 完整列表（594）
 
 
-**注册表（590）**
+**注册表（594）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -94,6 +94,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-plugin-directory](resources/dsh-plugin-directory-1.md) | ⭐23 | Community-driven DeekSeek Harness Plugin Directory | ✅ 活跃 |
 | [awesome-dsh-plugins (kejixiaoliang)](resources/awesome-dsh-plugins-kejixiaoliang-1.md) | ⭐22 | DSH 插件精选目录：14 类 280+ 个社区插件，覆盖 MCP/Skill/TUI/多 Agent/上下文记忆/UI 皮肤。 | ✅ 活跃 |
 | [dsh-archived-sessions](resources/dsh-archived-sessions-3.md) | ⭐22 | DSH Session Manager: manage conversations, archive/restore, delete safely, open record folders. | ✅ 活跃 |
+| [vibefather](resources/vibefather.md) | ⭐21 | Vibe coding website templates for AI coding agents: an Agent Skill, a remote MCP server and a CLI for Claude Code, Codex, Cursor, Copilot and Gemini CLI. 320+ original templates with live demos, the exact prompt and DESIGN.md. Build landing pages, SaaS sites, portfolios, stores, dashboards and 3D sites. AI 建站 · 网站模板 · MCP | ✅ 活跃 |
 | [awesome-deepseek-harness-top-500](resources/awesome-deepseek-harness-top-500.md) | ⭐20 | deepseek-harness plugins 、resource 、use ; dsh top 500 | ✅ 活跃 |
 | [awesome-security-agent-harnesses](resources/awesome-security-agent-harnesses.md) | ⭐20 | AI agents for pentesting, code audit, fuzzing, vulnerability discovery, and reverse engineering — harnesses, sandboxes, security MCP servers, benchmarks, and evals. | ✅ 活跃 |
 | [dsh-plugin-marketplace](resources/dsh-plugin-marketplace-yelebai-1.md) | ⭐20 | Verified plugin marketplace and autonomous registry for DeepSeek Harness | ✅ 活跃 |
@@ -560,6 +561,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-session-unarchive](resources/dsh-session-unarchive.md) | ⭐1 | Adds an archived-sessions view and a restore action to the dsh Web GUI — implemented as a pure Cordis plugin (host half + client half), with zero file patches. It survives dsh upgrades: nothing is written under the dsh install directory. | ✅ 活跃 |
 | [dsh-shop-assistant](resources/dsh-shop-assistant.md) | ⭐1 | DeepSeek Harness ecommerce plugin: CSV batch review replies, reproducible product scoring, Chinese skills, store-policy KB. | ✅ 活跃 |
 | [dsh-sidebar-restore](resources/dsh-sidebar-restore.md) | ⭐1 | 为 DeepSeek Harness 的 Windows 桌面端把收起后消失的侧边栏还原为 56px 图标轨道：悬停浮出工作区卡片，可在设置页自定义侧边栏颜色、透明度与图标显隐。Restores the collapsed sidebar as a 56px icon rail in DeepSeek Harness for Windows — hover workspace flyout, customizable sidebar colors, and a minimal-rail mode. | ✅ 活跃 |
+| [dsh-skill-manager](resources/dsh-skill-manager-17.md) | ⭐1 | Local store for third-party skills and MCP servers: npm/GitHub/SkillHub/zip install, dependency self-heal, other-agent import, Web panel and CLI. | ✅ 活跃 |
 | [dsh-skill-market](resources/dsh-skill-market-1.md) | ⭐1 | Browse, search and install SkillHub skills inside DeepSeek Harness. / 在 DeepSeek Harness 内浏览、搜索并安装 SkillHub 技能。 | ✅ 活跃 |
 | [dsh-skill-market](resources/dsh-skill-market-2.md) | ⭐1 | DSH 可视化技能商店 — Visual skill market inside DeepSeek Harness: browse, search, install and manage Agent Skills | ✅ 活跃 |
 | [dsh-skill-market](resources/dsh-skill-market-3.md) | ⭐1 | DSH 设置页技能市场：从 GitHub 搜索并一键安装技能到 ~/.dsh/skills。Skill Market in the DeepSeek Harness settings page: search GitHub for skills and install them into ~/.dsh/skills with one click. | ✅ 活跃 |
@@ -573,6 +575,8 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-starter-kit](resources/dsh-starter-kit.md) | ⭐1 | DSH 一键整合包：面向初次接触 the agent runtime 的小白用户，一次安装即集成可视化插件市场（dshmarket ⭐12.9k/月下载127万）、增强侧边栏（dsh-better-sidebar ⭐5.2k/月下载36万）和全局提示词。装完即可畅用 DSH，日常无需再找其他插件。中文文档见 README。 | ✅ 活跃 |
 | [dsh-stock-research](resources/dsh-stock-research.md) | ⭐1 | A DeepSeek Harness plugin for multi-agent stock research, combining market data, financial analysis, and structured reports for A-share and US equities. | ✅ 活跃 |
 | [dsh-subagent-arg-guard](resources/dsh-subagent-arg-guard.md) | ⭐1 | Narrow DSH subagent argument recovery that restores normal defaults without taking over model routing | ✅ 活跃 |
+| [dsh-suite-store](resources/dsh-suite-store.md) | ⭐1 | DeepSeek Harness 的可视化整合包商店:浏览、搜索、一键安装与卸载插件套装 / A visual suite marketplace for DeepSeek Harness — browse, search, and one-click install plugin suites. | ✅ 活跃 |
+| [dsh-suite-store-catalog](resources/dsh-suite-store-catalog.md) | ⭐1 | 收录精选Deepseek Harness 插件整合包。 / Includes the DeepSeek Harness plugin suites. | ✅ 活跃 |
 | [dsh-sync](resources/dsh-sync-3.md) | ⭐1 | Encrypted, scheduled backup & restore of your DeepSeek Harness (DSH) profile — plugins, settings, skills, MCP, API keys — to S3-compatible storage, WebDAV or a local folder. 中英文双语界面 | ✅ 活跃 |
 | [dsh-system-net](resources/dsh-system-net.md) | ⭐1 | Make DeepSeek Harness follow your system network settings - route through the OS proxy and trust its certificate store, so TLS-intercepting accelerators work without env vars or a restart. 让 DSH 走系统代理并信任系统证书库，免环境变量、免重启。 | ✅ 活跃 |
 | [dsh-tally](resources/dsh-tally.md) | ⭐1 | Personal bookkeeping for DeepSeek Harness: record expenses/income (single or batch), list, monthly/annual stats with trends, budgets with progress/over-limit alerts, soft-delete restore, CSV & self-contained HTML report. Zero deps, local JSON. 个人记账插件 | ✅ 活跃 |

@@ -9183,6 +9183,39 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "skillnet-dsh",
+    "name": "skillnet-dsh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/TengJiao33/skillnet-dsh",
+    "description": "SkillNet plugin for DeepSeek Harness: discovery, personal skills, graph analysis, routing, creation and evaluation.",
+    "description_zh": "SkillNet plugin for DeepSeek Harness: discovery, personal skills, graph analysis, routing, creation and evaluation.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "chemometrics-agent-skill",
+    "name": "chemometrics-agent-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/xingwang0/chemometrics-agent-skill",
+    "description": "Agent skill + CLI for reviewer-grade ML modelling on spectra and tabular data (NIR/FTIR/Raman/XRD): grouped nested CV, permutation tests, applicability domain, Methods draft. 审稿级光谱建模 agent skill",
+    "description_zh": "Agent skill + CLI for reviewer-grade ML modelling on spectra and tabular data (NIR/FTIR/Raman/XRD): grouped nested CV, permutation tests, applicability domain, Methods draft. 审稿级光谱建模 agent skill",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "academic-research-skills-dsh",
     "name": "academic-research-skills-dsh",
     "type": "skill",
@@ -17987,6 +18020,103 @@
     "repository": "https://github.com/ZZR-rui-997/dsh-project-dept",
     "description": "A project-dept skill plus the bundle that registers it: opening gate, three-layer acceptance with an independent blind reviewer, baseline self-audit, delivery ledger.",
     "description_zh": "A project-dept skill plus the bundle that registers it: opening gate, three-layer acceptance with an independent blind reviewer, baseline self-audit, delivery ledger.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hud-4",
+    "name": "dsh-hud",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/nuclearmilk/dsh-hud",
+    "description": "Cappella-style floating bubble task notification HUD for DeepSeek Harness",
+    "description_zh": "Cappella-style floating bubble task notification HUD for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-task-pulse",
+    "name": "dsh-task-pulse",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/SwingRainbow/dsh-task-pulse",
+    "description": "Read-only DSH progress tab for Markdown task records in docs/tasks.",
+    "description_zh": "Read-only DSH progress tab for Markdown task records in docs/tasks.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skills-zhiyin",
+    "name": "dsh-skills-zhiyin",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/ErgeAIA/dsh-skills-zhiyin",
+    "description": "织音：把散落的技能织成一支谱——装技能、编技能包、按需启停，让模型只奏你想要的声部。",
+    "description_zh": "织音：把散落的技能织成一支谱——装技能、编技能包、按需启停，让模型只奏你想要的声部。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-mentor",
+    "name": "dsh-mentor",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/hoducthien36-lang/dsh-mentor",
+    "description": "Clean-room, zero-dependency task supervision & independent verification plugin for DeepSeek Harness with an Apple-style interactive Mind-Map UI.",
+    "description_zh": "Clean-room, zero-dependency task supervision & independent verification plugin for DeepSeek Harness with an Apple-style interactive Mind-Map UI.",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "autonomous-dev-security-auditor-skills",
+    "name": "autonomous-dev-security-auditor-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/KunKun24/autonomous-dev-security-auditor-skills",
+    "description": "Autonomous development + security audit skill for non-coders, packaged for DeepSeek Harness (DSH) / 面向编程零基础用户的自主开发与安全审计技能包",
+    "description_zh": "Autonomous development + security audit skill for non-coders, packaged for DeepSeek Harness (DSH) / 面向编程零基础用户的自主开发与安全审计技能包",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-38",
+    "name": "dsh-plugin",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/solgridai/dsh-plugin",
+    "description": "Official DeepSeek Harness (dsh) plugin for Solgrid — discover and run paid third-party tools and skills with zero setup.",
+    "description_zh": "Official DeepSeek Harness (dsh) plugin for Solgrid — discover and run paid third-party tools and skills with zero setup.",
     "capabilities": [
       "coding"
     ],

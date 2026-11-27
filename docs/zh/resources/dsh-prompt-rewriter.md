@@ -21,6 +21,16 @@ keywords: "dsh-prompt-rewriter, input-editing, plugin, coding, deepseek harness,
 
 输入框旁一键提示词增强：把半成品草稿原地改成可执行的提示词，只改不发送。
 
+## 📷 截图
+
+![dsh-prompt-rewriter 截图 1](https://raw.githubusercontent.com/huaguoxingkong/dsh-prompt-rewriter/main/docs/images/01-hero.gif)
+
+![dsh-prompt-rewriter 截图 2](https://raw.githubusercontent.com/huaguoxingkong/dsh-prompt-rewriter/main/docs/images/02-button-states.png)
+
+![dsh-prompt-rewriter 截图 3](https://raw.githubusercontent.com/huaguoxingkong/dsh-prompt-rewriter/main/docs/images/04-settings.png)
+
+![dsh-prompt-rewriter 截图 4](https://raw.githubusercontent.com/huaguoxingkong/dsh-prompt-rewriter/main/docs/images/05-rule-menu.gif)
+
 ## 🔗 链接
 
 - [GitHub 仓库](https://github.com/huaguoxingkong/dsh-prompt-rewriter)

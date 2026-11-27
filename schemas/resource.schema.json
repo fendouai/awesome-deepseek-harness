@@ -150,6 +150,17 @@
     "license": {
       "type": "string",
       "description": "Optional SPDX license identifier."
+    },
+    "screenshots": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^https://"
+      },
+      "minItems": 1,
+      "maxItems": 8,
+      "uniqueItems": true,
+      "description": "Optional screenshot image URLs (up to 8) rendered on the resource page."
     }
   }
 }

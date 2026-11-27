@@ -7459,6 +7459,91 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-subagent-concurrency-limit",
+    "name": "dsh-subagent-concurrency-limit",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/blauerberg/dsh-subagent-concurrency-limit",
+    "description": "Limit concurrent DeepSeek Harness subagent turns and delegation runs",
+    "description_zh": "Limit concurrent DeepSeek Harness subagent turns and delegation runs",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-team-router",
+    "name": "dsh-team-router",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/MorseWayne/dsh-team-router",
+    "description": "Route native DeepSeek Harness subagent and team delegations across 12 built-in and up to 8 custom task categories.",
+    "description_zh": "Route native DeepSeek Harness subagent and team delegations across 12 built-in and up to 8 custom task categories.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-leader",
+    "name": "dsh-leader",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/feigo313/dsh-leader",
+    "description": "Root-session Leader contract for DeepSeek Harness: orchestrate, delegate to subagents, audit.",
+    "description_zh": "Root-session Leader contract for DeepSeek Harness: orchestrate, delegate to subagents, audit.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-stop-all",
+    "name": "dsh-stop-all",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/xian-yu-zhao/dsh-stop-all",
+    "description": "Stop-all for DeepSeek Harness: one click stops the whole conversation tree (main turn + subagents at any depth + their background jobs) with native stop semantics.",
+    "description_zh": "Stop-all for DeepSeek Harness: one click stops the whole conversation tree (main turn + subagents at any depth + their background jobs) with native stop semantics.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-crew-x",
+    "name": "dsh-crew-x",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/xiaobaijiadepugongyingpai-coder/dsh-crew-x",
+    "description": "Production-grade DeepSeek Harness (DSH) worker orchestrator: persistent sessions, dynamic port discovery, 4-tier permissions, Windows worktree fallback & auto-offload.",
+    "description_zh": "Production-grade DeepSeek Harness (DSH) worker orchestrator: persistent sessions, dynamic port discovery, 4-tier permissions, Windows worktree fallback & auto-offload.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-evolve",
     "name": "dsh-skill-evolve",
     "type": "agent",

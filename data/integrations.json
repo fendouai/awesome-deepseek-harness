@@ -1135,6 +1135,23 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "miliastra-beyond-simulator-1",
+    "name": "miliastra-beyond-simulator",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/duduk233/miliastra-beyond-simulator",
+    "description": "千星沙箱模拟器：Lua 驱动的 2D 奇域外置沙箱 ，支持 DeepSeek Harness、Web 和 MCP",
+    "description_zh": "千星沙箱模拟器：Lua 驱动的 2D 奇域外置沙箱 ，支持 DeepSeek Harness、Web 和 MCP",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 107,
+    "license": "GPL-3.0"
+  },
+  {
     "id": "scientificfigurelibrary",
     "name": "ScientificFigureLibrary",
     "type": "integration",
@@ -2001,6 +2018,25 @@
     "description_zh": "Editor-facing ACP server for Zed and other ACP clients, composed from published DeepSeek Harness plugins. Community-maintained; not affiliated with DeepSeek.",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 39,
+    "license": "MIT"
+  },
+  {
+    "id": "memecub",
+    "name": "memecub",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/liyupi/memecub",
+    "description": "Meme search & auto meme placement for AI agents. Remote MCP server, Agent Skill, CLI and REST API that let Claude Code, Cursor and Codex find reaction memes, GIFs and Chinese 表情包 by feeling and insert them into articles. 表情包搜索 · AI 配图 · 斗图 MCP",
+    "description_zh": "Meme search & auto meme placement for AI agents. Remote MCP server, Agent Skill, CLI and REST API that let Claude Code, Cursor and Codex find reaction memes, GIFs and Chinese 表情包 by feeling and insert them into articles. 表情包搜索 · AI 配图 · 斗图 MCP",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent",
+      "search"
     ],
     "status": "active",
     "verified": false,
@@ -5516,6 +5552,22 @@
     "verified": false,
     "stars": 8,
     "license": "MIT"
+  },
+  {
+    "id": "dota2-ai",
+    "name": "dota2.ai",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/qianhaoq/dota2.ai",
+    "description": "An evidence-first Dota 2 post-match coach — web, JSON API, CLI and MCP. 拿证据说话的 Dota 2 赛后教练。",
+    "description_zh": "An evidence-first Dota 2 post-match coach — web, JSON API, CLI and MCP. 拿证据说话的 Dota 2 赛后教练。",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 8
   },
   {
     "id": "telegram",
@@ -15168,6 +15220,44 @@
     "stars": 3
   },
   {
+    "id": "taplio-linkedin-plugin",
+    "name": "taplio-linkedin-plugin",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/TaplioOfficial/taplio-linkedin-plugin",
+    "description": "Taplio for LinkedIn plugin: 26 LinkedIn skills running on the Taplio MCP, for Claude Code, Cursor, GitHub Copilot, Gemini CLI and Grok Build. Write, plan, engage and grow on LinkedIn from your AI assistant.",
+    "description_zh": "Taplio for LinkedIn plugin: 26 LinkedIn skills running on the Taplio MCP, for Claude Code, Cursor, GitHub Copilot, Gemini CLI and Grok Build. Write, plan, engage and grow on LinkedIn from your AI assistant.",
+    "capabilities": [
+      "coding",
+      "git",
+      "mcp",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-phalanx",
+    "name": "dsh-phalanx",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/dake6767/dsh-phalanx",
+    "description": "Self-hosted multi-user DeepSeek Harness platform for teams — isolated rootless Podman workspaces with platform-held credentials for models, plugins, skills, and MCP.",
+    "description_zh": "Self-hosted multi-user DeepSeek Harness platform for teams — isolated rootless Podman workspaces with platform-held credentials for models, plugins, skills, and MCP.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
     "id": "dsh-github-integration",
     "name": "dsh-github-integration",
     "type": "integration",
@@ -22113,6 +22203,75 @@
       "coding",
       "ui",
       "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "qvasp-skill",
+    "name": "qvasp-skill",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Chaosheng-yiwc/qvasp-skill",
+    "description": "qvasp skill bundle + MCP server for DeepSeek Harness: VASP input preparation, post-processing workflows, structure checks and result analysis",
+    "description_zh": "qvasp skill bundle + MCP server for DeepSeek Harness: VASP input preparation, post-processing workflows, structure checks and result analysis",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-persona-twin-bot",
+    "name": "dsh-persona-twin-bot",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/shinji00222/dsh-persona-twin-bot",
+    "description": "DSH 人格孪生 Bot — Persistent persona twins with local Markdown memory, DM timeline & multi-persona group chat for DeepSeek Harness.",
+    "description_zh": "DSH 人格孪生 Bot — Persistent persona twins with local Markdown memory, DM timeline & multi-persona group chat for DeepSeek Harness.",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "multisim-mcp-1",
+    "name": "multisim-mcp",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Arthyra/multisim-mcp",
+    "description": "Local MCP for NI Multisim schematic editing, F5 logic testing, and COM simulation.",
+    "description_zh": "Local MCP for NI Multisim schematic editing, F5 logic testing, and COM simulation.",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-deepseek-chat-history-import",
+    "name": "dsh-deepseek-chat-history-import",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/greenballyjq/dsh-deepseek-chat-history-import",
+    "description": "Import DeepSeek web chat history into DeepSeek Harness as resumable sessions: official ZIP/JSON, split conversations, browser records, JSONL, merge/dedupe, branch selection, summaries and calibrated cost estimates.",
+    "description_zh": "Import DeepSeek web chat history into DeepSeek Harness as resumable sessions: official ZIP/JSON, split conversations, browser records, JSONL, merge/dedupe, branch selection, summaries and calibrated cost estimates.",
+    "capabilities": [
+      "browser",
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -42086,6 +42245,207 @@
     "verified": false,
     "stars": 1,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-bot-5",
+    "name": "dsh-bot",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/zman406986/dsh-bot",
+    "description": "Grok-bot-like multitask dispatcher for dsh (DeepSeek Harness)",
+    "description_zh": "Grok-bot-like multitask dispatcher for dsh (DeepSeek Harness)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-account-balance-pill",
+    "name": "dsh-account-balance-pill",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/azkbzxf/dsh-account-balance-pill",
+    "description": "DSH plugin: shows the DeepSeek account's remaining balance in the composer bottom bar.",
+    "description_zh": "DSH plugin: shows the DeepSeek account's remaining balance in the composer bottom bar.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-miloco-bridge",
+    "name": "dsh-miloco-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/exa160/dsh-miloco-bridge",
+    "description": "DSH bridge for Xiaomi Miloco: isolated Agent preset, push loop, perception-priority filtering",
+    "description_zh": "DSH bridge for Xiaomi Miloco: isolated Agent preset, push loop, perception-priority filtering",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "log-mcp-starter",
+    "name": "log-mcp-starter",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/dragonLongZ/log-mcp-starter",
+    "description": "适用于jumpserver的日志查询mcp并配置对应的dsh插件",
+    "description_zh": "适用于jumpserver的日志查询mcp并配置对应的dsh插件",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "magpie-our-free-model",
+    "name": "magpie-our-free-model",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/NESRINEJOUINI08/magpie-our-free-model",
+    "description": "Integrate Our Free Model into Magpie with automatic service management, unified anonymous/Kilo, EAC and account channels, plus a browser console.",
+    "description_zh": "Integrate Our Free Model into Magpie with automatic service management, unified anonymous/Kilo, EAC and account channels, plus a browser console.",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-mcp-manager-2",
+    "name": "dsh-skill-mcp-manager",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Awoodwhale/dsh-skill-mcp-manager",
+    "description": "Skills and MCP server management for DeepSeek Harness (DSH) at global, project, and session scope.",
+    "description_zh": "Skills and MCP server management for DeepSeek Harness (DSH) at global, project, and session scope.",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-wechat-one",
+    "name": "dsh-wechat-one",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/Andrew-liu/dsh-wechat-one",
+    "description": "DeepSeek Harness 插件：本地微信聊天的主题检索（RAG）、精确检索、好友证据化人格报告与群聊日报。数据来自 wechat-decrypt 本地镜像，插件不含解密代码。",
+    "description_zh": "DeepSeek Harness 插件：本地微信聊天的主题检索（RAG）、精确检索、好友证据化人格报告与群聊日报。数据来自 wechat-decrypt 本地镜像，插件不含解密代码。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-chrome-3",
+    "name": "dsh-chrome",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/qlings/dsh-chrome",
+    "description": "DSH Chrome 插件 + MV3 扩展：让 DeepSeek Harness 接管本机 Chrome，读写页面、提交表单、抓接口、多标签对照，61 个动作",
+    "description_zh": "DSH Chrome 插件 + MV3 扩展：让 DeepSeek Harness 接管本机 Chrome，读写页面、提交表单、抓接口、多标签对照，61 个动作",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "agy-video-reader",
+    "name": "agy-video-reader",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/eleysia111/agy-video-reader",
+    "description": "Drop a Bilibili / YouTube link for your AI Agent to watch videos, read subtitles, and browse hot comments & danmaku. Built for Antigravity (Plugin + MCP App) & DeepSeek Harness (DSH).",
+    "description_zh": "Drop a Bilibili / YouTube link for your AI Agent to watch videos, read subtitles, and browse hot comments & danmaku. Built for Antigravity (Plugin + MCP App) & DeepSeek Harness (DSH).",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "browser-pilot",
+    "name": "browser-pilot",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/dsAI-Q/browser-pilot",
+    "description": "Agent-friendly controlled browser automation. Zero retention by default: never writes URLs or credentials to disk.",
+    "description_zh": "Agent-friendly controlled browser automation. Zero retention by default: never writes URLs or credentials to disk.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-agy-acp",
+    "name": "dsh-agy-acp",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/MorseWayne/dsh-agy-acp",
+    "description": "Next-generation Google Antigravity (agy acp) bridge plugin for DeepSeek Harness",
+    "description_zh": "Next-generation Google Antigravity (agy acp) bridge plugin for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsbot-antigravity-bridge",
+    "name": "dsbot-antigravity-bridge",
+    "type": "integration",
+    "category": "channel",
+    "repository": "https://github.com/zhanghaoyudeyouxiang-sketch/dsbot-antigravity-bridge",
+    "description": "专为想在 DS Bot 中使用 Google Antigravity、又担心第三方 CLI 封号的用户设计：全原生内置 Sidecar + agentapi，非外部 CLI/OAuth 劫持，零安全风险。",
+    "description_zh": "专为想在 DS Bot 中使用 Google Antigravity、又担心第三方 CLI 封号的用户设计：全原生内置 Sidecar + agentapi，非外部 CLI/OAuth 劫持，零安全风险。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "dsh-wechat-bridge-2",

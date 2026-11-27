@@ -30955,6 +30955,124 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-external-links",
+    "name": "dsh-external-links",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Lion-Li-git/dsh-external-links",
+    "description": "DSH desktop (Deepseek Harness EAC) plugin: open http/https/mailto/tel/file links in the default browser/app, bypassing the broken shell.open-external bridge",
+    "description_zh": "DSH desktop (Deepseek Harness EAC) plugin: open http/https/mailto/tel/file links in the default browser/app, bypassing the broken shell.open-external bridge",
+    "capabilities": [
+      "browser",
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pet-qqmusic",
+    "name": "dsh-pet-qqmusic",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/344272586-sketch/dsh-pet-qqmusic",
+    "description": "鲸歌：让 dsh-pet 跟着 QQ 音乐 / 网易云音乐逐行显示歌词。QQ 音乐走 Windows SMTC，网易云读本地 cloudmusic.elog（无需 BetterNCM、支持 seek），延迟可调、翻译、桌面悬浮模式不切动画。",
+    "description_zh": "鲸歌：让 dsh-pet 跟着 QQ 音乐 / 网易云音乐逐行显示歌词。QQ 音乐走 Windows SMTC，网易云读本地 cloudmusic.elog（无需 BetterNCM、支持 seek），延迟可调、翻译、桌面悬浮模式不切动画。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pet-13",
+    "name": "dsh-pet",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/ggxx001/dsh-pet",
+    "description": "吃白饭的蓝色大肥鱼，赖在 DeepSeek Harness 里不走了。平时爱玩魔方、爱吃各种零食、偶尔打个盹，闲不住就在桌面上溜达两圈，被你拖来甩去也照旧赖着；你忙起来它跟着忙前忙后，也会帮你打理余额钱包，闲下来爱碎碎念，还乐意陪你唠两句。",
+    "description_zh": "吃白饭的蓝色大肥鱼，赖在 DeepSeek Harness 里不走了。平时爱玩魔方、爱吃各种零食、偶尔打个盹，闲不住就在桌面上溜达两圈，被你拖来甩去也照旧赖着；你忙起来它跟着忙前忙后，也会帮你打理余额钱包，闲下来爱碎碎念，还乐意陪你唠两句。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-desktop-view",
+    "name": "dsh-desktop-view",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/soffits/dsh-desktop-view",
+    "description": "Live view of the agent's desktop in the DeepSeek Harness Web UI, relayed from cua-spacesd behind DSH's login, with take control and give back.",
+    "description_zh": "Live view of the agent's desktop in the DeepSeek Harness Web UI, relayed from cua-spacesd behind DSH's login, with take control and give back.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-game-player",
+    "name": "dsh-game-player",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/sjkk16/dsh-game-player",
+    "description": "DeepSeek Harness Windows 插件：受审批控制的键鼠操作、截图与 Live2D 桌面显示。源码采用 MIT；运行包通过 Releases 提供。",
+    "description_zh": "DeepSeek Harness Windows 插件：受审批控制的键鼠操作、截图与 Live2D 桌面显示。源码采用 MIT；运行包通过 Releases 提供。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-chime-2",
+    "name": "dsh-chime",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/todrinkcho/dsh-chime",
+    "description": "Chime and a taskbar overlay badge when a DeepSeek Harness turn finishes or waits for your answer (Windows desktop shell).",
+    "description_zh": "Chime and a taskbar overlay badge when a DeepSeek Harness turn finishes or waits for your answer (Windows desktop shell).",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gui-virtual-desktop-and-window-control",
+    "name": "DSH-GUI-Virtual-Desktop-and-Window-Control",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/SEUMysteryMan/DSH-GUI-Virtual-Desktop-and-Window-Control",
+    "description": "GUI（虚拟桌面与窗口控制）：Windows 截图、键鼠、窗口与虚拟桌面自动化。",
+    "description_zh": "GUI（虚拟桌面与窗口控制）：Windows 截图、键鼠、窗口与虚拟桌面自动化。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-desktop-launcher-1",
     "name": "dsh-desktop-launcher",
     "type": "client",

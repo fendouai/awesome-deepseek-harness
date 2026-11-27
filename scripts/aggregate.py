@@ -284,10 +284,12 @@ def classify(entries):
         d = (e["description"] + " " + n).lower()
         e["_file"] = "plugins.json"  # default
 
+        # Match list/market phrases, not bare "store"/"market": substrings like
+        # "restore", "stored", "App Store" or "market board" falsely caught plugins.
         if any(k in d for k in ("awesome", "registry", "marketplace", "plugin-hub", "plugin-store",
                                 "plugin directory", "curated list", "collection of plugins",
                                 "聚合社区", "插件目录", "directory of plugins", "plugins community",
-                                "store", "market")):
+                                "plugin market", "plugin store", "插件商店", "插件市场")):
             e["_file"] = "awesome-lists.json"
             e["type"] = "awesome-list"
             e["category"] = "registry"

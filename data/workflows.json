@@ -5956,6 +5956,24 @@
     "license": "MIT"
   },
   {
+    "id": "planrun",
+    "name": "planrun",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/wangqiqi/planrun",
+    "description": "DSH-native agent workflow SOP — plan, run, verify, release. Docs: https://znza.top/planrun/",
+    "description_zh": "DSH-native agent workflow SOP — plan, run, verify, release. Docs: https://znza.top/planrun/",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "agent-engineering-workflow",
     "name": "agent-engineering-workflow",
     "type": "workflow",
@@ -11563,6 +11581,94 @@
     "status": "active",
     "verified": false,
     "stars": 1
+  },
+  {
+    "id": "dsh-easygit",
+    "name": "dsh-easygit",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/BugLivesMatter/dsh-easygit",
+    "description": "EasyGit: GitLens-style branch graph, task branches/worktrees, safe checkpoints, push and AI commit explanations as a DeepSeek Harness Web GUI plugin",
+    "description_zh": "EasyGit: GitLens-style branch graph, task branches/worktrees, safe checkpoints, push and AI commit explanations as a DeepSeek Harness Web GUI plugin",
+    "capabilities": [
+      "coding",
+      "git",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-guizhi",
+    "name": "dsh-guizhi",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/fanyingnie2163663/dsh-guizhi",
+    "description": "归置（Stow）：按你的工作流归置 DSH 插件、工具与技能，生成可导出能力包。A DeepSeek Harness plugin for inventorying installed plugins/tools/skills by workflow and building exportable capability packs.",
+    "description_zh": "归置（Stow）：按你的工作流归置 DSH 插件、工具与技能，生成可导出能力包。A DeepSeek Harness plugin for inventorying installed plugins/tools/skills by workflow and building exportable capability packs.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-sidebar-menu-order",
+    "name": "dsh-sidebar-menu-order",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/TMAX-2026/dsh-sidebar-menu-order",
+    "description": "调整DSH侧栏菜单顺序：用拖拽调整 Web GUI 左侧菜单（插件、自动化任务、聊天、上下文洞察等全局面板）的先后顺序，并按当前 profile 持久化",
+    "description_zh": "调整DSH侧栏菜单顺序：用拖拽调整 Web GUI 左侧菜单（插件、自动化任务、聊天、上下文洞察等全局面板）的先后顺序，并按当前 profile 持久化",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ark-quota-dashboard-plugin",
+    "name": "DSH-Ark-Quota-Dashboard-Plugin",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/SEUMysteryMan/DSH-Ark-Quota-Dashboard-Plugin",
+    "description": "DSH方舟额度看板插件：Token 用量、Agent Plan 剩余额度与账户余额。",
+    "description_zh": "DSH方舟额度看板插件：Token 用量、Agent Plan 剩余额度与账户余额。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-puppy-workflow",
+    "name": "dsh-puppy-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/hgognav233-netizen/dsh-puppy-workflow",
+    "description": "A DSH plugin: puppies on a pixel-art island act out every real step your AI agent takes. 给新手看 AI 在电脑上干什么。",
+    "description_zh": "A DSH plugin: puppies on a pixel-art island act out every real step your AI agent takes. 给新手看 AI 在电脑上干什么。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "dsh-better-plan-reviewer",

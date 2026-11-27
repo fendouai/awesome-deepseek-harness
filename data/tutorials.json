@@ -3499,6 +3499,37 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-soda-authoring",
+    "name": "dsh-soda-authoring",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Ambulr/dsh-soda-authoring",
+    "description": "给 DeepSeek Harness 写 skill 与插件的手册：六个 skill 根目录、frontmatter 校验、12 个静默失败的坑",
+    "description_zh": "给 DeepSeek Harness 写 skill 与插件的手册：六个 skill 根目录、frontmatter 校验、12 个静默失败的坑",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-learn-expert",
+    "name": "dsh-learn-expert",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/omnijk/dsh-learn-expert",
+    "description": "Teach you learn sth util you really understand.",
+    "description_zh": "Teach you learn sth util you really understand.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
     "id": "deepseek-harness-brain",
     "name": "DeepSeek Harness Brain",
     "type": "tutorial",

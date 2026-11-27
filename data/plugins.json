@@ -1972,7 +1972,13 @@
     "status": "active",
     "verified": false,
     "stars": 248,
-    "license": "MIT"
+    "license": "MIT",
+    "screenshots": [
+      "https://raw.githubusercontent.com/huaguoxingkong/dsh-prompt-rewriter/main/docs/images/01-hero.gif",
+      "https://raw.githubusercontent.com/huaguoxingkong/dsh-prompt-rewriter/main/docs/images/02-button-states.png",
+      "https://raw.githubusercontent.com/huaguoxingkong/dsh-prompt-rewriter/main/docs/images/04-settings.png",
+      "https://raw.githubusercontent.com/huaguoxingkong/dsh-prompt-rewriter/main/docs/images/05-rule-menu.gif"
+    ]
   },
   {
     "id": "dsh-spicy",

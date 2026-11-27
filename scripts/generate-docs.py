@@ -197,6 +197,7 @@ def resource_page(e, zh):
     growth = e.get("growth", 0)
     feats = [f for f in readme.get("features", []) if f]
     sections = [s for s in readme.get("sections", []) if s.get("t")]
+    shots = [s for s in e.get("screenshots", []) if isinstance(s, str) and s.startswith("https://")]
 
     meta_lines = [f"# {name}", ""]
     if zh:
@@ -224,6 +225,15 @@ def resource_page(e, zh):
 
     # about
     lines += ["## 详细介绍" if zh else "## About", "", intro, ""]
+
+    # screenshots (optional; see schemas/resource.schema.json)
+    if shots:
+        lines.append("## 📷 截图" if zh else "## 📷 Screenshots")
+        lines.append("")
+        for i, src in enumerate(shots[:8], 1):
+            alt = f"{name} 截图 {i}" if zh else f"{name} screenshot {i}"
+            lines.append(f"![{alt}]({src})")
+            lines.append("")
 
     # features
     if feats:
